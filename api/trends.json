@@ -1,519 +1,149 @@
 {
-  "generated_at": "2025-10-12T23:11:09.800636+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2025-10-13T00:14:54.601021+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 27,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "阿富汗与巴基斯坦深夜交火",
-          "url": "https://www.douyin.com/hot/2267129",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            1,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时33分 ~ 23时11分]"
-        },
-        {
-          "title": "巴基斯坦",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D4%26cate%3D5001%26q%3D%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%26lcate%3D5001%26pos%3D3%26flag%3D1%26dgr%3D0%26band_rank%3D4%26stream_entry_id%3D31%26display_time%3D1760250084%26pre_seqid%3D17602500844060371444502",
-          "source": "微博",
-          "ranks": [
-            4,
-            5,
-            7,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 20时47分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦边境发生交火，阿称占领两个边境哨所",
-          "url": "https://news.ifeng.com/c/8nNpXnzff59",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦交火 巴总理发声",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%A4%E7%81%AB+%E5%B7%B4%E6%80%BB%E7%90%86%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 23时11分]"
-        },
-        {
-          "title": "阿富汗：边境冲突致巴基斯坦58名士兵死亡",
-          "url": "https://news.ifeng.com/c/8nOX7C8NRFq",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 23时11分]"
-        },
         {
           "title": "巴基斯坦称200余人在夜间冲突中丧生",
           "url": "https://www.toutiao.com/trending/7560219596517326894/",
           "source": "今日头条",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
-          "url": "https://wallstreetcn.com/livenews/2986299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            17,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 23时11分]"
-        },
-        {
-          "title": "激烈冲突后巴基斯坦和阿富汗发声",
-          "url": "https://www.toutiao.com/trending/7560177598547640346/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 21时28分]"
-        },
-        {
-          "title": "阿富汗为何与巴基斯坦发生交火",
-          "url": "https://www.toutiao.com/trending/7560229158429658665/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 23时11分]"
-        },
-        {
-          "title": "巴基斯坦军方：边境冲突中，23名巴基斯坦士兵在阿富汗边境冲突中丧生，阿富汗一侧超过200人丧生。",
-          "url": "https://flash.jin10.com/detail/20251012185225796800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 23时11分]"
-        },
-        {
-          "title": "深夜交火后 巴基斯坦关闭与阿富汗边境口岸",
-          "url": "https://flash.jin10.com/detail/20251012174912381800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时25分 ~ 21时28分]"
-        },
-        {
-          "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
-          "url": "https://wallstreetcn.com/livenews/2986296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            20,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 23时11分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦边境发生交火",
-          "url": "https://www.toutiao.com/trending/7559900191932629043/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            12,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时23分]"
-        },
-        {
-          "title": "阿富汗塔利班外交部长：如果巴基斯坦不愿对话，我们有其他方式来应对局势。",
-          "url": "https://flash.jin10.com/detail/20251012170306105800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时21分]"
-        },
-        {
-          "title": "阿富汗塔利班外交部长：我们希望与巴基斯坦建立良好关系；目前与巴基斯坦边境局势正常。",
-          "url": "https://flash.jin10.com/detail/20251012170130090800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时21分]"
-        },
-        {
-          "title": "阿富汗塔利班外交部长：卡塔尔、沙特阿拉伯在阿富汗与巴基斯坦周六晚发生交火后介入斡旋。",
-          "url": "https://flash.jin10.com/detail/20251012165704197800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时21分]"
-        },
-        {
-          "title": "阿富汗塔利班外交部长：我们在周六晚针对巴基斯坦的行动中实现了我们的目标。",
-          "url": "https://flash.jin10.com/detail/20251012172543951800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时47分]"
-        },
-        {
-          "title": "阿富汗巴基斯坦冲突：子弹穿梭如激光",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%EF%BC%9A%E5%AD%90%E5%BC%B9%E7%A9%BF%E6%A2%AD%E5%A6%82%E6%BF%80%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 23时11分]"
-        },
-        {
-          "title": "如何看待阿富汗与巴基斯坦在边境爆发激烈冲突？",
-          "url": "https://www.zhihu.com/question/1960539344398955659",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 23时11分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦边境发生交火",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BE%B9%E5%A2%83%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 15时23分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦深夜交火",
-          "url": "https://flash.jin10.com/detail/20251012095633798800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时24分]"
-        },
-        {
-          "title": "激烈冲突后巴基斯坦和阿富汗发声",
-          "url": "https://www.baidu.com/s?wd=%E6%BF%80%E7%83%88%E5%86%B2%E7%AA%81%E5%90%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%92%8C%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 23时11分]"
-        },
-        {
-          "title": "伊朗与巴基斯坦外长通电话 探讨深化地区合作",
-          "url": "https://flash.jin10.com/detail/20251012080711070800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时08分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "巴基斯坦军方：200余人在冲突中丧生",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%9B%E6%96%B9%EF%BC%9A200%E4%BD%99%E4%BA%BA%E5%9C%A8%E5%86%B2%E7%AA%81%E4%B8%AD%E4%B8%A7%E7%94%9F",
           "source": "百度热搜",
           "ranks": [
-            29
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
-          "title": "阿富汗巴基斯坦边境深夜激战",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%BE%B9%E5%A2%83%E6%B7%B1%E5%A4%9C%E6%BF%80%E6%88%98%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D29%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26stream_entry_id%3D31%26realpos%3D29%26cate%3D5001%26pos%3D30%26q%3D%2523%25E9%2598%25BF%25E5%25AF%258C%25E6%25B1%2597%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%25E8%25BE%25B9%25E5%25A2%2583%25E6%25B7%25B1%25E5%25A4%259C%25E6%25BF%2580%25E6%2588%2598%2523%26dgr%3D0%26display_time%3D1760253770%26pre_seqid%3D17602537705790371527394",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦通报“战果”",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%9A%E6%8A%A5%E2%80%9C%E6%88%98%E6%9E%9C%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时10分 ~ 23时11分]"
-        },
-        {
-          "title": "爆发激烈冲突后巴基斯坦和阿富汗发声",
-          "url": "https://www.toutiao.com/trending/7560177598547640346/",
+          "title": "阿富汗为何与巴基斯坦发生交火",
+          "url": "https://www.toutiao.com/trending/7560229158429658665/",
           "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "阿富汗：边境冲突致巴基斯坦58名士兵死亡",
+          "url": "https://news.ifeng.com/c/8nOX7C8NRFq",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "00时14分"
+        },
+        {
+          "title": "如何看待阿富汗与巴基斯坦在边境爆发激烈冲突？",
+          "url": "https://www.zhihu.com/question/1960539344398955659",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "阿富汗与巴基斯坦交火 巴总理发声",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%A4%E7%81%AB+%E5%B7%B4%E6%80%BB%E7%90%86%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "激烈冲突后巴基斯坦和阿富汗发声",
+          "url": "https://www.baidu.com/s?wd=%E6%BF%80%E7%83%88%E5%86%B2%E7%AA%81%E5%90%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%92%8C%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "阿富汗巴基斯坦冲突：子弹穿梭如激光",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%EF%BC%9A%E5%AD%90%E5%BC%B9%E7%A9%BF%E6%A2%AD%E5%A6%82%E6%BF%80%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "阿富汗与巴基斯坦深夜交火",
+          "url": "https://www.douyin.com/hot/2267129",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
+          "url": "https://wallstreetcn.com/livenews/2986299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
+          "url": "https://wallstreetcn.com/livenews/2986296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
-          "url": "https://news.ifeng.com/c/8nMSoze2N8i",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "美股大跌背后原因是什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            5,
-            16,
-            25,
-            23,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 15时23分]"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 23时11分]"
-        },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
           "source": "贴吧",
           "ranks": [
-            11,
-            12,
-            15,
-            16,
-            19,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时28分 ~ 23时11分]"
-        },
-        {
-          "title": "美股全线暴跌对A股冲击会有多大",
-          "url": "https://www.toutiao.com/trending/7560106683574259251/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            5,
-            16,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "美股暴跌下的A股周一展望",
-          "url": "https://www.toutiao.com/trending/7560227762657562122/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
-        },
-        {
-          "title": "美股跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
-          "title": "美股三季报开启，AI依旧是焦点，关税重回视野",
-          "url": "https://wallstreetcn.com/articles/3757024",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌前CEO警告：AI可能学会杀人",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            4,
-            16,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时24分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
