@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-10-13T20:25:57.647931+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-10-13T21:27:47.992827+08:00",
+  "total_titles_processed": 1845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "巴基斯坦向美出口稀土？外交部驳斥",
-          "url": "https://www.toutiao.com/trending/7559954141716774938/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时25分]"
-        },
         {
           "title": "中国出招反制巴基斯坦向美国出口稀土？外交部回应",
           "url": "https://news.ifeng.com/c/8nQ4IcS0Qrd",
@@ -28,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[16时18分 ~ 21时27分]"
+        },
+        {
+          "title": "巴基斯坦向美出口稀土？外交部驳斥",
+          "url": "https://www.toutiao.com/trending/7559954141716774938/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时18分 ~ 21时27分]"
         },
         {
           "title": "中方回应“巴基斯坦向美出口稀土”",
@@ -70,30 +71,6 @@
           "time_info": "[00时14分 ~ 15时15分]"
         },
         {
-          "title": "中方回应巴基斯坦向美国赠送稀土",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D1%26dgr%3D0%26pos%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%25E5%2590%2591%25E7%25BE%258E%25E5%259B%25BD%25E8%25B5%25A0%25E9%2580%2581%25E7%25A8%2580%25E5%259C%259F%2523%26cate%3D5001%26c_type%3D31%26display_time%3D1760346995%26pre_seqid%3D17603469950130373281811",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时25分]"
-        },
-        {
-          "title": "中方回应巴基斯坦向美国赠送稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时25分]"
-        },
-        {
           "title": "巴基斯坦利用中国技术向美国赠送稀土？外交部驳斥",
           "url": "https://www.cls.cn/detail/2167545",
           "source": "财联社热门",
@@ -102,8 +79,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时25分]"
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 21时27分]"
+        },
+        {
+          "title": "中方回应巴基斯坦向美国赠送稀土",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时18分 ~ 21时27分]"
         },
         {
           "title": "阿富汗为何与巴基斯坦发生交火",
@@ -117,6 +107,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 07时13分]"
+        },
+        {
+          "title": "中方回应巴基斯坦向美国赠送稀土",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D1%26dgr%3D0%26pos%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%25E5%2590%2591%25E7%25BE%258E%25E5%259B%25BD%25E8%25B5%25A0%25E9%2580%2581%25E7%25A8%2580%25E5%259C%259F%2523%26cate%3D5001%26c_type%3D31%26display_time%3D1760346995%26pre_seqid%3D17603469950130373281811",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 21时27分]"
         },
         {
           "title": "如何看待阿富汗与巴基斯坦在边境爆发激烈冲突？",
@@ -194,6 +197,21 @@
           "time_info": "[03时09分 ~ 07时13分]"
         },
         {
+          "title": "巴基斯坦与阿富汗为何开打",
+          "url": "https://www.douyin.com/hot/2268260",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19,
+            26,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 21时27分]"
+        },
+        {
           "title": "巴基斯坦与阿富汗为什么突然打起来",
           "url": "https://www.toutiao.com/trending/7560522118148918825/",
           "source": "今日头条",
@@ -206,20 +224,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时38分 ~ 14时22分]"
-        },
-        {
-          "title": "巴基斯坦与阿富汗为何开打",
-          "url": "https://www.douyin.com/hot/2268260",
-          "source": "抖音",
-          "ranks": [
-            16,
-            19,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 20时25分]"
         },
         {
           "title": "巴基斯坦称200余人在夜间冲突丧生",
@@ -353,6 +357,17 @@
           "time_info": "19时13分"
         },
         {
+          "title": "塔利班与巴基斯坦冲突升级",
+          "url": "https://www.toutiao.com/trending/7560606855639092755/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "学者：中国收紧稀土管控无关巴基斯坦",
           "url": "https://www.toutiao.com/trending/7560541765191601690/",
           "source": "今日头条",
@@ -378,7 +393,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "TACO交易？美股纳指期货涨2%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
@@ -455,6 +470,50 @@
           "time_info": "[14时22分 ~ 15时15分]"
         },
         {
+          "title": "美股纳指期货涨2%，博通盘前涨超10%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "博通美股盘前直线拉涨，涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/2986848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2986847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
+          "url": "https://flash.jin10.com/detail/20251013210050779800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美股期货高开逾1%，油价走高",
           "url": "https://wallstreetcn.com/livenews/2986340",
           "source": "华尔街见闻-快讯",
@@ -514,6 +573,17 @@
           "time_info": "[16时19分 ~ 17时17分]"
         },
         {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时27分]"
+        },
+        {
           "title": "美股创高位之际 企业盈利预期乐观情绪降温",
           "url": "https://flash.jin10.com/detail/20251013184842956800",
           "source": "金十数据",
@@ -525,15 +595,26 @@
           "time_info": "19时13分"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-13）",
+          "url": "https://flash.jin10.com/detail/20251013205238934800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "21时27分"
         },
         {
           "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
@@ -765,6 +846,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI携手博通打造自研AI芯片",
+          "url": "https://flash.jin10.com/detail/20251013210437196800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI与博通合作涵盖10GW算力，双方计划在2026年建立定制化数字中心。",
+          "url": "https://flash.jin10.com/detail/20251013210220848800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "据报道，OpenAI和博通计划合作开发专用于数据中心的定制芯片，预计将在2026年推出。",
+          "url": "https://wallstreetcn.com/livenews/2986844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI 宣布与博通达成多年芯片合作。",
+          "url": "https://flash.jin10.com/detail/20251013210034503800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     }
