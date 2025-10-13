@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T11:39:03.794825+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2025-10-13T12:16:09.691160+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
         },
         {
           "title": "巴基斯坦称200余人在夜间冲突中丧生",
@@ -120,6 +120,18 @@
           "time_info": "[07时12分 ~ 08时57分]"
         },
         {
+          "title": "巴基斯坦与阿富汗为什么突然打起来",
+          "url": "https://www.toutiao.com/trending/7560522118148918825/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 12时16分]"
+        },
+        {
           "title": "深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
           "url": "https://wallstreetcn.com/livenews/2986299",
           "source": "华尔街见闻-快讯",
@@ -158,17 +170,6 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "巴基斯坦与阿富汗为什么突然打起来",
-          "url": "https://www.toutiao.com/trending/7560522118148918825/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
-        },
-        {
           "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
           "url": "https://wallstreetcn.com/livenews/2986296",
           "source": "华尔街见闻-快讯",
@@ -205,11 +206,24 @@
             21,
             23,
             25,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 12时16分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 12时16分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -225,18 +239,6 @@
           "time_info": "[08时57分 ~ 11时39分]"
         },
         {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时32分 ~ 11时39分]"
-        },
-        {
           "title": "美股期货高开逾1%，油价走高",
           "url": "https://wallstreetcn.com/livenews/2986340",
           "source": "华尔街见闻-快讯",
@@ -249,6 +251,18 @@
           "time_info": "[06时12分 ~ 07时13分]"
         },
         {
+          "title": "李大霄：美股指夜期已经开始反弹",
+          "url": "https://www.toutiao.com/trending/7560519486990716457/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 12时16分]"
+        },
+        {
           "title": "美股期指集体反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -259,17 +273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时57分 ~ 10时33分]"
-        },
-        {
-          "title": "李大霄：美股指夜期已经开始反弹",
-          "url": "https://www.toutiao.com/trending/7560519486990716457/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
@@ -286,7 +289,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉要求股东们11月6日投票表决马斯克的薪酬和任期。",
@@ -322,6 +325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "本周重磅日程：中国通胀外贸数据、甲骨文AI大会、鲍威尔讲话、台积电寒武纪财报",
+          "url": "https://wallstreetcn.com/articles/3756937",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "特斯拉将于11月6日股东大会表决马斯克薪酬方案",
