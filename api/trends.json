@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T10:33:13.231787+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2025-10-13T11:39:03.794825+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "巴基斯坦军方：200余人在冲突中丧生",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时39分]"
         },
         {
           "title": "巴基斯坦称200余人在夜间冲突中丧生",
@@ -157,6 +158,17 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
+          "title": "巴基斯坦与阿富汗为什么突然打起来",
+          "url": "https://www.toutiao.com/trending/7560522118148918825/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 11时39分]"
+        },
+        {
           "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
           "url": "https://wallstreetcn.com/livenews/2986296",
           "source": "华尔街见闻-快讯",
@@ -183,7 +195,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -192,11 +204,12 @@
           "ranks": [
             21,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 10时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时39分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -204,11 +217,24 @@
           "source": "今日头条",
           "ranks": [
             5,
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时39分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时32分 ~ 11时39分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -235,15 +261,15 @@
           "time_info": "[08时57分 ~ 10时33分]"
         },
         {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
+          "title": "李大霄：美股指夜期已经开始反弹",
+          "url": "https://www.toutiao.com/trending/7560519486990716457/",
+          "source": "今日头条",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时32分 ~ 10时33分]"
+          "time_info": "[11时38分 ~ 11时39分]"
         },
         {
           "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
@@ -293,7 +319,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         },
@@ -332,7 +358,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
         }
