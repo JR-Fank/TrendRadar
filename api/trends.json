@@ -1,442 +1,73 @@
 {
-  "generated_at": "2025-10-13T23:13:45.548165+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2025-10-14T00:16:33.577037+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 31,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国出招反制巴基斯坦向美国出口稀土？外交部回应",
           "url": "https://news.ifeng.com/c/8nQ4IcS0Qrd",
           "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时18分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "巴基斯坦阿富汗战火为何再起",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E7%81%AB%E4%B8%BA%E4%BD%95%E5%86%8D%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "巴基斯坦向美出口稀土？外交部驳斥",
           "url": "https://www.toutiao.com/trending/7559954141716774938/",
           "source": "今日头条",
           "ranks": [
-            1,
-            2,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时18分 ~ 23时13分]"
-        },
-        {
-          "title": "中方回应“巴基斯坦向美出口稀土”",
-          "url": "https://www.douyin.com/hot/2268598",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时25分]"
-        },
-        {
-          "title": "巴基斯坦称200余人在夜间冲突中丧生",
-          "url": "https://www.toutiao.com/trending/7560219596517326894/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "巴基斯坦军方：200余人在冲突中丧生",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%9B%E6%96%B9%EF%BC%9A200%E4%BD%99%E4%BA%BA%E5%9C%A8%E5%86%B2%E7%AA%81%E4%B8%AD%E4%B8%A7%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1,
-            6,
-            8,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 15时15分]"
-        },
-        {
-          "title": "巴基斯坦利用中国技术向美国赠送稀土？外交部驳斥",
-          "url": "https://www.cls.cn/detail/2167545",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 21时27分]"
-        },
-        {
-          "title": "中方回应巴基斯坦向美国赠送稀土",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            1,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时18分 ~ 22时15分]"
-        },
-        {
-          "title": "中方回应巴基斯坦向美国赠送稀土",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D1%26dgr%3D0%26pos%3D0%26filter_type%3Drealtimehot%26realpos%3D1%26flag%3D1%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%25E5%2590%2591%25E7%25BE%258E%25E5%259B%25BD%25E8%25B5%25A0%25E9%2580%2581%25E7%25A8%2580%25E5%259C%259F%2523%26cate%3D5001%26c_type%3D31%26display_time%3D1760346995%26pre_seqid%3D17603469950130373281811",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时17分 ~ 22时15分]"
-        },
-        {
-          "title": "阿富汗为何与巴基斯坦发生交火",
-          "url": "https://www.toutiao.com/trending/7560229158429658665/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "如何看待阿富汗与巴基斯坦在边境爆发激烈冲突？",
-          "url": "https://www.zhihu.com/question/1960539344398955659",
-          "source": "知乎",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 08时57分]"
-        },
-        {
-          "title": "阿富汗：边境冲突致巴基斯坦58名士兵死亡",
-          "url": "https://news.ifeng.com/c/8nOX7C8NRFq",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦交火 巴总理发声",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%A4%E7%81%AB+%E5%B7%B4%E6%80%BB%E7%90%86%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            17,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "巴基斯坦与阿富汗为何开打",
           "url": "https://www.douyin.com/hot/2268260",
           "source": "抖音",
           "ranks": [
-            16,
-            19,
-            26,
-            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "俄罗斯外交部：我们密切关注阿富汗-巴基斯坦边境地区局势再度升级的报道。",
+          "url": "https://flash.jin10.com/detail/20251013231128460800",
+          "source": "金十数据",
+          "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时15分 ~ 23时13分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦深夜交火",
-          "url": "https://www.douyin.com/hot/2267129",
-          "source": "抖音",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时13分]"
-        },
-        {
-          "title": "中方回应巴基斯坦向美国赠送稀土",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 20时25分]"
-        },
-        {
-          "title": "阿富汗巴基斯坦冲突子弹来回穿梭",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%AD%90%E5%BC%B9%E6%9D%A5%E5%9B%9E%E7%A9%BF%E6%A2%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2598%25BF%25E5%25AF%258C%25E6%25B1%2597%25E5%25B7%25B4%25E5%259F%25BA%25E6%2596%25AF%25E5%259D%25A6%25E5%2586%25B2%25E7%25AA%2581%25E5%25AD%2590%25E5%25BC%25B9%25E6%259D%25A5%25E5%259B%259E%25E7%25A9%25BF%25E6%25A2%25AD%2523%26band_rank%3D5%26pos%3D5%26realpos%3D5%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26display_time%3D1760295826%26pre_seqid%3D17602958264490375494785",
-          "source": "微博",
-          "ranks": [
-            5,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时09分 ~ 07时13分]"
-        },
-        {
-          "title": "巴基斯坦与阿富汗为什么突然打起来",
-          "url": "https://www.toutiao.com/trending/7560522118148918825/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 14时22分]"
-        },
-        {
-          "title": "巴基斯坦称200余人在夜间冲突丧生",
-          "url": "https://www.toutiao.com/trending/7560219596517326894/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 08时57分]"
-        },
-        {
-          "title": "巴基斯坦空袭阿富汗 印度机会来了吗",
-          "url": "https://www.toutiao.com/trending/7560582945417743908/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时17分]"
-        },
-        {
-          "title": "巴基斯坦与阿富汗边境交火的背后",
-          "url": "https://www.toutiao.com/trending/7560614587976912438/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时13分]"
-        },
-        {
-          "title": "深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
-          "url": "https://wallstreetcn.com/livenews/2986299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 03时09分]"
-        },
-        {
-          "title": "阿富汗与巴基斯坦大打出手为哪般",
-          "url": "https://www.toutiao.com/trending/7560595496033586742/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时17分]"
-        },
-        {
-          "title": "塔利班与巴基斯坦冲突升级",
-          "url": "https://www.toutiao.com/trending/7560606855639092755/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
-        },
-        {
-          "title": "激烈冲突后巴基斯坦和阿富汗发声",
-          "url": "https://www.baidu.com/s?wd=%E6%BF%80%E7%83%88%E5%86%B2%E7%AA%81%E5%90%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%92%8C%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
-        },
-        {
-          "title": "阿富汗巴基斯坦冲突：子弹穿梭如激光",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%EF%BC%9A%E5%AD%90%E5%BC%B9%E7%A9%BF%E6%A2%AD%E5%A6%82%E6%BF%80%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
-        },
-        {
-          "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
-          "url": "https://wallstreetcn.com/livenews/2986296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
-        },
-        {
-          "title": "中方回应巴基斯坦向美出口稀土传闻：中巴在巴美矿产合作上有沟通",
-          "url": "https://wallstreetcn.com/livenews/2986627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美国总统特朗普：我听说巴基斯坦和阿富汗之间“有战争”，我会尽力解决这个问题。",
-          "url": "https://flash.jin10.com/detail/20251013051757863800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数收盘下跌2.6%。",
-          "url": "https://flash.jin10.com/detail/20251013183022156800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "学者：中国收紧稀土管控无关巴基斯坦",
-          "url": "https://www.toutiao.com/trending/7560541765191601690/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数下跌3%。",
-          "url": "https://wallstreetcn.com/livenews/2986609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "TACO交易？美股纳指期货涨2%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时25分]"
-        },
-        {
-          "title": "美股大暴跌,白宫趁机满仓做空",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            25,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 15时15分]"
-        },
-        {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时32分 ~ 13时13分]"
-        },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
           "url": "https://wallstreetcn.com/articles/3757049",
@@ -445,566 +76,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时13分]"
-        },
-        {
-          "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.toutiao.com/trending/7560480850865835529/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 11时39分]"
-        },
-        {
-          "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时15分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
           "url": "https://www.cls.cn/detail/2168011",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时27分 ~ 23时13分]"
-        },
-        {
-          "title": "美股纳指期货涨2%，博通盘前涨超10%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "博通美股盘前直线拉涨，涨超12%。",
-          "url": "https://wallstreetcn.com/livenews/2986848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
-          "url": "https://flash.jin10.com/detail/20251013210050779800",
-          "source": "金十数据",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "美股期货高开逾1%，油价走高",
-          "url": "https://wallstreetcn.com/livenews/2986340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时13分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2986847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 22时15分]"
+          "time_info": "00时16分"
         },
         {
           "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
           "url": "https://wallstreetcn.com/articles/3757057",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时25分 ~ 23时13分]"
-        },
-        {
-          "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
-          "url": "https://www.cls.cn/detail/2167222",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 19时13分]"
-        },
-        {
-          "title": "李大霄：美股指夜期已经开始反弹",
-          "url": "https://www.toutiao.com/trending/7560519486990716457/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 12时16分]"
-        },
-        {
-          "title": "美股期指集体反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时33分]"
-        },
-        {
-          "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2986638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时17分]"
-        },
-        {
-          "title": "美股核电股大涨，Energy Fuels涨超14%，Oklo涨超11%。",
-          "url": "https://wallstreetcn.com/livenews/2986873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时13分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
           "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时13分]"
-        },
-        {
-          "title": "美股创高位之际 企业盈利预期乐观情绪降温",
-          "url": "https://flash.jin10.com/detail/20251013184842956800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-10-13）",
-          "url": "https://flash.jin10.com/detail/20251013205238934800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2986391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251013214134823800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美股高开，金龙指数涨2.68%",
-          "url": "https://flash.jin10.com/detail/20251013213032934800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "董明珠称格力向特斯拉提供服务",
-          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            24,
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 20时25分]"
-        },
-        {
-          "title": "特斯拉要求股东们11月6日投票表决马斯克的薪酬和任期。",
-          "url": "https://wallstreetcn.com/livenews/2986337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 07时13分]"
-        },
-        {
-          "title": "美股夜盘，英伟达(NVDA.O)涨近3%，特斯拉(TSLA.O)涨2%，苹果(AAPL.O)涨1%，AMD(AMD.O)涨超3%，高通(QCOM.O)涨2.3%。",
-          "url": "https://flash.jin10.com/detail/20251013082243283800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "台积电(TSM.N)涨超6%，几乎收复上周五全部跌幅。",
-          "url": "https://flash.jin10.com/detail/20251013220253443800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "特斯拉陶琳：上海超级工厂已经开始四季度爬产",
-          "url": "https://wallstreetcn.com/livenews/2986726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "乘联分会：特斯拉9月出口19,287辆中国产汽车。",
-          "url": "https://flash.jin10.com/detail/20251013100505945800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20251013160329025800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "本周重磅日程：中国通胀外贸数据、甲骨文AI大会、鲍威尔讲话、台积电寒武纪财报",
-          "url": "https://wallstreetcn.com/articles/3756937",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 14时22分]"
-        },
-        {
-          "title": "特斯拉FSD V14自主泊车",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89FSD%20V14%E8%87%AA%E4%B8%BB%E6%B3%8A%E8%BD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "美股三大股指集体高开，纳指盘初涨1.71%，标普500指数涨1.16%，道指涨0.82%。科技股集体反弹，费城半导体指数涨超4%，台积电涨超5%，英伟达涨超2%，苹果涨超1%；博通涨超8%，消息称OpenAI与博通计划于2026年推出定制数据中心芯片；美国稀土概念股走高，USA Rare Earth涨超17%；热门中概股普涨，纳斯达克中国金龙指数涨2.7%，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2986864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时15分 ~ 23时13分]"
-        },
-        {
-          "title": "Melius Research LLC.分析师Rob Wertheimer基于特斯拉推荐买入的初始评级，称其是“必须持有”的股票。",
-          "url": "https://wallstreetcn.com/livenews/2986887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "特斯拉将于11月6日股东大会表决马斯克薪酬方案",
-          "url": "https://flash.jin10.com/detail/20251013074656451800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "华泰证券港股策略：短期情绪待释放，中期仍有重估空间",
-          "url": "https://wallstreetcn.com/livenews/2986401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.52%，金山软件涨超13%",
-          "url": "https://wallstreetcn.com/livenews/2986646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时17分]"
-        },
-        {
-          "title": "耀才证券金融港股涨幅扩大至30%。消息面上，香港证监会批准蚂蚁收购香港耀才，仍待国家发改委审批。",
-          "url": "https://wallstreetcn.com/livenews/2986551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时15分]"
-        },
-        {
-          "title": "A股、港股午后持续拉升，科创50指数涨幅再次达1%。创业板指跌幅收窄至1.5%，恒生科技指数跌幅收窄至3%以内。",
-          "url": "https://wallstreetcn.com/livenews/2986559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时15分]"
-        },
-        {
-          "title": "A股低开高走，沪指较日低回升近100点，稀土爆发，港股跌幅收窄，半导体拉升，国债涨，商品跌",
-          "url": "https://wallstreetcn.com/articles/3757054",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
-        },
-        {
-          "title": "港股午后拉升，恒生指数跌幅收窄至2.8%。恒生科技指数跌幅收窄至3.7%，此前一度跌4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2986543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 15时15分]"
-        },
-        {
-          "title": "港股午盘：恒指跌3.49%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E6%81%92%E6%8C%87%E8%B7%8C3.49%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "港股芯片股拉升，华虹半导体涨近4%，中芯国际涨3%。",
-          "url": "https://wallstreetcn.com/livenews/2986433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "港股耀才证券金融涨幅扩大至30%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E8%80%80%E6%89%8D%E8%AF%81%E5%88%B8%E9%87%91%E8%9E%8D%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%E8%87%B330%25",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI携手博通打造自研AI芯片",
-          "url": "https://flash.jin10.com/detail/20251013210437196800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "OpenAI与博通合作涵盖10GW算力，双方计划在2026年建立定制化数字中心。",
-          "url": "https://flash.jin10.com/detail/20251013210220848800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "据报道，OpenAI和博通计划合作开发专用于数据中心的定制芯片，预计将在2026年推出。",
-          "url": "https://wallstreetcn.com/livenews/2986844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "OpenAI 宣布与博通达成多年芯片合作。",
-          "url": "https://flash.jin10.com/detail/20251013210034503800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
-          "title": "博通美股盘前直线拉涨，涨超12%。报道称，OpenAI与博通计划于2026年推出定制数据中心芯片。",
-          "url": "https://wallstreetcn.com/livenews/2986848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "00时16分"
         }
       ]
     },
@@ -1013,26 +119,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "请问是 Gpt 好用还是 Gemini 好用？",
-          "url": "https://www.zhihu.com/question/1947668993570735137",
-          "source": "知乎",
+          "title": "谷歌公司将与印度Andhra Pradesh签署1 GW数据中心协议。",
+          "url": "https://wallstreetcn.com/livenews/2986910",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "00时16分"
         },
         {
-          "title": "谷歌(GOOG.O)：到2027年将在南卡罗来纳州新增投资90亿美元。",
-          "url": "https://flash.jin10.com/detail/20251013210530582800",
+          "title": "谷歌将与印度安得拉邦签署1吉瓦数据中心合作协议。",
+          "url": "https://flash.jin10.com/detail/20251013235710945800",
           "source": "金十数据",
           "ranks": [
-            29
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
+          "url": "https://wallstreetcn.com/livenews/2986906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "OpenAI或将成为最大的无人公司",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Melius Research LLC.分析师Rob Wertheimer基于特斯拉推荐买入的初始评级，称其是“必须持有”的股票。",
+          "url": "https://wallstreetcn.com/livenews/2986887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
