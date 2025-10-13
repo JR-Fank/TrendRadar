@@ -1,8 +1,82 @@
 {
-  "generated_at": "2025-10-14T00:16:33.577037+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-14T01:12:04.440819+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "美股三大指数高开 稀土概念股大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251014004632914800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251014004622331800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        }
+      ]
+    },
     {
       "keyword_group": "巴基斯坦",
       "match_count": 5,
@@ -15,19 +89,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "巴基斯坦阿富汗战火为何再起",
           "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E7%81%AB%E4%B8%BA%E4%BD%95%E5%86%8D%E8%B5%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "巴基斯坦向美出口稀土？外交部驳斥",
@@ -37,8 +112,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "巴基斯坦与阿富汗为何开打",
@@ -48,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "俄罗斯外交部：我们密切关注阿富汗-巴基斯坦边境地区局势再度升级的报道。",
@@ -57,56 +132,6 @@
           "source": "金十数据",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2168011",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美股三大指数高开 稀土概念股大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -123,11 +148,12 @@
           "url": "https://wallstreetcn.com/livenews/2986910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时12分]"
         },
         {
           "title": "谷歌将与印度安得拉邦签署1吉瓦数据中心合作协议。",
@@ -147,26 +173,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
-          "url": "https://wallstreetcn.com/livenews/2986906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
           "title": "OpenAI或将成为最大的无人公司",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 01时12分]"
+        },
+        {
+          "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
+          "url": "https://wallstreetcn.com/livenews/2986906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时12分]"
         }
       ]
     },
@@ -179,11 +207,12 @@
           "url": "https://wallstreetcn.com/livenews/2986887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时12分]"
         }
       ]
     }
