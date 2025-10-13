@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T15:15:46.269075+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-10-13T16:19:02.255743+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "巴基斯坦称200余人在夜间冲突中丧生",
@@ -110,6 +110,39 @@
           "time_info": "[03时09分 ~ 07时13分]"
         },
         {
+          "title": "巴基斯坦向美出口稀土？外交部驳斥",
+          "url": "https://www.toutiao.com/trending/7559954141716774938/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "中国出招反制巴基斯坦向美国出口稀土？外交部回应",
+          "url": "https://news.ifeng.com/c/8nQ4IcS0Qrd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "中方回应“巴基斯坦向美出口稀土”",
+          "url": "https://www.douyin.com/hot/2268598",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
           "title": "巴基斯坦与阿富汗为什么突然打起来",
           "url": "https://www.toutiao.com/trending/7560522118148918825/",
           "source": "今日头条",
@@ -150,6 +183,40 @@
           "time_info": "[00时14分 ~ 03时09分]"
         },
         {
+          "title": "巴基斯坦与阿富汗为何开打",
+          "url": "https://www.douyin.com/hot/2268260",
+          "source": "抖音",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时19分]"
+        },
+        {
+          "title": "巴基斯坦空袭阿富汗 印度机会来了吗",
+          "url": "https://www.toutiao.com/trending/7560582945417743908/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时15分 ~ 16时19分]"
+        },
+        {
+          "title": "中方回应巴基斯坦向美国赠送稀土",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
           "title": "激烈冲突后巴基斯坦和阿富汗发声",
           "url": "https://www.baidu.com/s?wd=%E6%BF%80%E7%83%88%E5%86%B2%E7%AA%81%E5%90%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%92%8C%E9%98%BF%E5%AF%8C%E6%B1%97%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -174,6 +241,17 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
+          "title": "阿富汗与巴基斯坦大打出手为哪般",
+          "url": "https://www.toutiao.com/trending/7560595496033586742/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
           "title": "外媒：深夜交火后，巴基斯坦关闭与阿富汗边境口岸",
           "url": "https://wallstreetcn.com/livenews/2986296",
           "source": "华尔街见闻-快讯",
@@ -186,15 +264,15 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "巴基斯坦与阿富汗为何开打",
-          "url": "https://www.douyin.com/hot/2268260",
-          "source": "抖音",
+          "title": "中方回应巴基斯坦向美出口稀土传闻：中巴在巴美矿产合作上有沟通",
+          "url": "https://wallstreetcn.com/livenews/2986627",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时15分"
+          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普：我听说巴基斯坦和阿富汗之间“有战争”，我会尽力解决这个问题。",
@@ -208,17 +286,6 @@
           "time_info": "06时12分"
         },
         {
-          "title": "巴基斯坦空袭阿富汗 印度机会来了吗",
-          "url": "https://www.toutiao.com/trending/7560582945417743908/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
           "title": "学者：中国收紧稀土管控无关巴基斯坦",
           "url": "https://www.toutiao.com/trending/7560541765191601690/",
           "source": "今日头条",
@@ -228,12 +295,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数下跌3%。",
+          "url": "https://wallstreetcn.com/livenews/2986609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -262,6 +340,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时32分 ~ 13时13分]"
+        },
+        {
+          "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -324,6 +413,17 @@
           "time_info": "[08时57分 ~ 10时33分]"
         },
         {
+          "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2986638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美股夜盘，中概股反弹，阿里巴巴涨4.8％，百度涨3.5％，京东涨近3%。",
           "url": "https://wallstreetcn.com/livenews/2986391",
           "source": "华尔街见闻-快讯",
@@ -338,7 +438,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "华泰证券港股策略：短期情绪待释放，中期仍有重估空间",
@@ -350,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.52%，金山软件涨超13%",
+          "url": "https://wallstreetcn.com/livenews/2986646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "耀才证券金融港股涨幅扩大至30%。消息面上，香港证监会批准蚂蚁收购香港耀才，仍待国家发改委审批。",
@@ -374,6 +485,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 15时15分]"
+        },
+        {
+          "title": "A股低开高走，沪指较日低回升近100点，稀土爆发，港股跌幅收窄，半导体拉升，国债涨，商品跌",
+          "url": "https://wallstreetcn.com/articles/3757054",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "港股午后拉升，恒生指数跌幅收窄至2.8%。恒生科技指数跌幅收窄至3.7%，此前一度跌4.5%。",
@@ -416,7 +538,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
@@ -424,7 +546,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "特斯拉要求股东们11月6日投票表决马斯克的薪酬和任期。",
@@ -462,6 +584,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "美股盘前热门中概股普涨，金山云(KC.O)涨超6%，阿里巴巴(BABA.N)涨超5%，蔚来汽车(NIO.N)、台积电(TSM.N)涨近5%，百度(BIDU.O)、哔哩哔哩(BILI.O)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20251013160329025800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "本周重磅日程：中国通胀外贸数据、甲骨文AI大会、鲍威尔讲话、台积电寒武纪财报",
           "url": "https://wallstreetcn.com/articles/3756937",
           "source": "华尔街见闻",
@@ -472,6 +605,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时22分]"
+        },
+        {
+          "title": "特斯拉FSD V14自主泊车",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89FSD%20V14%E8%87%AA%E4%B8%BB%E6%B3%8A%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "董明珠称格力向特斯拉提供服务",
+          "url": "https://www.baidu.com/s?wd=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%A0%BC%E5%8A%9B%E5%90%91%E7%89%B9%E6%96%AF%E6%8B%89%E6%8F%90%E4%BE%9B%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "特斯拉将于11月6日股东大会表决马斯克薪酬方案",
