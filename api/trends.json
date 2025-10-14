@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T17:15:56.895304+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-10-14T18:14:13.728163+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时14分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -194,6 +194,17 @@
           "time_info": "16时16分"
         },
         {
+          "title": "华尔街警告：美股估值高企与不确定性恐引发新一轮波动",
+          "url": "https://flash.jin10.com/detail/20251014175234213800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251014004632914800",
           "source": "金十数据",
@@ -222,7 +233,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -244,7 +255,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -255,7 +266,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -277,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时14分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -290,8 +301,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时12分 ~ 17时15分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 18时14分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -734,7 +745,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -745,7 +756,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
