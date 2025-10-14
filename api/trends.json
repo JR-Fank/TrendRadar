@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T16:16:20.317046+08:00",
-  "total_titles_processed": 1498,
+  "generated_at": "2025-10-14T17:15:56.895304+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 17时15分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -188,7 +189,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -215,6 +216,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/2987376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "美股三大股指期货跌幅扩大，现货金银走低",
           "url": "https://wallstreetcn.com/livenews/2987248",
           "source": "华尔街见闻-快讯",
@@ -224,6 +236,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "纳微半导体美股盘前大涨近25%，此前公司宣布为英伟达800伏直流AI工厂提供新型芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "美股稀土概念股盘前普涨，Critical Metals(CRPL.O)大涨38%，USA Rare Earth(USAR.O)涨超11%，MP Materials(MP.N)涨超7%。",
+          "url": "https://flash.jin10.com/detail/20251014161925623800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -239,11 +273,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时21分 ~ 16时16分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 17时15分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -255,8 +290,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 17时15分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -644,7 +679,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股收盘：港股今日高开低走，恒生指数收跌1.73%，恒生科技指数跌3.62%，自10月高点回落11%，进入技术性回调区间；科技股集体下挫，华虹半导体跌超13%，石药集团跌超7%，紫金矿业跌超6%。招商银行逆势涨近5%。",
@@ -653,7 +688,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -688,9 +723,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "港股四环医药旗下轩竹生物-B暗盘涨超140%，成交量超250万手。",
+          "url": "https://wallstreetcn.com/livenews/2987381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "遇见小面港股上市申请获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/2987380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
