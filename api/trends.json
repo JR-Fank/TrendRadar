@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T20:26:22.918157+08:00",
-  "total_titles_processed": 1909,
+  "generated_at": "2025-10-14T21:26:12.757162+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时21分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时21分 ~ 21时26分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -171,6 +171,29 @@
           "time_info": "[05时11分 ~ 06时13分]"
         },
         {
+          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时26分]"
+        },
+        {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时25分 ~ 21时26分]"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251014040523215800",
           "source": "金十数据",
@@ -205,15 +228,15 @@
           "time_info": "16时16分"
         },
         {
-          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/2987532",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2987563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时26分"
+          "time_info": "21时26分"
         },
         {
           "title": "华尔街警告：美股估值高企与不确定性恐引发新一轮波动",
@@ -247,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "高盛美股盘前跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2987553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "强生第三季度销售额239.9亿美元，预估237.4亿美元。 第三季度调整后每股收益2.80美元，上年同期2.42美元。 强生预计全年销售额935亿美元至939亿美元，此前预计932亿美元至936亿美元。 强生仍然预测调整后每股收益10.80美元至10.90美元。 强生美股盘前涨近1%。",
@@ -310,7 +344,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -362,7 +396,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -376,8 +410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时21分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[10时21分 ~ 21时26分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -419,6 +453,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时55分 ~ 11时31分]"
+        },
+        {
+          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
+          "url": "https://wallstreetcn.com/livenews/2987569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         },
         {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
