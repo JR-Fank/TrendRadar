@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T19:12:27.346315+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2025-10-15T20:26:59.304551+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
@@ -173,7 +173,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -473,7 +473,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -492,7 +492,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为何说巴基斯坦没有侵犯中国稀土技术",
@@ -507,6 +507,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时11分]"
+        },
+        {
+          "title": "阿富汗和巴基斯坦官员称，巴基斯坦对阿富汗坎大哈省发动空袭。",
+          "url": "https://flash.jin10.com/detail/20251015200839914800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "巴基斯坦军方说与阿富汗武装人员等在边境地区交火",
