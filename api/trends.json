@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T16:19:32.367292+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-10-15T17:14:23.059168+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -60,17 +60,6 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "小盘股指ETF收涨超1.4%，和黄金ETF在美股大类资产类ETF中表现突出",
           "url": "https://wallstreetcn.com/livenews/2987720",
           "source": "华尔街见闻-快讯",
@@ -81,6 +70,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时14分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -150,7 +151,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -382,6 +383,79 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
+          "url": "https://wallstreetcn.com/livenews/2987722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时11分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
+          "url": "https://wallstreetcn.com/livenews/2987696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "公司是特斯拉Optimus人形机器人关节轴承独家供应商？中研股份：目前没有人形机器人零部件生产能力",
+          "url": "https://wallstreetcn.com/livenews/2988096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/2987693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2987595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 6,
       "titles": [
@@ -466,11 +540,12 @@
           "url": "https://wallstreetcn.com/livenews/2988059",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时14分]"
         },
         {
           "title": "港股IPO定价新规后仅1家破发，新股涨幅猛散户中签难",
@@ -515,57 +590,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌4.4%，亚马逊和特斯拉至多跌约1.7%",
-          "url": "https://wallstreetcn.com/livenews/2987722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时11分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，科技板块跌1.5%，可选消费板块跌0.3%，金融板块涨1.1%。 纳斯达克100指数初步收跌0.7%，成分股中，英特尔、英伟达、Strategy（MSTR）、博通、Arm控股、亚马逊、特斯拉至多跌超4%，霍尼韦尔、特许通讯、爱彼迎、Atlassian则至少涨超2%。 Salesforce初步收跌3.5%，高盛跌2%，摩根大通跌1.9%，和英伟达领跌道指成分股，霍尼韦尔、美国运通、卡特彼勒、沃尔玛则涨超2%领跑。",
-          "url": "https://wallstreetcn.com/livenews/2987696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.9%。 热门中概股里，蔚来跌5.5%，小马智行、百度、台积电、网易、小鹏、腾讯、京东、理想至少跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/2987693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅收窄至不足1%，标普500指数目前跌0.6%。 费城半导体指数目前跌超1.2%，银行指数涨超0.4%。 特斯拉目前跌2.5%，苹果跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/2987595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     },
