@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T14:26:43.489913+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-10-15T15:15:27.471241+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -229,8 +229,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 15时15分]"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -429,7 +429,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
@@ -468,7 +468,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
