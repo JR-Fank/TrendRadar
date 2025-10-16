@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T15:13:58.232791+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-10-16T16:19:48.511885+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "道指和标普500指数先后转跌，纳指涨幅收窄至0.1%，半导体指数目前涨2%，银行指数涨0.3%，小盘股指目前涨约0.6%。特斯拉涨0.5%，苹果涨0.4%。 标普工业、原材料、能源、可选消费板块至多跌超0.9%，科技板块涨0.1%，房地产板块涨超1.1%。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -173,13 +173,24 @@
           "time_info": "[14时20分 ~ 15时13分]"
         },
         {
+          "title": "美股盘前，科技股走高，台积电涨超2%，公司Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元，阿斯麦涨1.5%，英伟达、博通均涨超1%。Salesforce盘前涨超4%，此前公司预测营收将超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "台积电(TSM.N)：我们非常关注终端客户。",
           "url": "https://flash.jin10.com/detail/20251016144211306800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -190,9 +201,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "半导体进入超级周期！台积电Q3营收、利润均超出市场预期",
+          "url": "https://www.cls.cn/detail/2171326",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "台积电(TSM.N)：预计2025年美元计价营收增幅接近35%左右（较此前预测的以美元计价增长约30%有所上调）。",
@@ -223,7 +245,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -245,7 +267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -256,7 +278,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -267,7 +289,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -278,7 +300,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -300,9 +322,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "金十整理：台积电净利创下新高之际 投行纷纷上调目标价",
+          "url": "https://flash.jin10.com/detail/20251016153549855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "台积电(TSM.N)：明年有望成为表现稳健的一年。",
@@ -311,7 +344,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -333,7 +366,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -355,9 +388,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "德意志银行：将台积电目标价从1300新台币上调至1500新台币。",
+          "url": "https://flash.jin10.com/detail/20251016153038866800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "台积电(TSM.N)：人工智能需求持续强劲，比我们3个月前预期的还要强劲。",
@@ -366,7 +410,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -377,7 +421,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -388,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -399,9 +443,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "金十数据整理：台积电Q3净利创新高 财报与电话会看点一览",
+          "url": "https://flash.jin10.com/detail/20251016152722609800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "台积电(TSM.N)：在德国业务进展顺利；在台湾正筹备多期2纳米晶圆厂建设。",
@@ -410,7 +465,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -432,7 +487,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -443,7 +498,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -465,7 +520,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -476,7 +531,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -633,6 +688,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时19分]"
+        },
+        {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
           "url": "https://wallstreetcn.com/articles/3757182",
           "source": "华尔街见闻",
@@ -642,19 +711,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 02时20分]"
-        },
-        {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时13分]"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -693,7 +749,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴基斯坦与阿富汗已实施停火",
@@ -752,13 +808,35 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时16分 ~ 07时13分]"
+        },
+        {
+          "title": "巴基斯坦与阿富汗达成停火，外交部：有利于地区和平稳定",
+          "url": "https://wallstreetcn.com/livenews/2988800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "港股收盘：恒生指数收跌0.09%，恒生科技指数收跌1.18%。汽车股走低，蔚来跌约9%，小鹏汽车跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2988836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "中证协通报2024年券商研究业务经营情况：大型券商加速推进A股、港股、美股研究一体化布局",
           "url": "https://wallstreetcn.com/livenews/2988624",
