@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-16T18:14:34.035762+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2025-10-16T19:11:31.045904+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
       "match_count": 47,
       "titles": [
+        {
+          "title": "半导体进入超级周期！台积电Q3营收、利润均超出市场预期",
+          "url": "https://www.cls.cn/detail/2171326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 19时11分]"
+        },
         {
           "title": "道指和标普500指数先后转跌，纳指涨幅收窄至0.1%，半导体指数目前涨2%，银行指数涨0.3%，小盘股指目前涨约0.6%。特斯拉涨0.5%，苹果涨0.4%。 标普工业、原材料、能源、可选消费板块至多跌超0.9%，科技板块涨0.1%，房地产板块涨超1.1%。",
           "url": "https://wallstreetcn.com/livenews/2988353",
@@ -85,18 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时20分 ~ 15时13分]"
-        },
-        {
-          "title": "半导体进入超级周期！台积电Q3营收、利润均超出市场预期",
-          "url": "https://www.cls.cn/detail/2171326",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "台积电(TSM.N)：我们能够在亚利桑那州建设独立的巨型晶圆厂。",
@@ -540,7 +541,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -672,6 +673,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
+          "url": "https://wallstreetcn.com/livenews/2988942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "美股收盘 热门中概股多数收涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E6%94%B6%E6%B6%A8",
           "source": "百度热搜",
@@ -753,7 +765,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -782,11 +794,12 @@
             7,
             9,
             8,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 19时11分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
