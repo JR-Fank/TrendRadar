@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T17:15:03.120519+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2025-10-17T18:15:48.026660+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时15分]"
         },
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -463,8 +463,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 17时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时54分 ~ 18时15分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
