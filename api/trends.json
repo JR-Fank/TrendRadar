@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T19:11:32.334769+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2025-10-18T20:22:45.744294+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时51分 ~ 19时11分]"
+          "appearance_count": 17,
+          "time_info": "[08时51分 ~ 20时22分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时11分 ~ 19时11分]"
+          "appearance_count": 18,
+          "time_info": "[07时11分 ~ 20时22分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -160,11 +160,12 @@
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -174,8 +175,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -254,6 +255,21 @@
           "time_info": "[04时14分 ~ 07时11分]"
         },
         {
+          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
+          "url": "https://flash.jin10.com/detail/20251018151039587800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            11,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时22分]"
+        },
+        {
           "title": "特斯拉代理顾问机构股东服务公司（ISS）：建议特斯拉股东投票反对根据CEO绩效奖励向马斯克发行普通股的提议。",
           "url": "https://flash.jin10.com/detail/20251018014918979800",
           "source": "金十数据",
@@ -263,20 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "韩国特斯拉电池管理系统故障频现 涉多款车型",
-          "url": "https://flash.jin10.com/detail/20251018151039587800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时11分]"
         },
         {
           "title": "特斯拉(TSLA.O)：呼吁在所有议案上投出与公司立场一致的投票。",
@@ -455,6 +457,22 @@
           "time_info": "[10时16分 ~ 15时13分]"
         },
         {
+          "title": "阿富汗政府发言人：阿富汗与巴基斯坦将在卡塔尔多哈举行会谈，此前双方曾爆发激烈交火。",
+          "url": "https://flash.jin10.com/detail/20251018143736147800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            12,
+            15,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 20时22分]"
+        },
+        {
           "title": "市场消息：巴基斯坦在阿富汗边境地区“进行了精确空袭”。",
           "url": "https://flash.jin10.com/detail/20251018042137971800",
           "source": "金十数据",
@@ -468,19 +486,19 @@
           "time_info": "[05时12分 ~ 10时16分]"
         },
         {
-          "title": "阿富汗政府发言人：阿富汗与巴基斯坦将在卡塔尔多哈举行会谈，此前双方曾爆发激烈交火。",
-          "url": "https://flash.jin10.com/detail/20251018143736147800",
-          "source": "金十数据",
+          "title": "巴基斯坦空袭阿富汗东部致17死16伤",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A9%BA%E8%A2%AD%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%9C%E9%83%A8%E8%87%B417%E6%AD%BB16%E4%BC%A4",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            6,
-            12,
-            15,
-            18
+            18,
+            30,
+            26,
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[16时16分 ~ 20时22分]"
         },
         {
           "title": "巴基斯坦空袭阿富汗东部造成17死16伤",
@@ -490,25 +508,12 @@
             3,
             9,
             12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时11分]"
-        },
-        {
-          "title": "巴基斯坦空袭阿富汗东部致17死16伤",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A9%BA%E8%A2%AD%E9%98%BF%E5%AF%8C%E6%B1%97%E4%B8%9C%E9%83%A8%E8%87%B417%E6%AD%BB16%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            30,
-            26,
-            29
+            15,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时16分 ~ 19时11分]"
+          "time_info": "[16时16分 ~ 20时22分]"
         },
         {
           "title": "阿富汗高级代表团赴多哈 将与巴基斯坦谈判",
@@ -517,11 +522,12 @@
           "ranks": [
             5,
             8,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "阿富汗高级代表团赴多哈 将与巴基斯坦谈判",
@@ -530,11 +536,12 @@
           "ranks": [
             6,
             10,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "巴基斯坦空袭阿富汗东部造成17死16伤",
