@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:13:03.920923+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-10-18T14:18:11.452149+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[00时16分 ~ 07时11分]"
         },
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 14时18分]"
+        },
+        {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
@@ -34,17 +45,6 @@
           "time_info": "[00时16分 ~ 06时12分]"
         },
         {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 13时13分]"
-        },
-        {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[07时11分 ~ 14时18分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时51分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[08时51分 ~ 14时18分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -385,8 +385,23 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 14时18分]"
+        },
+        {
+          "title": "巴基斯坦军方：夜间空袭阿富汗边境地区 打死至少70名武装人员",
+          "url": "https://flash.jin10.com/detail/20251018100439297800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时13分]"
+          "time_info": "[10时16分 ~ 14时18分]"
         },
         {
           "title": "市场消息：巴基斯坦在阿富汗边境地区“进行了精确空袭”。",
@@ -400,20 +415,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时12分 ~ 10时16分]"
-        },
-        {
-          "title": "巴基斯坦军方：夜间空袭阿富汗边境地区 打死至少70名武装人员",
-          "url": "https://flash.jin10.com/detail/20251018100439297800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时16分 ~ 13时13分]"
         },
         {
           "title": "巴基斯坦自杀式爆炸致8名士兵死亡",
