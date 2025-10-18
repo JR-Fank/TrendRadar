@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T11:23:36.978596+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-10-18T12:16:00.625134+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,17 @@
           "time_info": "[00时16分 ~ 06时12分]"
         },
         {
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时16分]"
+        },
+        {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2173194",
           "source": "财联社热门",
@@ -44,19 +55,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时23分]"
-        },
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -68,8 +68,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时11分 ~ 11时23分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 12时16分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 12时16分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -141,18 +154,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时12分 ~ 08时51分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时23分]"
         },
         {
           "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
@@ -377,16 +378,15 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "巴基斯坦军方：夜间空袭阿富汗边境地区 打死至少70名武装人员",
-          "url": "https://flash.jin10.com/detail/20251018100439297800",
-          "source": "金十数据",
+          "title": "巴基斯坦军方：空袭阿富汗边境地区，打死至少70名恐怖分子",
+          "url": "https://news.ifeng.com/c/8nY0Tg6ENGp",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 12时16分]"
         },
         {
           "title": "市场消息：巴基斯坦在阿富汗边境地区“进行了精确空袭”。",
@@ -402,15 +402,17 @@
           "time_info": "[05时12分 ~ 10时16分]"
         },
         {
-          "title": "巴基斯坦军方：空袭阿富汗边境地区，打死至少70名恐怖分子",
-          "url": "https://news.ifeng.com/c/8nY0Tg6ENGp",
-          "source": "凤凰网",
+          "title": "巴基斯坦军方：夜间空袭阿富汗边境地区 打死至少70名武装人员",
+          "url": "https://flash.jin10.com/detail/20251018100439297800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1,
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 12时16分]"
         },
         {
           "title": "巴基斯坦自杀式爆炸致8名士兵死亡",
@@ -457,8 +459,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 11时23分]"
+          "appearance_count": 7,
+          "time_info": "[06时12分 ~ 12时16分]"
         }
       ]
     }
