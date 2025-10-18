@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:11:51.505819+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2025-10-18T23:11:00.228172+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时51分 ~ 22时11分]"
+          "appearance_count": 22,
+          "time_info": "[08时51分 ~ 23时11分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -54,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时11分 ~ 22时11分]"
+          "appearance_count": 23,
+          "time_info": "[07时11分 ~ 23时11分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -93,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 22时11分]"
+          "appearance_count": 8,
+          "time_info": "[18时12分 ~ 23时11分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -104,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 22时11分]"
+          "appearance_count": 8,
+          "time_info": "[18时12分 ~ 23时11分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
