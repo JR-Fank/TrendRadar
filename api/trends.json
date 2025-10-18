@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:16:00.625134+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2025-10-18T13:13:03.920923+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时16分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时13分]"
+        },
+        {
+          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2173368",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时11分 ~ 13时13分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -55,21 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 12时16分]"
-        },
-        {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时11分 ~ 12时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 13时13分]"
         },
         {
           "title": "美元大逻辑的关键验证：下一次美股大跌",
@@ -81,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 12时16分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 13时13分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -385,8 +385,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 12时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 13时13分]"
         },
         {
           "title": "市场消息：巴基斯坦在阿富汗边境地区“进行了精确空袭”。",
@@ -408,11 +408,12 @@
           "ranks": [
             1,
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[10时16分 ~ 13时13分]"
         },
         {
           "title": "巴基斯坦自杀式爆炸致8名士兵死亡",
@@ -459,8 +460,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 12时16分]"
+          "appearance_count": 9,
+          "time_info": "[06时12分 ~ 13时13分]"
         }
       ]
     }
