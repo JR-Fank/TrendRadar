@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:11:06.533523+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-10-19T20:21:18.332382+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时14分 ~ 19时11分]"
+          "appearance_count": 28,
+          "time_info": "[00时14分 ~ 20时21分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -62,11 +62,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 19时11分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 20时21分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
