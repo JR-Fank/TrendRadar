@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T12:18:00.520691+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2025-10-19T13:14:14.027278+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 12时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -64,17 +64,18 @@
           "ranks": [
             11,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时14分]"
         }
       ]
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "巴基斯坦和阿富汗同意立即停火",
@@ -83,11 +84,12 @@
           "ranks": [
             5,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 13时14分]"
         },
         {
           "title": "巴基斯坦和阿富汗同意立即停火",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时43分]"
+        },
+        {
+          "title": "印度威胁说“朱砂行动只是开始”，巴基斯坦：将果断反击",
+          "url": "https://news.ifeng.com/c/8nZawIRXqKV",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         }
       ]
     },
@@ -115,11 +128,12 @@
           "ranks": [
             1,
             8,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时49分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时49分 ~ 13时14分]"
         }
       ]
     }
