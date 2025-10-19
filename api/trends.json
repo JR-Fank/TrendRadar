@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:20:23.436372+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-10-19T22:12:08.251487+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时20分]"
+          "appearance_count": 7,
+          "time_info": "[18时12分 ~ 22时12分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
@@ -158,6 +158,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国LPR、GDP、社零、美国CPI；二十届四中全会、APEC财长会议；特斯拉、英特尔等财报",
+          "url": "https://flash.jin10.com/detail/20251019212525735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
