@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T16:16:21.429340+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-10-19T17:17:41.203582+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 16时16分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 17时17分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -89,11 +89,12 @@
             12,
             15,
             18,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时01分 ~ 16时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 17时17分]"
         },
         {
           "title": "印度威胁说“朱砂行动只是开始”，巴基斯坦：将果断反击",
@@ -103,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 17时17分]"
         },
         {
           "title": "巴基斯坦和阿富汗同意立即停火",
@@ -125,11 +126,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时17分]"
         },
         {
           "title": "巴基斯坦与阿富汗的停火能持续多久",
