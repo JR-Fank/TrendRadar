@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T11:43:51.554597+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-10-19T12:18:00.520691+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 12时18分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
@@ -63,11 +63,12 @@
           "source": "金十数据",
           "ranks": [
             11,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时18分]"
         }
       ]
     },
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 12时18分]"
         },
         {
           "title": "巴基斯坦和阿富汗同意立即停火",
@@ -113,11 +114,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 12时18分]"
         }
       ]
     }
