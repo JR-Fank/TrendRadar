@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-21T13:15:03.233270+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-10-21T14:21:03.235316+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 14时21分]"
+        },
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
@@ -19,20 +33,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时17分 ~ 12时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
-          "url": "https://www.cls.cn/detail/2175088",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时13分 ~ 13时15分]"
         },
         {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
@@ -167,8 +167,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 13时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时35分 ~ 14时21分]"
         },
         {
           "title": "谷歌云任命Narain为首席产品兼商业官。",
@@ -234,8 +234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时26分 ~ 13时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 14时21分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -256,7 +256,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
         }
