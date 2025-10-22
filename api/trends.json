@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T17:15:31.058747+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2025-10-22T18:16:09.800764+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时58分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[08时58分 ~ 18时16分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -249,8 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时30分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时30分 ~ 18时16分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -408,7 +408,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -500,7 +500,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
@@ -525,6 +525,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时12分]"
+        },
+        {
+          "title": "国台办：台积电逐步沦为“美积电”",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%8F%B0%E7%A7%AF%E7%94%B5%E9%80%90%E6%AD%A5%E6%B2%A6%E4%B8%BA%E2%80%9C%E7%BE%8E%E7%A7%AF%E7%94%B5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
