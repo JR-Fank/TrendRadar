@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T16:20:19.389213+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-10-22T17:15:31.058747+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[08时58分 ~ 17时15分]"
         },
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -84,6 +84,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
+          "url": "https://wallstreetcn.com/livenews/2991788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时15分]"
         },
         {
           "title": "美泰（MAT）美股盘后跌6.22%，特朗普关税相关的不确定性造成2025年美国圣诞节订单延误。",
@@ -161,18 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "奈飞美股盘前跌超6%，公司Q3盈利远逊预期，下调全年指引。",
-          "url": "https://wallstreetcn.com/livenews/2991788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -248,8 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时30分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时30分 ~ 17时15分]"
         },
         {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
@@ -263,17 +264,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251022161302634800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
           "url": "https://wallstreetcn.com/livenews/2991386",
           "source": "华尔街见闻-快讯",
@@ -284,6 +274,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时15分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022161302634800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时15分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -337,7 +339,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
@@ -400,6 +402,17 @@
           "time_info": "[01时12分 ~ 02时18分]"
         },
         {
+          "title": "印度拟议的改革要求Chatgpt等人工智能平台将视频或音频内容标记为合成生成的信息。",
+          "url": "https://flash.jin10.com/detail/20251022162935735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
           "url": "https://flash.jin10.com/detail/20251022012656788800",
           "source": "金十数据",
@@ -432,11 +445,12 @@
           "url": "https://wallstreetcn.com/livenews/2991796",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时15分]"
         },
         {
           "title": "港股市场迎来修复，短期震荡不改长期上行趋势",
