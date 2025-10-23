@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T03:11:41.069230+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-10-24T04:15:32.705758+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757681",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "特斯拉股价转涨，此前一度跌5.7%。",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3757681",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
@@ -93,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -115,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
