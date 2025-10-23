@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T15:14:03.843069+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-10-23T16:17:56.140944+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -17,8 +17,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 16时17分]"
+        },
+        {
+          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
+          "url": "https://wallstreetcn.com/articles/3757692",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 16时17分]"
         },
         {
           "title": "美国国家公路交通安全管理局：特斯拉公司召回63,619辆美国车辆。",
@@ -27,7 +40,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -41,6 +54,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
+          "url": "https://www.cls.cn/detail/2177813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 16时17分]"
         },
         {
           "title": "特斯拉(TSLA.O)Q3毛利率录得18%。",
@@ -65,19 +90,6 @@
           "time_info": "07时12分"
         },
         {
-          "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
-          "url": "https://wallstreetcn.com/articles/3757692",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时14分]"
-        },
-        {
           "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
           "url": "https://flash.jin10.com/detail/20251023040507331800",
           "source": "金十数据",
@@ -100,6 +112,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特斯拉为何取消卡片钥匙",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 16时17分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)：为实现量产，第一代Optimus生产线正陆续安装中。",
           "url": "https://flash.jin10.com/detail/20251023040449898800",
           "source": "金十数据",
@@ -120,29 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "特斯拉Q3财报会实录：宏大“画饼”盖不住财报拉胯 机器人和Robotaxi目标下调令人担忧",
-          "url": "https://www.cls.cn/detail/2177813",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时32分 ~ 15时14分]"
-        },
-        {
-          "title": "特斯拉为何取消卡片钥匙",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%BA%E4%BD%95%E5%8F%96%E6%B6%88%E5%8D%A1%E7%89%87%E9%92%A5%E5%8C%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时14分]"
         },
         {
           "title": "马斯克：预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。",
@@ -344,6 +344,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "特斯拉Q3营收创纪录但利润下滑 股价盘后一度跌近5%",
           "url": "https://www.cls.cn/detail/2177671",
           "source": "财联社热门",
@@ -523,8 +534,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时17分]"
+        },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
           "url": "https://www.cls.cn/detail/2177654",
@@ -536,17 +558,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时12分 ~ 15时14分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时14分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -573,8 +584,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 15时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 16时17分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -682,6 +693,17 @@
           "time_info": "04时17分"
         },
         {
+          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2992438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美股三大指数集体收跌 奈飞跌超10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E5%A5%88%E9%A3%9E%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
@@ -742,8 +764,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时14分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -754,8 +776,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时17分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -928,8 +950,19 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "港股收盘，恒生指数收涨0.72%，恒生科技指数收涨0.48%。泡泡玛特收跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2992448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
         {
           "title": "A股、港股拉升，A股三大指数均翻红",
           "url": "https://wallstreetcn.com/livenews/2992370",
@@ -937,7 +970,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -948,7 +981,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
