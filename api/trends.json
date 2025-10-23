@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:28:04.427907+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2025-10-23T22:13:47.812678+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时15分 ~ 21时28分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 22时13分]"
         },
         {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
@@ -31,8 +31,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时23分 ~ 21时28分]"
+          "appearance_count": 18,
+          "time_info": "[10时23分 ~ 22时13分]"
         },
         {
           "title": "特斯拉为何取消卡片钥匙",
@@ -445,6 +445,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：汽车交付量增加、能源发电与储能业务增长、服务及其他业务拓展，均对收入产生影响；但监管信用收入下降，且一次性FSD收入确认同比减少。",
           "url": "https://flash.jin10.com/detail/20251023041913454800",
           "source": "金十数据",
@@ -544,6 +555,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特斯拉(TSLA.O)跌幅扩大至5%。",
+          "url": "https://flash.jin10.com/detail/20251023213312019800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特斯拉在法兰克福上市的股票开盘下跌近4%。",
           "url": "https://flash.jin10.com/detail/20251023140312841800",
           "source": "金十数据",
@@ -569,7 +591,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -579,8 +601,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时56分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 22时13分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -674,7 +696,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -739,6 +761,18 @@
           "time_info": "[05时11分 ~ 06时12分]"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2992616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时13分]"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 网易跌超4%",
           "url": "https://flash.jin10.com/detail/20251023040118815800",
           "source": "金十数据",
@@ -748,17 +782,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2992616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
         },
         {
           "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
@@ -781,6 +804,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
@@ -844,8 +889,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时56分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[08时56分 ~ 22时13分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -965,7 +1010,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1025,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
