@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:20:51.276455+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2025-10-24T03:11:41.069230+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
+        },
+        {
+          "title": "特斯拉股价转涨，此前一度跌5.7%。",
+          "url": "https://wallstreetcn.com/livenews/2992705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "time_info": "[01时13分 ~ 03时11分]"
         },
         {
           "title": "特斯拉董事会成员JB Straubel：特斯拉董事会关注的是股东价值。",
@@ -31,18 +44,6 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
-          "title": "特斯拉股价转涨，此前一度跌5.7%。",
-          "url": "https://wallstreetcn.com/livenews/2992705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 02时20分]"
-        },
-        {
           "title": "税收抵免到期刺激特斯拉Q3营收大反弹，但盈利超预期猛降31%，关税影响逾4亿 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3757681",
           "source": "华尔街见闻",
@@ -50,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "特斯拉董事JB Straubel：董事会侧重于股东价值。（彭博电视）",
@@ -73,7 +74,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -92,8 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -114,8 +115,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -135,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -146,7 +147,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -163,7 +164,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -174,7 +175,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
