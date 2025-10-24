@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:15:07.254314+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2025-10-24T18:14:36.064810+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时24分 ~ 17时15分]"
+          "appearance_count": 16,
+          "time_info": "[07时24分 ~ 18时14分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -209,7 +209,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -271,6 +271,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时20分]"
+        },
+        {
+          "title": "美国芯片股盘前上涨，博通(AVGO.O)上涨2.1%，美光科技(MU.O)上涨2.6%，超微电脑(SMCI.O)上涨2.6%。Arm(ARM.O)上涨1.1%，台积电(TSM.N)上涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20251024173503364800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特斯拉(TSLA.O)涨幅扩大至2.2%。",
