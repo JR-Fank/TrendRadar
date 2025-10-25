@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T11:33:47.131119+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2025-10-25T12:14:49.347468+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             5,
             4,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 11时33分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时14分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -44,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 11时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时14分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -55,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 11时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 12时14分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -248,7 +249,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -278,11 +279,12 @@
             3,
             10,
             15,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时12分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[06时12分 ~ 12时14分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
