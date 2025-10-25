@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T06:11:12.162333+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-10-26T07:12:38.355987+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -38,11 +38,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -70,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈",
@@ -81,8 +82,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈",
@@ -92,8 +93,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
