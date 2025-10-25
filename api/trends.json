@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:18:26.445664+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2025-10-25T15:13:21.633940+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 15时13分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 14时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 15时13分]"
         },
         {
           "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
@@ -59,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 15时13分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -286,11 +286,12 @@
             17,
             21,
             22,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时12分 ~ 15时13分]"
         },
         {
           "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
