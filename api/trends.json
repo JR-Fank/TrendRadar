@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T21:21:05.338229+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2025-10-26T22:12:18.616742+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 21时21分]"
+          "appearance_count": 10,
+          "time_info": "[16时15分 ~ 22时12分]"
         },
         {
           "title": "巴基斯坦国防部长：我们看到阿富汗渴望和平，但若协议未达成则将意味着公开战争。",
@@ -127,11 +127,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时22分 ~ 21时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时22分 ~ 22时12分]"
         }
       ]
     },
