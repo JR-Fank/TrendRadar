@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T07:12:38.355987+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-10-26T08:59:12.588601+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -20,18 +20,6 @@
           "time_info": "[00时14分 ~ 06时11分]"
         },
         {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965195615022587967",
           "source": "知乎",
@@ -39,11 +27,25 @@
             12,
             10,
             9,
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 08时59分]"
+        },
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 08时59分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -68,11 +70,12 @@
           "url": "https://flash.jin10.com/detail/20251025204109926800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 08时59分]"
         },
         {
           "title": "巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈",
