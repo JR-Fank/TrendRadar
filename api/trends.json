@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T12:16:50.595491+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2025-10-26T13:14:13.225138+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时14分 ~ 12时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -117,7 +117,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
