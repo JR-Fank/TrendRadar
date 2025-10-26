@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T10:42:15.084281+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-10-26T11:38:05.249722+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             9,
             13,
             5,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 10时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -43,11 +44,12 @@
             7,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 10时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 11时38分]"
         },
         {
           "title": "美股为何一直在上涨",
