@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T18:14:12.625681+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-10-26T19:11:15.138124+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -90,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 19时11分]"
         },
         {
           "title": "巴基斯坦与阿富汗在土耳其举行停火议题第二轮会谈",
@@ -130,8 +130,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 19时11分]"
         }
       ]
     }
