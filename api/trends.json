@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:19:33.373374+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-10-28T17:15:17.136591+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 17时15分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -210,11 +211,12 @@
             12,
             15,
             14,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "欧洲汽车制造商协会：特斯拉(TSLA.O)9月欧盟新车注册量下降19%；比亚迪9月欧盟新车注册量增长272%。",
