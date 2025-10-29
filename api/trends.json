@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T11:46:15.357672+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2025-10-29T12:20:17.933091+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时17分 ~ 07时13分]"
         },
         {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时12分 ~ 12时20分]"
+        },
+        {
           "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2183910",
           "source": "财联社热门",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 08时58分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时12分 ~ 11时46分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -203,11 +203,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 11时46分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时20分]"
         },
         {
           "title": "特斯拉(TSLA.O)董事长罗宾·丹霍尔姆：如果监管机构有要求，CyberCab将重新设计并加装方向盘与踏板。",
@@ -376,8 +377,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时45分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[10时45分 ~ 12时20分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
