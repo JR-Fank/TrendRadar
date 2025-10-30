@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T20:24:36.771379+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2025-10-30T21:27:03.930022+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时15分 ~ 20时24分]"
+          "appearance_count": 20,
+          "time_info": "[07时15分 ~ 21时27分]"
         },
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时57分 ~ 20时24分]"
+          "appearance_count": 18,
+          "time_info": "[08时57分 ~ 21时27分]"
         },
         {
           "title": "鲍威尔一句话掀翻市场 美股盘中跳水",
@@ -61,13 +61,24 @@
           "time_info": "[08时57分 ~ 12时16分]"
         },
         {
+          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时16分 ~ 21时27分]"
+        },
+        {
           "title": "福克斯公司美股盘前上涨5%，第一季度利润和收入超出预期。",
           "url": "https://flash.jin10.com/detail/20251030201728930800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
-        },
-        {
-          "title": "美股期指震荡走低，日元跌至8个月最低，现货黄金再度涨破4000美元，比特币跌近2%",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 20时24分]"
         },
         {
           "title": "美股期货、数字货币全线跳水，现货黄金拉升",
@@ -258,9 +258,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2996947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。 该公司三季度同店销售增长0.3%，分析师预期增长0.99%。 三季度营收30亿美元，分析师预期30.2亿美元。 25-35岁年龄段Cohort顾客尤其（让公司）面临挑战。 由于客流量欠佳，公司在2025年第三次下调业绩指引。 通胀加速至0%-10%区间的中部。 公司不打算在2026年采取行动来（帮助顾客）应对通胀问题。",
@@ -501,7 +512,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
@@ -580,6 +591,17 @@
           "time_info": "[13时14分 ~ 14时20分]"
         },
         {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
+        },
+        {
           "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1967183428639266693",
           "source": "知乎",
@@ -604,9 +626,82 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
+          "url": "https://www.zhihu.com/question/1966813234586678079",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 10时32分]"
+        },
+        {
+          "title": "据The Information：特斯拉(TSLA.O)缩减后的自动驾驶出租车计划仍面临诸多障碍。",
+          "url": "https://flash.jin10.com/detail/20251030210753926800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
+          "url": "https://wallstreetcn.com/livenews/2996198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "消息人士：特斯拉(TSLA.O)尚未完成在亚利桑那州和内华达州开始提供机器人出租车服务所需的所有文件手续。",
+          "url": "https://flash.jin10.com/detail/20251030210257969800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 5,
       "titles": [
+        {
+          "title": "巴基斯坦军方消息人士称同意恢复与阿富汗会谈",
+          "url": "https://news.ifeng.com/c/8nsMFWkqFcx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 21时27分]"
+        },
         {
           "title": "中国正选拔巴基斯坦航天员",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%AD%A3%E9%80%89%E6%8B%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98",
@@ -621,17 +716,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时32分 ~ 16时18分]"
-        },
-        {
-          "title": "巴基斯坦军方消息人士称同意恢复与阿富汗会谈",
-          "url": "https://news.ifeng.com/c/8nsMFWkqFcx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 20时24分]"
         },
         {
           "title": "巴基斯坦军方消息人士称同意恢复与阿富汗会谈",
@@ -666,46 +750,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
-          "url": "https://www.zhihu.com/question/1966813234586678079",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 10时32分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.03%，报8387.62点。 热门中概股里，阿里巴巴、台积电、蔚来至多涨1.8%，新东方、理想、小马智行跌超1%，文远知行跌4.6%。 ETF中，中国科技指数ETF（CQQQ）收涨0.71%，中概互联网指数ETF（KWEB）收涨0.24%，追踪富时25中国股指数ETF-iShares（FXI）收涨0.27%。 XtrackersHarvest中证50（ASHS）收涨1.55%，德银嘉实沪深300指数ETF（ASHR）收涨0.98%，中国ETF-iShares MSCI（MCHI）收涨0.57%。 富时中国3倍做多ETF（YINN）收涨0.71%。",
-          "url": "https://wallstreetcn.com/livenews/2996198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
         }
       ]
     },
