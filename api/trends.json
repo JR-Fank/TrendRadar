@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T15:13:22.323998+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-10-31T16:17:04.277187+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758264",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时11分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[07时11分 ~ 16时17分]"
         },
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -317,11 +318,12 @@
           "url": "https://wallstreetcn.com/articles/3758353",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 16时17分]"
         },
         {
           "title": "特斯拉因为越野灯条配件潜在的安装问题而召回6,197辆Cybertruck，这已经是短短不到两年时间里第十次召回该车型。",
