@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T13:12:35.196519+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-01T14:17:10.130300+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时12分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 14时17分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 13时12分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 14时17分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -51,11 +51,12 @@
             7,
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时12分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 14时17分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -188,6 +189,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 14时17分]"
+        },
+        {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
           "url": "https://wallstreetcn.com/articles/3758353",
           "source": "华尔街见闻",
@@ -198,19 +212,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 04时16分]"
-        },
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 13时12分]"
         },
         {
           "title": "法国汽车制造商协会（PFA）：法国10月份新车注册量同比增长2.94%，达到139,513辆。10月份法国特斯拉注册量增长2.35%。",
