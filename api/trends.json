@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:14:16.031710+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2025-11-01T19:10:18.202303+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 18时14分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 19时10分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -39,11 +39,12 @@
             6,
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时13分 ~ 18时14分]"
+          "appearance_count": 18,
+          "time_info": "[07时13分 ~ 19时10分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -198,11 +199,12 @@
             11,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时58分 ~ 18时14分]"
+          "appearance_count": 16,
+          "time_info": "[08时58分 ~ 19时10分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -282,11 +284,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时11分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[15时11分 ~ 19时10分]"
         }
       ]
     }
