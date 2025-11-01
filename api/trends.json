@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T14:17:10.130300+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-11-01T15:12:13.015275+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 14时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时13分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 14时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时13分 ~ 15时12分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -55,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 15时12分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -198,8 +199,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时58分 ~ 14时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时58分 ~ 15时12分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
@@ -265,6 +266,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 08时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
         }
       ]
     }
