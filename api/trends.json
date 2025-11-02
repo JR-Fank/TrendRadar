@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T02:16:48.366923+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-11-03T03:10:38.809726+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -60,11 +60,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时10分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时10分 ~ 03时10分]"
         }
       ]
     }
