@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T21:18:24.280725+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-11-02T22:12:50.521541+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 21时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时12分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -94,7 +94,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -108,6 +108,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时12分 ~ 09时01分]"
+        },
+        {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时12分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
@@ -125,6 +138,17 @@
           "time_info": "[14时19分 ~ 18时12分]"
         },
         {
+          "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
+          "url": "https://flash.jin10.com/detail/20251102213258278800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
           "url": "https://flash.jin10.com/detail/20251102131553800800",
           "source": "金十数据",
@@ -137,18 +161,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 17时12分]"
-        },
-        {
-          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
-          "url": "https://wallstreetcn.com/articles/3758424",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时18分]"
         }
       ]
     },
