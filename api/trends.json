@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T19:11:21.822151+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-11-02T20:20:59.373000+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -35,19 +35,6 @@
           "time_info": "[02时15分 ~ 17时12分]"
         },
         {
-          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
-          "url": "https://www.zhihu.com/question/1967900167182181978",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时10分 ~ 10时47分]"
-        },
-        {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
@@ -59,8 +46,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 19时11分]"
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 20时20分]"
+        },
+        {
+          "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
+          "url": "https://www.zhihu.com/question/1967900167182181978",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时10分 ~ 10时47分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -94,7 +94,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
@@ -137,6 +137,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时19分 ~ 17时12分]"
+        },
+        {
+          "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
+          "url": "https://wallstreetcn.com/articles/3758424",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
