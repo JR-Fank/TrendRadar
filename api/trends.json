@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:19:16.230056+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2025-11-03T17:16:40.777820+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "本周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -37,11 +37,12 @@
             12,
             9,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 17时16分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
@@ -64,7 +65,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -73,11 +74,12 @@
           "url": "https://wallstreetcn.com/articles/3758523",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "台积电先进制程传明年涨价 涨幅估计3%-10%",
@@ -89,12 +91,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "据韩国经济日报：三星SDI赢得3万亿韩元订单，将向特斯拉(TSLA.O)供应ESS电池三年。",
+          "url": "https://flash.jin10.com/detail/20251103163054069800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "文远知行港股公开发售获逾50倍认购 中东纯无人商业化牌照巩固全球化先发优势",
@@ -109,24 +122,35 @@
           "time_info": "[14时21分 ~ 15时14分]"
         },
         {
-          "title": "A股三大指数午后全线翻红，贵金属、电池等板块跌幅居前，港股老铺黄金跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758525",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "中金：谁是港股资金的主力和增量？",
           "url": "https://wallstreetcn.com/articles/3758517",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时16分]"
+        },
+        {
+          "title": "A股V型反弹！三大指数全线收红，钍基熔盐堆概念爆发，贵金属、电池跌幅居前，港股恒指涨近1%，老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "A股三大指数午后全线翻红，贵金属、电池等板块跌幅居前，港股老铺黄金跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758525",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
