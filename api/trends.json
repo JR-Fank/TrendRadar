@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:01:00.097441+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-11-03T10:46:45.314786+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "下周重磅焦点：美高院开审关税，中美经济数据，特斯拉股东大会，AMD财报",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
+          "appearance_count": 3,
+          "time_info": "[09时00分 ~ 10时46分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——中国CPI、贸易帐，英国央行利率决议；特斯拉股东大会；非农数据或会“缺席”；北美地区开始实行冬令时",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "台积电先进制程传明年涨价 涨幅估计3%-10%",
+          "url": "https://wallstreetcn.com/livenews/2998262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
@@ -68,9 +79,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股老铺黄金盘中跌超8%，此前中国取消黄金税收优惠政策。",
+          "url": "https://wallstreetcn.com/livenews/2998268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
