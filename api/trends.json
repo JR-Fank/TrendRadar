@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T00:15:53.191840+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-04T01:12:38.148576+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "中金：谁是港股资金的主力和增量？",
@@ -76,14 +76,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -93,8 +93,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时12分]"
+        },
+        {
+          "title": "葡萄牙汽车协会（ACAP）数据显示，特斯拉10月份在葡萄牙的新车注册量同比下降58.7%，1月至10月累计下降21.4%。",
+          "url": "https://flash.jin10.com/detail/20251104003713772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时12分"
         }
       ]
     }
