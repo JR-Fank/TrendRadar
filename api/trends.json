@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T11:39:07.800584+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-11-04T12:16:06.243622+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时16分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时16分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -51,19 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时39分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，现货黄金大致持平，报4001.69美元/盎司，亚太盘初跌至3962.59美元，随后反弹，美股早盘刷新日高至4030.48美元。 COMEX黄金期货涨0.44%，报4013.30美元/盎司。 现货白银跌1.22%，报48.0979美元/盎司。 COMEX白银期货跌0.47%，报47.935美元/盎司。",
@@ -230,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 11时39分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 12时16分]"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -350,8 +350,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 11时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 12时16分]"
         },
         {
           "title": "超2100亿港元，港股前10月IPO募资额领跑全球",
@@ -383,7 +383,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -444,8 +444,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时15分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[06时15分 ~ 12时16分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -453,11 +453,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时28分 ~ 11时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 12时16分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
