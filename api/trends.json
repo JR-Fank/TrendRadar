@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T15:13:42.610077+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-11-06T16:19:36.401290+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 16时19分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -32,6 +32,19 @@
           "time_info": "[07时12分 ~ 14时21分]"
         },
         {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时30分 ~ 16时19分]"
+        },
+        {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
           "url": "https://wallstreetcn.com/articles/3758628",
           "source": "华尔街见闻",
@@ -42,19 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时30分 ~ 15时13分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -78,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时57分 ~ 16时19分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -587,7 +587,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
@@ -608,8 +608,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时30分 ~ 15时13分]"
+          "appearance_count": 10,
+          "time_info": "[10时30分 ~ 16时19分]"
         },
         {
           "title": "特斯拉撞死闯国道野猪 车主被判全责",
