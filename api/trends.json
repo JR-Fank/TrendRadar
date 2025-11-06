@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T19:12:16.095123+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2025-11-06T20:24:29.489143+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -291,7 +291,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -483,7 +483,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -632,6 +632,48 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
+          "url": "https://wallstreetcn.com/articles/3758729",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时30分 ~ 17时18分]"
+        },
+        {
+          "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
+          "url": "https://www.cls.cn/detail/2193135",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "特斯拉撞死闯国道野猪 车主被判全责",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E6%AD%BB%E9%97%AF%E5%9B%BD%E9%81%93%E9%87%8E%E7%8C%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 3,
       "titles": [
@@ -666,7 +708,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
@@ -699,37 +741,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国版特斯拉！2026年，小鹏汽车要和高德合作推出Robotaxi，量产人型机器人",
-          "url": "https://wallstreetcn.com/articles/3758729",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时30分 ~ 17时18分]"
-        },
-        {
-          "title": "特斯拉撞死闯国道野猪 车主被判全责",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%92%9E%E6%AD%BB%E9%97%AF%E5%9B%BD%E9%81%93%E9%87%8E%E7%8C%AA+%E8%BD%A6%E4%B8%BB%E8%A2%AB%E5%88%A4%E5%85%A8%E8%B4%A3",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
         }
       ]
     }
