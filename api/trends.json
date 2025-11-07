@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:13:32.868142+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-11-07T14:20:45.117567+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -42,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -68,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时20分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -94,6 +95,18 @@
           "time_info": "10时28分"
         },
         {
+          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
+          "url": "https://www.zhihu.com/question/1970038336501547391",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 14时20分]"
+        },
+        {
           "title": "特斯拉股东批准马斯克万亿美元薪酬包",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E6%89%B9%E5%87%86%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E5%8C%85",
           "source": "百度热搜",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
-        },
-        {
-          "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
-          "url": "https://www.zhihu.com/question/1970038336501547391",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时13分]"
         },
         {
           "title": "道指下跌超过460点，跌幅扩大至1%，纳指跌1.65%，小盘股指跌1.37%，特斯拉跌4.67%。",
@@ -343,6 +344,17 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时20分]"
+        },
+        {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -355,27 +367,17 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时13分]"
-        },
-        {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
           "url": "https://www.cls.cn/detail/2193592",
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[06时13分 ~ 14时20分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -399,8 +401,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -573,8 +575,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时12分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时20分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -589,8 +591,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 14时20分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 14时20分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 14时20分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -604,31 +632,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时56分 ~ 12时16分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 13时13分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 13时13分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -694,7 +697,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -706,8 +709,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时13分 ~ 13时13分]"
+          "appearance_count": 10,
+          "time_info": "[06时13分 ~ 14时20分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -747,6 +750,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         }
       ]
     },
