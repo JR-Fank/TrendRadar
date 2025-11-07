@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:23:57.910193+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2025-11-07T21:24:20.521439+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 20时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 21时24分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -119,8 +119,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时24分]"
         },
         {
           "title": "马斯克 1 万亿美元薪酬计划获批，要拿到 1 万亿需特斯拉公司市值超过 8.5 万亿美元，实现有多难？",
@@ -351,7 +351,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -402,8 +402,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 20时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时56分 ~ 21时24分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -666,8 +666,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时27分 ~ 20时23分]"
+          "appearance_count": 15,
+          "time_info": "[10时27分 ~ 21时24分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -765,7 +765,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
@@ -786,8 +786,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时13分 ~ 20时23分]"
+          "appearance_count": 19,
+          "time_info": "[06时13分 ~ 21时24分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
