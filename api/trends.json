@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:13:44.883649+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-11-07T16:18:15.203481+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
+        },
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -35,16 +47,18 @@
           "time_info": "[00时18分 ~ 10时28分]"
         },
         {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
+          "title": "特斯拉人形机器人亮相进博会",
+          "url": "https://www.toutiao.com/trending/7569466884635233843/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            5
+            2,
+            1,
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 16时18分]"
         },
         {
           "title": "除了马斯克的万亿美元薪酬包 周四特斯拉股东会还有什么要点？",
@@ -59,19 +73,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时12分]"
-        },
-        {
-          "title": "特斯拉人形机器人亮相进博会",
-          "url": "https://www.toutiao.com/trending/7569466884635233843/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时13分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -352,8 +353,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -402,8 +403,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[08时56分 ~ 16时18分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -604,8 +605,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 16时18分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -615,11 +616,12 @@
             12,
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 16时18分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -710,8 +712,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时13分 ~ 15时13分]"
+          "appearance_count": 13,
+          "time_info": "[06时13分 ~ 16时18分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
