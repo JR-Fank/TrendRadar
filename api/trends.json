@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T03:10:59.327949+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-11-08T04:15:27.076598+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时15分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -113,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -124,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -135,8 +135,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         }
       ]
     },
@@ -153,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 03时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 04时15分]"
         }
       ]
     }
