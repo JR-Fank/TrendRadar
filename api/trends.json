@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T16:16:15.274548+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-11-08T17:12:30.742522+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时11分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[07时11分 ~ 17时12分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -238,11 +238,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时13分 ~ 16时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -385,11 +386,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 17时12分]"
+        },
+        {
+          "title": "塔利班发言人：巴基斯坦尚未准备好承担维护本国国内安全的责任，因此谈判未取得任何成果。",
+          "url": "https://flash.jin10.com/detail/20251108152954005800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时16分]"
+          "time_info": "[16时16分 ~ 17时12分]"
+        },
+        {
+          "title": "塔利班发言人：谈判未能成功的原因是，巴方要求将巴基斯坦国内安全的责任交给阿富汗。",
+          "url": "https://flash.jin10.com/detail/20251108152949069800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 17时12分]"
         },
         {
           "title": "“内病外治”能否让巴基斯坦彻底翻身？",
@@ -401,34 +427,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "塔利班发言人：巴基斯坦尚未准备好承担维护本国国内安全的责任，因此谈判未取得任何成果。",
-          "url": "https://flash.jin10.com/detail/20251108152954005800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "塔利班发言人：谈判未能成功的原因是，巴方要求将巴基斯坦国内安全的责任交给阿富汗。",
-          "url": "https://flash.jin10.com/detail/20251108152949069800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -453,6 +457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         }
       ]
     },
