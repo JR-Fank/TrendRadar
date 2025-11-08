@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T20:21:35.044857+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-11-08T21:19:03.850020+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时11分 ~ 20时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时11分 ~ 21时19分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -373,11 +373,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时19分]"
         },
         {
           "title": "塔利班发言人：巴基斯坦尚未准备好承担维护本国国内安全的责任，因此谈判未取得任何成果。",
@@ -470,11 +471,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 21时19分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -513,7 +515,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
