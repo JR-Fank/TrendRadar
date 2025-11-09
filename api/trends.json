@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T14:17:44.766596+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2025-11-09T15:12:03.097125+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 15时12分]"
         },
         {
           "title": "深度解读特斯拉股东大会",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时16分 ~ 15时12分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -73,8 +73,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 14时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 15时12分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -101,11 +101,12 @@
             12,
             13,
             16,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 15时12分]"
         }
       ]
     },
