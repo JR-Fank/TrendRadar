@@ -1,27 +1,12 @@
 {
-  "generated_at": "2025-11-09T20:21:20.420357+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-11-09T21:19:20.894184+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
       "match_count": 7,
       "titles": [
-        {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时16分 ~ 20时21分]"
-        },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
           "url": "https://wallstreetcn.com/articles/3758976",
@@ -32,8 +17,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时44分 ~ 20时21分]"
+          "appearance_count": 15,
+          "time_info": "[10时44分 ~ 21时19分]"
+        },
+        {
+          "title": "深度解读特斯拉股东大会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            4,
+            5,
+            3,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 21时19分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -44,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时44分 ~ 20时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时44分 ~ 21时19分]"
         },
         {
           "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
@@ -53,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时19分]"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -122,11 +124,12 @@
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时19分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
