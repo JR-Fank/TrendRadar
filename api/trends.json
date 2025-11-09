@@ -1,226 +1,61 @@
 {
-  "generated_at": "2025-11-09T23:11:23.694025+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-11-10T00:14:02.455884+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 3,
       "titles": [
         {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
+          "url": "https://www.cls.cn/detail/2195166",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4,
-            5,
-            3,
-            2,
-            10,
-            29
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时16分 ~ 23时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
           "url": "https://wallstreetcn.com/articles/3758976",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
-            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时44分 ~ 23时11分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
           "url": "https://www.cls.cn/detail/2195053",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时44分 ~ 23时11分]"
-        },
-        {
-          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
-          "url": "https://www.cls.cn/detail/2195166",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 23时11分]"
-        },
-        {
-          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
-          "url": "https://flash.jin10.com/detail/20251109154126817800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时12分]"
-        },
-        {
-          "title": "黄仁勋：没有台积电就没有英伟达",
-          "url": "https://www.toutiao.com/trending/7570634967652991039/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时21分]"
-        },
-        {
-          "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
-          "url": "https://wallstreetcn.com/articles/3758964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3,
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时14分 ~ 16时14分]"
-        },
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
           "url": "https://wallstreetcn.com/articles/3758989",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 23时11分]"
-        },
-        {
-          "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
-          "url": "https://wallstreetcn.com/articles/3758046",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿富汗与巴基斯坦会谈未能取得成果，会谈进入无限期搁置阶段",
-          "url": "https://wallstreetcn.com/livenews/3001556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安表示，土耳其高级别代表团将于一周内访问巴基斯坦，就阿富汗停火谈判进行磋商，旨在推动达成最终协议。",
-          "url": "https://flash.jin10.com/detail/20251109170125759800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多位知名基金经理三季度提高港股仓位",
-          "url": "https://wallstreetcn.com/livenews/3001621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            16,
-            20,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 17时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
-          "url": "https://wallstreetcn.com/articles/3758970",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 10时45分]"
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
