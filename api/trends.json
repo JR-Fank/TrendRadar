@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T02:17:22.433185+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-11-10T03:09:41.126296+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -37,19 +37,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 03时09分]"
         },
         {
           "title": "深度解读特斯拉股东大会",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时09分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 02时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 03时09分]"
         }
       ]
     }
