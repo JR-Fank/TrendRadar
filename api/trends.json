@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-09T07:11:33.164624+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-11-09T09:00:01.757859+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
+          "url": "https://wallstreetcn.com/articles/3758964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 09时00分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -13,11 +30,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 09时00分]"
         }
       ]
     },
@@ -32,11 +50,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 07时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 09时00分]"
         }
       ]
     },
