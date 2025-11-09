@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T10:45:09.762936+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-11-09T11:42:24.302801+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,23 @@
           "url": "https://wallstreetcn.com/articles/3758976",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 11时42分]"
+        },
+        {
+          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
+          "url": "https://www.cls.cn/detail/2195053",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时44分 ~ 11时42分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
-          "url": "https://www.cls.cn/detail/2195053",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
         }
       ]
     },
@@ -57,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 10时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 11时42分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -82,11 +83,12 @@
           "url": "https://wallstreetcn.com/livenews/3001621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 11时42分]"
         }
       ]
     },
