@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-09T18:12:21.486293+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-11-09T19:11:28.684187+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
-          "url": "https://wallstreetcn.com/articles/3758976",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 18时12分]"
-        },
         {
           "title": "深度解读特斯拉股东大会",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
@@ -32,19 +19,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[12时16分 ~ 19时11分]"
+        },
+        {
+          "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
+          "url": "https://wallstreetcn.com/articles/3758976",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时44分 ~ 19时11分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
           "url": "https://www.cls.cn/detail/2195053",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时44分 ~ 18时12分]"
+          "appearance_count": 10,
+          "time_info": "[10时44分 ~ 19时11分]"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
@@ -77,9 +78,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时11分]"
+        },
+        {
+          "title": "黄仁勋：没有台积电就没有英伟达",
+          "url": "https://www.toutiao.com/trending/7570634967652991039/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "19时11分"
         }
       ]
     },
@@ -104,6 +116,17 @@
           "time_info": "[00时14分 ~ 16时14分]"
         },
         {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时11分]"
+        },
+        {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
           "url": "https://wallstreetcn.com/articles/3758046",
           "source": "华尔街见闻",
@@ -113,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
-        },
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -149,11 +161,12 @@
           "url": "https://flash.jin10.com/detail/20251109170125759800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时11分]"
         }
       ]
     },
