@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T05:12:25.655859+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2025-11-10T06:11:33.336268+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
@@ -48,11 +48,12 @@
           "ranks": [
             26,
             22,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 05时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 06时11分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 06时11分]"
         }
       ]
     }
