@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T13:14:48.462228+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-10T14:21:04.443431+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
@@ -57,6 +57,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时12分 ~ 07时11分]"
+        },
+        {
+          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
+          "url": "https://wallstreetcn.com/livenews/3001949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
+          "url": "https://flash.jin10.com/detail/20251110133524037800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "台积电：10月营收3674.7亿元新台币，同比增长17%。",
+          "url": "https://flash.jin10.com/detail/20251110133056271800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -76,8 +109,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时13分 ~ 13时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 14时21分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -85,11 +118,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时49分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 14时21分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -97,11 +131,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时21分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
