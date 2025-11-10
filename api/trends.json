@@ -1,392 +1,55 @@
 {
-  "generated_at": "2025-11-10T23:15:36.379363+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2025-11-11T00:16:31.286069+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "周末要闻汇总：福建舰部署三亚军港；黄仁勋亲赴台积电“讨要更多芯片”",
-          "url": "https://www.cls.cn/detail/2195166",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 10时49分]"
-        },
-        {
-          "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
-          "url": "https://wallstreetcn.com/articles/3758976",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "黄仁勋亲赴台积电“讨要更多芯片” 回应存储短缺、涨价等问题",
-          "url": "https://www.cls.cn/detail/2195053",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时12分]"
-        },
-        {
-          "title": "深度解读特斯拉股东大会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22,
-            18,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时11分]"
-        },
-        {
-          "title": "特斯拉为马斯克的薪酬方案注册股票。",
-          "url": "https://wallstreetcn.com/livenews/3002139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 20时25分]"
-        },
-        {
-          "title": "台积电：10月销售额3,674.7亿元台币，同比增长16.9%。",
-          "url": "https://wallstreetcn.com/livenews/3001949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3002065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时15分]"
-        },
-        {
-          "title": "台积电10月营收3674.7亿元新台币 同比增长16.9%",
-          "url": "https://flash.jin10.com/detail/20251110133524037800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "台积电：10月营收3674.7亿元新台币，同比增长17%。",
-          "url": "https://flash.jin10.com/detail/20251110133056271800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "特斯拉Cybertruck项目负责人Awasthi在任三年后离职",
-          "url": "https://flash.jin10.com/detail/20251110204112079800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "格芯已从台积电(TSM.N)获得GaN技术授权，以加速面向数据中心、工业和汽车客户的美国本土制造电源产品组合。",
-          "url": "https://flash.jin10.com/detail/20251110213222177800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 17时16分]"
-        },
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            10,
-            4,
-            5,
-            9,
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时49分 ~ 23时15分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时19分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
           "url": "https://wallstreetcn.com/livenews/3002226",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时15分"
+          "time_info": "00时16分"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 23时15分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3002194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时14分 ~ 23时15分]"
-        },
-        {
-          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
-          "url": "https://flash.jin10.com/detail/20251110175803111800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
-          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
-          "url": "https://flash.jin10.com/detail/20251110175802667800",
-          "source": "金十数据",
-          "ranks": [
-            7,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时13分]"
-        },
-        {
-          "title": "欧美股指期货走高 纳指期货涨1%",
-          "url": "https://flash.jin10.com/detail/20251110095530831800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
+          "time_info": "00时16分"
         },
         {
           "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
           "url": "https://wallstreetcn.com/livenews/3002213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时15分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-10）",
-          "url": "https://flash.jin10.com/detail/20251110211923335800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
-          "url": "https://wallstreetcn.com/articles/3759020",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 23时15分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨1.55%，恒生科技指数收涨1.34%，科技股多数走高，腾讯涨超2%；消费股走势活跃，泡泡玛特涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3002034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时16分]"
-        },
-        {
-          "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时22分]"
-        },
-        {
-          "title": "港股自动驾驶IPO热潮再起！有企业已拿下10亿订单 专家：服务业也需向“两化”加速升级",
-          "url": "https://wallstreetcn.com/livenews/3002162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时14分]"
-        },
-        {
-          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
-          "url": "https://wallstreetcn.com/livenews/3001851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "超级AI临界点逼近：OpenAI发出警告",
-          "url": "https://www.toutiao.com/trending/7571055203147845126/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "00时16分"
         }
       ]
     },
@@ -399,11 +62,11 @@
           "url": "https://wallstreetcn.com/livenews/3002225",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时15分"
+          "time_info": "00时16分"
         }
       ]
     }
