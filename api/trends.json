@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T02:19:02.887560+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-11-11T03:11:26.215820+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -25,11 +25,12 @@
           "ranks": [
             22,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
@@ -60,7 +61,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
         },
@@ -71,9 +72,38 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251111023658524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
+          "url": "https://www.cls.cn/detail/2196371",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时18分 ~ 03时11分]"
         }
       ]
     },
@@ -103,23 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
-          "url": "https://www.cls.cn/detail/2196371",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
         }
       ]
     },
