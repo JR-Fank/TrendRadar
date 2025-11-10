@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T07:11:38.738930+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-10T09:00:13.707174+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2195166",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时00分]"
         },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
@@ -74,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时13分 ~ 07时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 09时00分]"
         }
       ]
     }
