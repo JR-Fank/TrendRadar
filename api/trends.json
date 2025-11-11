@@ -1,8 +1,124 @@
 {
-  "generated_at": "2025-11-12T05:12:10.708982+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2025-11-12T06:13:19.012473+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
+          "url": "https://wallstreetcn.com/livenews/3002988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "AMD股价美股盘后涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050821592800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013235058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
+          "url": "https://wallstreetcn.com/livenews/3002976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013227930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050514200800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
+          "url": "https://flash.jin10.com/detail/20251112050055390800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
+          "url": "https://wallstreetcn.com/livenews/3002861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3002859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
@@ -101,58 +217,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013235058800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013227930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
-          "url": "https://wallstreetcn.com/livenews/3002861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初涨0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3002859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -162,8 +228,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -188,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时14分]"
+        },
+        {
+          "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
+          "url": "https://wallstreetcn.com/livenews/3002981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -204,11 +281,12 @@
             26,
             22,
             13,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "巴基斯坦首都发生自杀式炸弹袭击，致12死27伤",
@@ -246,8 +324,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时13分]"
         }
       ]
     }
