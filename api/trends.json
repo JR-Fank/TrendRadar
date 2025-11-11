@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T20:24:20.072568+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2025-11-11T21:26:40.208203+08:00",
+  "total_titles_processed": 1911,
   "failed_sources": [],
   "trends": [
     {
@@ -208,7 +208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -219,7 +219,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -321,6 +321,17 @@
           "time_info": "[02时18分 ~ 10时31分]"
         },
         {
+          "title": "台积电在美国又被告，前员工指控被报复性开除、霸凌",
+          "url": "https://news.ifeng.com/c/8oCFweAd7j1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 21时26分]"
+        },
+        {
           "title": "富国银行：特斯拉10月销量各地均大幅下滑",
           "url": "https://flash.jin10.com/detail/20251111043548104800",
           "source": "金十数据",
@@ -330,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "台积电在美国又被告，前员工指控被报复性开除、霸凌",
-          "url": "https://news.ifeng.com/c/8oCFweAd7j1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时24分]"
         },
         {
           "title": "市场消息：特斯拉(TSLA.O)董事会主席登霍尔姆感谢特斯拉股东的支持，感谢他们批准首席执行官埃隆·马斯克的薪酬方案。",
@@ -485,11 +485,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时26分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
