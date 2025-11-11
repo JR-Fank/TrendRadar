@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T13:14:54.700788+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-11-11T14:20:09.876704+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时14分]"
-        },
-        {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -41,8 +28,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时57分 ~ 14时20分]"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 14时20分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -70,6 +70,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
+          "url": "https://www.cls.cn/detail/2196635",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 14时20分]"
         },
         {
           "title": "CoreWeave美股盘后跌约7%。",
@@ -105,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美股存储板块持续火爆：闪迪涨近12%再创新高 目标价迎密集上调",
-          "url": "https://www.cls.cn/detail/2196635",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
           "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
@@ -317,11 +317,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 14时20分]"
         },
         {
           "title": "富国银行：特斯拉10月销量各地均大幅下滑",
@@ -366,7 +367,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
@@ -433,7 +434,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -444,7 +445,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
