@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T02:18:52.319577+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-13T03:11:06.447531+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时11分]"
         },
         {
           "title": "10月新能源车企销量TOP10：小米连月破4万，特斯拉创3年新低无缘前十",
@@ -53,7 +54,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -73,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 03时11分]"
         }
       ]
     }
