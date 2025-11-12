@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T17:16:02.074312+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-12T18:15:35.845196+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 17时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 18时15分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -172,11 +172,12 @@
           "url": "https://wallstreetcn.com/livenews/3003320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -447,11 +448,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "中际旭创据悉正考虑在港股上市，拟募资至少30亿美元。（彭博）",
@@ -505,6 +507,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "巴基斯坦防长：国家处于战争状态",
+          "url": "https://www.toutiao.com/trending/7570581306276790299/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 18时15分]"
+        },
+        {
           "title": "巴基斯坦首都自杀式炸弹袭击致12死",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A6%96%E9%83%BD%E8%87%AA%E6%9D%80%E5%BC%8F%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%E8%87%B412%E6%AD%BB",
           "source": "百度热搜",
@@ -523,26 +537,15 @@
         },
         {
           "title": "巴基斯坦防长：国家处于战争状态",
-          "url": "https://www.toutiao.com/trending/7570581306276790299/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 17时16分]"
-        },
-        {
-          "title": "巴基斯坦防长：国家处于战争状态",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%B2%E9%95%BF%EF%BC%9A%E5%9B%BD%E5%AE%B6%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "中方是否正推动阿富汗与巴基斯坦实现和平？外交部：将继续发挥建设性作用",
@@ -581,7 +584,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "台积电在美国又被告，前员工指控被报复性开除、霸凌",
@@ -593,6 +596,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "段永平不买特斯拉是因看不惯马斯克吗",
+          "url": "https://www.toutiao.com/trending/7571742472888389162/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特斯拉：FSD监督版将很快落地韩国。",
@@ -611,11 +625,23 @@
           "url": "https://wallstreetcn.com/livenews/3003305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
+        },
+        {
+          "title": "Truist分析师：对特斯拉实体人工智能产品持怀疑态度",
+          "url": "https://flash.jin10.com/detail/20251112172925492800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
+          "time_info": "18时15分"
         }
       ]
     }
