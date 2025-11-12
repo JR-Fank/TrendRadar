@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:17:18.236530+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-11-12T13:14:48.580312+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时11分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时11分 ~ 13时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -249,8 +249,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 13时14分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -264,6 +264,19 @@
           "time_info": "08时57分"
         },
         {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时14分]"
+        },
+        {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
           "url": "https://flash.jin10.com/detail/20251112020238925800",
           "source": "金十数据",
@@ -274,19 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时17分]"
         },
         {
           "title": "AMD：预计毛利润率将介于55%-58%。 预计未来三年EPS将超过20美元。 预计数据中心增速将在短期内加快。 将为了支持增长目标而获得足够的供应。 在与OpenAI合作时非常“训练有素/遵守纪律”。 与OpenAI的协议包括具体的生产计划。 公司CEO不会对赌OpenAI。 云客户有非常清晰的预测。",
@@ -367,11 +367,12 @@
           "url": "https://wallstreetcn.com/articles/3759102",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 13时14分]"
         },
         {
           "title": "今年以来港股IPO募资总额位居全球交易所首位",
