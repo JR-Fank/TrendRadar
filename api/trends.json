@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T12:18:58.938821+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-11-13T13:14:16.174361+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 13时14分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -51,8 +52,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时14分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -116,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时14分 ~ 12时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 13时14分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -189,11 +190,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 12时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 13时14分]"
         },
         {
           "title": "法拉第未来(FFIE.O)：未来的FF和FX系列纯电动车型将可使用超过28,000个特斯拉超级充电站。",
@@ -255,8 +257,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 13时14分]"
         },
         {
           "title": "港股基金规模超万亿元，科技板块成聚集地",
