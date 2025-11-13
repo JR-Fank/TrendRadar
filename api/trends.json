@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T04:15:49.774561+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2025-11-14T05:12:49.861789+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "因起火风险，特斯拉在美召回1.05万个Powerwall 2电池",
@@ -161,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 05时12分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -256,8 +257,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -268,8 +269,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         },
         {
           "title": "OpenAI：我们开发了一种新的方法来训练小型人工智能模型，这些模型具有更容易被人类理解的内部机制。 ChatGPT 背后的语言模型具有复杂且有时令人惊讶的结构，我们尚未完全了解它们是如何工作的。 这种方法有助于我们开始缩小这一差距。",
@@ -316,8 +317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 05时12分]"
         }
       ]
     }
