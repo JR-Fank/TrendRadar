@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-13T17:15:38.253914+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2025-11-13T18:15:42.938556+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时15分]"
+        },
         {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
@@ -19,17 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时42分 ~ 13时14分]"
-        },
-        {
-          "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时15分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -78,6 +79,17 @@
           "time_info": "[11时43分 ~ 13时14分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -98,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，公司正准备对其旗舰AI应用进行重大改版，旨在使其功能更接近OpenAI的ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3004067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -125,7 +148,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -200,6 +223,28 @@
           "time_info": "05时12分"
         },
         {
+          "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251113174541985800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "京东美股盘前涨超3%，此前公布业绩数据。",
+          "url": "https://wallstreetcn.com/livenews/3004076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美股收盘：道指创新高 AMD涨9%",
           "url": "https://flash.jin10.com/detail/20251113050121041800",
           "source": "金十数据",
@@ -209,6 +254,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -342,6 +398,46 @@
       ]
     },
     {
+      "keyword_group": "巴基斯坦",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴基斯坦防长：国家处于战争状态",
+          "url": "https://www.toutiao.com/trending/7570581306276790299/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时13分]"
+        },
+        {
+          "title": "巴基斯坦内政部长：巴基斯坦军队和准军事部队已部署，以保障斯里兰卡板球队的安全。袭击伊斯兰堡和巴基斯坦军事学校的两名自杀式炸弹袭击者均为阿富汗人。",
+          "url": "https://flash.jin10.com/detail/20251113173406738800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "巴基斯坦为何进行大规模战争动员",
+          "url": "https://www.toutiao.com/trending/7572119722192277046/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -366,24 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦防长：国家处于战争状态",
-          "url": "https://www.toutiao.com/trending/7570581306276790299/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 06时13分]"
         }
       ]
     }
