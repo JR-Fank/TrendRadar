@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T10:29:44.872838+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-11-14T11:42:19.501743+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "time_info": "[06时13分 ~ 07时12分]"
         },
         {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时57分 ~ 11时42分]"
+        },
+        {
           "title": "美股全线下挫 特斯拉跌超6%",
           "url": "https://www.toutiao.com/trending/7571618548569735174/",
           "source": "今日头条",
@@ -82,6 +95,18 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 11时42分]"
+        },
+        {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
           "url": "https://wallstreetcn.com/livenews/3004393",
           "source": "华尔街见闻-快讯",
@@ -92,18 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美股大跌 特斯拉跌超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时57分 ~ 10时29分]"
         },
         {
           "title": "特斯拉(TSLA.O)跌幅扩大至5%，其此前召回约10500套Powerwall 2交流电池储能系统。",
@@ -161,17 +174,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
           "title": "据知情人士透露，特斯拉针对苹果公司车载互联解决方案Apple CarPlay系统开发支持功能，已经启动初步测试。 预计未来数月有望推出。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3004284",
           "source": "华尔街见闻-快讯",
@@ -208,7 +210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -234,8 +236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 11时42分]"
         },
         {
           "title": "应用材料美股盘后跌超4.5%。",
@@ -350,6 +352,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美股为何大跌",
+          "url": "https://www.toutiao.com/trending/7572362509869387270/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3004250",
           "source": "华尔街见闻-快讯",
@@ -386,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 11时42分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -400,8 +413,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 10时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 11时42分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
