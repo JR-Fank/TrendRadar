@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T11:42:19.501743+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-11-14T12:16:53.286707+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,21 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时57分 ~ 12时16分]"
+        },
+        {
+          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
+          "url": "https://www.cls.cn/detail/2200223",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时42分]"
+          "time_info": "[10时29分 ~ 12时16分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -93,18 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时14分]"
-        },
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 11时42分]"
         },
         {
           "title": "半导体ETF收跌3%，领跌美股行业ETF，特斯拉跌超6.6%拖累标普可选消费板块",
@@ -236,8 +237,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 12时16分]"
         },
         {
           "title": "应用材料美股盘后跌超4.5%。",
@@ -358,7 +359,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -399,8 +400,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时16分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -410,11 +411,12 @@
             18,
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 12时16分]"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
