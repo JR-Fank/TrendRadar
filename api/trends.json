@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T14:17:28.138901+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2025-11-15T15:11:28.560366+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时11分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -52,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 15时11分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -68,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 15时11分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -91,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时11分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -260,8 +261,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 14时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 15时11分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -271,8 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 15时11分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -284,8 +285,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时11分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
