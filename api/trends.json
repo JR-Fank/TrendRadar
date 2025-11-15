@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T04:13:00.515701+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-16T05:10:32.913385+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -36,22 +36,24 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         }
       ]
     },
@@ -67,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -78,8 +80,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 04时13分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 05时10分]"
         }
       ]
     }
