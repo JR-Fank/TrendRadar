@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T09:01:05.849181+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-11-16T10:50:01.952761+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时50分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -26,11 +26,12 @@
             8,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时50分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时50分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -70,11 +71,12 @@
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 09时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 10时50分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
