@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:21:39.434852+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2025-11-16T21:19:06.817200+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时13分 ~ 20时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时13分 ~ 21时19分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -106,8 +106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 20时21分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 21时19分]"
         }
       ]
     },
@@ -125,8 +125,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 21时19分]"
         }
       ]
     }
