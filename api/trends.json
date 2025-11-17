@@ -1,12 +1,129 @@
 {
-  "generated_at": "2025-11-17T19:11:48.536242+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2025-11-17T20:25:04.695629+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 7,
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特斯拉“去中国化”背后隐藏什么",
+          "url": "https://www.toutiao.com/trending/7573105255983038502/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            16,
+            17,
+            8,
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[08时57分 ~ 20时25分]"
+        },
+        {
+          "title": "特斯拉要求美产汽车避用中国零部件",
+          "url": "https://www.toutiao.com/trending/7573236848407875114/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时11分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20251117170331832800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
+          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
+          "url": "https://www.cls.cn/detail/2202481",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时25分]"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3005762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时15分]"
+        },
+        {
+          "title": "特斯拉“去中国化”的背后隐藏什么",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E2%80%9C%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%8C%96%E2%80%9D%E7%9A%84%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "斯蒂费尔：将特斯拉(TSLA.O)目标股价从483美元上调至508美元。",
+          "url": "https://flash.jin10.com/detail/20251117194802038800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "博主：特斯拉正在“一分为二”",
+          "url": "https://www.toutiao.com/trending/7573566632954433065/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 20时25分]"
+        },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
           "url": "https://www.cls.cn/detail/2201578",
@@ -19,18 +136,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 07时11分]"
-        },
-        {
-          "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
         },
         {
           "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -81,92 +186,22 @@
           "time_info": "[17时17分 ~ 18时15分]"
         },
         {
+          "title": "Zymeworks美股盘前一度上涨43%，此前公布了癌症药物Ziihera的试验结果。",
+          "url": "https://wallstreetcn.com/livenews/3005836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美股股指期货涨幅持续扩大，纳斯达克100指数期货涨1%，道琼斯指数期货涨0.25%，标普500指数期货涨0.64%。",
           "url": "https://wallstreetcn.com/livenews/3005738",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特斯拉“去中国化”背后隐藏什么",
-          "url": "https://www.toutiao.com/trending/7573105255983038502/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            16,
-            17,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时57分 ~ 19时11分]"
-        },
-        {
-          "title": "特斯拉要求美产汽车避用中国零部件",
-          "url": "https://www.toutiao.com/trending/7573236848407875114/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时11分]"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
-          "url": "https://flash.jin10.com/detail/20251117170331832800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "美股盘前，部分明星科技股走强，谷歌涨超5%，此前巴菲特首次建仓谷歌。特斯拉涨超1%、美光科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3005762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时15分]"
-        },
-        {
-          "title": "世界首富马斯克警告前首富盖茨：最好尽快平仓特斯拉的空头头寸",
-          "url": "https://www.cls.cn/detail/2202481",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 19时11分]"
-        },
-        {
-          "title": "博主：特斯拉正在“一分为二”",
-          "url": "https://www.toutiao.com/trending/7573566632954433065/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -214,11 +249,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 19时11分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 20时25分]"
         },
         {
           "title": "谷歌：承诺投入225万美元支持非洲的AI相关数据产业。",
@@ -336,7 +372,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
