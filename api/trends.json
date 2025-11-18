@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T14:19:43.439357+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2025-11-18T15:13:42.507803+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时56分 ~ 15时13分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 14时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 15时13分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 15时13分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 15时13分]"
         },
         {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
@@ -484,8 +484,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[11时41分 ~ 15时13分]"
         }
       ]
     }
