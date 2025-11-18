@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T08:56:37.490233+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2025-11-18T10:28:59.346876+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -30,6 +30,30 @@
           "time_info": "[04时14分 ~ 06时13分]"
         },
         {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 10时28分]"
+        },
+        {
           "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
@@ -41,27 +65,15 @@
           "time_info": "07时12分"
         },
         {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时56分]"
+          "time_info": "10时28分"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -136,6 +148,17 @@
           "time_info": "[02时18分 ~ 03时10分]"
         },
         {
+          "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
+          "url": "https://www.cls.cn/detail/2203264",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "美股三大股指均跌超1%。",
           "url": "https://flash.jin10.com/detail/20251118032702595800",
           "source": "金十数据",
@@ -153,7 +176,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -216,7 +239,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
@@ -237,11 +260,12 @@
           "ranks": [
             12,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 08时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 10时28分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -264,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
+          "url": "https://www.zhihu.com/question/1970226468920471782",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
