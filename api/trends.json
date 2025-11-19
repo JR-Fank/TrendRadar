@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T18:14:59.482622+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2025-11-19T19:11:43.650405+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -64,6 +64,17 @@
           "time_info": "[00时16分 ~ 06时16分]"
         },
         {
+          "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时11分"
+        },
+        {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
           "url": "https://wallstreetcn.com/livenews/3006744",
           "source": "华尔街见闻-快讯",
@@ -73,6 +84,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时11分]"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -110,18 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -241,6 +253,20 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时56分 ~ 19时11分]"
+        },
+        {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
@@ -267,30 +293,18 @@
           "time_info": "[08时56分 ~ 13时14分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 18时14分]"
-        },
-        {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 19时11分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -305,11 +319,12 @@
             7,
             19,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时28分 ~ 18时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时28分 ~ 19时11分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -357,11 +372,12 @@
           "ranks": [
             9,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时13分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[15时13分 ~ 19时11分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -544,6 +560,19 @@
       "titles": [
         {
           "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A5%B3%E7%AB%A5%E7%94%A8%E6%A3%92%E6%A3%92%E7%B3%96%E9%98%BB%E6%AD%A2%E4%B8%80%E5%9C%BA%E6%8A%A2%E5%8A%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 19时11分]"
+        },
+        {
+          "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
           "url": "https://www.toutiao.com/trending/7573926477852180531/",
           "source": "今日头条",
           "ranks": [
@@ -553,19 +582,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 10时28分]"
-        },
-        {
-          "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A5%B3%E7%AB%A5%E7%94%A8%E6%A3%92%E6%A3%92%E7%B3%96%E9%98%BB%E6%AD%A2%E4%B8%80%E5%9C%BA%E6%8A%A2%E5%8A%AB",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "巴基斯坦散户涌入股市 推动今年股指累涨约40%",
@@ -619,11 +635,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时28分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时28分 ~ 19时11分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
