@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T15:13:41.901221+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-11-19T16:17:29.652826+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -229,6 +229,20 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 16时17分]"
+        },
+        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -241,17 +255,21 @@
           "time_info": "[08时56分 ~ 13时14分]"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            5,
-            6
+            4,
+            9,
+            12,
+            13,
+            6,
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时13分]"
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 16时17分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -262,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时56分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -280,22 +298,6 @@
           "time_info": "[02时18分 ~ 08时57分]"
         },
         {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            12,
-            13,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 15时13分]"
-        },
-        {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
@@ -304,8 +306,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 16时17分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -350,11 +352,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 16时17分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -363,7 +366,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -374,7 +377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -457,7 +460,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -490,7 +493,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -515,6 +518,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
+          "url": "https://www.toutiao.com/trending/7573926477852180531/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 10时28分]"
+        },
+        {
+          "title": "巴基斯坦散户涌入股市 推动今年股指累涨约40%",
+          "url": "https://flash.jin10.com/detail/20251119095601812800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A5%B3%E7%AB%A5%E7%94%A8%E6%A3%92%E6%A3%92%E7%B3%96%E9%98%BB%E6%AD%A2%E4%B8%80%E5%9C%BA%E6%8A%A2%E5%8A%AB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股收盘，恒生指数收跌0.38%，恒生科技指数收跌0.69%。周大福、紫金矿业涨超2%；小米集团跌超4%，翰森制药跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "宁德时代港股基石投资者限售股周三解禁，今年已上涨92%",
+          "url": "https://wallstreetcn.com/livenews/3006841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
@@ -544,52 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
-          "url": "https://www.toutiao.com/trending/7573926477852180531/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 10时28分]"
-        },
-        {
-          "title": "巴基斯坦散户涌入股市 推动今年股指累涨约40%",
-          "url": "https://flash.jin10.com/detail/20251119095601812800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宁德时代港股基石投资者限售股周三解禁，今年已上涨92%",
-          "url": "https://wallstreetcn.com/livenews/3006841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         }
       ]
     }
