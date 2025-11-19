@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-19T13:14:02.934532+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-11-19T14:19:19.802479+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2204381",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 14时19分]"
+        },
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
           "url": "https://wallstreetcn.com/articles/3759603",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 06时16分]"
-        },
-        {
-          "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
-          "url": "https://www.cls.cn/detail/2204381",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -241,6 +241,18 @@
           "time_info": "[08时56分 ~ 13时14分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 14时19分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -255,16 +267,32 @@
           "time_info": "[02时18分 ~ 08时57分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
           "ranks": [
-            7,
+            10,
+            5,
             6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[08时56分 ~ 13时14分]"
+          "time_info": "[10时28分 ~ 14时19分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 14时19分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -280,19 +308,6 @@
           "time_info": "[00时16分 ~ 06时16分]"
         },
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 13时14分]"
-        },
-        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -305,20 +320,6 @@
           "time_info": "[08时56分 ~ 10时28分]"
         },
         {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 13时14分]"
-        },
-        {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
           "url": "https://wallstreetcn.com/articles/3759673",
           "source": "华尔街见闻",
@@ -327,8 +328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 14时19分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -474,8 +475,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时28分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 14时19分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
