@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:12:07.908703+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-11-20T20:24:24.890914+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 19时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 20时24分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -155,6 +155,17 @@
           "time_info": "17时14分"
         },
         {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
           "url": "https://wallstreetcn.com/livenews/3007418",
           "source": "华尔街见闻-快讯",
@@ -235,8 +246,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时55分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时55分 ~ 20时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
