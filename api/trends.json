@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T17:14:18.722666+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-11-20T18:14:54.889758+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,24 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6,
+            9,
+            12,
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[01时13分 ~ 18时14分]"
+        },
+        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -43,28 +61,12 @@
             8,
             10,
             13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 17时14分]"
-        },
-        {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5,
-            6,
-            9,
             12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时13分 ~ 17时14分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 18时14分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -78,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时18分 ~ 17时14分]"
+          "appearance_count": 18,
+          "time_info": "[02时18分 ~ 18时14分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -130,13 +132,25 @@
           "time_info": "[05时10分 ~ 06时12分]"
         },
         {
+          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3007806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
           "title": "Alphabet(GOOG.O)：计划为土耳其带来一个新的谷歌云区域，作为在该国为期10年总额20亿美元投资的一部分。",
           "url": "https://flash.jin10.com/detail/20251120164537640800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -172,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3007806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
@@ -221,7 +224,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -232,8 +235,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[08时55分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -352,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3007836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后涨超4%，其数据中心营收超预期。",
@@ -597,7 +611,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
@@ -622,6 +636,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时13分]"
+        },
+        {
+          "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3007835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "曝台积电前高管携核心机密跳槽英特尔",
