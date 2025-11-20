@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T08:55:51.211274+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2025-11-20T10:26:53.792419+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时26分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -28,9 +28,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时55分 ~ 10时26分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
+          "url": "https://www.cls.cn/detail/2205612",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 10时26分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -50,22 +63,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
-          "url": "https://www.cls.cn/detail/2205612",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 08时55分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -163,7 +163,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -193,7 +193,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -231,8 +231,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 08时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时26分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -246,8 +246,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时13分 ~ 08时55分]"
+          "appearance_count": 10,
+          "time_info": "[01时13分 ~ 10时26分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -259,8 +259,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 08时55分]"
+          "appearance_count": 9,
+          "time_info": "[02时18分 ~ 10时26分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -280,7 +280,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -317,6 +317,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
@@ -354,7 +365,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -413,7 +424,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -452,7 +463,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -463,7 +474,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
