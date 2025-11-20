@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T13:13:59.260231+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-11-20T14:18:54.821533+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时12分 ~ 13时13分]"
+          "appearance_count": 9,
+          "time_info": "[06时12分 ~ 14时18分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时55分 ~ 13时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时55分 ~ 14时18分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -234,8 +234,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 14时18分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -249,8 +249,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时13分 ~ 13时13分]"
+          "appearance_count": 15,
+          "time_info": "[01时13分 ~ 14时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -263,8 +263,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时18分 ~ 13时13分]"
+          "appearance_count": 14,
+          "time_info": "[02时18分 ~ 14时18分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -295,11 +295,12 @@
           "ranks": [
             11,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 13时13分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 14时18分]"
         },
         {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
