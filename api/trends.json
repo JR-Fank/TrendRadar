@@ -1,97 +1,25 @@
 {
-  "generated_at": "2025-11-21T03:10:40.785799+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-11-21T04:15:00.577240+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时10分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时11分 ~ 03时10分]"
-        },
-        {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 03时10分]"
-        },
-        {
-          "title": "谷歌推出Nano Banana Pro图像生成模型",
-          "url": "https://flash.jin10.com/detail/20251120233021177800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro。",
-          "url": "https://wallstreetcn.com/livenews/3008055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 04时15分]"
+        },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
           "url": "https://wallstreetcn.com/articles/3759753",
@@ -106,17 +34,15 @@
           "time_info": "[00时16分 ~ 03时10分]"
         },
         {
-          "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
+          "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
+          "url": "https://flash.jin10.com/detail/20251121032845526800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            4,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 03时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -174,6 +100,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 04时15分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时11分 ~ 04时15分]"
+        },
+        {
+          "title": "Gemini3",
+          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 04时15分]"
+        },
+        {
+          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
+          "url": "https://wallstreetcn.com/livenews/3008098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时10分]"
+        },
+        {
+          "title": "谷歌推出Nano Banana Pro图像生成模型",
+          "url": "https://flash.jin10.com/detail/20251120233021177800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro。",
+          "url": "https://wallstreetcn.com/livenews/3008055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     },
