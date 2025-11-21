@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T05:11:27.747174+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-11-22T06:13:08.759663+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -71,19 +71,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
           "url": "https://www.cls.cn/detail/2207612",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时15分 ~ 05时11分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 06时13分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
@@ -203,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
