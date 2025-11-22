@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:18:30.364557+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-11-22T22:10:51.409036+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时12分 ~ 21时18分]"
+          "appearance_count": 18,
+          "time_info": "[07时12分 ~ 22时10分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -122,6 +122,18 @@
           "time_info": "[08时54分 ~ 15时12分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 22时10分]"
+        },
+        {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
           "url": "https://wallstreetcn.com/livenews/3008932",
           "source": "华尔街见闻-快讯",
@@ -136,18 +148,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时54分 ~ 14时17分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时18分]"
         },
         {
           "title": "美股V形反转，道指涨约1%",
@@ -356,11 +356,25 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时10分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时10分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -375,16 +389,16 @@
           "time_info": "[02时19分 ~ 03时11分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
           "ranks": [
-            10,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时18分]"
+          "time_info": "[21时18分 ~ 22时10分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -408,17 +422,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时09分 ~ 19时10分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时18分"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
