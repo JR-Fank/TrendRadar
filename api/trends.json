@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T05:11:19.702255+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2025-11-23T06:11:51.078879+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -37,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时16分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[02时16分 ~ 06时11分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -51,11 +53,12 @@
             29,
             23,
             26,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时11分]"
         }
       ]
     },
@@ -72,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时11分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -84,8 +87,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时11分]"
         }
       ]
     },
@@ -103,11 +106,12 @@
             21,
             14,
             8,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 06时11分]"
         }
       ]
     }
