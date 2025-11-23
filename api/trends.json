@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:12:36.234126+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-11-23T19:10:22.854699+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 19时10分]"
         }
       ]
     },
@@ -98,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 18时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 19时10分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
