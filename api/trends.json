@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T13:12:57.898636+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2025-11-23T14:18:08.824479+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 13时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 14时18分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -66,8 +66,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 13时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 14时18分]"
         }
       ]
     },
@@ -85,8 +85,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 13时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 14时18分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -112,6 +112,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "段永平买入特斯拉",
+          "url": "https://www.toutiao.com/trending/7574752742992805915/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
         }
       ]
     },
