@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T02:16:40.468841+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-11-24T03:10:08.290941+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 02时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 03时10分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
