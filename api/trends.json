@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T15:14:14.211378+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-11-24T16:19:14.134693+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -23,11 +23,12 @@
             5,
             6,
             9,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时13分 ~ 14时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时13分 ~ 16时19分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 13时15分]"
+        },
+        {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -71,7 +83,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -81,6 +93,18 @@
       "keyword_group": "港股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 16时19分]"
+        },
         {
           "title": "港股半导体股下跌，华虹半导体跌超11%，中芯国际跌近6%。",
           "url": "https://wallstreetcn.com/livenews/3009362",
@@ -105,17 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 12时28分]"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入三一重工、剑桥科技，11月24日起生效。",
@@ -143,8 +156,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 16时19分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
