@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T12:19:21.977491+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-11-25T13:14:01.309059+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -236,7 +236,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -282,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时12分]"
+        },
+        {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -486,8 +497,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时19分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时14分]"
+        },
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时14分]"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -499,18 +522,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时19分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -546,11 +557,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 13时14分]"
         },
         {
           "title": "港股将迎解禁高峰，增量资金正在加码",
