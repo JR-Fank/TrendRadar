@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T19:12:19.825298+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2025-11-26T20:26:10.610194+08:00",
+  "total_titles_processed": 1846,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时57分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时57分 ~ 20时26分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -55,6 +56,19 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时43分 ~ 20时26分]"
+        },
+        {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
           "url": "https://www.cls.cn/detail/2210906",
           "source": "财联社热门",
@@ -68,18 +82,6 @@
           "time_info": "[07时12分 ~ 15时14分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时43分 ~ 19时12分]"
-        },
-        {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
@@ -90,6 +92,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
+          "url": "https://www.cls.cn/detail/2211188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时19分 ~ 20时26分]"
         },
         {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
@@ -114,20 +130,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
-          "url": "https://www.cls.cn/detail/2211188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时19分 ~ 19时12分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -157,6 +159,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时13分 ~ 19时12分]"
+        },
+        {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 20时26分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -206,17 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时15分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 19时12分]"
         },
         {
           "title": "美股收盘：谷歌市值逼近4万亿美元",
@@ -306,7 +308,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -328,7 +330,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -522,7 +524,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -696,11 +698,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 20时26分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
