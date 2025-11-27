@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T19:12:06.863169+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-11-27T20:25:11.932673+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
@@ -199,7 +199,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -209,8 +209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[08时56分 ~ 20时25分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -225,17 +225,6 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
-          "url": "https://wallstreetcn.com/articles/3760117",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时11分]"
-        },
-        {
           "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
@@ -246,8 +235,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时14分 ~ 20时25分]"
+        },
+        {
+          "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
+          "url": "https://wallstreetcn.com/articles/3760117",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时14分 ~ 19时12分]"
+          "time_info": "[00时16分 ~ 05时11分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -299,6 +299,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时14分 ~ 19时12分]"
+        },
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
@@ -411,6 +422,17 @@
           "time_info": "[00时16分 ~ 04时14分]"
         },
         {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 20时25分]"
+        },
+        {
           "title": "汇丰：万亿算力账单重压之下 OpenAI在2030年前料难盈利",
           "url": "https://flash.jin10.com/detail/20251127064701943800",
           "source": "金十数据",
@@ -420,17 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 19时12分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
