@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T10:27:17.465826+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2025-11-28T11:41:20.373252+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -109,7 +109,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -128,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时55分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 11时41分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
