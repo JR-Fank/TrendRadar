@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T19:10:14.562396+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-11-29T20:21:44.289392+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 20时21分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -240,8 +240,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时12分 ~ 19时10分]"
+          "appearance_count": 11,
+          "time_info": "[13时12分 ~ 20时21分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -251,22 +251,24 @@
             9,
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时26分 ~ 19时10分]"
+          "appearance_count": 15,
+          "time_info": "[10时26分 ~ 20时21分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 19时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 20时21分]"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
