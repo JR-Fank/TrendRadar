@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:16:35.621931+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-29T17:13:11.525200+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 17时13分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -238,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[10时26分 ~ 17时13分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -247,11 +248,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时12分 ~ 16时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 17时13分]"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
