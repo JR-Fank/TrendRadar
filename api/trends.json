@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T18:12:39.114151+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-30T19:10:17.009786+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
@@ -69,8 +69,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 18时12分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 19时10分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -82,8 +82,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时10分]"
         }
       ]
     },
