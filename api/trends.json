@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T22:11:39.906657+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-30T23:12:24.242489+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时21分 ~ 22时11分]"
+          "appearance_count": 5,
+          "time_info": "[20时21分 ~ 23时12分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -64,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 22时11分]"
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时12分]"
         }
       ]
     },
@@ -76,6 +77,19 @@
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时15分 ~ 23时12分]"
+        },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
           "url": "https://www.zhihu.com/question/1923520417756321577",
@@ -94,21 +108,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时14分 ~ 22时11分]"
-        },
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时15分 ~ 22时11分]"
+          "appearance_count": 26,
+          "time_info": "[00时14分 ~ 23时12分]"
         }
       ]
     },
