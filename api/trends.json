@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T19:10:17.009786+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-11-30T20:22:05.666424+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 15时12分]"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         }
       ]
     },
@@ -66,11 +77,12 @@
             14,
             13,
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 19时10分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 20时22分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -82,8 +94,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 19时10分]"
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 20时22分]"
         }
       ]
     },
