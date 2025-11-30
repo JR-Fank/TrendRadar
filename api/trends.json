@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:18:40.210343+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2025-11-30T15:12:22.911496+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,58 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美报告称“巴基斯坦胜利” 印度怒了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%8A%A5%E5%91%8A%E7%A7%B0%E2%80%9C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%83%9C%E5%88%A9%E2%80%9D+%E5%8D%B0%E5%BA%A6%E6%80%92%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20,
+            19,
+            10,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "巴基斯坦高层出现分裂苗头",
+          "url": "https://www.toutiao.com/trending/7578300183780265508/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉登陆印度2个多月仅卖出百辆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%99%BB%E9%99%86%E5%8D%B0%E5%BA%A62%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BB%85%E5%8D%96%E5%87%BA%E7%99%BE%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -65,11 +115,12 @@
             8,
             14,
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 14时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 15时12分]"
         }
       ]
     },
@@ -88,28 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 09时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美报告称“巴基斯坦胜利” 印度怒了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%8A%A5%E5%91%8A%E7%A7%B0%E2%80%9C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%83%9C%E5%88%A9%E2%80%9D+%E5%8D%B0%E5%BA%A6%E6%80%92%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            19,
-            10,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     }
