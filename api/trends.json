@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T06:12:19.752899+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-01T07:12:25.906210+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -73,8 +73,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股研报数量同比增超30%，券商研究所深耕“新沃土”",
+          "url": "https://wallstreetcn.com/livenews/3012569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
