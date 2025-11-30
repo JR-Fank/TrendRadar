@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:03:58.935525+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-11-30T11:21:12.882650+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时21分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时21分]"
         }
       ]
     },
@@ -57,11 +59,12 @@
             5,
             4,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时03分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 11时21分]"
         }
       ]
     },
