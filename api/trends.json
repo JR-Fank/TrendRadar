@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:12:22.911496+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-11-30T16:15:54.075015+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,43 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2,
+            8,
+            14,
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 16时15分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 2,
       "titles": [
@@ -75,7 +112,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -92,35 +129,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            4,
-            3,
-            2,
-            8,
-            14,
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 15时12分]"
         }
       ]
     },
