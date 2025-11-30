@@ -1,75 +1,44 @@
 {
-  "generated_at": "2025-11-30T23:12:24.242489+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2025-12-01T00:14:28.851437+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
-          "source": "华尔街见闻",
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 09时03分]"
-        },
-        {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时28分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时21分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            17,
-            23,
-            22
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时21分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
@@ -82,102 +51,22 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 23时12分]"
+          "appearance_count": 1,
+          "time_info": "00时14分"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
           "url": "https://www.zhihu.com/question/1923520417756321577",
           "source": "知乎",
           "ranks": [
-            9,
-            5,
-            4,
-            3,
-            2,
-            8,
-            14,
-            13,
-            16,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 23时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美报告称“巴基斯坦胜利” 印度怒了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%8A%A5%E5%91%8A%E7%A7%B0%E2%80%9C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%83%9C%E5%88%A9%E2%80%9D+%E5%8D%B0%E5%BA%A6%E6%80%92%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            19,
-            10,
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "巴基斯坦高层出现分裂苗头",
-          "url": "https://www.toutiao.com/trending/7578300183780265508/",
-          "source": "今日头条",
-          "ranks": [
-            29
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉登陆印度2个多月仅卖出百辆",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%99%BB%E9%99%86%E5%8D%B0%E5%BA%A62%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BB%85%E5%8D%96%E5%87%BA%E7%99%BE%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股反弹了，但年底大涨也不用指望？",
-          "url": "https://wallstreetcn.com/articles/3760368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 09时03分]"
+          "time_info": "00时14分"
         }
       ]
     }
