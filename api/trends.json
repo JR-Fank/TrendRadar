@@ -1,8 +1,84 @@
 {
-  "generated_at": "2025-12-01T15:17:23.354202+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-12-01T16:20:46.987273+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时43分]"
+        },
+        {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            28,
+            20,
+            23,
+            21,
+            22,
+            18,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 16时20分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时17分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "港股",
       "match_count": 4,
@@ -55,74 +131,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "特斯拉 台积电",
       "match_count": 4,
       "titles": [
         {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 12时43分]"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            20,
-            23,
-            21,
-            22,
-            18,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 15时17分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "title": "瑞典汽车产业协会(Mobility Sweden)数据显示，11月特斯拉(TSLA.O)在瑞典的新车注册量同比下降59%。",
+          "url": "https://flash.jin10.com/detail/20251201155920791800",
           "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            10
+            7
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
-        {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
         {
           "title": "特斯拉11月在丹麦的注册量同比下降49%，降至534辆。（路透）",
           "url": "https://wallstreetcn.com/livenews/3012839",
@@ -130,7 +152,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -141,7 +163,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -152,7 +174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }
