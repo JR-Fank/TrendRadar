@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T04:15:41.090687+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2025-12-03T05:13:03.664903+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -29,8 +29,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -44,20 +58,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -65,8 +65,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -107,8 +107,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -118,8 +118,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -129,8 +129,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 04时15分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 05时13分]"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -191,8 +191,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -222,8 +222,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时17分 ~ 05时13分]"
         }
       ]
     }
