@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T13:14:11.240640+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-12-02T14:21:05.452509+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 13时14分]"
+          "appearance_count": 9,
+          "time_info": "[07时12分 ~ 14时21分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股收盘）",
@@ -189,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 14时21分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -203,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时17分 ~ 14时21分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -215,8 +216,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时21分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -228,8 +229,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时58分 ~ 13时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 14时21分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 14时21分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -254,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
         },
         {
           "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
@@ -390,13 +392,25 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时46分 ~ 14时21分]"
+        },
+        {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
           "url": "https://flash.jin10.com/detail/20251202121909836800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -413,18 +427,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时16分 ~ 06时11分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 13时14分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
