@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T19:13:23.820283+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2025-12-02T20:26:47.034518+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -209,7 +209,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -238,8 +238,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时17分 ~ 19时13分]"
+          "appearance_count": 26,
+          "time_info": "[00时17分 ~ 20时26分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -252,8 +252,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时58分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[08时58分 ~ 20时26分]"
         },
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -282,8 +282,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 20时26分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -319,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -368,7 +379,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "传台积电董事长将赴南京出席活动，并拜访大陆芯片公司",
@@ -404,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "乘联分会：特斯拉公司11月售出86,700辆中国产汽车。",
+          "url": "https://flash.jin10.com/detail/20251202193512092800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "特斯拉在欧洲的销量下滑势头没有减弱的迹象",
@@ -442,7 +464,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -451,11 +473,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时46分 ~ 19时13分]"
+          "appearance_count": 14,
+          "time_info": "[10时46分 ~ 20时26分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -504,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "OpenAI拉响红色警报",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%8B%89%E5%93%8D%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
@@ -547,9 +581,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时26分]"
         }
       ]
     }
