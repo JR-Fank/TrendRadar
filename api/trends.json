@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T07:12:35.841634+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-12-03T08:58:24.352528+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -20,6 +20,18 @@
           "time_info": "[00时17分 ~ 07时12分]"
         },
         {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时20分 ~ 08时58分]"
+        },
+        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -31,15 +43,27 @@
           "time_info": "[00时17分 ~ 06时12分]"
         },
         {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
           "ranks": [
-            12
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时20分 ~ 07时12分]"
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时58分]"
         },
         {
           "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
@@ -64,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -116,7 +129,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -149,7 +162,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -190,7 +203,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -199,11 +212,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时58分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -233,6 +247,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时12分]"
+        },
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -279,6 +304,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时20分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "谷歌的TPU要干掉英伟达吗",
+          "url": "https://www.toutiao.com/trending/7579260643052621321/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -351,11 +398,12 @@
           "ranks": [
             25,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时58分]"
         }
       ]
     }
