@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T11:49:09.554738+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-12-04T12:23:27.081620+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[00时18分 ~ 07时11分]"
         },
         {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时10分 ~ 12时23分]"
+        },
+        {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2218814",
           "source": "财联社热门",
@@ -46,20 +60,6 @@
           "time_info": "[01时17分 ~ 10时47分]"
         },
         {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时10分 ~ 11时49分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -69,8 +69,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时58分 ~ 11时49分]"
+          "appearance_count": 6,
+          "time_info": "[08时58分 ~ 12时23分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -420,8 +420,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时12分 ~ 11时49分]"
+          "appearance_count": 10,
+          "time_info": "[05时12分 ~ 12时23分]"
         }
       ]
     }
