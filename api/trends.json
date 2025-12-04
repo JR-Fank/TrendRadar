@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T10:47:14.442206+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2025-12-04T11:49:09.554738+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,25 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 11时49分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时10分 ~ 10时47分]"
+          "time_info": "[08时58分 ~ 11时49分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -68,18 +82,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时58分 ~ 10时47分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -319,7 +321,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -414,11 +416,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时12分 ~ 10时47分]"
+          "appearance_count": 9,
+          "time_info": "[05时12分 ~ 11时49分]"
         }
       ]
     }
