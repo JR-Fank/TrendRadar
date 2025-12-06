@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-06T14:18:05.665146+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-12-06T15:12:23.515203+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
+          "url": "https://wallstreetcn.com/articles/3760797",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 15时12分]"
+        },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
           "url": "https://wallstreetcn.com/articles/3760711",
@@ -20,19 +33,6 @@
           "time_info": "[00时16分 ~ 07时13分]"
         },
         {
-          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 14时18分]"
-        },
-        {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
           "url": "https://wallstreetcn.com/articles/3760810",
           "source": "华尔街见闻",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 15时12分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -53,11 +53,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时55分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时55分 ~ 15时12分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -240,8 +241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 15时12分]"
         },
         {
           "title": "巴基斯坦和阿富汗动用重武器，边民开始撤离",
@@ -251,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 15时12分]"
         },
         {
           "title": "阿富汗和巴基斯坦边境爆发激烈交火",
@@ -306,6 +307,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 15时12分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -316,18 +329,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时14分 ~ 08时56分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 14时18分]"
         },
         {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
@@ -392,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 15时12分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -403,11 +404,12 @@
             12,
             14,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时39分 ~ 15时12分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -443,11 +445,12 @@
           "url": "https://www.zhihu.com/question/1979110285521478648",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 15时12分]"
         },
         {
           "title": "英特尔反弹超5%，美光科技、AMD涨超4%，博通、台积电涨超2%；奈飞转涨，盘初一度跌超4%。",
