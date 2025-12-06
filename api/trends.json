@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:21:35.936934+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-06T22:11:16.081550+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 21时21分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 22时11分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -55,11 +55,12 @@
             7,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时55分 ~ 21时21分]"
+          "appearance_count": 20,
+          "time_info": "[08时55分 ~ 22时11分]"
         },
         {
           "title": "PCE符合预期，美股上扬，美债承压，金银油涨，比特币跌穿9万美元",
@@ -242,8 +243,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 21时21分]"
+          "appearance_count": 14,
+          "time_info": "[13时12分 ~ 22时11分]"
         },
         {
           "title": "阿富汗和巴基斯坦在边境激烈交火",
@@ -334,6 +335,19 @@
           "time_info": "[11时38分 ~ 21时21分]"
         },
         {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时12分 ~ 22时11分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -356,18 +370,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时14分 ~ 08时56分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 21时21分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -419,11 +421,12 @@
             10,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时38分 ~ 21时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时38分 ~ 22时11分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
