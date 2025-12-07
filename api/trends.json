@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T12:27:44.591775+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-07T13:12:24.778651+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 13时12分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -96,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3760842",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时12分]"
         }
       ]
     },
