@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T08:59:21.576586+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2025-12-08T10:49:55.286838+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -18,6 +18,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时12分]"
+        },
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
+          "url": "https://wallstreetcn.com/livenews/3016623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时49分"
         }
       ]
     }
