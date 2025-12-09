@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:12:57.383765+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2025-12-09T08:58:43.465733+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
@@ -29,11 +29,23 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时58分]"
+        },
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
@@ -46,6 +58,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时58分]"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
@@ -162,18 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
@@ -225,7 +238,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -233,11 +246,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 07时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 08时58分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -275,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -357,7 +393,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -411,12 +447,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "摩根士丹利两年半来首次下调对特斯拉评级，指其估值过高",
+          "url": "https://wallstreetcn.com/livenews/3017207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "美股三大指数集体收跌 特斯拉跌超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -427,8 +485,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时58分]"
+        },
+        {
+          "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
+          "url": "https://wallstreetcn.com/livenews/3017238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
