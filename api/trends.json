@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T20:26:25.059639+08:00",
-  "total_titles_processed": 1894,
+  "generated_at": "2025-12-09T21:31:37.494391+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时58分 ~ 20时26分]"
+          "appearance_count": 18,
+          "time_info": "[08时58分 ~ 21时31分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -309,6 +309,18 @@
           "time_info": "[08时58分 ~ 15时16分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时31分]"
+        },
+        {
           "title": "欧盟将调查谷歌是否违反竞争法",
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
@@ -343,18 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时12分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -443,7 +443,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -552,8 +552,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时15分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 21时31分]"
+        },
+        {
+          "title": "近期港股为何在三地中走得更弱？",
+          "url": "https://wallstreetcn.com/articles/3761002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 21时31分]"
         },
         {
           "title": "港股新股宝济药业-B暗盘一度涨超100%。",
@@ -568,24 +580,13 @@
           "time_info": "[17时16分 ~ 18时16分]"
         },
         {
-          "title": "近期港股为何在三地中走得更弱？",
-          "url": "https://wallstreetcn.com/articles/3761002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
           "title": "兆易创新港股上市获中国证监会备案",
           "url": "https://wallstreetcn.com/livenews/3017660",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -604,7 +605,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -670,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
+          "url": "https://www.zhihu.com/question/1981656074458199100",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "摩根士丹利两年半来首次下调对特斯拉评级，指其估值过高",
@@ -738,8 +750,19 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "市场消息：巴基斯坦委员会修订了石油营销公司和经销商的利润率。",
+          "url": "https://flash.jin10.com/detail/20251209204517764800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
         {
           "title": "据三名警方及安全部门消息人士称，巴基斯坦西北部一安全哨所遭武装分子袭击，6名巴基斯坦士兵身亡。",
           "url": "https://flash.jin10.com/detail/20251209122200587800",
