@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T16:19:37.692927+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2025-12-09T17:16:58.066959+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 17时16分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -194,6 +194,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "金十图示：2025年12月08日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251209013218398800",
           "source": "金十数据",
@@ -241,7 +252,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -290,11 +301,12 @@
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -357,6 +369,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
           "url": "https://flash.jin10.com/detail/20251209041755526800",
           "source": "金十数据",
@@ -366,6 +389,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -475,11 +520,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%9A%84%E5%88%9D%E5%A7%8B%E4%B8%8E%E5%B4%9B%E8%B5%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时16分]"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉跌超3%",
@@ -518,7 +564,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
@@ -530,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 17时16分]"
         },
         {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
@@ -543,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
+          "url": "https://wallstreetcn.com/livenews/3017538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "港股歌礼制药股价飙升，因口服减肥药取得积极顶线数据",
