@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T19:12:46.963225+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2025-12-09T20:26:25.059639+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时58分 ~ 19时12分]"
+          "appearance_count": 17,
+          "time_info": "[08时58分 ~ 20时26分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -212,7 +212,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -264,7 +264,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -353,8 +353,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -437,6 +437,17 @@
           "time_info": "17时16分"
         },
         {
+          "title": "欧盟委员会已向美国官员通报谷歌反垄断调查事宜。",
+          "url": "https://flash.jin10.com/detail/20251209193235925800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
           "url": "https://flash.jin10.com/detail/20251209012659154800",
           "source": "金十数据",
@@ -490,6 +501,104 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时17分 ~ 17时16分]"
+        },
+        {
+          "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
+          "url": "https://wallstreetcn.com/livenews/3017238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "澜起科技港股上市获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3017626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时26分]"
+        },
+        {
+          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
+          "url": "https://wallstreetcn.com/livenews/3017538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时16分]"
+        },
+        {
+          "title": "近期港股为何在三地中走得更弱？",
+          "url": "https://wallstreetcn.com/articles/3761002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "兆易创新港股上市获中国证监会备案",
+          "url": "https://wallstreetcn.com/livenews/3017660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "港股歌礼制药股价飙升，因口服减肥药取得积极顶线数据",
+          "url": "https://wallstreetcn.com/livenews/3017377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -583,82 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 17时16分]"
-        },
-        {
-          "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
-          "url": "https://wallstreetcn.com/livenews/3017238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时58分"
-        },
-        {
-          "title": "澜起科技港股上市获中国证监会备案",
-          "url": "https://wallstreetcn.com/livenews/3017626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时12分]"
-        },
-        {
-          "title": "港股新股宝济药业-B暗盘一度涨超100%。",
-          "url": "https://wallstreetcn.com/livenews/3017538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时16分]"
-        },
-        {
-          "title": "港股歌礼制药股价飙升，因口服减肥药取得积极顶线数据",
-          "url": "https://wallstreetcn.com/livenews/3017377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
         }
       ]
     },
