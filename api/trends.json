@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:12:41.390979+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2025-12-11T04:15:42.345939+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -99,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时15分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -110,8 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 04时15分]"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -120,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -161,8 +161,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     }
