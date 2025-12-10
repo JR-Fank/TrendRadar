@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:17:18.448758+08:00",
-  "total_titles_processed": 1415,
+  "generated_at": "2025-12-10T16:19:19.535015+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 16时19分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -218,6 +218,19 @@
           "time_info": "[00时17分 ~ 12时27分]"
         },
         {
+          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
+          "url": "https://www.cls.cn/detail/2224862",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 16时19分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：欧盟委员会应该解散，由民选机构取代，欧盟主席也应该由直接选举产生。目前的体制是官僚统治，而非民主。",
           "url": "https://flash.jin10.com/detail/20251210025325726800",
           "source": "金十数据",
@@ -227,18 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
-          "url": "https://www.cls.cn/detail/2224862",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时17分]"
         },
         {
           "title": "国台办回应赖清德当局出卖台积电",
@@ -267,6 +268,18 @@
           "time_info": "[10时52分 ~ 12时27分]"
         },
         {
+          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
+          "url": "https://www.cls.cn/detail/2224821",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时19分]"
+        },
+        {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
           "url": "https://flash.jin10.com/detail/20251210024538180800",
           "source": "金十数据",
@@ -276,17 +289,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "11月新能源车企销量TOP10：鸿蒙智行、小米同比几近翻倍 特斯拉环比飙升超180%",
-          "url": "https://www.cls.cn/detail/2224821",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "台积电：1-11月累计销售额3.47万亿新台币，同比增长32.8%。",
@@ -468,8 +470,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 16时19分]"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -534,8 +536,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 16时19分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
