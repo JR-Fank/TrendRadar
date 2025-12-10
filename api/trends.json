@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T20:26:14.543639+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2025-12-10T21:32:41.023778+08:00",
+  "total_titles_processed": 1982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时00分 ~ 20时26分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 21时32分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -152,6 +152,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
+          "url": "https://wallstreetcn.com/livenews/3018453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
           "url": "https://wallstreetcn.com/livenews/3017891",
           "source": "华尔街见闻-快讯",
@@ -198,6 +209,159 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
+          "url": "https://flash.jin10.com/detail/20251210011305309800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
+          "url": "https://flash.jin10.com/detail/20251210011217599800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
+          "url": "https://flash.jin10.com/detail/20251210011028672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
+          "url": "https://wallstreetcn.com/livenews/3017827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时10分]"
+        },
+        {
+          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
+          "url": "https://wallstreetcn.com/livenews/3017848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 05时11分]"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express、Adobe Acrobat直接引入ChatGPT。 将在接下来的几周内，继续为ChatGPT中的Adobe应用添加新功能。",
+          "url": "https://wallstreetcn.com/livenews/3018469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
+          "url": "https://flash.jin10.com/detail/20251210024251829800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
+          "url": "https://flash.jin10.com/detail/20251210010503413800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "ChatGPT整合Adobe Photoshop等部分软件功能",
+          "url": "https://flash.jin10.com/detail/20251210210732222800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3017782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
+          "url": "https://flash.jin10.com/detail/20251210021330401800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "Adobe：将Adobe Photoshop、Adobe Express和Adobe Acrobat直接接入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251210210023476800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
+          "url": "https://flash.jin10.com/detail/20251209230341120800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 11,
       "titles": [
@@ -228,8 +392,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 20时26分]"
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 21时32分]"
         },
         {
           "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
@@ -339,205 +503,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
-          "url": "https://flash.jin10.com/detail/20251210011305309800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "OpenAI：AAIF将作为Linux基金会下属的一个定向基金运营。",
-          "url": "https://flash.jin10.com/detail/20251210011217599800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "OpenAI：AAIF旨在为开放、可互操作的基础设施提供中立的管理服务。",
-          "url": "https://flash.jin10.com/detail/20251210011028672800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "OpenAI和Block参与创立Linux基金会旗下的“Agentic AI基金会（AAIF）”。 Anthropic称，将模型内容协议捐赠给AAIF。",
-          "url": "https://wallstreetcn.com/livenews/3017827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时10分]"
-        },
-        {
-          "title": "OpenAI：任命Denise Dresser为首席营收官（CRO）。 Dresser近期主要担任Slack的首席执行官（CEO）。",
-          "url": "https://wallstreetcn.com/livenews/3017848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 05时11分]"
-        },
-        {
-          "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
-          "url": "https://flash.jin10.com/detail/20251210024251829800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
-          "url": "https://flash.jin10.com/detail/20251210010503413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "ChatGPT周活跃用户数接近9亿。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3017782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "OpenAI宣布在Linux基金会下共同创立Agentic AI基金会",
-          "url": "https://flash.jin10.com/detail/20251210021330401800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "据The Information：ChatGPT周活跃用户接近9亿。",
-          "url": "https://flash.jin10.com/detail/20251209230341120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "近期港股为何在三地中走得更弱？",
-          "url": "https://wallstreetcn.com/articles/3761002",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 16时19分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时16分 ~ 20时26分]"
-        },
-        {
-          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 17时17分]"
-        },
-        {
-          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
-          "url": "https://wallstreetcn.com/livenews/3018223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时17分]"
-        },
-        {
-          "title": "港股内房股走高，万科企业一度涨超19%，融信中国、融创中国涨超12%，世茂集团涨11%，中国金茂涨逾9%，碧桂园涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3018204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时17分]"
-        },
-        {
-          "title": "复星医药在陆港两地上涨，A股和港股分别上涨近4%和近6%。此前公司公告称，子公司与辉瑞就GLP-1R激动剂签订许可协议，最高可获5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3018040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
@@ -610,6 +577,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "标普全球与谷歌云签署多年合作协议。",
+          "url": "https://flash.jin10.com/detail/20251210210123697800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "近期港股为何在三地中走得更弱？",
+          "url": "https://wallstreetcn.com/articles/3761002",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 16时19分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时16分 ~ 21时32分]"
+        },
+        {
+          "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 17时17分]"
+        },
+        {
+          "title": "A股港股午后集体拉升 房地产板块涨幅居前",
+          "url": "https://wallstreetcn.com/livenews/3018223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时17分]"
+        },
+        {
+          "title": "港股内房股走高，万科企业一度涨超19%，融信中国、融创中国涨超12%，世茂集团涨11%，中国金茂涨逾9%，碧桂园涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3018204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时17分]"
+        },
+        {
+          "title": "复星医药在陆港两地上涨，A股和港股分别上涨近4%和近6%。此前公司公告称，子公司与辉瑞就GLP-1R激动剂签订许可协议，最高可获5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3018040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
