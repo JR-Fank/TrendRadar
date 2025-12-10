@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T19:12:49.588819+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2025-12-10T20:26:14.543639+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时00分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[09时00分 ~ 20时26分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -224,11 +224,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时17分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 20时26分]"
         },
         {
           "title": "史上最大IPO明年来袭？SpaceX拟募资超300亿美元，目标估值超特斯拉！",
@@ -475,6 +476,18 @@
           "time_info": "[00时17分 ~ 16时19分]"
         },
         {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 20时26分]"
+        },
+        {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
           "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
@@ -484,17 +497,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 17时17分]"
-        },
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 19时12分]"
         },
         {
           "title": "A股港股午后集体拉升 房地产板块涨幅居前",
@@ -605,7 +607,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
