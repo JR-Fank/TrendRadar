@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T12:27:27.974333+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2025-12-10T13:15:42.542191+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -33,17 +33,6 @@
           "time_info": "[00时17分 ~ 09时00分]"
         },
         {
-          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 04时13分]"
-        },
-        {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
           "url": "https://wallstreetcn.com/articles/3760999",
           "source": "华尔街见闻",
@@ -51,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 13时15分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -66,8 +55,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时37分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[06时37分 ~ 13时15分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时26分 ~ 04时13分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -366,11 +366,12 @@
           "url": "https://www.cls.cn/detail/2224862",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时15分]"
         },
         {
           "title": "国台办回应赖清德当局出卖台积电",
@@ -380,8 +381,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时52分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时52分 ~ 13时15分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
@@ -417,11 +418,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时00分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时00分 ~ 13时15分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -486,8 +488,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 13时15分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
