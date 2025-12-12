@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T15:17:27.485550+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-12-12T16:19:25.021524+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时00分 ~ 15时17分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 16时19分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时17分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -516,8 +516,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时53分 ~ 16时19分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -684,11 +684,12 @@
             19,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 16时19分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
