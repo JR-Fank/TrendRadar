@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:25:05.109963+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-12-12T15:17:27.485550+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时00分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 15时17分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 15时17分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -32,19 +45,6 @@
           "time_info": "07时13分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时25分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时17分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -309,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时12分 ~ 14时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时12分 ~ 15时17分]"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -516,8 +516,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 14时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 15时17分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -687,8 +687,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 14时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 15时17分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
@@ -708,7 +708,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -780,7 +780,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
