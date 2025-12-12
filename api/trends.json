@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T18:15:03.858535+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2025-12-12T19:13:24.093357+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 19时13分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -505,7 +505,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -518,8 +518,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时53分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 19时13分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -528,7 +528,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -648,6 +648,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
           "url": "https://flash.jin10.com/detail/20251212015625027800",
           "source": "金十数据",
@@ -700,11 +711,12 @@
             23,
             24,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 18时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时19分 ~ 19时13分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
