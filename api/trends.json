@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:19:25.021524+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2025-12-12T17:18:20.253575+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 16时19分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 17时18分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -513,11 +513,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时53分 ~ 16时19分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 17时18分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -685,11 +686,12 @@
             20,
             21,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时19分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 17时18分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
