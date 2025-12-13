@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T22:12:23.102932+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2025-12-13T23:12:39.243868+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时13分 ~ 22时12分]"
+          "appearance_count": 21,
+          "time_info": "[07时13分 ~ 23时12分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -152,11 +152,12 @@
             6,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时13分 ~ 22时12分]"
+          "appearance_count": 21,
+          "time_info": "[07时13分 ~ 23时12分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
