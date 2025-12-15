@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T14:22:48.621913+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-12-15T15:18:54.550215+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时18分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时18分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -44,19 +44,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时18分]"
         },
         {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时18分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -65,7 +66,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
