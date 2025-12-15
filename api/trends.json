@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:33:30.334724+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2025-12-15T13:19:14.306508+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         }
       ]
     },
