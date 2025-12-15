@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-15T20:28:25.235631+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2025-12-15T21:36:10.022932+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "巴基斯坦海军试射远程地对空导弹",
+          "url": "https://news.ifeng.com/c/8p6hIW9h3EH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时23分 ~ 21时36分]"
+        },
         {
           "title": "巴基斯坦央行将基准利率下调50个基点至10.50%。",
           "url": "https://flash.jin10.com/detail/20251215185717438800",
@@ -25,20 +37,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
-        },
-        {
-          "title": "巴基斯坦海军试射远程地对空导弹",
-          "url": "https://news.ifeng.com/c/8p6hIW9h3EH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时28分]"
         },
         {
           "title": "巴基斯坦海军试射远程地对空导弹",
@@ -59,7 +60,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
         },
@@ -103,9 +104,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦央行：巴基斯坦下半年美元流入量将高于上半年。",
+          "url": "https://flash.jin10.com/detail/20251215205649787800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "巴基斯坦海军试射远程地对空导弹",
@@ -194,6 +206,18 @@
           "time_info": "[17时23分 ~ 19时13分]"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时28分 ~ 21时36分]"
+        },
+        {
           "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
           "url": "https://flash.jin10.com/detail/20251215170334528800",
           "source": "金十数据",
@@ -203,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
-        },
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
@@ -230,7 +243,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股收盘：恒生指数收跌1.34%，恒生科技指数收跌2.48%，科网股多数走低，华虹半导体跌超6%，百度跌超5%；消费股、内险股走高，李宁涨超5%，中国平安涨超2%。",
@@ -242,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
+          "url": "https://www.cls.cn/detail/2230118",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "深交所：中伟新材调入港股通标的证券名单，12月15日起生效。",
