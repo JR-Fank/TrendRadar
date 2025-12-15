@@ -1,11 +1,128 @@
 {
-  "generated_at": "2025-12-15T19:13:09.635571+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-12-15T20:28:25.235631+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "巴基斯坦",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "巴基斯坦央行将基准利率下调50个基点至10.50%。",
+          "url": "https://flash.jin10.com/detail/20251215185717438800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "巴基斯坦央行副行长：巴基斯坦纺织品和制造业出口呈现放缓态势。",
+          "url": "https://flash.jin10.com/detail/20251215201543043800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦海军试射远程地对空导弹",
+          "url": "https://news.ifeng.com/c/8p6hIW9h3EH",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时28分]"
+        },
+        {
+          "title": "巴基斯坦海军试射远程地对空导弹",
+          "url": "https://wallstreetcn.com/livenews/3020851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时17分]"
+        },
+        {
+          "title": "巴基斯坦央行：预计到2026年6月外汇储备将达到178亿美元。",
+          "url": "https://flash.jin10.com/detail/20251215200019069800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦央行：全球逆风因素很可能在未来制约出口。",
+          "url": "https://flash.jin10.com/detail/20251215195931603800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦央行：预计2026财年GDP增速将位于3.25%至4.25%区间的上半部分。",
+          "url": "https://flash.jin10.com/detail/20251215195850212800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦央行：在大宗商品价格保持良性态势的情况下，通胀前景基本未变。",
+          "url": "https://flash.jin10.com/detail/20251215195829839800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦央行：货币政策委员会认为，在保持物价稳定的同时，仍有降息空间。",
+          "url": "https://flash.jin10.com/detail/20251215195811027800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
+          "title": "巴基斯坦海军试射远程地对空导弹",
+          "url": "https://flash.jin10.com/detail/20251215164708477800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -88,6 +205,17 @@
           "time_info": "17时23分"
         },
         {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
           "url": "https://wallstreetcn.com/livenews/3020718",
           "source": "华尔街见闻-快讯",
@@ -97,57 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦央行将基准利率下调50个基点至10.50%。",
-          "url": "https://flash.jin10.com/detail/20251215185717438800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "巴基斯坦海军试射远程地对空导弹",
-          "url": "https://news.ifeng.com/c/8p6hIW9h3EH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时13分]"
-        },
-        {
-          "title": "巴基斯坦海军试射远程地对空导弹",
-          "url": "https://wallstreetcn.com/livenews/3020851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时17分]"
-        },
-        {
-          "title": "巴基斯坦海军试射远程地对空导弹",
-          "url": "https://flash.jin10.com/detail/20251215164708477800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         }
       ]
     },
