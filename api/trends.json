@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T12:26:45.597496+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-17T13:16:31.515071+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 12时26分]"
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 13时16分]"
+        },
+        {
+          "title": "特斯拉创历史新高！大摩大胆预测：2035年Robotaxi规模将达百万辆",
+          "url": "https://www.cls.cn/detail/2231654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 13时16分]"
         },
         {
           "title": "特斯拉涨2.8%，报489.53美元，突破2024年12月创盘中历史最高位488.54美元。",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时13分]"
-        },
-        {
-          "title": "特斯拉创历史新高！大摩大胆预测：2035年Robotaxi规模将达百万辆",
-          "url": "https://www.cls.cn/detail/2231654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 12时26分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 特斯拉创新高",
