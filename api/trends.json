@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:26:03.401981+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2025-12-18T21:31:52.739428+08:00",
+  "total_titles_processed": 2009,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时13分 ~ 20时26分]"
+          "appearance_count": 19,
+          "time_info": "[06时13分 ~ 21时31分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -351,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时21分 ~ 20时26分]"
+          "appearance_count": 10,
+          "time_info": "[14时21分 ~ 21时31分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
