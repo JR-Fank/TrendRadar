@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:13:25.579680+08:00",
-  "total_titles_processed": 1785,
+  "generated_at": "2025-12-18T20:26:03.401981+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时13分 ~ 19时13分]"
+          "appearance_count": 18,
+          "time_info": "[06时13分 ~ 20时26分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -232,6 +232,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 20时26分]"
+        },
+        {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
@@ -254,17 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时20分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 19时13分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -351,8 +351,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时21分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 20时26分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -536,7 +536,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
