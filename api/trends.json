@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:19:30.876865+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-12-18T18:15:06.350134+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时13分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[06时13分 ~ 18时15分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -55,17 +55,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
-          "url": "https://wallstreetcn.com/livenews/3023017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
           "url": "https://flash.jin10.com/detail/20251218024123307800",
           "source": "金十数据",
@@ -88,6 +77,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时15分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -296,7 +297,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -340,6 +341,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时15分]"
+        },
+        {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
           "source": "金十数据",
@@ -361,19 +375,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时16分 ~ 17时19分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时21分 ~ 17时19分]"
         },
         {
           "title": "据The Information：OpenAI已讨论以约7500亿美元的估值筹集数百亿美元。",
