@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:11:57.826382+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2025-12-20T04:14:34.426057+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时14分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -96,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 04时14分]"
         }
       ]
     }
