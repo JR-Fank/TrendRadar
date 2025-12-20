@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:12:26.322069+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2025-12-21T07:12:39.564611+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
@@ -63,20 +63,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "印度大坝突然放水 巴基斯坦怒了",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%9D%9D%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%92%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            19,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
           "url": "https://news.ifeng.com/c/8pEzNwwzDTn",
           "source": "凤凰网",
@@ -84,8 +70,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
+        },
+        {
+          "title": "印度大坝突然放水 巴基斯坦怒了",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%9D%9D%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%92%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            19,
+            17,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "印度大坝突然放水 巴基斯坦怒了",
@@ -96,11 +97,12 @@
             19,
             8,
             18,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
@@ -110,8 +112,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
@@ -128,8 +130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -137,11 +139,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -152,8 +155,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
@@ -166,11 +169,12 @@
           "url": "https://www.cls.cn/detail/2234730",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时12分]"
         }
       ]
     },
