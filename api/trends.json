@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:11:00.734764+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-12-21T06:12:26.322069+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         }
       ]
     },
@@ -69,11 +69,12 @@
           "ranks": [
             6,
             19,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
@@ -83,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "印度大坝突然放水 巴基斯坦怒了",
@@ -98,8 +99,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
@@ -109,8 +110,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 06时12分]"
         }
       ]
     },
@@ -127,8 +128,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -139,8 +140,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -168,8 +169,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 06时12分]"
         }
       ]
     },
