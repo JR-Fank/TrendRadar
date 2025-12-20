@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T02:16:41.068187+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-12-21T03:10:08.329213+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -38,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -50,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -64,11 +66,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%9D%9D%E7%AA%81%E7%84%B6%E6%94%BE%E6%B0%B4+%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%92%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
@@ -78,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "印度大坝突然放水 巴基斯坦怒了",
@@ -88,11 +91,12 @@
           "ranks": [
             24,
             19,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "巴基斯坦前总理伊姆兰·汗及其妻子被判17年监禁",
@@ -102,8 +106,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -120,8 +124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -132,8 +136,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -161,8 +165,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     },
@@ -178,8 +182,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 03时10分]"
         }
       ]
     }
