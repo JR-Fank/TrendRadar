@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T04:14:29.293365+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-22T05:11:09.642429+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时11分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -29,8 +29,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时17分 ~ 05时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉CEO埃隆·马斯克：特斯拉无人出租车未受旧金山停电影响。",
+          "url": "https://flash.jin10.com/detail/20251222043920328800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时11分"
         }
       ]
     },
@@ -47,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时11分]"
         }
       ]
     },
@@ -66,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 04时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时14分 ~ 05时11分]"
         }
       ]
     }
