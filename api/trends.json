@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T11:23:14.770216+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-12-21T12:31:16.628862+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时31分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时31分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -150,8 +150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时31分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -187,11 +187,12 @@
           "url": "https://wallstreetcn.com/articles/3761778",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时31分]"
         }
       ]
     },
