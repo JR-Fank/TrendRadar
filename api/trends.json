@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T13:18:42.737970+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-12-22T14:22:35.230838+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "ranks": [
             20,
             18,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时22分]"
         },
         {
           "title": "特斯拉提交新专利：将Starlink接收器嵌入天窗，绕过网络运营商",
@@ -124,8 +125,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时22分]"
         }
       ]
     },
@@ -144,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 13时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 14时22分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -153,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 14时22分]"
         }
       ]
     },
