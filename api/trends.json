@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T02:19:51.247632+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2025-12-23T03:12:33.925182+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,24 @@
           "url": "https://flash.jin10.com/detail/20251223013152796800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时12分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251223013143284800",
           "source": "金十数据",
           "ranks": [
-            20
+            20,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时19分 ~ 03时12分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
@@ -78,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时12分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -89,8 +91,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 03时12分]"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -118,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时12分]"
         }
       ]
     },
