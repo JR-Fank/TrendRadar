@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:12:33.925182+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-23T04:14:34.004809+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -80,19 +80,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 04时14分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
           "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 04时14分]"
         },
         {
           "title": "特斯拉涨约3.6%，刷新盘中历史高位至496.74美元，盘中市值大约1.65万亿美元。",
@@ -120,8 +121,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 03时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 04时14分]"
         }
       ]
     },
