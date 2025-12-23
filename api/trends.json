@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T12:33:51.515472+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2025-12-23T13:17:58.579210+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时12分 ~ 12时33分]"
+          "appearance_count": 8,
+          "time_info": "[07时12分 ~ 13时17分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -173,7 +173,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -187,8 +187,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 12时33分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 13时17分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -209,8 +209,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时17分]"
         },
         {
           "title": "特斯拉股价逼近500美元创新高 马斯克薪酬案翻盘+FSD稳跑",
@@ -222,8 +222,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时00分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 13时17分]"
+        },
+        {
+          "title": "加通贝祥：将特斯拉(TSLA.O)目标价从482美元上调至551美元。",
+          "url": "https://flash.jin10.com/detail/20251223123441167800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "七年来首次！三星、海力士毛利率或超过台积电 存储迎来“高光时刻”",
