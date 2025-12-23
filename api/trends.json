@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T19:13:03.113103+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2025-12-23T20:26:16.699657+08:00",
+  "total_titles_processed": 1817,
   "failed_sources": [],
   "trends": [
     {
@@ -196,8 +196,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时00分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时00分 ~ 20时26分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -212,8 +212,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时12分 ~ 19时13分]"
+          "appearance_count": 23,
+          "time_info": "[01时12分 ~ 20时26分]"
         },
         {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
@@ -330,11 +330,12 @@
           "url": "https://wallstreetcn.com/articles/3761889",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 20时26分]"
         },
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股快手下挫3.6%",
@@ -445,7 +446,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         }
