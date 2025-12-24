@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:18:16.630985+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2025-12-24T14:21:40.207891+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时12分 ~ 13时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时12分 ~ 14时21分]"
         },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -175,8 +175,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 13时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 14时21分]"
         },
         {
           "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
@@ -184,11 +184,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时21分]"
         },
         {
           "title": "深交所公告，港股通标的证券名单调整，调入百奥赛图-B（02315），12月24日起生效。",
