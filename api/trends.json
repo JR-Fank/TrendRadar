@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T21:28:18.777765+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2025-12-26T22:13:40.949045+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -33,6 +33,17 @@
           "time_info": "[11时55分 ~ 13时16分]"
         },
         {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
           "url": "https://flash.jin10.com/detail/20251226172626463800",
           "source": "金十数据",
@@ -42,12 +53,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-26）",
+          "url": "https://flash.jin10.com/detail/20251226211205705800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
@@ -61,6 +83,17 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时15分 ~ 18时14分]"
+        },
+        {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
