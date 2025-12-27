@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:13:29.885229+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-12-27T18:12:59.802212+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 18时12分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 18时12分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -51,11 +51,12 @@
             12,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时59分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[08时59分 ~ 18时12分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -65,11 +66,12 @@
             11,
             10,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时14分 ~ 14时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 18时12分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
