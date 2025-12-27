@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T10:50:09.061349+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2025-12-27T11:52:45.639726+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 10时50分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 11时52分]"
         },
         {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 11时52分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -66,8 +66,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 11时52分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
@@ -113,11 +113,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 11时52分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
