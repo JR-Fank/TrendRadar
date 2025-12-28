@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-12-28T15:14:29.209001+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-12-28T16:17:25.035391+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "港股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "元旦周重磅日程：美联储主席或揭晓，巴菲特退休，“港股GPU第一股”挂牌",
+          "url": "https://wallstreetcn.com/articles/3762120",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 1,
