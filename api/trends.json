@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-28T22:12:49.007317+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2025-12-28T23:13:00.339455+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
+          "url": "https://wallstreetcn.com/articles/3762133",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
+        },
+        {
+          "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
+          "url": "https://flash.jin10.com/detail/20251228222030090800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        }
+      ]
+    },
     {
       "keyword_group": "港股",
       "match_count": 1,
@@ -20,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 22时12分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时13分]"
         }
       ]
     },
@@ -39,25 +67,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时24分 ~ 22时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时13分]"
+          "appearance_count": 5,
+          "time_info": "[21时24分 ~ 23时13分]"
         }
       ]
     }
