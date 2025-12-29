@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T03:11:33.907172+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2025-12-30T04:15:19.500564+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2025年12月29日（周一）美股热门股票行情一览（美股盘中）",
@@ -64,11 +64,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 03时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 04时15分]"
         }
       ]
     }
