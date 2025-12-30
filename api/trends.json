@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T19:13:13.536203+08:00",
-  "total_titles_processed": 1591,
+  "generated_at": "2025-12-30T20:26:17.277575+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 19时13分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 20时26分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时16分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[15时16分 ~ 20时26分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -165,7 +165,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -266,7 +266,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "百度(BIDU.O)美股盘前涨超5%，港股今日收涨近9%。",
@@ -275,7 +275,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -290,6 +290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 11时59分]"
+        },
+        {
+          "title": "一夜亏185万！跟大V打新港股遇“杀猪盘”",
+          "url": "https://www.cls.cn/detail/2244340",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "港股收盘：百度集团大涨近9%",
