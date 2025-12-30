@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T12:39:38.832153+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-12-30T13:17:50.444703+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 13时17分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时17分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -173,11 +173,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
