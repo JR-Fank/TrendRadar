@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T11:21:10.325188+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-12-31T12:32:41.659389+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时16分 ~ 06时13分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时32分]"
+        },
+        {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 09时02分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时21分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -191,6 +191,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
+          "url": "https://www.cls.cn/detail/2244770",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 12时32分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
           "url": "https://wallstreetcn.com/livenews/3028929",
           "source": "华尔街见闻-快讯",
@@ -201,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
-          "url": "https://www.cls.cn/detail/2244770",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "何小鹏开特斯拉点麦当劳失败",
@@ -270,7 +271,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         },
@@ -313,8 +314,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时32分]"
         },
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日将公布中国12月官方、RatingDog制造业PMI；元旦前夕，多个市场调整交易时间，日韩股市休市、港股交易半日",
