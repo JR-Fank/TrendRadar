@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:25:08.167445+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-12-31T21:28:07.086843+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时01分 ~ 20时25分]"
+          "appearance_count": 19,
+          "time_info": "[09时01分 ~ 21时28分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -433,11 +433,12 @@
           "url": "https://flash.jin10.com/detail/20251231195954878800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时28分]"
         },
         {
           "title": "巴基斯坦副总理兼外长达尔将访华并举行第七次中巴外长战略对话",
