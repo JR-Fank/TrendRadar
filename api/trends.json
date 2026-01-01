@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:12:51.986218+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-01-02T06:13:03.535051+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%92%E6%8D%A2%E6%A0%B8%E8%AE%BE%E6%96%BD%E6%B8%85%E5%8D%95",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时12分]"
+          "appearance_count": 4,
+          "time_info": "[04时15分 ~ 06时13分]"
         },
         {
           "title": "印度与巴基斯坦互换核设施清单",
@@ -83,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -94,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "台积电量产的2纳米芯片是什么原理",
@@ -106,8 +107,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时13分]"
         }
       ]
     },
@@ -124,11 +125,12 @@
             12,
             17,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时13分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -172,8 +174,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时13分]"
         }
       ]
     }
