@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:12:43.169289+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-01T20:25:45.732336+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时07分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 20时25分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -136,19 +136,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 19时12分]"
-        },
-        {
           "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
           "url": "https://wallstreetcn.com/articles/3762419",
           "source": "华尔街见闻",
@@ -159,8 +146,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[16时18分 ~ 20时25分]"
+        },
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 20时25分]"
         },
         {
           "title": "事关南京工厂 台积电发布声明",
@@ -169,11 +169,26 @@
           "ranks": [
             4,
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时25分]"
+        },
+        {
+          "title": "台积电发布声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时25分]"
         },
         {
           "title": "行业机构：法国12月新车注册量下降5.84%。 特斯拉12月在法国的新车注册量下降66.04%。 法国2025年新车注册量下降5.02%。",
@@ -185,19 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        },
-        {
-          "title": "台积电发布声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
