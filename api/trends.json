@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-01-02T15:18:18.035775+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-01-02T16:19:23.195016+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
+          "title": "港股2026年开门红：恒生指数收盘涨2.76%，恒生科技指数涨4%，壁仞科技涨约76%",
+          "url": "https://wallstreetcn.com/livenews/3029770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
         {
           "title": "港股GPU第一股上市首日一度涨超110%",
           "url": "https://www.toutiao.com/trending/7590586183118229046/",
@@ -19,41 +45,41 @@
           "time_info": "13时19分"
         },
         {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时18分]"
-        },
-        {
           "title": "港股创新药概念股持续走高，晶泰控股涨超6%，恒瑞医药涨超5%，四环医药涨超4%，信达生物、药明生物涨超3%，百济神州涨超2%。",
           "url": "https://wallstreetcn.com/livenews/3029745",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
           "url": "https://wallstreetcn.com/articles/3762441",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
+        },
+        {
+          "title": "兴业证券：2026年港股市场将延续牛市格局，行情节奏如“火炬登山”般震荡上行",
+          "url": "https://wallstreetcn.com/livenews/3029751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时18分]"
+          "time_info": "[15时18分 ~ 16时19分]"
         },
         {
           "title": "百度集团港股大涨超8%。此前公司在香港交易所公告称，建议分拆昆仑芯在港交所主板独立上市。",
@@ -92,15 +118,15 @@
           "time_info": "[11时24分 ~ 12时33分]"
         },
         {
-          "title": "兴业证券：2026年港股市场将延续牛市格局，行情节奏如“火炬登山”般震荡上行",
-          "url": "https://wallstreetcn.com/livenews/3029751",
+          "title": "港股光伏板块走强，协鑫新能源涨超20%，协鑫科技涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3029761",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时19分"
         },
         {
           "title": "“港股GPU第一股”壁仞科技港股上市首日开盘报35.7港元，涨幅82.14%，招股价为19.6港元。",
@@ -134,6 +160,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
+          "url": "https://wallstreetcn.com/articles/3762419",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 11时24分]"
+        },
+        {
+          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
+          "url": "https://www.cls.cn/detail/2245979",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时13分]"
+        },
+        {
+          "title": "台积电量产的2纳米芯片是什么原理",
+          "url": "https://www.toutiao.com/trending/7590360699793051177/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 06时13分]"
+        },
+        {
+          "title": "瑞典出行数据显示，特斯拉12月在瑞典的新车注册量同比增长70.6%。",
+          "url": "https://flash.jin10.com/detail/20260102155843427800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "挪威道路联合会：12月特斯拉(TSLA.O)在挪威的新车注册量同比增长了89%。",
+          "url": "https://flash.jin10.com/detail/20260102152520172800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -268,51 +359,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2天20小时、零接管横穿美国，特斯拉FSD已通过“物理图灵测试”？",
-          "url": "https://wallstreetcn.com/articles/3762419",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 11时24分]"
-        },
-        {
-          "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
-          "url": "https://www.cls.cn/detail/2245979",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时13分]"
-        },
-        {
-          "title": "台积电量产的2纳米芯片是什么原理",
-          "url": "https://www.toutiao.com/trending/7590360699793051177/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -323,8 +371,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 15时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
@@ -350,6 +398,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时13分 ~ 09时02分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
@@ -364,7 +423,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
