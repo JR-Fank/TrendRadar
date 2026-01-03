@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:14:14.523520+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-03T18:13:15.694216+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时19分 ~ 17时14分]"
+          "appearance_count": 21,
+          "time_info": "[02时19分 ~ 18时13分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时48分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 18时13分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -111,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -216,6 +216,17 @@
           "time_info": "[08时58分 ~ 12时25分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 18时13分]"
+        },
+        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -226,17 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "半导体ETF美股盘初涨近4%，半导体设备股上涨，引领芯片股走高",
@@ -297,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 17时14分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 18时13分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -311,8 +311,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时48分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 18时13分]"
         },
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -324,11 +324,12 @@
             11,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时48分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[10时48分 ~ 18时13分]"
         },
         {
           "title": "比亚迪超越特斯拉成全球电车销冠",
@@ -341,8 +342,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时51分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时51分 ~ 18时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -429,11 +430,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 17时14分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 18时13分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -441,11 +443,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -515,11 +518,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -528,11 +532,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 18时13分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
