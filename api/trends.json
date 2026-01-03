@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T20:23:25.954452+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-01-03T21:24:54.711686+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时48分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[10时48分 ~ 21时24分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -112,8 +112,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 20时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 21时24分]"
+        },
+        {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时13分 ~ 21时24分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -144,19 +157,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时19分 ~ 08时58分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时13分 ~ 20时23分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消减，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -301,8 +301,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时58分 ~ 20时23分]"
+          "appearance_count": 17,
+          "time_info": "[08时58分 ~ 21时24分]"
         },
         {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
@@ -315,8 +315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时48分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[10时48分 ~ 21时24分]"
         },
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -333,8 +333,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时48分 ~ 20时23分]"
+          "appearance_count": 16,
+          "time_info": "[10时48分 ~ 21时24分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -346,11 +346,12 @@
             9,
             12,
             13,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 20时23分]"
+          "appearance_count": 11,
+          "time_info": "[14时20分 ~ 21时24分]"
         },
         {
           "title": "比亚迪超越特斯拉成全球电车销冠",
@@ -377,8 +378,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时17分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[16时17分 ~ 21时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -530,8 +531,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 20时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 21时24分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -544,8 +545,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时15分 ~ 20时23分]"
+          "appearance_count": 29,
+          "time_info": "[00时15分 ~ 21时24分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
