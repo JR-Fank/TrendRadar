@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:12:44.480732+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-01-03T23:12:37.867954+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时48分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时48分 ~ 23时12分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -99,6 +99,20 @@
           "time_info": "[06时13分 ~ 16时17分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时13分 ~ 23时12分]"
+        },
+        {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
           "url": "https://www.cls.cn/detail/2246465",
           "source": "财联社热门",
@@ -112,22 +126,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 22时12分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时13分 ~ 22时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时15分 ~ 23时12分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -302,22 +302,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时58分 ~ 22时12分]"
-        },
-        {
-          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
-          "url": "https://wallstreetcn.com/articles/3762459",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时48分 ~ 22时12分]"
+          "appearance_count": 19,
+          "time_info": "[08时58分 ~ 23时12分]"
         },
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -332,11 +318,26 @@
             7,
             6,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时48分 ~ 22时12分]"
+          "appearance_count": 18,
+          "time_info": "[10时48分 ~ 23时12分]"
+        },
+        {
+          "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
+          "url": "https://wallstreetcn.com/articles/3762459",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[10时48分 ~ 23时12分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -349,11 +350,12 @@
             12,
             13,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时20分 ~ 22时12分]"
+          "appearance_count": 13,
+          "time_info": "[14时20分 ~ 23时12分]"
         },
         {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
@@ -365,8 +367,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时17分 ~ 22时12分]"
+          "appearance_count": 11,
+          "time_info": "[16时17分 ~ 23时12分]"
         },
         {
           "title": "比亚迪超越特斯拉成全球电车销冠",
@@ -474,6 +476,17 @@
           "time_info": "[00时16分 ~ 01时12分]"
         },
         {
+          "title": "特斯拉电动车年销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302638",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 23时12分]"
+        },
+        {
           "title": "特斯拉丢掉全球电车销冠王座",
           "url": "https://www.douyin.com/hot/2355790",
           "source": "抖音",
@@ -483,17 +496,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 14时20分]"
-        },
-        {
-          "title": "特斯拉电动车年销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302638",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
         },
         {
           "title": "特斯拉第四季度交付量418227辆，同比下降16%，预估440907辆。 第四季度Model 3/Y 交付量406585辆，同比下降14%，预估421796辆。 第四季度汽车产量434358辆，同比下降5.5%，预估470780辆。 第四季度Model 3/Y 产量422652辆，同比下降3.2%，预估452494辆。 特斯拉全年交付量164万，同比下降8.6%，预估160万。 特斯拉美股盘前涨近2%。",
@@ -544,8 +546,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 22时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时15分 ~ 23时12分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -558,8 +560,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时15分 ~ 22时12分]"
+          "appearance_count": 31,
+          "time_info": "[00时15分 ~ 23时12分]"
         },
         {
           "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
@@ -622,7 +624,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "南亚股市收盘播报｜印度股指涨0.7%，巴基斯坦股市继续创收盘历史新高，本周累涨3.8%",
@@ -637,6 +639,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时16分 ~ 03时10分]"
+        },
+        {
+          "title": "巴基斯坦空军成功试验国产“泰穆尔”空射巡航导弹",
+          "url": "https://wallstreetcn.com/livenews/3030069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
