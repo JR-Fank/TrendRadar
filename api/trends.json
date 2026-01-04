@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T09:08:05.498406+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-04T11:44:07.531721+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "比亚迪新晋全球纯电销冠！特斯拉2025年交付量跌逾8%至164万辆",
@@ -93,6 +93,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 01时11分]"
+        },
+        {
+          "title": "美媒如何看特斯拉销量被中国汽车超越",
+          "url": "https://www.toutiao.com/trending/7591314235687177778/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         }
       ]
     },
@@ -110,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时44分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -120,22 +131,24 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时44分]"
         },
         {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
           "url": "https://wallstreetcn.com/articles/3762476",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 11时44分]"
         }
       ]
     },
