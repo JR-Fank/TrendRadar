@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:23:25.628131+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-04T21:26:07.811831+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
@@ -142,11 +142,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时26分]"
+        },
+        {
+          "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时11分 ~ 20时23分]"
+          "time_info": "[21时25分 ~ 21时26分]"
         }
       ]
     },
