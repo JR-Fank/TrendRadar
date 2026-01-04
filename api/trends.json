@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T07:12:58.341491+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-01-04T09:08:05.498406+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
+          "url": "https://wallstreetcn.com/articles/3762467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 09时08分]"
+        },
+        {
           "title": "特斯拉“全球最大电动车销售商”宝座让位比亚迪，Q4交付量418227辆",
           "url": "https://wallstreetcn.com/articles/3762459",
           "source": "华尔街见闻",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
-          "url": "https://wallstreetcn.com/articles/3762467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 07时12分]"
         },
         {
           "title": "特斯拉全年交付数据下降 8.6%，丢掉全球电车销冠王座，主要原因是什么？特斯拉发展遇到了哪些问题？",
@@ -97,38 +97,8 @@
       ]
     },
     {
-      "keyword_group": "港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
-          "url": "https://www.cls.cn/detail/2246357",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
-        },
-        {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
@@ -136,11 +106,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时12分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 09时08分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -150,6 +121,48 @@
             7,
             8,
             9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 09时08分]"
+        },
+        {
+          "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
+          "url": "https://wallstreetcn.com/articles/3762476",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股收盘｜科技指数涨超4%迎“开门红” 硬科技与政策消费双轮驱动",
+          "url": "https://www.cls.cn/detail/2246357",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 09时08分]"
+        },
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 10,
