@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T09:06:59.125408+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-01-05T11:48:11.447487+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -21,13 +21,24 @@
           "time_info": "[00时15分 ~ 07时13分]"
         },
         {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
           "title": "本周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
           "url": "https://wallstreetcn.com/articles/3762497",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -38,7 +49,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
@@ -46,7 +57,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉Cybercab今年量产",
@@ -55,9 +66,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
+          "url": "https://www.zhihu.com/question/1990770031445942920",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
         }
       ]
     }
