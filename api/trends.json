@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T00:19:02.461761+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-06T01:16:43.327851+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -25,7 +25,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
         }
@@ -43,8 +43,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         }
       ]
     },
@@ -57,11 +57,12 @@
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 01时16分]"
         }
       ]
     }
