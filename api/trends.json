@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T18:17:32.329974+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-01-05T19:13:27.908083+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 19时13分]"
         },
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时47分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 19时13分]"
         },
         {
           "title": "特斯拉Cybercab今年量产",
@@ -170,7 +170,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
