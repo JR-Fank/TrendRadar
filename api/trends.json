@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T13:18:52.483474+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-01-06T14:22:19.843573+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 14时22分]"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 14时22分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -31,19 +44,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时18分 ~ 13时18分]"
-        },
-        {
-          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
-          "url": "https://www.cls.cn/detail/2248624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时13分 ~ 13时18分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -249,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 14时22分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
