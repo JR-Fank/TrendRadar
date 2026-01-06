@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-06T12:33:00.093064+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-06T13:18:52.483474+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时18分]"
+        },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2248463",
@@ -17,20 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 12时33分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时33分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时18分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -249,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 13时18分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
