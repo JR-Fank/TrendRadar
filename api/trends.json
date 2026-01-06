@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T14:22:19.843573+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2026-01-06T15:20:36.186820+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 15时20分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 15时20分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -249,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 15时20分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
