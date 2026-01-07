@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T14:22:19.343871+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-01-07T15:19:39.971398+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 15时19分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -226,8 +227,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：道指、标普500创新高 特斯拉跌4%",
