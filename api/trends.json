@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:19:27.566432+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-01-07T14:22:19.343871+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 14时22分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -222,11 +222,12 @@
             1,
             2,
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：道指、标普500创新高 特斯拉跌4%",
@@ -250,8 +251,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时23分 ~ 14时22分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
