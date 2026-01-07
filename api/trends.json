@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T19:14:07.393946+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2026-01-07T20:28:07.285612+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
@@ -276,6 +276,19 @@
           "time_info": "[09时02分 ~ 16时19分]"
         },
         {
+          "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
+          "url": "https://www.cls.cn/detail/2250706",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时28分]"
+        },
+        {
           "title": "美股收盘：道指、标普500创新高 特斯拉跌4%",
           "url": "https://flash.jin10.com/detail/20260107050201861800",
           "source": "金十数据",
@@ -299,18 +312,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 14时22分]"
-        },
-        {
-          "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
-          "url": "https://www.cls.cn/detail/2250706",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
