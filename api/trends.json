@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:21:37.784874+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-01-07T18:16:31.673894+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -210,6 +210,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260107013729481800",
           "source": "金十数据",
@@ -219,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "Ventyx(VTYX.O)美股盘前飙升65%，据悉礼来(LLY.N)接近达成以超10亿美元收购该公司的交易。",
+          "url": "https://flash.jin10.com/detail/20260107171807580800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "金十图示：2026年01月06日（周二）热门中概股行情一览（美股盘中）",
@@ -235,7 +257,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特斯拉市值一夜蒸发超4300亿元",
@@ -288,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
+          "url": "https://www.cls.cn/detail/2250706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.1%，苹果跌超1.8%，亚马逊涨约3.4%",
@@ -358,7 +391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -369,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
