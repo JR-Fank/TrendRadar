@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T04:15:56.804638+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-01-09T05:14:12.402452+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时14分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -29,8 +29,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时14分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 阿里巴巴涨超5%",
+          "url": "https://flash.jin10.com/detail/20260109050055276800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
+          "url": "https://wallstreetcn.com/livenews/3033545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
@@ -57,6 +79,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
+        },
+        {
+          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
+          "url": "https://flash.jin10.com/detail/20260109024531943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3033538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "OpenAI推出OpenAI for Healthcare。",
+          "url": "https://wallstreetcn.com/livenews/3033531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 1,
       "titles": [
@@ -67,11 +139,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 05时14分]"
         }
       ]
     },
@@ -84,28 +157,12 @@
           "url": "https://www.cls.cn/detail/2252328",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 04时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
-          "url": "https://flash.jin10.com/detail/20260109024531943800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 7,
+          "time_info": "[01时20分 ~ 05时14分]"
         }
       ]
     }
