@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T18:16:47.731637+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2026-01-08T19:14:51.800652+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时01分 ~ 18时16分]"
+          "appearance_count": 13,
+          "time_info": "[09时01分 ~ 19时14分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -119,7 +119,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -188,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "从“冷门”到“爆款” 美股存储巨头2026开年狂飙",
+          "url": "https://flash.jin10.com/detail/20260108181820906800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
@@ -205,8 +216,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 18时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 19时14分]"
         },
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
