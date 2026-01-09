@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:15:52.663398+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-09T19:14:00.655928+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 18时15分]"
+          "appearance_count": 13,
+          "time_info": "[09时02分 ~ 19时14分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 19时14分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -161,6 +161,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "阿斯麦股价在阿姆斯特丹交易所上涨5%，创历史新高。该股美股盘前涨3.9%。",
+          "url": "https://flash.jin10.com/detail/20260109184602011800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260109013314707800",
           "source": "金十数据",
@@ -195,9 +206,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "掘金港股，基金经理看好结构性机会",
