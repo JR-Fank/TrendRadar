@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:33:26.725534+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-09T13:19:14.388999+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 13时19分]"
+        },
+        {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2252232",
           "source": "财联社热门",
@@ -34,18 +46,6 @@
           "time_info": "[00时19分 ~ 09时02分]"
         },
         {
-          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
-          "url": "https://www.cls.cn/detail/2252454",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 12时33分]"
-        },
-        {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
@@ -53,19 +53,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 13时19分]"
         },
         {
           "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
           "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -333,7 +334,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         }
