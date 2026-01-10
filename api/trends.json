@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T00:15:23.129059+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-11T01:11:48.820617+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "巴基斯坦和美国武装部队开始联合反恐演习",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         },
         {
           "title": "巴基斯坦海军进行远程地对空导弹垂直试射",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         }
       ]
     },
@@ -51,11 +51,12 @@
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 01时11分]"
         }
       ]
     }
