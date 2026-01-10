@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T11:54:39.672108+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-01-10T12:27:56.169449+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 12时27分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -150,11 +150,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 12时27分]"
         },
         {
           "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
@@ -245,8 +246,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时27分]"
         },
         {
           "title": "开年以来港股主题ETF“吸金”超百亿元，多只产品份额创新高",
@@ -275,11 +276,12 @@
             6,
             7,
             26,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 11时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 12时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
