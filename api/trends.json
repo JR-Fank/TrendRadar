@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:15:25.277144+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-01-11T16:17:44.772087+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 16时17分]"
         },
         {
           "title": "巴基斯坦伊斯兰堡发生可燃气体爆炸，致十余人死伤",
@@ -62,11 +63,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 16时17分]"
         }
       ]
     },
@@ -82,11 +84,12 @@
             14,
             12,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时17分]"
         }
       ]
     },
