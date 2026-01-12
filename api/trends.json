@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T18:17:56.824501+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-01-12T19:14:04.795264+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时17分]"
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 19时14分]"
         },
         {
           "title": "港股午盘：百度集团涨超4%",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "中国第一大饺子云吞品牌「袁记云饺」冲刺港股IPO",
+          "url": "https://wallstreetcn.com/livenews/3035222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
@@ -123,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时04分 ~ 18时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时04分 ~ 19时14分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -160,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时14分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -247,11 +259,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时21分 ~ 19时14分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -292,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 18时17分]"
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "能量奇点研制出20特斯拉纯导冷结构高温超导磁体",
