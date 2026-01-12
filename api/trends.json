@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T20:29:04.504540+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-12T21:37:34.699765+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 21时37分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 21时37分]"
         },
         {
           "title": "港股午盘：百度集团涨超4%",
@@ -124,7 +124,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -137,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 21时37分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时42分 ~ 16时21分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
@@ -238,8 +249,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 20时29分]"
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 21时37分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -309,8 +320,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 21时37分]"
         },
         {
           "title": "海纳国际：将台积电(TSM.N)目标价从400美元上调至415美元。",
@@ -319,7 +330,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
