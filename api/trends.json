@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:21:11.755790+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-13T03:15:49.456311+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -112,8 +112,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -123,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -135,8 +135,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -156,7 +156,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         },
@@ -196,8 +196,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -207,8 +207,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 02时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "强脑科技提交港股IPO申请",
@@ -245,7 +245,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
         }
