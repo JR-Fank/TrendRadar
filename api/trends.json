@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T08:58:35.126845+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-01-13T10:55:19.912395+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -50,9 +50,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时55分]"
         },
         {
           "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
@@ -65,18 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 08时58分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
@@ -96,7 +97,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -173,7 +174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -206,7 +207,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
         },
@@ -225,7 +226,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -240,6 +241,17 @@
           "time_info": "[00时18分 ~ 08时58分]"
         },
         {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时55分]"
+        },
+        {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
@@ -251,15 +263,15 @@
           "time_info": "07时11分"
         },
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "iPhone官宣接入Gemini",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
+          "time_info": "10时55分"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -314,22 +326,24 @@
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时55分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2255551",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时55分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -412,8 +426,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 08时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 10时55分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
@@ -473,9 +487,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时58分 ~ 10时55分]"
         },
         {
           "title": "1月9日当周，在美上市新兴市场股票ETFs获得39.6亿美元资金流入，连续第十二周录入。 其中，贝莱德集团IEMG流入21亿美元，创2021年以来最大单周流入。 该基金主要配置台积电、腾讯控股、三星电子、阿里巴巴。",
