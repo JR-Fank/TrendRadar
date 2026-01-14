@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:17:10.362604+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2026-01-14T19:15:14.905206+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时03分 ~ 18时17分]"
+          "appearance_count": 16,
+          "time_info": "[09时03分 ~ 19时15分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -329,11 +329,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 18时17分]"
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 19时15分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -352,6 +353,19 @@
       "keyword_group": "港股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时19分 ~ 19时15分]"
+        },
         {
           "title": "港股收盘：恒生指数收涨0.56%，恒生科技指数收涨0.66%，阿里健康涨近19%，携程跌超6%。",
           "url": "https://wallstreetcn.com/livenews/3036808",
@@ -386,18 +400,6 @@
           "time_info": "16时19分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 18时17分]"
-        },
-        {
           "title": "花旗上调陆港股市基准指数目标位 看好盈利前景改善",
           "url": "https://wallstreetcn.com/livenews/3036650",
           "source": "华尔街见闻-快讯",
@@ -413,7 +415,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴基斯坦财政部长：将于“未来几周”发行熊猫债券",
@@ -425,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数初步收跌0.7%，报182,745点。",
+          "url": "https://flash.jin10.com/detail/20260114183024270800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     }
