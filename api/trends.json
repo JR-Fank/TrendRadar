@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T04:14:41.430357+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-17T05:14:01.558762+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -65,11 +65,12 @@
           "ranks": [
             6,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 05时14分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -94,22 +95,24 @@
           "url": "https://www.cls.cn/detail/2260838",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时21分 ~ 05时14分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
@@ -147,8 +150,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
@@ -156,11 +159,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -170,8 +174,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
