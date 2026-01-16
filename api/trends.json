@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:26:41.715525+08:00",
-  "total_titles_processed": 1831,
+  "generated_at": "2026-01-16T21:33:26.494154+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时26分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 21时33分]"
         },
         {
           "title": "台积电法说会全文：产能非常紧张，未来三年资本支出将显著增加",
@@ -56,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时32分 ~ 20时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时32分 ~ 21时33分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -85,20 +85,6 @@
           "time_info": "[07时14分 ~ 13时19分]"
         },
         {
-          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
-          "url": "https://www.cls.cn/detail/2259073",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时14分]"
-        },
-        {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
           "url": "https://www.zhihu.com/question/1994806802546705531",
           "source": "知乎",
@@ -111,8 +97,22 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 21时33分]"
+        },
+        {
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时19分 ~ 20时26分]"
+          "time_info": "[00时24分 ~ 07时14分]"
         },
         {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
@@ -188,6 +188,18 @@
           "time_info": "[13时19分 ~ 14时22分]"
         },
         {
+          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
+          "url": "https://wallstreetcn.com/articles/3763432",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 21时33分]"
+        },
+        {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763354",
           "source": "华尔街见闻",
@@ -208,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
-        },
-        {
-          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
-          "url": "https://wallstreetcn.com/articles/3763432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "花旗：台积电先进制程芯片供应或维持紧俏",
@@ -307,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "黄仁勋被传“抢地”锁台积电产能",
+          "url": "https://www.toutiao.com/trending/7595794730877993003/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "高盛上调台积电目标价至2600新台币",
@@ -516,8 +528,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 20时26分]"
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 21时33分]"
         },
         {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
@@ -589,7 +601,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
