@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-17T11:52:59.492687+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-01-17T12:26:11.446414+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时13分 ~ 12时26分]"
+        },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
           "url": "https://www.cls.cn/detail/2260838",
@@ -33,18 +46,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时21分 ~ 07时13分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 11时52分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
@@ -233,8 +234,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 12时26分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
@@ -333,8 +334,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时26分]"
         }
       ]
     }
