@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T14:19:53.000874+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-17T15:14:02.111984+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 14时19分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 15时14分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 14时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 15时14分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -158,7 +158,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -181,11 +181,25 @@
             8,
             13,
             18,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 15时14分]"
+        },
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时14分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -241,16 +255,15 @@
           "time_info": "[02时21分 ~ 05时14分]"
         },
         {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时19分]"
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
