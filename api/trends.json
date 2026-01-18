@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T11:29:59.613695+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-01-18T12:36:34.222144+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -33,6 +33,17 @@
           "time_info": "[09时07分 ~ 11时29分]"
         },
         {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
           "url": "https://www.zhihu.com/question/1995898061478651512",
           "source": "知乎",
@@ -42,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         }
       ]
     },
@@ -55,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 12时36分]"
         }
       ]
     },
