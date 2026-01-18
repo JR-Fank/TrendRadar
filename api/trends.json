@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T13:18:21.551975+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-01-18T14:19:48.286972+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -33,6 +33,18 @@
           "time_info": "[09时07分 ~ 11时29分]"
         },
         {
+          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
+          "url": "https://www.zhihu.com/question/1995914466735388213",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时36分 ~ 14时19分]"
+        },
+        {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
           "url": "https://wallstreetcn.com/articles/3763519",
           "source": "华尔街见闻",
@@ -44,16 +56,15 @@
           "time_info": "[12时36分 ~ 13时18分]"
         },
         {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            15
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 13时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
@@ -79,11 +90,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 14时19分]"
         }
       ]
     },
@@ -101,6 +113,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 09时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴基斯坦国民议会议长将访华",
+          "url": "https://flash.jin10.com/detail/20260118140213215800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     }
