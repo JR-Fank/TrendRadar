@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:17:40.017254+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-01-18T17:14:05.435291+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 16时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时14分]"
         },
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 17时14分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -98,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 17时14分]"
         }
       ]
     },
@@ -131,11 +131,12 @@
           "ranks": [
             3,
             7,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 17时14分]"
         }
       ]
     }
