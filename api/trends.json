@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T09:06:37.469530+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-19T11:43:36.897905+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         }
@@ -53,7 +53,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -83,8 +83,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时06分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 11时43分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
