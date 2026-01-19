@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T15:23:08.842164+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-01-19T16:22:14.091653+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "马斯克：特斯拉将重启Dojo 3项目",
+          "url": "https://www.toutiao.com/trending/7596908680889516051/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
           "url": "https://flash.jin10.com/detail/20260119075109965800",
@@ -44,7 +55,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -57,6 +68,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时12分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧美股指期货齐跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "美股今日休市 金银油交易提前结束",
