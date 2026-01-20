@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-20T15:21:48.205033+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-20T16:21:33.393092+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 16时21分]"
+        },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时01分 ~ 15时21分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时21分]"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
@@ -77,11 +78,12 @@
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时13分 ~ 15时21分]"
+          "appearance_count": 11,
+          "time_info": "[07时13分 ~ 16时21分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
