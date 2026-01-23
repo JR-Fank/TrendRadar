@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T14:22:48.236345+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-01-23T15:19:49.912389+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 15时19分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -332,7 +333,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -530,11 +531,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时15分 ~ 14时22分]"
+          "appearance_count": 10,
+          "time_info": "[05时15分 ~ 15时19分]"
         },
         {
           "title": "年内4家半导体企业完成港股IPO，基石投资者积极参与",
