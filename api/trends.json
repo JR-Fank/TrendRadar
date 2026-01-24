@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T11:57:04.501826+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-01-24T12:31:19.601243+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 12时31分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时31分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
@@ -204,11 +204,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时31分]"
         },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
