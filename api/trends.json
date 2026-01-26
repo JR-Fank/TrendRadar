@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T17:27:15.626679+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-01-26T18:19:06.652198+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[11时50分 ~ 14时25分]"
         },
         {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 18时19分]"
+        },
+        {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
@@ -71,33 +71,36 @@
           "url": "https://flash.jin10.com/detail/20260126172109775800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时19分]"
         },
         {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时19分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3043852",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时19分]"
         }
       ]
     },
@@ -117,17 +120,6 @@
           "time_info": "14时25分"
         },
         {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
           "url": "https://wallstreetcn.com/livenews/3043814",
           "source": "华尔街见闻-快讯",
@@ -137,6 +129,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时19分]"
         },
         {
           "title": "港股九方智投控股午后持续下挫，跌幅扩大至30%。",
@@ -186,7 +190,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
