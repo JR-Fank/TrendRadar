@@ -1,421 +1,78 @@
 {
-  "generated_at": "2026-01-26T23:21:41.102677+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-27T00:23:17.423348+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 25,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
+          "url": "https://wallstreetcn.com/livenews/3044110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时26分 ~ 23时21分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 14时25分]"
-        },
-        {
-          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
-          "url": "https://flash.jin10.com/detail/20260125221344220800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 06时13分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "贝克休斯美股盘前涨超3%，此前公司报告第四季度调整后利润高于预期。",
-          "url": "https://flash.jin10.com/detail/20260126172109775800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时19分]"
-        },
-        {
-          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
-          "url": "https://wallstreetcn.com/livenews/3043857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时19分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3044049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时21分]"
+          "time_info": "00时23分"
         },
         {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
           "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 23时21分]"
-        },
-        {
-          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3043852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时19分]"
-        },
-        {
-          "title": "冬季风暴导致航班取消，航空公司美股盘前下跌。美国航空下跌1.2%，达美航空下跌1.2%，捷蓝航空下跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260126183253949800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美国稀土(USAR.O)美股盘前短线走低，现涨幅收窄至21%。",
-          "url": "https://flash.jin10.com/detail/20260126201420424800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "英特尔(INTC.O)延续上周五的跌势，美股盘初跌3.6%。",
-          "url": "https://flash.jin10.com/detail/20260126224209981800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘前短线拉升，一度涨超11%。",
-          "url": "https://flash.jin10.com/detail/20260126210223888800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "金十图示：2026年01月26日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260126223659265800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "Allied Gold美股盘前一度涨近9%，紫金黄金国际拟以280亿元收购其100%股权",
-          "url": "https://wallstreetcn.com/livenews/3043979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "CoreWeave美股盘前涨超10%，报道称英伟达向CoreWeave A类普通股投资20亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3044022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
-          "url": "https://flash.jin10.com/detail/20260126181759623800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "美股金矿股大幅上涨，SPDR黄金份额ETF上涨2%，安格鲁阿散蒂黄金(AU.N)涨3%，Sibanye-Stillwater(SBSW.N)涨3%，巴里克黄金(GOLD.N)涨3.1%。",
-          "url": "https://flash.jin10.com/detail/20260126223615447800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
-          "url": "https://flash.jin10.com/detail/20260126181712395800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "IONQ美股盘前涨超3%，该公司将以每股35美元的价格收购Skywater Technology。",
-          "url": "https://wallstreetcn.com/livenews/3044013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美股开盘 贵金属矿业股走高",
-          "url": "https://flash.jin10.com/detail/20260126223032497800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "IONQ美股盘前涨2.7%；该公司将以每股35美元的价格收购Skywater Technology。",
-          "url": "https://flash.jin10.com/detail/20260126205303894800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美国稀土(USAR.O)美股盘前涨幅收窄，现涨12.6%。",
-          "url": "https://flash.jin10.com/detail/20260126204312954800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-26）",
-          "url": "https://flash.jin10.com/detail/20260126221652476800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股九方智投控股午后走低，一度跌超34%。",
-          "url": "https://wallstreetcn.com/livenews/3043722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "【中国人民银行副行长邹澜：上海黄金交易所在港设立交割库并上市相关合约】中国人民银行副行长邹澜在第19届亚洲金融论坛上表示，在股票市场方面，沪深港通机制不断扩容。内地投资者通过港股通持有香港股票市值逾6万亿港元，全球投资者则通过沪深股通持有内地股票市值超2.5万亿元人民币。与此同时，黄金市场亦取得突破。上海黄金交易所在港设立交割库并上市相关合约，丰富了离岸人民币资产配置工具。伴随人民币跨境使用扩大，其作为全球第二大贸易融资货币、第三大支付货币的地位进一步巩固，在IMF特别提款权（SDR）货币篮子中权重位列第三。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3043814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
-          "url": "https://wallstreetcn.com/livenews/3043872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时19分]"
-        },
-        {
-          "title": "港股九方智投控股午后持续下挫，跌幅扩大至30%。",
-          "url": "https://wallstreetcn.com/livenews/3043708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调整，调出安能物流，1月26日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3043501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十整理：下周重要事件与数据预告——美联储决议重磅来袭，苹果、微软、特斯拉财报相继发布",
-          "url": "https://flash.jin10.com/detail/20260125214440737800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 05时12分]"
-        },
-        {
-          "title": "惠誉：在近期，预计台积电等公司会宣布进一步投资，以符合免税门槛。",
-          "url": "https://flash.jin10.com/detail/20260126170639153800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
-          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
+          "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦央行将利率维持在10.5%，预估10%。",
-          "url": "https://wallstreetcn.com/livenews/3043960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时29分"
+          "time_info": "00时23分"
         }
       ]
     }
