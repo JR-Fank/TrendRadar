@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:18:21.683298+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-27T04:17:14.963838+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时17分]"
+        },
+        {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时17分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时18分]"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时18分]"
         }
       ]
     },
