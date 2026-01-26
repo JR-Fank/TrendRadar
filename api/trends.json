@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-26T18:19:06.652198+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-01-26T19:15:46.139749+08:00",
+  "total_titles_processed": 1496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 19时15分]"
+        },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时50分 ~ 14时25分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 18时19分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -101,6 +101,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时27分 ~ 18时19分]"
+        },
+        {
+          "title": "冬季风暴导致航班取消，航空公司美股盘前下跌。美国航空下跌1.2%，达美航空下跌1.2%，捷蓝航空下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260126183253949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
