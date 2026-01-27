@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T16:21:43.916508+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-01-27T17:25:27.807988+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时14分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时14分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 09时06分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前涨3%，此前该公司宣布计划在新加坡投资240亿美元建设一座存储芯片制造厂。",
+          "url": "https://flash.jin10.com/detail/20260127170515814800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美国提议小幅上调医疗保险承保商支付额，联合健康(UNH.N)美股盘前跌超8%。",
+          "url": "https://flash.jin10.com/detail/20260127170453559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
