@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T11:31:45.746922+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-01-27T12:41:00.723871+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时23分 ~ 06时15分]"
         },
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时41分]"
+        },
+        {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
           "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
@@ -31,17 +42,6 @@
           "time_info": "[00时23分 ~ 09时06分]"
         },
         {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时31分]"
-        },
-        {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
           "url": "https://www.cls.cn/detail/2270480",
           "source": "财联社热门",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时41分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -121,7 +121,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -226,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -255,7 +255,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
