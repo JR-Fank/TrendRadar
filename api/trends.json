@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:14:44.967771+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-01-28T09:03:00.667658+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 09时03分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）美股热门股票行情一览（美股收盘）",
@@ -149,7 +160,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -157,7 +168,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -173,6 +184,28 @@
           "time_info": "[02时26分 ~ 04时15分]"
         },
         {
+          "title": "消息人士称，软银就向OpenAI追加投资进行谈判，这是该初创公司寻求筹集高达1000亿美元新资本努力的一部分。",
+          "url": "https://flash.jin10.com/detail/20260128082816677800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "软银正商谈再向OpenAI投资高达300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260128082714847800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
           "url": "https://wallstreetcn.com/livenews/3044891",
           "source": "华尔街见闻-快讯",
@@ -182,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3045072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -220,7 +264,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -246,6 +290,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时26分 ~ 04时15分]"
+        },
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 09时03分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -284,7 +339,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -295,7 +350,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -306,7 +361,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
@@ -314,7 +369,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Pilot与特斯拉围绕重型电动半拖车的车队充电网络构建合作伙伴关系。",
@@ -326,6 +381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
+        },
+        {
+          "title": "特斯拉在欧洲销量持续“降温”",
+          "url": "https://wallstreetcn.com/livenews/3045087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "Pilot Travel Centers（伯克希尔哈撒韦附属公司）与马斯克旗下特斯拉公司达成合作伙伴关系协议。 特斯拉将帮助Pilot在美国加利福尼亚、弗吉尼亚、内华达、新墨西哥、以及得克萨斯等州打造重型电动半拖车充电网络。",
