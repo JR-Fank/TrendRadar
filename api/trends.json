@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:24:40.528175+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-30T04:21:00.894635+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -102,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -114,8 +114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         },
         {
           "title": "特斯拉(TSLA.O)：我们会继续为Model S和X项目提供支持，只要人们还拥有这些车辆。",
@@ -141,11 +141,12 @@
           "ranks": [
             6,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         }
       ]
     },
@@ -163,8 +164,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时21分]"
         }
       ]
     }
