@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T04:19:57.978685+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-01-31T05:21:06.244747+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时21分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -70,18 +70,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
-          "url": "https://wallstreetcn.com/livenews/3047546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时19分]"
-        },
-        {
           "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
           "url": "https://flash.jin10.com/detail/20260131025828448800",
           "source": "金十数据",
@@ -90,8 +78,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
+          "url": "https://wallstreetcn.com/livenews/3047546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时26分 ~ 05时21分]"
         },
         {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
