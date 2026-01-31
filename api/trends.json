@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:01:31.812638+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-01-31T13:40:35.113302+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时40分]"
         },
         {
           "title": "美股股指走低，道指跌1%，纳指跌超0.9%，标普500指数跌0.72%。",
@@ -73,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时40分]"
         },
         {
           "title": "美股存储芯片指数收跌超4.7%，1月Sandisk涨约143%，希捷科技、美光、西数都累涨超40%",
@@ -83,11 +83,12 @@
           "ranks": [
             6,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时40分]"
         },
         {
           "title": "半导体ETF收跌约3.4%，领跌美股行业ETF，1月份能源业ETF涨约14.2%、半导体ETF涨12%紧随其后",
@@ -182,8 +183,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时40分]"
         },
         {
           "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
@@ -256,8 +257,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 13时40分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -266,11 +267,12 @@
           "ranks": [
             3,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时40分]"
         }
       ]
     }
