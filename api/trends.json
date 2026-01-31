@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T06:15:01.437621+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-02-01T07:14:42.226277+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
@@ -28,8 +28,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
@@ -39,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -61,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时16分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[04时16分 ~ 07时14分]"
         }
       ]
     },
@@ -79,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
@@ -99,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     },
@@ -116,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时14分]"
         }
       ]
     }
