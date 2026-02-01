@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T16:22:38.048666+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2026-02-01T17:22:50.068357+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
@@ -99,11 +99,12 @@
           "url": "https://flash.jin10.com/detail/20260201155521308800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时22分]"
         },
         {
           "title": "法国汽车平台 （PFA）：法国1月新车注册量同比下降6.55%，至107,157辆。其中法国地区特斯拉注册量下降42.07%。",
@@ -165,6 +166,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴基斯坦俾路支省首席部长：巴基斯坦西南部的袭击已造成17名执法人员和31名平民死亡。",
+          "url": "https://flash.jin10.com/detail/20260201164242419800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     }
