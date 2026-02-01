@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T22:18:49.759429+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-02-01T23:16:53.994486+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -74,11 +74,12 @@
             6,
             10,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 23时16分]"
         },
         {
           "title": "揭秘OpenAI掌门人的上位史",
@@ -193,8 +194,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 23时16分]"
         }
       ]
     },
