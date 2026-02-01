@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T19:15:45.988337+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-02-01T20:29:21.591803+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -82,11 +82,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时29分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -94,22 +95,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 20时29分]"
         },
         {
           "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
           "url": "https://flash.jin10.com/detail/20260201180928077800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 20时29分]"
         }
       ]
     },
@@ -216,11 +219,12 @@
           "ranks": [
             3,
             9,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时29分]"
         }
       ]
     }
