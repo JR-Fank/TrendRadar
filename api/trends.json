@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T16:32:58.978542+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-02-02T17:37:58.086297+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉：第三代特斯拉人形机器人即将亮相 预计年产百万台",
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时58分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时58分 ~ 17时37分]"
         },
         {
           "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
@@ -26,11 +26,23 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时49分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时49分 ~ 17时37分]"
+        },
+        {
+          "title": "数据显示，丹麦1月份特斯拉新车注册量同比增长2.7%。",
+          "url": "https://flash.jin10.com/detail/20260202172208934800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "瑞典市场分析公司Mobility Sweden：特斯拉1月份在瑞典的新车注册量同比增长26.4%。",
@@ -39,7 +51,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -50,7 +62,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -64,12 +76,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "据挪威道路联合会（OFV）：特斯拉1月份在挪威的新车注册量同比下降88%。",
+          "url": "https://flash.jin10.com/detail/20260202170620605800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
@@ -103,6 +126,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
+          "url": "https://flash.jin10.com/detail/20260202171934204800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "油价下跌5%，美股能源公司股价盘前大跌，西方石油(OXY.N)下跌3.1%，康菲石油(COP.N)下跌2.6%，哈利伯顿(HAL.N)下跌4.1%，斯伦贝谢(SLB.N)下跌2.9%，埃克森美孚石油(XOM.N)下跌1.5%，雪佛龙(CVX.N)下跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260202171518672800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达跌近2%，AMD跌超2.4%；存储芯片股多数走低，西部数据跌超3%；甲骨文盘前跌5%，公司今年将融资500亿美元；黄金股大跌，哈莫尼黄金跌超5%。美股能源股，西方石油跌超3%，康菲石油跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3048249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
@@ -117,7 +173,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -148,8 +204,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 17时37分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -162,6 +218,36 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴基斯坦俾路支省反恐行动打死145名恐怖分子",
+          "url": "https://flash.jin10.com/detail/20260202045416003800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "巴基斯坦军方打死145名恐怖分子",
+          "url": "https://www.toutiao.com/trending/7601476818697797686/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         }
       ]
     },
@@ -179,27 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 16时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦俾路支省反恐行动打死145名恐怖分子",
-          "url": "https://flash.jin10.com/detail/20260202045416003800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 17时37分]"
         }
       ]
     }
