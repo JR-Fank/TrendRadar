@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:36:17.134618+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-02-02T19:31:34.424028+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时58分 ~ 18时36分]"
+          "appearance_count": 8,
+          "time_info": "[13时58分 ~ 19时31分]"
         },
         {
           "title": "特斯拉首款量产机器人？擎天柱三代即将亮相 据称“进行了重新设计”",
@@ -29,11 +29,12 @@
             11,
             8,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时36分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时31分]"
         },
         {
           "title": "数据显示，丹麦1月份特斯拉新车注册量同比增长2.7%。",
@@ -137,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
         },
@@ -280,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时18分 ~ 18时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时18分 ~ 19时31分]"
         }
       ]
     }
