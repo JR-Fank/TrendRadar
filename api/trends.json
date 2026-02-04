@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:31:33.260800+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-02-04T19:27:48.277721+08:00",
+  "total_titles_processed": 1765,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时32分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[07时32分 ~ 19时27分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时10分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时27分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -75,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 19时27分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -103,6 +103,19 @@
           "time_info": "[07时32分 ~ 14时39分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时42分 ~ 19时27分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -114,19 +127,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时39分 ~ 18时31分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时42分 ~ 18时31分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -659,8 +659,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 18时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 19时27分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
