@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T21:38:38.617535+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-02-07T22:18:54.548030+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 22时18分]"
         },
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 22时18分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -69,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时34分 ~ 21时38分]"
+          "appearance_count": 27,
+          "time_info": "[00时34分 ~ 22时18分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -383,8 +383,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时10分 ~ 21时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 22时18分]"
         },
         {
           "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
@@ -409,11 +409,12 @@
             3,
             8,
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时18分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
