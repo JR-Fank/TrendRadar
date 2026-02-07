@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T13:07:39.908053+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-02-07T14:31:40.939881+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             5,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 14时31分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -62,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时31分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -74,8 +75,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时31分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -175,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时31分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
@@ -367,11 +368,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 14时31分]"
         },
         {
           "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
