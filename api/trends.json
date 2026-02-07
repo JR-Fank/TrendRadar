@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T18:17:23.140566+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-02-07T19:16:01.279196+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -63,11 +63,12 @@
             7,
             8,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 18时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 19时16分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -182,8 +183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 18时17分]"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
@@ -374,22 +375,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时10分 ~ 18时17分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "appearance_count": 12,
+          "time_info": "[09时10分 ~ 19时16分]"
         },
         {
           "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
@@ -398,11 +389,12 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时16分]"
         },
         {
           "title": "特斯拉据称正在美布局多州建厂 以扩张太阳能电池制造版图",
@@ -415,6 +407,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时14分 ~ 09时10分]"
+        },
+        {
+          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
+          "url": "https://flash.jin10.com/detail/20260207172525892800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时16分]"
         },
         {
           "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
@@ -471,11 +475,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时21分 ~ 19时16分]"
         },
         {
           "title": "巴基斯坦清真寺爆炸事件已致36人死亡",
