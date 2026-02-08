@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T18:18:25.746030+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-02-08T19:17:15.162697+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时18分 ~ 18时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时18分 ~ 19时17分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -48,11 +49,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时17分]"
         }
       ]
     },
@@ -81,8 +83,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时17分]"
         },
         {
           "title": "中方回应巴基斯坦首都爆炸事件",
@@ -91,11 +93,12 @@
           "ranks": [
             7,
             5,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时17分]"
         },
         {
           "title": "中方回应巴基斯坦首都发生严重爆炸",
@@ -154,11 +157,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时17分]"
         }
       ]
     },
@@ -175,8 +179,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时17分]"
         }
       ]
     }
