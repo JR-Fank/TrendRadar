@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T09:47:27.019359+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-02-08T12:26:57.882190+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2283586",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 09时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 12时26分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
