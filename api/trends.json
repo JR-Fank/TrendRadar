@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T22:20:50.451340+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-02-08T23:18:21.816029+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             9,
             8,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 23时18分]"
         },
         {
           "title": "巴基斯坦内政部长：协助策划伊斯兰堡自杀式炸弹袭击的四人已被逮捕。（媒体更正，非五人）",
@@ -103,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 23时18分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -177,8 +178,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[16时22分 ~ 23时18分]"
         }
       ]
     },
