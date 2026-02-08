@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:23:51.499530+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-02-09T03:19:25.703147+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "外交部就巴基斯坦爆炸事件答问：强烈谴责，反对一切形式的恐怖主义",
@@ -30,8 +30,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "巴基斯坦宣布逮捕爆炸案主谋",
@@ -39,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时19分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时19分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -71,8 +72,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时19分]"
         }
       ]
     },
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 03时19分]"
         }
       ]
     }
