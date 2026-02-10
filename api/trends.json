@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T22:18:06.749635+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2026-02-10T23:58:48.814603+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时26分 ~ 22时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时26分 ~ 23时58分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -62,9 +62,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时58分]"
         },
         {
           "title": "美股光通信股盘前延续涨势，Credo Technology大涨超17%，Astera Labs盘前续涨超5%，康宁涨超1%。",
@@ -113,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：三大股指收涨 甲骨文涨超9%",
@@ -291,9 +303,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "汇丰策略师未见美股抛压持续，看好周期性板块",
@@ -340,8 +363,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时41分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[16时41分 ~ 23时58分]"
         },
         {
           "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
@@ -542,7 +565,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
@@ -554,6 +577,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "谷歌以320亿美元收购Wiz的交易获得欧盟反垄断无条件批准。",
+          "url": "https://flash.jin10.com/detail/20260210233047014800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "欧盟委员会声明：欧盟无条件批准谷歌公司的320亿美元网络安全交易。",
+          "url": "https://wallstreetcn.com/livenews/3053139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -670,6 +715,17 @@
           "time_info": "19时44分"
         },
         {
+          "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "谷歌母公司Alphabet启动首次瑞士法郎债券发行",
           "url": "https://wallstreetcn.com/livenews/3052843",
           "source": "华尔街见闻-快讯",
@@ -687,7 +743,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
