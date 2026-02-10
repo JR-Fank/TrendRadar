@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T09:26:32.176665+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-02-10T12:26:18.459555+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -31,27 +31,28 @@
           "time_info": "[01时43分 ~ 09时26分]"
         },
         {
+          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
+          "url": "https://www.cls.cn/detail/2285220",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 12时26分]"
+        },
+        {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 09时26分]"
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时26分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -178,7 +179,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -211,7 +212,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -230,8 +231,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
@@ -256,6 +268,18 @@
           "time_info": "[01时44分 ~ 02时45分]"
         },
         {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时26分]"
+        },
+        {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
@@ -266,17 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时58分]"
-        },
-        {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         }
       ]
     },
