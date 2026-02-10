@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T17:53:05.285843+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-02-10T18:45:41.765170+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 18时45分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -60,11 +60,12 @@
           "url": "https://wallstreetcn.com/livenews/3052937",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时45分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股收盘）",
@@ -243,7 +244,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特斯拉续航剩 72 公里，高速突然断电，售后建议剩 100 公里就充电，这合理吗？表显续航与实际为何差这么多？",
@@ -262,28 +263,6 @@
           "time_info": "[01时43分 ~ 09时26分]"
         },
         {
-          "title": "台积电(TSM.N)董事会核准在中国台湾分多次发行无担保公司债券，总额不超过600亿新台币。",
-          "url": "https://flash.jin10.com/detail/20260210174118412800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "台积电(TSM.N)董事会批准拨款约449.62亿美元，用于先进技术产能的安装和升级等。",
-          "url": "https://flash.jin10.com/detail/20260210173803403800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
           "title": "台积电一月营收创记录新高 芯片订单并未因AI泡沫担忧而减少",
           "url": "https://flash.jin10.com/detail/20260210135607903800",
           "source": "金十数据",
@@ -295,26 +274,52 @@
           "time_info": "14时07分"
         },
         {
+          "title": "台积电(TSM.N)董事会核准在中国台湾分多次发行无担保公司债券，总额不超过600亿新台币。",
+          "url": "https://flash.jin10.com/detail/20260210174118412800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时45分]"
+        },
+        {
+          "title": "台积电(TSM.N)董事会批准拨款约449.62亿美元，用于先进技术产能的安装和升级等。",
+          "url": "https://flash.jin10.com/detail/20260210173803403800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时45分]"
+        },
+        {
           "title": "台积电(TSM.N)董事会批准发放第四季度每股6元新台币的现金股利。",
           "url": "https://flash.jin10.com/detail/20260210173631413800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时45分]"
         },
         {
           "title": "台积电：批准派发第四季度现金股息每股6元台币；批准拨款约449.62亿美元，用于先进技术产能的安装和升级等。",
           "url": "https://wallstreetcn.com/livenews/3052932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时45分]"
         },
         {
           "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
@@ -322,11 +327,23 @@
           "source": "知乎",
           "ranks": [
             18,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 18时45分]"
+        },
+        {
+          "title": "台积电董事会核准449.62亿美元资本预算，将用于建置及升级先进制程产能",
+          "url": "https://wallstreetcn.com/livenews/3052956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "台积电1月营收创历史新高",
@@ -338,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "台积电拟向子公司注资300亿美元 以降低外汇对冲成本",
+          "url": "https://wallstreetcn.com/livenews/3052955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "特斯拉北美销售主管离职 面临全球需求滑坡挑战",
@@ -379,7 +407,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
