@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T03:51:56.667048+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-02-12T04:31:01.018411+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时31分]"
         },
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时31分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -38,8 +38,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 04时31分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
@@ -73,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时51分]"
         }
       ]
     },
@@ -116,8 +116,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时31分]"
         }
       ]
     }
