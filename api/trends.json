@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-02-13T00:47:32.354923+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-13T01:52:13.312943+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
+        },
+        {
+          "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +48,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260213013248023800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260213013021476800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "数字货币市场回吐涨幅，追随美股和金银的短线走势",
+          "url": "https://wallstreetcn.com/livenews/3054642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "美股延续跌势，纳指跌超1.5%，标普500指数跌超1%，道指下跌0.7%。",
@@ -66,18 +110,41 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
+          "url": "https://flash.jin10.com/detail/20260213014623194800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
         {
           "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3054634",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "市场消息：谷歌因搜索广告定价问题再次遭到欧盟反垄断调查。欧盟怀疑谷歌提高广告竞价结算价格。",
+          "url": "https://flash.jin10.com/detail/20260213013306021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时47分"
+          "time_info": "01时52分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -100,6 +167,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
+          "url": "https://wallstreetcn.com/livenews/3054635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "33岁男子开特斯拉跑货拉拉",
+          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "男子开特斯拉跑货拉拉最高日入上千元",
+          "url": "https://www.toutiao.com/trending/7605814145933525038/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         }
       ]
     },
@@ -112,11 +219,12 @@
           "url": "https://wallstreetcn.com/livenews/3054632",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时52分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -124,23 +232,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "33岁男子开特斯拉跑货拉拉",
-          "url": "https://s.weibo.com/weibo?q=%2333%E5%B2%81%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%91%E8%B4%A7%E6%8B%89%E6%8B%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
