@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T21:56:29.629185+08:00",
-  "total_titles_processed": 1957,
+  "generated_at": "2026-02-13T22:36:52.177578+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时19分 ~ 21时56分]"
+          "appearance_count": 15,
+          "time_info": "[09时19分 ~ 22时36分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时53分 ~ 21时56分]"
+          "appearance_count": 12,
+          "time_info": "[13时53分 ~ 22时36分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -77,8 +77,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时12分 ~ 21时56分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 22时36分]"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时48分 ~ 22时36分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -95,18 +109,15 @@
           "time_info": "[00时47分 ~ 09时20分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            6,
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时48分 ~ 21时56分]"
+          "time_info": "[15时43分 ~ 22时36分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -130,28 +141,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时51分 ~ 02时49分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时43分 ~ 21时56分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3055230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -196,6 +185,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3055230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -283,6 +284,18 @@
           "time_info": "[05时25分 ~ 07时21分]"
         },
         {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "黄金ETF收跌将近3.5%，和布油基金领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3054740",
           "source": "华尔街见闻-快讯",
@@ -295,6 +308,18 @@
           "time_info": "[06时23分 ~ 07时21分]"
         },
         {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "网络股指数ETF收跌超3.5%，领跌美股行业ETF，标普科技板块跌超2.6%",
           "url": "https://wallstreetcn.com/livenews/3054739",
           "source": "华尔街见闻-快讯",
@@ -305,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时21分]"
+        },
+        {
+          "title": "美国CPI数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3055223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -343,6 +380,18 @@
           "time_info": "[05时25分 ~ 06时23分]"
         },
         {
+          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3055214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 22时36分]"
+        },
+        {
           "title": "美股黄金大跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -365,37 +414,15 @@
           "time_info": "[09时19分 ~ 09时20分]"
         },
         {
-          "title": "美国CPI数据公布后，美股期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3055223",
+          "title": "美股存储芯片概念股盘前下跌，Sandisk跌超3%、美光科技跌超2%、西部数据涨跌超2%、希捷科技跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3055237",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "time_info": "22时36分"
         },
         {
           "title": "（美股）费城金银指数收跌7.12%，报398.20点。 （全球时段）纽约证交所ARCA金矿开采商指数跌5.55%，报2853.94点。 （美股）原材料指数收跌3.64%，（美股）金属与矿业指数收跌3.96%。",
@@ -409,6 +436,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "百度美股盘前跌超4%。 蔚来美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3055232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260213013248023800",
           "source": "金十数据",
@@ -418,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3055214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股盘中）",
@@ -495,6 +522,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
+          "url": "https://flash.jin10.com/detail/20260213014623194800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "欧盟将于4月前就针对谷歌的DMA框架下AI草案措施展开咨询",
+          "url": "https://wallstreetcn.com/livenews/3055238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3054634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时47分 ~ 01时52分]"
+        },
+        {
+          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
+          "url": "https://www.cls.cn/detail/2288802",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 09时20分]"
+        },
+        {
+          "title": "市场消息：谷歌因搜索广告定价问题再次遭到欧盟反垄断调查。欧盟怀疑谷歌提高广告竞价结算价格。",
+          "url": "https://flash.jin10.com/detail/20260213013306021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "欧盟将在六个月内完成对谷歌(GOOG.O)的反垄断调查程序。",
+          "url": "https://flash.jin10.com/detail/20260213215534534800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "欧盟将于4月就《数字市场法》下针对谷歌(GOOG.O)的拟议措施展开磋商。",
+          "url": "https://flash.jin10.com/detail/20260213215318727800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
+        },
+        {
+          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
+          "url": "https://flash.jin10.com/detail/20260213002134729800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
+          "url": "https://flash.jin10.com/detail/20260213002057451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
+          "url": "https://wallstreetcn.com/livenews/3054635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         }
       ]
     },
@@ -593,90 +737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "谷歌再遭欧盟反垄断调查 涉及非法操纵广告定价",
-          "url": "https://flash.jin10.com/detail/20260213014623194800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "谷歌母公司Alphabet涨幅迅速扩大至0.8%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3054634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时47分 ~ 01时52分]"
-        },
-        {
-          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
-          "url": "https://www.cls.cn/detail/2288802",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时19分 ~ 09时20分]"
-        },
-        {
-          "title": "市场消息：谷歌因搜索广告定价问题再次遭到欧盟反垄断调查。欧盟怀疑谷歌提高广告竞价结算价格。",
-          "url": "https://flash.jin10.com/detail/20260213013306021800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
-          "url": "https://flash.jin10.com/detail/20260213002134729800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "谷歌：今日发布Gemini 3深度思考重大升级。与科学家和研究人员紧密合作，推出升级版Gemini 3深度思考模型，以应对研究挑战。",
-          "url": "https://flash.jin10.com/detail/20260213002057451800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "谷歌发布Gemini 3深度思考推理模型的升级版，来解决现代科学研究面临的挑战。",
-          "url": "https://wallstreetcn.com/livenews/3054635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
         }
       ]
     },
