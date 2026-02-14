@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:15:10.535174+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-02-15T07:15:56.167594+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
@@ -66,11 +66,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         },
         {
           "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
@@ -81,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     },
@@ -99,11 +100,12 @@
             8,
             5,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 06时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 07时15分]"
         }
       ]
     }
