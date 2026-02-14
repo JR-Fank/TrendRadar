@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T14:34:21.132357+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-02-14T15:28:56.755007+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "[00时34分 ~ 14时34分]"
         },
         {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时28分]"
+        },
+        {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
           "url": "https://wallstreetcn.com/articles/3765638",
           "source": "华尔街见闻",
@@ -58,18 +70,6 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
-          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时34分]"
-        },
-        {
           "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
           "url": "https://www.cls.cn/detail/2290109",
           "source": "财联社热门",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时28分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -279,11 +279,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时28分]"
         },
         {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
