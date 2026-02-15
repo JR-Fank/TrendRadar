@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:30:29.150894+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-15T21:40:01.955549+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时19分 ~ 20时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时19分 ~ 21时40分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -116,11 +116,12 @@
             17,
             20,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时33分 ~ 20时30分]"
+          "appearance_count": 7,
+          "time_info": "[15时33分 ~ 21时40分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
@@ -134,6 +135,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 14时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
+          "url": "https://wallstreetcn.com/articles/3765726",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -168,8 +197,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 20时30分]"
+          "appearance_count": 23,
+          "time_info": "[00时19分 ~ 21时40分]"
         }
       ]
     },
@@ -198,23 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
-          "url": "https://wallstreetcn.com/articles/3765726",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
         }
       ]
     }
