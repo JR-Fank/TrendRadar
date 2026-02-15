@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T21:40:01.955549+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-02-15T22:20:00.879451+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时19分 ~ 21时40分]"
+          "appearance_count": 15,
+          "time_info": "[09时19分 ~ 22时20分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -150,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -194,11 +194,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时19分 ~ 21时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 22时20分]"
         }
       ]
     },
