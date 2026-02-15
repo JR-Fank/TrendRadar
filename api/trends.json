@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T19:16:31.781676+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-15T20:30:29.150894+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[09时19分 ~ 20时30分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -115,11 +115,12 @@
             13,
             17,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 20时30分]"
         },
         {
           "title": "马斯克：特斯拉FSD将停止一次性付费服务，转为订阅制",
@@ -167,8 +168,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 19时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 20时30分]"
         }
       ]
     },
