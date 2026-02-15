@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T01:18:51.625468+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2026-02-16T02:23:17.259947+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,37 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
           "url": "https://www.zhihu.com/question/2004209286281205228",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英媒：台积电或追加千亿对美投资",
+          "url": "https://news.ifeng.com/c/8qlsny1b1mP",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时23分"
         }
       ]
     },
@@ -44,8 +62,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     },
@@ -61,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         }
       ]
     }
