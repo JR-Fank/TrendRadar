@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-16T15:46:25.413818+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-02-16T16:37:18.829766+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "港股半导体板块全线爆发",
-          "url": "https://www.toutiao.com/trending/7607019178361290778/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
@@ -25,9 +14,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
+        },
+        {
+          "title": "MiniMax发布HighSpeed Coding Plan 股价创2026年港股单价纪录",
+          "url": "https://flash.jin10.com/detail/20260216162220696800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "16时37分"
         },
         {
           "title": "美团港股一度跌破80港元",
@@ -41,6 +41,31 @@
           "time_info": "14时01分"
         },
         {
+          "title": "港股半导体板块全线爆发",
+          "url": "https://www.toutiao.com/trending/7607019178361290778/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
+        },
+        {
+          "title": "蛇年最后一个交易日港股收涨，MINIMAX-WP涨24.56%",
+          "url": "https://wallstreetcn.com/livenews/3055679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 16时37分]"
+        },
+        {
           "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
           "url": "https://wallstreetcn.com/livenews/3055662",
           "source": "华尔街见闻-快讯",
@@ -52,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 15时46分]"
-        },
-        {
-          "title": "蛇年最后一个交易日港股收涨，MINIMAX-WP涨24.56%",
-          "url": "https://wallstreetcn.com/livenews/3055679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时46分]"
         },
         {
           "title": "蛇年收官战港股收涨，有色板块拉升，MINIMAX-WP暴涨24%、智谱涨4.74%齐创新高",
@@ -99,6 +112,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "港股三大指数均收涨",
+          "url": "https://www.douyin.com/hot/2402867",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "港股蛇年收官：恒指低开高收 存储概念及有色金属板块涨幅居前",
           "url": "https://flash.jin10.com/detail/20260216122521694800",
           "source": "金十数据",
@@ -113,7 +137,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -130,6 +154,19 @@
           "time_info": "[00时19分 ~ 14时01分]"
         },
         {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时15分 ~ 16时37分]"
+        },
+        {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
           "url": "https://flash.jin10.com/detail/20260216045621525800",
           "source": "金十数据",
@@ -141,19 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时25分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时46分]"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -190,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
+          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -235,8 +281,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 15时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 16时37分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -278,11 +324,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 16时37分]"
         }
       ]
     },
@@ -297,7 +344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
