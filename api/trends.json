@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T13:53:31.187180+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-02-17T14:46:50.383962+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时46分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -148,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时46分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -159,11 +159,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时46分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -192,8 +193,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时46分]"
         },
         {
           "title": "今年已有143家企业递表港股IPO",
@@ -202,11 +203,12 @@
           "ranks": [
             4,
             15,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 14时46分]"
         }
       ]
     }
