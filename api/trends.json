@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T12:11:22.743172+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-02-17T13:53:31.187180+08:00",
+  "total_titles_processed": 949,
   "failed_sources": [],
   "trends": [
     {
@@ -83,8 +83,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 13时53分]"
+        },
+        {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 13时53分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -96,17 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 09时16分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -147,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时53分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -161,8 +162,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时53分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -191,8 +192,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 13时53分]"
         },
         {
           "title": "今年已有143家企业递表港股IPO",
@@ -200,11 +201,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 12时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 13时53分]"
         }
       ]
     }
