@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T01:50:11.829660+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-02-18T02:44:51.962239+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时44分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时44分]"
         },
         {
           "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
@@ -69,6 +69,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉(TSLA.O)股价跌至逾一周低点，跌幅达3%。",
+          "url": "https://flash.jin10.com/detail/20260218021059743800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时44分"
         }
       ]
     }
