@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-18T14:52:05.064241+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-02-18T15:45:05.690133+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时45分]"
+        },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
@@ -29,20 +41,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 14时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时46分 ~ 15时45分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时52分]"
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
         },
         {
           "title": "应用材料美股盘后跌7.6%。",
@@ -217,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时52分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时45分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
