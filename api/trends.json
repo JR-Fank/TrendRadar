@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:32:48.908839+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-02-19T20:41:03.676385+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -20,18 +20,6 @@
           "time_info": "[00时53分 ~ 06时24分]"
         },
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时24分 ~ 19时32分]"
-        },
-        {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -42,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 05时28分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[06时24分 ~ 20时41分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -68,8 +69,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时53分 ~ 20时41分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时53分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 24,
+          "time_info": "[00时53分 ~ 20时41分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -108,8 +109,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时43分 ~ 20时41分]"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -140,11 +152,12 @@
           "ranks": [
             1,
             12,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时41分]"
         },
         {
           "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
@@ -442,6 +455,17 @@
           "time_info": "[16时34分 ~ 18时35分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时41分]"
+        },
+        {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
@@ -474,17 +498,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
         }
       ]
     },
@@ -511,11 +524,12 @@
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时41分]"
         },
         {
           "title": "特斯拉(TSLA.O)：特斯拉(TSLA.O)车主在FSD监督模式下累计行驶里程已突破80亿英里。",
