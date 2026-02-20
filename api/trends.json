@@ -1,11 +1,201 @@
 {
-  "generated_at": "2026-02-20T15:42:35.876860+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-02-20T16:32:05.425788+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "港股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型、机器人、存储逆势大涨，智谱大涨近37%",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近33%",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "港股收评：恒指、科指全日承压 智谱日内大涨逾42%",
+          "url": "https://flash.jin10.com/detail/20260220161801898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3056853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
+          "url": "https://wallstreetcn.com/livenews/3056842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
+          "url": "https://wallstreetcn.com/livenews/3056841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
+          "url": "https://wallstreetcn.com/livenews/3056870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 16时32分]"
+        },
+        {
+          "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
+          "url": "https://wallstreetcn.com/livenews/3056892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "港股智谱(02513.HK)延续涨势，涨幅一度扩大至19%。",
+          "url": "https://flash.jin10.com/detail/20260220112755031800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "港股马年首个交易日收盘，恒指收跌1.10%，科指收跌2.91%。人工智能及机器人概念股全天走强，智谱(02513.HK)日内大涨42.72%，股价最高报725港元，总市值突破3200亿港元，MINIMAX-WP(00100.HK)收涨14.52%。",
+          "url": "https://flash.jin10.com/detail/20260220161008259800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "港股机器人概念股集体大涨，越疆(02432.HK)涨超21%，优必选(09880.HK)涨6.59%。",
+          "url": "https://flash.jin10.com/detail/20260220134335302800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "港股AI应用股走强",
+          "url": "https://www.toutiao.com/trending/7608512973753679914/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
+          "url": "https://flash.jin10.com/detail/20260220132611953800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
+        },
+        {
+          "title": "港股存储概念股走强",
+          "url": "https://www.toutiao.com/trending/7608277142006923283/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "港股石油股多数上涨，中国石油股份(00857.HK)上涨5%，中国海洋石油(00883.HK)涨3.9%。",
+          "url": "https://flash.jin10.com/detail/20260220104412733800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -16,8 +206,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时23分 ~ 15时42分]"
+          "appearance_count": 11,
+          "time_info": "[06时23分 ~ 16时32分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -44,6 +234,19 @@
           "time_info": "[00时41分 ~ 12时07分]"
         },
         {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 16时32分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -53,8 +256,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 15时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 16时32分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -65,8 +268,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时41分 ~ 15时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 16时32分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 16时32分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -80,30 +294,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时23分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时42分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 15时42分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -163,6 +353,17 @@
           "time_info": "[05时24分 ~ 06时23分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -184,151 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近33%",
-          "url": "https://wallstreetcn.com/articles/3765892",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3056853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
-          "url": "https://wallstreetcn.com/livenews/3056842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
-          "url": "https://wallstreetcn.com/livenews/3056841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时44分]"
-        },
-        {
-          "title": "港股智谱(02513.HK)延续涨势，涨幅一度扩大至19%。",
-          "url": "https://flash.jin10.com/detail/20260220112755031800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "港股机器人概念股集体大涨，越疆(02432.HK)涨超21%，优必选(09880.HK)涨6.59%。",
-          "url": "https://flash.jin10.com/detail/20260220134335302800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "港股AI应用股走强",
-          "url": "https://www.toutiao.com/trending/7608512973753679914/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
-          "url": "https://wallstreetcn.com/livenews/3056870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "港股AI概念股午后延续涨势，智谱(02513.HK)大涨21%，海致科技集团(02706.HK)涨18.5%，MINIMAX-WP(00100.HK)涨11.22%。",
-          "url": "https://flash.jin10.com/detail/20260220132611953800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "港股存储概念股走强",
-          "url": "https://www.toutiao.com/trending/7608277142006923283/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "港股石油股多数上涨，中国石油股份(00857.HK)上涨5%，中国海洋石油(00883.HK)涨3.9%。",
-          "url": "https://flash.jin10.com/detail/20260220104412733800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         }
       ]
     },
@@ -446,8 +502,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时07分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 16时32分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
