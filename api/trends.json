@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:55:26.386671+08:00",
-  "total_titles_processed": 1710,
+  "generated_at": "2026-02-20T22:35:08.876899+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时55分]"
+          "appearance_count": 9,
+          "time_info": "[17时32分 ~ 22时35分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -65,6 +65,18 @@
           "time_info": "16时32分"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 22时35分]"
+        },
+        {
           "title": "港股机器人概念延续涨势，越疆涨超18%，速腾聚创涨10%，优必选涨近7%。",
           "url": "https://wallstreetcn.com/livenews/3056853",
           "source": "华尔街见闻-快讯",
@@ -89,18 +101,6 @@
           "time_info": "[18时29分 ~ 20时37分]"
         },
         {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时25分 ~ 21时55分]"
-        },
-        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -112,6 +112,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
         },
         {
           "title": "港股马年首个交易日：恒生指数开盘跌0.18%，恒生科技指数低开近0.7%。老铺黄金涨近1%，公司将于2月28日进行产品调价。",
@@ -206,17 +218,6 @@
           "time_info": "14时44分"
         },
         {
-          "title": "港股“AI新秀”板块逆势狂飙",
-          "url": "https://www.toutiao.com/trending/7608932922317344275/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
           "title": "港股存储概念股走强",
           "url": "https://www.toutiao.com/trending/7608277142006923283/",
           "source": "今日头条",
@@ -242,7 +243,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -254,8 +255,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时23分 ~ 21时55分]"
+          "appearance_count": 20,
+          "time_info": "[06时23分 ~ 22时35分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -268,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时07分 ~ 21时55分]"
+          "appearance_count": 16,
+          "time_info": "[12时07分 ~ 22时35分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -296,6 +297,20 @@
           "time_info": "[00时41分 ~ 12时07分]"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时31分 ~ 22时35分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -305,8 +320,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 21时55分]"
+          "appearance_count": 27,
+          "time_info": "[00时41分 ~ 22时35分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -318,8 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时41分 ~ 21时55分]"
+          "appearance_count": 27,
+          "time_info": "[00时41分 ~ 22时35分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -346,19 +361,6 @@
           "time_info": "[00时41分 ~ 06时23分]"
         },
         {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时31分 ~ 21时55分]"
-        },
-        {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050552220800",
           "source": "金十数据",
@@ -370,6 +372,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "金十图示：2026年02月19日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260220050543287800",
           "source": "金十数据",
@@ -379,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-20）",
+          "url": "https://flash.jin10.com/detail/20260220221858847800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "美股三大股指均收跌",
@@ -416,6 +440,18 @@
           "time_info": "[05时24分 ~ 06时23分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时35分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3056806",
           "source": "华尔街见闻-快讯",
@@ -428,15 +464,15 @@
           "time_info": "[07时23分 ~ 09时13分]"
         },
         {
-          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
+          "title": "美国PCE等数据公布后，美股期货短线走低， 纳指期货日内跌0.33%，标普500指数期货跌0.24%，道指期货跌0.18%。美国国债持稳，美元指数走低至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3056963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时55分"
+          "time_info": "22时35分"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
@@ -453,7 +489,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -467,6 +503,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时41分 ~ 12时07分]"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -518,6 +565,17 @@
           "time_info": "[03时34分 ~ 04时23分]"
         },
         {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
           "url": "https://flash.jin10.com/detail/20260220082223005800",
           "source": "金十数据",
@@ -527,6 +585,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -659,8 +728,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 21时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 22时35分]"
         },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
