@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T04:21:29.052050+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-02-21T05:16:38.771303+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
@@ -48,8 +48,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时16分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -58,18 +71,6 @@
           "ranks": [
             9,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -112,8 +113,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -124,14 +125,14 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -143,8 +144,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时16分]"
+        },
+        {
+          "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
+          "url": "https://www.zhihu.com/question/2008253352463528326",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         }
       ]
     },
