@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T20:37:27.672345+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-02-20T21:55:26.386671+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "港股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，智谱大涨近43%，机器人概念股爆发",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 20时37分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 21时55分]"
         },
         {
           "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
@@ -89,6 +89,18 @@
           "time_info": "[18时29分 ~ 20时37分]"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时55分]"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -125,18 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 17时33分]"
-        },
-        {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时37分]"
         },
         {
           "title": "港股大模型概念股涨幅扩大，智谱大涨近33%，海致科技集团现涨24%，MINIMAX涨逾14%。",
@@ -206,6 +206,17 @@
           "time_info": "14时44分"
         },
         {
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "港股存储概念股走强",
           "url": "https://www.toutiao.com/trending/7608277142006923283/",
           "source": "今日头条",
@@ -231,7 +242,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -243,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时23分 ~ 20时37分]"
+          "appearance_count": 18,
+          "time_info": "[06时23分 ~ 21时55分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -253,11 +264,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时07分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 21时55分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -293,8 +305,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 20时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 21时55分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -302,11 +314,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时41分 ~ 20时37分]"
+          "appearance_count": 25,
+          "time_info": "[00时41分 ~ 21时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -342,8 +355,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时31分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[16时31分 ~ 21时55分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -415,6 +428,17 @@
           "time_info": "[07时23分 ~ 09时13分]"
         },
         {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "AppLovin美股盘后涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
@@ -445,17 +469,6 @@
           "time_info": "[00时41分 ~ 12时07分]"
         },
         {
-          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
-          "url": "https://wallstreetcn.com/livenews/3056937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
           "url": "https://flash.jin10.com/detail/20260220020324756800",
           "source": "金十数据",
@@ -467,6 +480,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时23分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时55分]"
         },
         {
           "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
@@ -614,7 +639,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -634,8 +659,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时55分]"
         },
         {
           "title": "特斯拉在美国推出更经济实惠的Cybertruck车型",
