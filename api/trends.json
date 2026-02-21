@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T22:19:15.307959+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-02-21T23:17:17.170518+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时23分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[07时23分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时11分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[09时11分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时27分 ~ 22时19分]"
+          "appearance_count": 27,
+          "time_info": "[00时27分 ~ 23时17分]"
         },
         {
           "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
@@ -59,8 +59,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时31分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[14时31分 ~ 23时17分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -214,8 +214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[19时15分 ~ 23时17分]"
         },
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -321,8 +321,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[05时16分 ~ 22时19分]"
+          "appearance_count": 21,
+          "time_info": "[05时16分 ~ 23时17分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -345,11 +345,12 @@
             6,
             9,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[14时31分 ~ 23时17分]"
         },
         {
           "title": "没有方向盘、没有脚踏板，特斯拉新车来了",
@@ -360,8 +361,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时28分 ~ 23时17分]"
         }
       ]
     },
@@ -381,8 +382,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时59分 ~ 22时19分]"
+          "appearance_count": 16,
+          "time_info": "[11时59分 ~ 23时17分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -465,8 +466,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时28分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时28分 ~ 23时17分]"
         }
       ]
     }
