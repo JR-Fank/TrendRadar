@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:20:39.398588+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-02-21T17:22:28.621899+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 16时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 17时22分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 16时20分]"
+          "appearance_count": 8,
+          "time_info": "[09时11分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -133,6 +133,20 @@
           "time_info": "00时28分"
         },
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时22分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（2月20日），美国科技股七巨头（Magnificent 7）指数涨1.56%，报197.67点，早盘持续上扬，北京时间23:40以来持续高位震荡，本周累计上涨2.63%。 “超大”市值科技股指数涨0.74%，报368.99点，本周累涨1.29%。",
           "url": "https://wallstreetcn.com/livenews/3057139",
           "source": "华尔街见闻-快讯",
@@ -158,19 +172,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时16分 ~ 09时11分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时20分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨",
@@ -301,8 +302,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时16分 ~ 16时20分]"
+          "appearance_count": 11,
+          "time_info": "[06时16分 ~ 17时22分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -311,11 +312,12 @@
           "ranks": [
             3,
             7,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时59分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 17时22分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -360,8 +362,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时16分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[05时16分 ~ 17时22分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -382,11 +384,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 16时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 17时22分]"
         }
       ]
     },
