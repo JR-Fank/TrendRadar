@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T18:18:04.346849+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-02-21T19:16:06.398823+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 18时18分]"
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 18时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时11分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 18时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 19时16分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -71,6 +71,21 @@
           "time_info": "[00时27分 ~ 11时59分]"
         },
         {
+          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
+          "url": "https://wallstreetcn.com/articles/3765925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时16分]"
+        },
+        {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
           "url": "https://wallstreetcn.com/articles/3765902",
           "source": "华尔街见闻",
@@ -92,21 +107,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时34分]"
-        },
-        {
-          "title": "1750亿美元“关税退款”！对美股是“财政刺激”，对美债是“增加债务”，对金银是“不确定性重来”",
-          "url": "https://wallstreetcn.com/articles/3765925",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时18分]"
         },
         {
           "title": "新兴市场ETF收涨超3.1%，和黄金ETF领跑美股大类资产类ETF",
@@ -200,7 +200,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI调整后毛利润率在2025年下滑至33%。 该公司仍然预计现金流将在2030年转正。（The Information）",
@@ -276,6 +276,17 @@
           "time_info": "[06时16分 ~ 09时11分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "OpenAI创始人点赞中国大模型",
           "url": "https://www.toutiao.com/trending/7608951834689932827/",
           "source": "今日头条",
@@ -303,8 +314,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 18时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时59分 ~ 19时16分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -317,8 +328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时16分 ~ 18时18分]"
+          "appearance_count": 15,
+          "time_info": "[06时16分 ~ 19时16分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -363,8 +374,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时16分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[05时16分 ~ 19时16分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -390,8 +401,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时16分]"
         }
       ]
     },
