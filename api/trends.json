@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-21T15:26:36.483288+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-02-21T16:20:39.398588+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时20分]"
+        },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
           "url": "https://www.cls.cn/detail/2291935",
@@ -17,20 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时26分]"
-        },
-        {
-          "title": "美最高院否决关税，美股收高，债汇承压，滞胀担忧撑黄金重回5100，白银大涨8%",
-          "url": "https://wallstreetcn.com/articles/3765902",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时20分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -45,6 +45,19 @@
           "time_info": "[00时27分 ~ 06时16分]"
         },
         {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 16时20分]"
+        },
+        {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
@@ -56,19 +69,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 11时59分]"
-        },
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时11分 ~ 15时26分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -165,11 +165,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时20分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨",
@@ -252,11 +253,12 @@
             7,
             9,
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时20分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -299,8 +301,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时16分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[06时16分 ~ 16时20分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -312,8 +314,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 16时20分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
@@ -358,8 +360,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时16分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[05时16分 ~ 16时20分]"
         },
         {
           "title": "特斯拉新车没有方向盘没有脚踏板",
@@ -379,11 +381,12 @@
           "url": "https://www.toutiao.com/trending/7608815896018698291/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时20分]"
         }
       ]
     },
@@ -401,8 +404,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时20分]"
         },
         {
           "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
@@ -415,8 +418,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 16时20分]"
         }
       ]
     }
