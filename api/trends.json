@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T20:29:22.952959+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-22T21:38:30.141899+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             13,
             17,
             23,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 21时38分]"
         },
         {
           "title": "阿富汗国防部谴责巴基斯坦侵犯阿领土主权",
@@ -59,44 +60,48 @@
           "url": "https://flash.jin10.com/detail/20260222194216016800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时38分]"
         },
         {
           "title": "阿富汗外交部：召见巴基斯坦驻喀布尔大使，并就巴基斯坦的袭击事件向其递交正式抗议照会。",
           "url": "https://flash.jin10.com/detail/20260222194149323800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时38分]"
         },
         {
           "title": "阿富汗外交部：对巴基斯坦军队侵犯阿富汗领空和轰炸平民区表示谴责。",
           "url": "https://flash.jin10.com/detail/20260222194116700800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时38分]"
         },
         {
           "title": "阿富汗外交部：巴基斯坦的袭击是对阿富汗主权和领土完整的公然侵犯。",
           "url": "https://flash.jin10.com/detail/20260222194055426800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时38分]"
         }
       ]
     },
@@ -139,8 +144,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 21时38分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -154,8 +159,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时36分 ~ 20时29分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 21时38分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -187,8 +192,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 21时38分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -260,11 +265,12 @@
             13,
             16,
             17,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 19时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时18分 ~ 21时38分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -292,8 +298,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 20时29分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 21时38分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -306,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时31分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时31分 ~ 21时38分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
