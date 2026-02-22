@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T16:22:24.079985+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-02-22T17:22:56.140054+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时22分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时22分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -64,11 +64,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时22分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时22分]"
         }
       ]
     },
@@ -88,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时22分]"
         },
         {
           "title": "特斯拉无人驾驶车正式下线，无方向盘、无踏板、无后视镜，能赢得大众信任并走向普及吗？你看好其前景吗？",
@@ -142,11 +143,12 @@
             8,
             5,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时22分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -156,11 +158,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 17时22分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -188,8 +191,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 17时22分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -210,11 +213,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时22分]"
         }
       ]
     },
@@ -230,11 +234,26 @@
             1,
             3,
             4,
-            7
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 17时22分]"
+        },
+        {
+          "title": "阿富汗国防部谴责巴基斯坦侵犯阿领土主权",
+          "url": "https://flash.jin10.com/detail/20260222132947392800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            11,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时45分 ~ 16时22分]"
+          "time_info": "[14时37分 ~ 17时22分]"
         },
         {
           "title": "阿富汗政府发言人22日说，巴基斯坦日前对阿富汗的空袭已造成数十人伤亡。（新华社）",
@@ -250,19 +269,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时08分 ~ 16时22分]"
-        },
-        {
-          "title": "阿富汗国防部谴责巴基斯坦侵犯阿领土主权",
-          "url": "https://flash.jin10.com/detail/20260222132947392800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 16时22分]"
         }
       ]
     },
