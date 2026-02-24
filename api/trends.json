@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T03:46:22.856341+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-02-25T04:25:52.147698+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时25分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时25分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时25分]"
         },
         {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时25分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -122,11 +122,12 @@
           "url": "https://flash.jin10.com/detail/20260225031610332800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时25分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -163,11 +164,29 @@
           "url": "https://flash.jin10.com/detail/20260225031303146800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时46分 ~ 04时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "04时25分"
         }
       ]
     },
@@ -186,8 +205,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 03时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 04时25分]"
         }
       ]
     }
