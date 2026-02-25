@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T13:56:05.000795+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-02-25T14:53:35.461865+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 13时56分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 14时53分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -224,6 +224,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 14时53分]"
+        },
+        {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
           "url": "https://flash.jin10.com/detail/20260225031610332800",
           "source": "金十数据",
@@ -234,18 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时25分]"
-        },
-        {
-          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
-          "url": "https://www.cls.cn/detail/2294085",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时56分]"
         },
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -286,8 +286,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时53分]"
         },
         {
           "title": "春季攻势重燃，机构看好港股市场投资潜力",
@@ -342,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 14时53分]"
         },
         {
           "title": "巴基斯坦与阿富汗边境再度交火",
