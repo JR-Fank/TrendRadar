@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T17:33:03.091097+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-27T18:29:29.029773+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "巴基斯坦阿富汗在边境激烈交火",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时11分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[09时11分 ~ 18时29分]"
         },
         {
           "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 18时29分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -48,15 +48,19 @@
           "time_info": "[13时45分 ~ 17时33分]"
         },
         {
-          "title": "巴基斯坦阿富汗为何大打出手",
-          "url": "https://www.douyin.com/hot/2413404",
-          "source": "抖音",
+          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            13,
+            9,
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 18时29分]"
         },
         {
           "title": "巴基斯坦阿富汗爆发激烈交火",
@@ -70,19 +74,16 @@
           "time_info": "[13时45分 ~ 15时40分]"
         },
         {
-          "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
-          "source": "澎湃新闻",
+          "title": "巴基斯坦阿富汗为何大打出手",
+          "url": "https://www.douyin.com/hot/2413404",
+          "source": "抖音",
           "ranks": [
-            13,
-            9,
-            8,
-            7,
-            6
+            1,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 18时29分]"
         },
         {
           "title": "巴基斯坦对阿富汗政府“公开宣战”",
@@ -135,9 +136,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "巴基斯坦和阿富汗有啥历史积怨",
+          "url": "https://www.toutiao.com/trending/7611470407115312691/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "停火4个月再度开打，阿富汗和巴基斯坦到底有什么恩怨？",
@@ -217,7 +229,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -239,7 +251,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -261,7 +273,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -556,7 +568,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -809,11 +821,12 @@
             20,
             5,
             26,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时45分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时45分 ~ 18时29分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
