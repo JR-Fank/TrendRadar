@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-02-28T00:31:46.973721+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-28T01:27:36.289182+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
           "url": "https://www.zhihu.com/question/2010620160533296868",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32664807",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外交部对巴基斯坦与阿富汗两国人民以及两国穆斯林之间局势趋紧深表遗憾，对由此对地区安全与人道局势造成的影响表示关切，并呼吁立即采取措施加以应对，以制止紧张局势升级并推动局势恢复正常",
+          "url": "https://flash.jin10.com/detail/20260228010943959800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时27分"
         },
         {
           "title": "巴基斯坦军人在阿富汗阵地升旗",
@@ -37,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "巴基斯坦称已对阿富汗“开战”，双方在边境激烈交火(图)",
@@ -48,30 +61,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "巴基斯坦与阿富汗激烈冲突有何影响",
           "url": "https://www.toutiao.com/trending/7611513742353763867/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "巴基斯坦和阿富汗有啥历史积怨",
           "url": "https://www.toutiao.com/trending/7611470407115312691/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         },
         {
           "title": "巴基斯坦与阿富汗发生激烈交火，外交部：正就缓局降温做两国的工作",
@@ -81,8 +96,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
+        },
+        {
+          "title": "据半岛电视台：阿富汗霍斯特省政府发言人表示，已开始对巴基斯坦哨所发动报复性袭击。",
+          "url": "https://flash.jin10.com/detail/20260228004831961800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时27分"
         },
         {
           "title": "阿富汗电视台报道称，塔利班在巴基斯坦边境哨所发动了新的袭击行动。",
@@ -94,6 +120,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "巴基斯坦阿富汗为何大打出手",
+          "url": "https://www.douyin.com/hot/2413404",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时27分"
         }
       ]
     },
@@ -115,23 +180,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -140,11 +188,12 @@
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时27分]"
         }
       ]
     }
