@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T18:15:22.501568+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-02-28T19:12:34.593591+08:00",
+  "total_titles_processed": 1732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -301,6 +301,17 @@
           "time_info": "17时18分"
         },
         {
+          "title": "巴基斯坦飞行员被俘虏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E4%BF%98%E8%99%8F%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "美国国务院表示，华盛顿支持巴基斯坦抵御阿富汗塔利班的“自卫权”。",
           "url": "https://flash.jin10.com/detail/20260228065535316800",
           "source": "金十数据",
@@ -370,7 +381,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -384,8 +395,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时21分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[05时21分 ~ 19时12分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -421,11 +432,12 @@
             8,
             16,
             13,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 18时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 19时12分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -551,6 +563,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
+          "url": "https://www.cls.cn/detail/2298126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
           "url": "https://flash.jin10.com/detail/20260228132543765800",
           "source": "金十数据",
@@ -587,8 +610,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 19时12分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -625,8 +648,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时20分 ~ 18时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 19时12分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -664,6 +687,18 @@
           "time_info": "[06时15分 ~ 07时16分]"
         },
         {
+          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
+          "url": "https://www.zhihu.com/question/2011096140146286806",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 19时12分]"
+        },
+        {
           "title": "美股下跌对普通人有何启示",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
           "source": "bilibili 热搜",
@@ -673,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时15分"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
