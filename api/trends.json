@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T22:15:07.832627+08:00",
-  "total_titles_processed": 2049,
+  "generated_at": "2026-02-28T23:14:22.968017+08:00",
+  "total_titles_processed": 2135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "巴基斯坦防长宣布对阿富汗展开“公开战争”",
@@ -40,6 +40,18 @@
           "time_info": "[02时29分 ~ 12时49分]"
         },
         {
+          "title": "巴基斯坦阿富汗冲突为何升级",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%B2%E7%AA%81%E4%B8%BA%E4%BD%95%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时26分 ~ 23时14分]"
+        },
+        {
           "title": "巴基斯坦对阿富汗公开宣战，双方在边境激烈交火，各称造成对方大量伤亡，此次开战原因是什么？目前局势如何？",
           "url": "https://www.zhihu.com/question/2010620160533296868",
           "source": "知乎",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时31分 ~ 16时18分]"
-        },
-        {
-          "title": "巴基斯坦阿富汗冲突为何升级",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%B2%E7%AA%81%E4%B8%BA%E4%BD%95%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时26分 ~ 22时15分]"
         },
         {
           "title": "巴基斯坦和阿富汗有啥历史积怨",
@@ -336,6 +336,17 @@
           "time_info": "19时12分"
         },
         {
+          "title": "美国国务院：美国驻巴基斯坦卡拉奇总领事馆已限制美国政府人员出行，直至周一。",
+          "url": "https://flash.jin10.com/detail/20260228224233602800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "美国国务院表示，华盛顿支持巴基斯坦抵御阿富汗塔利班的“自卫权”。",
           "url": "https://flash.jin10.com/detail/20260228065535316800",
           "source": "金十数据",
@@ -438,8 +449,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时26分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[14时26分 ~ 23时14分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -465,6 +476,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时12分 ~ 21时32分]"
+        },
+        {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时14分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -555,18 +579,6 @@
           "time_info": "[03时28分 ~ 04时20分]"
         },
         {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时31分 ~ 22时15分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -639,8 +651,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时15分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 23时14分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
@@ -651,8 +663,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时20分 ~ 22时15分]"
+          "appearance_count": 12,
+          "time_info": "[15时20分 ~ 23时14分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -688,11 +700,12 @@
             17,
             14,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时15分 ~ 22时15分]"
+          "appearance_count": 9,
+          "time_info": "[18时15分 ~ 23时14分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
