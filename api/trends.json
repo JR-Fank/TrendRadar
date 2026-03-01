@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T07:14:24.578558+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-03-01T09:22:07.831477+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             20,
             19,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时22分]"
         },
         {
           "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
@@ -96,7 +97,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -147,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时22分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -167,11 +168,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时22分]"
         }
       ]
     },
@@ -190,8 +192,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时16分 ~ 09时22分]"
         },
         {
           "title": "阿富汗方面称击毙110名巴基斯坦士兵",
@@ -215,6 +217,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国2月份新车注册量同比下降14.70%，至120,764辆。法国2月份特斯拉注册量增长55.11%。",
+          "url": "https://flash.jin10.com/detail/20260301084319841800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     }
