@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T04:16:47.900291+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-03-02T05:15:14.955827+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "阿富汗国防部：国防部空军今天再次对巴基斯坦的重要军事基地进行了有效空袭。此次袭击的目标是拉瓦尔品第的努尔汗基地。",
@@ -58,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
         }
       ]
     }
