@@ -1,372 +1,39 @@
 {
-  "generated_at": "2026-03-01T23:15:56.138459+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-03-02T00:18:07.841212+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 1,
       "titles": [
         {
           "title": "解读OpenAI获千亿美元投资背后",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            17,
-            20,
-            19,
-            10,
-            9,
-            8,
-            12,
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 23时15分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
-          "url": "https://flash.jin10.com/detail/20260301120433529800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部的协议发表声明称，Anthropic不应被列为\"供应链风险\"企业，已就此立场向政府明确表达。",
-          "url": "https://flash.jin10.com/detail/20260301045433852800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "马斯克：我一点也不信任OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260301141148179800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            28
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时27分]"
-        },
-        {
-          "title": "OpenAI 就与美国国防部的协议表态：在法律、法规或部门政策要求人类控制的情况下，人工智能系统不会被用于独立指挥自主武器。",
-          "url": "https://flash.jin10.com/detail/20260301045230715800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部达成的协议表示，保留对安全机制的完全自主权，经审查的OpenAI人员参与其中，并拥有强有力的合同保护。",
-          "url": "https://flash.jin10.com/detail/20260301045126214800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部的协议表示，人工智能系统不得用于对美国公民隐私信息的无限制监控。除非适用法律允许，该系统也不得用于国内执法活动。",
-          "url": "https://flash.jin10.com/detail/20260301044943651800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部的协议表示，部署架构将使我们能够独立验证这些红线不会被突破。",
-          "url": "https://flash.jin10.com/detail/20260301044842219800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部的协议表态称，不会向国防部提供“无安全约束”或未经安全训练的模型，也不在边缘设备上部署模型。",
-          "url": "https://flash.jin10.com/detail/20260301044547998800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部达成的协议表示，在与美国国防部的协议中，我们通过一种更为广泛、多层次的方法来保护我们的红线。",
-          "url": "https://flash.jin10.com/detail/20260301044444356800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部达成的协议表示，该协议包含的防护措施比以往任何涉及机密AI部署的协议（包括Anthropic的协议）都要严格。",
-          "url": "https://flash.jin10.com/detail/20260301044417806800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "OpenAI就与美国国防部的协议表示，与任何合同一样，若政府违反条款，我们有权终止协议，但我们并不预期会出现这种情况。",
-          "url": "https://flash.jin10.com/detail/20260301050034835800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
-          "title": "巴基斯坦阿富汗冲突为何升级",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%98%BF%E5%AF%8C%E6%B1%97%E5%86%B2%E7%AA%81%E4%B8%BA%E4%BD%95%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            9,
-            8,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 18时17分]"
-        },
-        {
-          "title": "巴基斯坦官方紧急救援组织“救援1122”发言人3月1日表示，在美国驻卡拉奇领事馆外发生的抗议活动中有至少6人死亡、12人受伤。抗议活动是在伊朗最高领袖哈梅内伊遇害后发生的。",
-          "url": "https://flash.jin10.com/detail/20260301155459119800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "阿富汗方面称击毙110名巴基斯坦士兵",
-          "url": "https://wallstreetcn.com/livenews/3060923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
-        },
-        {
-          "title": "美国驻巴基斯坦卡拉奇领事馆遭袭，抗议者闯入并破坏建筑，部分区域被点燃。",
-          "url": "https://flash.jin10.com/detail/20260301145225749800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时21分]"
-        },
-        {
-          "title": "阿富汗方面称击毙110名巴基斯坦士兵",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E6%96%B9%E9%9D%A2%E7%A7%B0%E5%87%BB%E6%AF%99110%E5%90%8D%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A3%AB%E5%85%B5",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时35分]"
-        },
-        {
-          "title": "巴基斯坦政府发言人：抗议者在巴基斯坦北部纵火焚烧当地联合国办事处。",
-          "url": "https://flash.jin10.com/detail/20260301153803454800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "巴基斯坦警方：在巴基斯坦卡拉奇，因伊朗哈梅内伊被击毙引发的抗议活动中至少已有九人死亡。",
-          "url": "https://flash.jin10.com/detail/20260301162227451800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "解读阿富汗巴基斯坦百年恩怨",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%99%BE%E5%B9%B4%E6%81%A9%E6%80%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "巴基斯坦警方在卡拉奇美国领事馆外向抗议者发射催泪瓦斯。",
-          "url": "https://flash.jin10.com/detail/20260301152444880800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "阿富汗方面称击毙110名巴基斯坦士兵",
-          "url": "https://flash.jin10.com/detail/20260228233602343800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
-          "url": "https://wallstreetcn.com/livenews/3061108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时13分]"
-        },
-        {
-          "title": "法国2月份新车注册量同比下降14.70%，至120,764辆。法国2月份特斯拉注册量增长55.11%。",
-          "url": "https://flash.jin10.com/detail/20260301084319841800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：将Cybertruck双电机全轮驱动版售价提高至69990美元。",
-          "url": "https://flash.jin10.com/detail/20260301161600546800",
+          "title": "当地官员称，因伊朗最高领袖哈梅内伊去世而在巴基斯坦各地爆发的暴力抗议活动已致死亡人数升至21人。",
+          "url": "https://flash.jin10.com/detail/20260301234224280800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
-          "url": "https://www.cls.cn/detail/2298093",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时22分]"
-        },
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 06时14分]"
-        },
-        {
-          "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
-          "url": "https://www.zhihu.com/question/2011096140146286806",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时22分]"
+          "time_info": "00时18分"
         }
       ]
     }
