@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T18:17:20.096893+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-03-01T19:13:54.866702+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 18时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 19时13分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -287,11 +287,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时13分]"
         },
         {
           "title": "法国2月份新车注册量同比下降14.70%，至120,764辆。法国2月份特斯拉注册量增长55.11%。",
