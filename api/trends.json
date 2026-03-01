@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:34:25.257785+08:00",
-  "total_titles_processed": 1737,
+  "generated_at": "2026-03-01T22:17:24.674618+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时16分 ~ 21时34分]"
+          "appearance_count": 23,
+          "time_info": "[00时16分 ~ 22时17分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -165,7 +165,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "巴基斯坦阿富汗冲突为何升级",
@@ -252,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "解读阿富汗巴基斯坦百年恩怨",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%99%BE%E5%B9%B4%E6%81%A9%E6%80%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "巴基斯坦警方在卡拉奇美国领事馆外向抗议者发射催泪瓦斯。",
