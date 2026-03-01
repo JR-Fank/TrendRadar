@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T15:27:56.445127+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-03-01T16:21:20.391583+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             8,
             12,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时16分 ~ 15时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时16分 ~ 16时21分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -164,7 +165,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "巴基斯坦阿富汗冲突为何升级",
@@ -175,11 +176,23 @@
             7,
             9,
             8,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时16分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 16时21分]"
+        },
+        {
+          "title": "巴基斯坦官方紧急救援组织“救援1122”发言人3月1日表示，在美国驻卡拉奇领事馆外发生的抗议活动中有至少6人死亡、12人受伤。抗议活动是在伊朗最高领袖哈梅内伊遇害后发生的。",
+          "url": "https://flash.jin10.com/detail/20260301155459119800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "阿富汗方面称击毙110名巴基斯坦士兵",
@@ -194,6 +207,18 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
+          "title": "美国驻巴基斯坦卡拉奇领事馆遭袭，抗议者闯入并破坏建筑，部分区域被点燃。",
+          "url": "https://flash.jin10.com/detail/20260301145225749800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时21分]"
+        },
+        {
           "title": "阿富汗方面称击毙110名巴基斯坦士兵",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E5%AF%8C%E6%B1%97%E6%96%B9%E9%9D%A2%E7%A7%B0%E5%87%BB%E6%AF%99110%E5%90%8D%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A3%AB%E5%85%B5",
           "source": "百度热搜",
@@ -206,15 +231,26 @@
           "time_info": "[13时45分 ~ 14时35分]"
         },
         {
-          "title": "美国驻巴基斯坦卡拉奇领事馆遭袭，抗议者闯入并破坏建筑，部分区域被点燃。",
-          "url": "https://flash.jin10.com/detail/20260301145225749800",
+          "title": "巴基斯坦政府发言人：抗议者在巴基斯坦北部纵火焚烧当地联合国办事处。",
+          "url": "https://flash.jin10.com/detail/20260301153803454800",
           "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "16时21分"
+        },
+        {
+          "title": "巴基斯坦警方在卡拉奇美国领事馆外向抗议者发射催泪瓦斯。",
+          "url": "https://flash.jin10.com/detail/20260301152444880800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "阿富汗方面称击毙110名巴基斯坦士兵",
