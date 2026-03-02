@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T17:39:16.502371+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-03-02T18:36:31.225129+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -102,9 +113,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "中东局势推升通胀忧虑 美股科技巨头估值承压",
+          "url": "https://flash.jin10.com/detail/20260302180804326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "美股盘前：黄金概念股、石油股、军工股上涨，科技股下跌",
@@ -113,7 +135,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
@@ -121,7 +143,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "参加反美抗议活动的巴基斯坦示威者死亡人数至少达到20人",
@@ -192,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "哈梅内伊遇害引发巴基斯坦动荡 24人死于抗议冲突",
+          "url": "https://flash.jin10.com/detail/20260302181814011800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "当地官员称，因伊朗最高领袖哈梅内伊去世而在巴基斯坦各地爆发的暴力抗议活动已致死亡人数升至21人。",
