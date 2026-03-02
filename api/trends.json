@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-02T19:27:42.761582+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-03-02T20:36:20.344667+08:00",
+  "total_titles_processed": 1859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时36分]"
+        },
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金突破5400",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时39分]"
-        },
-        {
-          "title": "伊朗危机冲击，纳指期货大跌2%，美股盘前金油板块集体大涨，布油涨8%，黄金突破5400",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时27分]"
         },
         {
           "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
