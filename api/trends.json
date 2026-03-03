@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T18:32:22.543605+08:00",
-  "total_titles_processed": 1700,
+  "generated_at": "2026-03-03T19:26:10.366990+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 19时26分]"
         },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -239,11 +239,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时26分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -379,8 +380,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[16时31分 ~ 19时26分]"
         },
         {
           "title": "特斯拉为什么要坚持纯视觉路线?",
@@ -433,8 +434,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时43分 ~ 19时26分]"
         },
         {
           "title": "美驻巴基斯坦白沙瓦总领事馆暂停运作",
