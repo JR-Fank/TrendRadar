@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-03T17:33:41.258854+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-03T18:32:22.543605+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 18时32分]"
+        },
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
           "url": "https://wallstreetcn.com/articles/3766477",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 06时20分]"
-        },
-        {
-          "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 17时33分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -157,7 +157,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -201,7 +201,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -223,7 +223,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
@@ -233,6 +233,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
@@ -244,18 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时20分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时33分]"
         },
         {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
@@ -370,6 +370,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
+          "url": "https://wallstreetcn.com/articles/3766573",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "特斯拉为什么要坚持纯视觉路线?",
           "url": "https://www.zhihu.com/question/662049831",
           "source": "知乎",
@@ -396,18 +409,6 @@
           "time_info": "[09时16分 ~ 13时43分]"
         },
         {
-          "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
-          "url": "https://wallstreetcn.com/articles/3766573",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时33分]"
-        },
-        {
           "title": "意大利交通部：2月份特斯拉在意大利的新车注册量同比下降6.9%。",
           "url": "https://flash.jin10.com/detail/20260303010145393800",
           "source": "金十数据",
@@ -432,8 +433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 18时32分]"
         },
         {
           "title": "美驻巴基斯坦白沙瓦总领事馆暂停运作",
@@ -465,7 +466,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         }
