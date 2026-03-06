@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:37:11.865980+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-03-06T15:33:47.903236+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 15时33分]"
         },
         {
           "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时44分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时44分 ~ 15时33分]"
         },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -198,8 +198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时33分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
