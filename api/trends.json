@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T21:35:21.497408+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-03-08T22:18:02.196936+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             11,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "巴基斯坦称巴阿冲突中阿方已有583人死亡",
@@ -37,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 22时18分]"
         },
         {
           "title": "阿富汗防长：寻求与巴基斯坦通过谈判解决问题",
