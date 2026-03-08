@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-03-08T19:14:22.931159+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-03-08T20:29:07.231028+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "巴基斯坦信息部：目前在宏观经济稳定方面，我们处于一个良好的位置，能源储备也保持在合理水平，因此现在没有任何恐慌的情况。",
+          "url": "https://flash.jin10.com/detail/20260307234210497800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "巴基斯坦称巴阿冲突中阿方已有583人死亡",
+          "url": "https://wallstreetcn.com/livenews/3065875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "阿富汗防长说寻求与巴基斯坦通过谈判解决问题",
+          "url": "https://wallstreetcn.com/livenews/3065863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时29分]"
+        },
+        {
+          "title": "阿富汗防长：寻求与巴基斯坦通过谈判解决问题",
+          "url": "https://flash.jin10.com/detail/20260308183351380800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "巴基斯坦称巴阿冲突中阿方已有583人死亡",
+          "url": "https://flash.jin10.com/detail/20260308193620204800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "巴基斯坦信息部：副总理与联邦财政部长和联邦石油部长共同召开新闻发布会。总理已成立一个委员会。我们正在努力尽量减少对民众的负担。",
+          "url": "https://flash.jin10.com/detail/20260307232453301800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 4,
@@ -27,11 +100,12 @@
             5,
             8,
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 20时29分]"
         },
         {
           "title": "沙特阿美股价早盘上涨3.3%。",
@@ -57,56 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时21分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦信息部：目前在宏观经济稳定方面，我们处于一个良好的位置，能源储备也保持在合理水平，因此现在没有任何恐慌的情况。",
-          "url": "https://flash.jin10.com/detail/20260307234210497800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "阿富汗防长说寻求与巴基斯坦通过谈判解决问题",
-          "url": "https://wallstreetcn.com/livenews/3065863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "阿富汗防长：寻求与巴基斯坦通过谈判解决问题",
-          "url": "https://flash.jin10.com/detail/20260308183351380800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "巴基斯坦信息部：副总理与联邦财政部长和联邦石油部长共同召开新闻发布会。总理已成立一个委员会。我们正在努力尽量减少对民众的负担。",
-          "url": "https://flash.jin10.com/detail/20260307232453301800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
         }
       ]
     },
