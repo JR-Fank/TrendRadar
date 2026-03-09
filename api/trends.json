@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T15:44:59.298222+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-03-09T16:34:45.468849+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -43,6 +43,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3066345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
           "url": "https://wallstreetcn.com/livenews/3066004",
           "source": "华尔街见闻-快讯",
@@ -52,6 +63,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港股油气设备股午后涨幅收窄，山东墨龙涨28%报10.63港元，早盘最高报16.33港元；百勤油服涨30%，中石化油服涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3066233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时52分 ~ 14时51分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收跌1.35%，恒生科技指数收跌0.12%，MiniMax收涨超23%，山东墨龙上涨25%；南向资金净买入额超370亿港元，创历史最高单日净买入纪录。",
+          "url": "https://wallstreetcn.com/livenews/3066356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "华泰证券港股策略：短期扰动尚未平息",
+          "url": "https://wallstreetcn.com/livenews/3066013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "普洛斯计划通过港股IPO筹集至少10亿美元。（IFR）",
+          "url": "https://wallstreetcn.com/livenews/3066339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     },
@@ -92,35 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股油气设备股午后涨幅收窄，山东墨龙涨28%报10.63港元，早盘最高报16.33港元；百勤油服涨30%，中石化油服涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3066233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时51分]"
-        },
-        {
-          "title": "华泰证券港股策略：短期扰动尚未平息",
-          "url": "https://wallstreetcn.com/livenews/3066013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
         }
       ]
     }
