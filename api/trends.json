@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-09T23:50:07.307013+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-03-10T00:48:23.276769+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
-          "url": "https://wallstreetcn.com/articles/3766978",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 19时29分]"
-        },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -28,299 +15,69 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时59分 ~ 23时50分]"
-        },
-        {
-          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3066555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股三大股指期货周一全线低开，均跌1%。",
-          "url": "https://flash.jin10.com/detail/20260309060042758800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
+          "time_info": "00时48分"
         },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
           "ranks": [
-            13,
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时59分 ~ 23时50分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3066608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时50分"
-        },
-        {
-          "title": "美股股指期货跌幅收窄至1%附近，此前均跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "美股股指期货跌幅扩大至2%",
-          "url": "https://flash.jin10.com/detail/20260309062453185800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "金十图示：2026年03月09日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260309214134620800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "美股盘前，科技股集体走低，英伟达跌超1.2%，美光科技跌超2%；美国石油股普涨，西方石油涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3066345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "摩根士丹利：对美股未来6-12个月走势仍持乐观看法",
-          "url": "https://wallstreetcn.com/livenews/3066428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "高盛数据显示 美股大跌之际对冲基金加码做空",
-          "url": "https://wallstreetcn.com/livenews/3066004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
-          "url": "https://wallstreetcn.com/livenews/3066555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "00时48分"
         }
       ]
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "巴基斯坦央行：已将中东冲突纳入考量。",
-          "url": "https://flash.jin10.com/detail/20260309191314300800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "巴基斯坦央行：通胀前景的风险已上升。",
-          "url": "https://flash.jin10.com/detail/20260309191219554800",
+          "title": "巴基斯坦总理：政府机关每周工作四天以节约燃油，该决定不包括银行。",
+          "url": "https://flash.jin10.com/detail/20260310002209894800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时29分"
+          "time_info": "00时48分"
         },
         {
-          "title": "巴基斯坦KSE-30指数下跌8%，触发交易暂停。",
-          "url": "https://flash.jin10.com/detail/20260309133313245800",
+          "title": "巴基斯坦总理：本周结束后，所有学校将停课两周；为节约燃料，高等教育将立即转为线上教学。",
+          "url": "https://flash.jin10.com/detail/20260310002157421800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时52分"
+          "time_info": "00时48分"
         },
         {
-          "title": "巴基斯坦称巴阿冲突中阿方已有583人死亡",
-          "url": "https://wallstreetcn.com/livenews/3065875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "巴基斯坦央行：中东冲突前景不明。",
-          "url": "https://flash.jin10.com/detail/20260309190944884800",
+          "title": "巴基斯坦总理：未来两个月，政府部门的燃油补贴将削减50%。",
+          "url": "https://flash.jin10.com/detail/20260310001652219800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "巴基斯坦KSE-30指数暴跌8%，触发熔断暂停交易。",
-          "url": "https://wallstreetcn.com/livenews/3066217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时52分"
-        },
-        {
-          "title": "油价飙升引发抢购 巴基斯坦拟推节油措施",
-          "url": "https://flash.jin10.com/detail/20260309190128402800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "巴基斯坦央行将基准利率维持在10.50%不变，符合市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3066427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "巴基斯坦央行将基准利率维持在10.5%。",
-          "url": "https://flash.jin10.com/detail/20260309175808098800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股油气设备股午后涨幅收窄，山东墨龙涨28%报10.63港元，早盘最高报16.33港元；百勤油服涨30%，中石化油服涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3066233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时51分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收跌1.35%，恒生科技指数收跌0.12%，MiniMax收涨超23%，山东墨龙上涨25%；南向资金净买入额超370亿港元，创历史最高单日净买入纪录。",
-          "url": "https://wallstreetcn.com/livenews/3066356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "华泰证券港股策略：短期扰动尚未平息",
-          "url": "https://wallstreetcn.com/livenews/3066013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "岚图汽车港股上市方案获批",
-          "url": "https://wallstreetcn.com/livenews/3066499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "普洛斯计划通过港股IPO筹集至少10亿美元。（IFR）",
-          "url": "https://wallstreetcn.com/livenews/3066339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "00时48分"
         }
       ]
     },
@@ -329,15 +86,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "“龙虾”开发者加入OpenAI",
-          "url": "https://www.toutiao.com/trending/7615246816627396150/",
-          "source": "今日头条",
+          "title": "OpenAI：企业用户和教育用户面临的沟通错误偏高。",
+          "url": "https://wallstreetcn.com/livenews/3066617",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "00时48分"
         }
       ]
     }
