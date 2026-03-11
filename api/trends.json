@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T14:40:29.572126+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-03-11T15:38:10.638528+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,17 @@
           "time_info": "[00时47分 ~ 06时19分]"
         },
         {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时10分 ~ 15时38分]"
+        },
+        {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
           "url": "https://www.cls.cn/detail/2309059",
           "source": "财联社热门",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时19分 ~ 14时40分]"
-        },
-        {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 14时40分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -284,25 +284,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
-          "url": "https://flash.jin10.com/detail/20260311142402255800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "巴基斯坦",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
@@ -314,6 +297,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬对巴基斯坦总理谢里夫表示，如果国际社会不追究战争责任方，全球秩序与安全将面临风险。",
+          "url": "https://flash.jin10.com/detail/20260311151538494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中汽协：特斯拉中国2月出口2万辆电动汽车。",
+          "url": "https://flash.jin10.com/detail/20260311142402255800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     }
