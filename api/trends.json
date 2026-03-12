@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:32:07.470077+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-03-12T19:27:13.686288+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时22分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[07时22分 ~ 19时27分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -307,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
