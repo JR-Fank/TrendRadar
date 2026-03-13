@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:40:36.599767+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-03-13T15:39:23.195173+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时16分 ~ 14时40分]"
+          "appearance_count": 8,
+          "time_info": "[06时16分 ~ 15时39分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时39分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -199,8 +199,52 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "巴基斯坦电力部长：巴基斯坦将优先发展本土能源，避免采用危及能源安全的能源来源。",
+          "url": "https://flash.jin10.com/detail/20260313151509087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "巴基斯坦电力部长：巴基斯坦液化天然气发电占比约10%。",
+          "url": "https://flash.jin10.com/detail/20260313151500897800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "巴基斯坦电力部长：巴基斯坦74%的电力来自国内资源，目标到2034年提升至96%。",
+          "url": "https://flash.jin10.com/detail/20260313151452918800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "巴基斯坦电力部长：随着国内电力供应能力提升，巴基斯坦应对液化天然气供应中断的脆弱性降低。",
+          "url": "https://flash.jin10.com/detail/20260313151442146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
         {
           "title": "巴基斯坦总理发言人：巴基斯坦总理向沙特王储表示将给予全力支持，并就地区局势进行了讨论。",
           "url": "https://flash.jin10.com/detail/20260313041431645800",
@@ -241,7 +285,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
