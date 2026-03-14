@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T22:21:22.100051+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-14T23:19:23.109268+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时12分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[09时12分 ~ 23时19分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时20分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时20分 ~ 23时19分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 07时20分]"
+        },
+        {
+          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
+          "url": "https://wallstreetcn.com/articles/3767500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 23时19分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
@@ -93,17 +104,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 07时20分]"
-        },
-        {
-          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
-          "url": "https://wallstreetcn.com/articles/3767500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
