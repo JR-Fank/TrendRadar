@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T12:03:26.107816+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-14T13:40:13.170250+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 13时40分]"
+        },
+        {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时40分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 12时03分]"
         },
         {
           "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
