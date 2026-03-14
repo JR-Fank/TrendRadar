@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:31:54.874610+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-14T16:25:02.490348+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时20分 ~ 15时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
