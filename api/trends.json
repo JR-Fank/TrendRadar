@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T22:22:42.730486+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-03-15T23:21:17.745822+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时22分]"
+          "appearance_count": 6,
+          "time_info": "[19时19分 ~ 23时21分]"
         },
         {
           "title": "金融博客零对冲：恐慌指数VIX与整体波动性的脱节程度有多严重？VIX指数目前仅为美国“解放日”（2025年4月2日）时水平的三分之一（受美股“七巨头”资本支出预期支撑），而整体市场波动性却与2025年4月崩盘时相当。",
@@ -98,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时03分 ~ 22时22分]"
+          "appearance_count": 10,
+          "time_info": "[15时03分 ~ 23时21分]"
         },
         {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
@@ -110,8 +110,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时22分]"
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时21分]"
         }
       ]
     },
@@ -161,11 +161,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时21分]"
         }
       ]
     }
