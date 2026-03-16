@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T01:55:02.457834+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-03-17T02:50:05.833182+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "阿富汗塔利班发言人称，巴基斯坦的空袭击中了喀布尔的一家毒品康复医院，造成平民伤亡。",
@@ -14,7 +14,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
         },
@@ -25,9 +25,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "市场消息：阿富汗称巴基斯坦军方再次侵犯其领空。",
+          "url": "https://flash.jin10.com/detail/20260317015955458800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 02时50分]"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260317020724213800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -50,23 +89,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -78,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时55分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 02时50分]"
         }
       ]
     }
