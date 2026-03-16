@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T19:40:48.929389+08:00",
-  "total_titles_processed": 1431,
+  "generated_at": "2026-03-16T20:49:03.711595+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 20时49分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
@@ -179,6 +180,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         }
       ]
     },
