@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T17:56:28.712767+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-03-16T18:46:18.467425+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
@@ -27,11 +27,12 @@
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时46分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3070811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -101,7 +113,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -180,7 +192,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
