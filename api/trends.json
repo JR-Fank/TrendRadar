@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T18:46:18.467425+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-03-16T19:40:48.929389+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时40分]"
         },
         {
           "title": "国际油价高开后转跌，WTI日内跌超1%，韩股收涨1.1%，美股期货走高，比特币月内涨逾12%",
@@ -96,7 +97,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
