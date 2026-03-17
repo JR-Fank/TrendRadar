@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:38:05.804465+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-03-17T20:47:23.228135+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时15分 ~ 19时38分]"
+          "appearance_count": 15,
+          "time_info": "[09时15分 ~ 20时47分]"
         },
         {
           "title": "美股收盘：标普纳指均涨超1% 国际油价回落提振市场情绪",
@@ -106,9 +106,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "美股三大股指期货集体走高，纳指期货日内转涨，标普500指数期货涨0.08%，道指期货涨0.14%。",
+          "url": "https://wallstreetcn.com/livenews/3071677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "哈塞特安抚市场，美股指期货转涨、航空股盘前走高，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
@@ -131,6 +153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "美股航空股盘前走高，达美航空涨近5%，美国航空、阿拉斯加航空、联合大陆航空均涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3071652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "开拓药业：与上美股份签订战略合作框架协议",
+          "url": "https://flash.jin10.com/detail/20260317200641092800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -219,7 +263,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "阿富汗塔利班发言人称，巴基斯坦的空袭击中了喀布尔的一家毒品康复医院，造成平民伤亡。",
@@ -266,6 +310,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "美国国务院：美国公民不应前往阿富汗、伊拉克或巴基斯坦-伊朗边境地区。",
+          "url": "https://flash.jin10.com/detail/20260317201017009800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
           "title": "巴基斯坦KSE-100指数上涨1.5%。",
           "url": "https://wallstreetcn.com/livenews/3071380",
           "source": "华尔街见闻-快讯",
@@ -286,6 +341,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016896539008726692",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时46分 ~ 20时47分]"
+        },
+        {
+          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
+          "url": "https://wallstreetcn.com/livenews/3071045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时55分]"
+        },
+        {
+          "title": "谷歌与DTE能源公司达成协议，将在密歇根州开发新的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3071670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "谷歌与DTE能源达成协议，将在密歇根州新建数据中心。",
+          "url": "https://flash.jin10.com/detail/20260317200707369800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -366,37 +474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016896539008726692",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 19时38分]"
-        },
-        {
-          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
-          "url": "https://wallstreetcn.com/livenews/3071045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时55分]"
         }
       ]
     }
