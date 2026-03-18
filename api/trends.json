@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T09:19:18.101726+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-03-18T12:15:45.340637+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 12时15分]"
         },
         {
           "title": "航空业ETF收涨将近2%，与能源业ETF领跑美股行业ETF",
@@ -125,7 +125,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -170,9 +170,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "“小龙虾”爆火！黄仁勋最新断言：OpenClaw“绝对是下一个ChatGPT”",
+          "url": "https://www.cls.cn/detail/2316213",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
@@ -259,7 +270,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
         }
