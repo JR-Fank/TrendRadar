@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T14:46:22.625303+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2026-03-19T15:41:14.727880+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -163,6 +163,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
+          "url": "https://www.cls.cn/detail/2317812",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 15时41分]"
+        },
+        {
           "title": "年内新增13只“A+H”股，港股IPO后备军持续扩容",
           "url": "https://wallstreetcn.com/livenews/3072725",
           "source": "华尔街见闻-快讯",
@@ -183,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "韩国资金涌入中国避险，A股、港股均获加仓，安全溢价正显现",
-          "url": "https://www.cls.cn/detail/2317812",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
         },
         {
           "title": "港股有色金属板块下挫，万国黄金集团跌超18％，中国黄金国际跌超9％，紫金矿业跌超8％。",
@@ -283,6 +284,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "外交部：中方欢迎巴基斯坦、阿富汗同意临时停火",
+          "url": "https://wallstreetcn.com/livenews/3073044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     }
