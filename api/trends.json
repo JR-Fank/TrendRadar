@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:29:14.040770+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-03-19T20:41:02.993393+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -185,7 +185,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -217,8 +217,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时46分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[14时46分 ~ 20时41分]"
         },
         {
           "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
@@ -226,11 +226,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时41分]"
         },
         {
           "title": "年内新增13只“A+H”股，港股IPO后备军持续扩容",
@@ -362,6 +363,34 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "机构：台积电、三星晶圆代工已针对5/4nm主力制程涨价",
+          "url": "https://flash.jin10.com/detail/20260319191145220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "特斯拉美股盘前跌幅扩大至1%，此前优步表示将斥资最高12.5亿美元押注Rivian无人驾驶出租车。",
+          "url": "https://wallstreetcn.com/livenews/3073294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -414,23 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构：台积电、三星晶圆代工已针对5/4nm主力制程涨价",
-          "url": "https://flash.jin10.com/detail/20260319191145220800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         }
       ]
     }
