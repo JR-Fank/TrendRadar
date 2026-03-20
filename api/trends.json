@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T22:38:38.126767+08:00",
-  "total_titles_processed": 2007,
+  "generated_at": "2026-03-20T23:35:25.640395+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时14分 ~ 22时38分]"
+          "appearance_count": 16,
+          "time_info": "[09时14分 ~ 23时35分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -75,22 +75,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时38分]"
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 23时35分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时38分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时35分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -103,6 +105,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时27分]"
+        },
+        {
+          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 23时35分]"
         },
         {
           "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
@@ -184,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        },
-        {
-          "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
-          "url": "https://wallstreetcn.com/articles/3767994",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时38分"
         },
         {
           "title": "超微电脑美股盘后跌8.8%。",
@@ -429,6 +432,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
+          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 23时35分]"
+        },
+        {
           "title": "特斯拉拟采购中国光伏设备？业内人士：节前有团队到访考察",
           "url": "https://wallstreetcn.com/livenews/3073817",
           "source": "华尔街见闻-快讯",
@@ -438,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
-        },
-        {
-          "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
-          "url": "https://news.ifeng.com/c/8reRDG6iAS5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时29分 ~ 22时38分]"
         },
         {
           "title": "特斯拉欲采购中国光伏设备 企业回应",
@@ -644,6 +647,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗最高领袖穆杰塔巴呼吁阿富汗和巴基斯坦改善关系，并表示愿提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260320230431207800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     }
