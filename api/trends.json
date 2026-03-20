@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T14:43:26.708647+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-20T15:40:41.041205+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时40分]"
+        },
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时43分]"
+          "time_info": "[09时14分 ~ 15时40分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时47分 ~ 09时15分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 14时43分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -183,7 +183,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -217,11 +217,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时40分]"
         },
         {
           "title": "特斯拉计划采购中国光伏设备？企业回应：确有此事",
@@ -293,7 +294,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
@@ -327,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "港股恒生科技指数加速下挫跌超3%，恒生指数跌1.44%，小米集团(01810.HK)跌超8%，阿里巴巴(09988.HK)跌超7%，小鹏汽车(09868.HK)、中芯国际(00981.HK)均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260320150305047800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "深交所公告，港股通标的证券名单调整，调入广合科技，3月20日起生效。",
