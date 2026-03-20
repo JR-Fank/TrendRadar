@@ -1,435 +1,61 @@
 {
-  "generated_at": "2026-03-20T23:35:25.640395+08:00",
-  "total_titles_processed": 2098,
+  "generated_at": "2026-03-21T00:33:31.725591+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 4,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
           "url": "https://wallstreetcn.com/articles/3767876",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时14分 ~ 23时35分]"
-        },
-        {
-          "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
-          "url": "https://www.cls.cn/detail/2318884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 15时40分]"
-        },
-        {
-          "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2318602",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 09时15分]"
-        },
-        {
-          "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3073561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时19分]"
+          "time_info": "00时33分"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
           "url": "https://wallstreetcn.com/articles/3768006",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 23时35分]"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 23时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040622886800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时38分 ~ 23时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260320040620199800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时27分]"
-        },
-        {
-          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3073567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时19分]"
-        },
-        {
-          "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
-          "url": "https://flash.jin10.com/detail/20260320040117255800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时27分]"
-        },
-        {
-          "title": "美股集体低开，道指跌0.26%、标普500指数跌0.29%、纳指跌0.47%。超微电脑跌超26%；戴尔科技涨超5%；联邦快递上涨7.6%，创下5月12日以来最大涨幅，公司第三财季业绩超预期并上调全财年盈利指引；小鹏汽车跌超3%，此前发布四季度业绩。",
-          "url": "https://wallstreetcn.com/livenews/3074189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时38分]"
-        },
-        {
-          "title": "欧美股市集体下挫",
-          "url": "https://www.toutiao.com/trending/7618875629325484073/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "美股股指期货跌幅扩大，纳指期货跌超1%，标普500指数期货跌0.75%，道指期货跌0.62%。 美国国债快速走低，美国2年期国债收益率跳升10个基点，至3.89%。 现货黄金日内转跌，现跌0.04%，报4655美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3074048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "00时33分"
         },
         {
-          "title": "美国锑美股盘前涨超8%，公司第四季度业绩超出市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3073925",
-          "source": "华尔街见闻-快讯",
+          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2319906",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "超微电脑美股盘后跌8.8%。",
-          "url": "https://wallstreetcn.com/livenews/3073615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "超微电脑美股盘前跌超20%。",
-          "url": "https://wallstreetcn.com/livenews/3073923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260320214206938800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈格岛",
-          "url": "https://wallstreetcn.com/livenews/3074027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260320010337054800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "金十图示：2026年03月19日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260320010247282800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美股三大股指拉升转涨。",
-          "url": "https://flash.jin10.com/detail/20260320030714362800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3074178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        },
-        {
-          "title": "超微电脑(SMCI.O)美股盘前跌超20%。",
-          "url": "https://flash.jin10.com/detail/20260320160234626800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "港股恒生科技指数午后跌超2%，恒生指数跌0.82%，科网股持续疲软，小米集团(01810.HK)跌超7%，阿里巴巴(09988.HK)跌超6.3%，小鹏汽车(09868.HK)跌近5%，京东(09618.HK)跌超3.5%。",
-          "url": "https://flash.jin10.com/detail/20260320132247038800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "港股收盘：恒生科技指数跌2.48%，小米集团跌超8%",
-          "url": "https://wallstreetcn.com/livenews/3073930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "港股年内IPO融资额破千亿，“A+H”持续扩容",
-          "url": "https://wallstreetcn.com/livenews/3074144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调入广合科技。",
-          "url": "https://wallstreetcn.com/livenews/3073653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "公募基金把脉港股，三大方向成共识",
-          "url": "https://wallstreetcn.com/livenews/3073611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "港股恒生科技指数加速下挫跌超3%，恒生指数跌1.44%，小米集团(01810.HK)跌超8%，阿里巴巴(09988.HK)跌超7%，小鹏汽车(09868.HK)、中芯国际(00981.HK)均跌超5%。",
-          "url": "https://flash.jin10.com/detail/20260320150305047800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时40分"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单调整，调入广合科技，3月20日起生效。",
-          "url": "https://flash.jin10.com/detail/20260320084201966800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "港股收评：恒指收跌0.88% 锂电股逆势大涨",
-          "url": "https://flash.jin10.com/detail/20260320161609797800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "港股收盘，恒指收跌0.88%，科指收跌2.48%；宁德时代(03750.HK)、李宁(02331.HK)逆势涨超8%，吉利汽车(00175.HK)涨近6.5%；小米集团(01810.HK)跌超8.5%，阿里巴巴(09988.HK)跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260320160917851800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "懂车帝据悉聘请花旗和高盛安排港股IPO事宜。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3074012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
-        },
-        {
-          "title": "广合科技港股上市首日挂牌高开32%，盘中涨幅一度扩大至106%，最高触及147.9港元，目前涨幅收窄至55%。",
-          "url": "https://wallstreetcn.com/livenews/3073722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "00时33分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
           "title": "特斯拉200亿元光伏大单曝光：美国制造、中国设备",
@@ -439,231 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 23时35分]"
-        },
-        {
-          "title": "特斯拉拟采购中国光伏设备？业内人士：节前有团队到访考察",
-          "url": "https://wallstreetcn.com/livenews/3073817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "特斯拉欲采购中国光伏设备 企业回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AC%B2%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87+%E4%BC%81%E4%B8%9A%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时32分]"
-        },
-        {
-          "title": "特斯拉计划采购中国光伏设备？企业回应：确有此事",
-          "url": "https://wallstreetcn.com/livenews/3073760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时45分]"
-        },
-        {
-          "title": "瑞银将特斯拉第一季度交付量预期下调至34.5万辆",
-          "url": "https://wallstreetcn.com/livenews/3073507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 02时43分]"
-        },
-        {
-          "title": "特斯拉计划采购中国光伏设备？企业回应：确有此事",
-          "url": "https://flash.jin10.com/detail/20260320113329734800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "标普500指数初步收跌0.2%，原材料板块跌1.6%，可选消费板块跌0.8%，科技板块大致持平，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，美光科技初步收跌3.8%，拼多多、Doordash、奈飞跌超3%，特斯拉跌2.9%，AMD、星巴克、拉姆研究则至少涨2.9%，西部数据涨3.9%，美国油服贝克休斯涨5.6%，希捷科技涨6.7%。 波音跌2.3%，与麦当劳、3M、宝洁、联合健康领跌道指成分股，高盛则涨0.6%，思科涨1.2%，雪佛龙涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3073551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "集邦：台积电先进工艺价格喊涨，订单看到2027年",
-          "url": "https://wallstreetcn.com/livenews/3073646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "A股光伏设备板块午后快速拉升，钧达股份、永臻股份、德业股份、上能电气、首航新航等10股涨停。消息面上，企业回应特斯拉计划采购中国光伏设备称确有此事。",
-          "url": "https://flash.jin10.com/detail/20260320130402044800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "美国监管机构对特斯拉“完全自动驾驶”系统的安全调查升级",
-          "url": "https://wallstreetcn.com/livenews/3073470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "报道：特斯拉寻求从中国供应商采购价值29亿美元光伏生产设备",
-          "url": "https://wallstreetcn.com/livenews/3073718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据华尔街日报：OpenAI总裁格雷格·布罗克曼将临时负责应用改造。",
-          "url": "https://flash.jin10.com/detail/20260320063632572800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
-          "url": "https://flash.jin10.com/detail/20260320063627057800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "OpenAI计划推出桌面“SupperAPP”。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "xAI派工程师上门服务，争夺OpenAI企业客户",
-          "url": "https://wallstreetcn.com/livenews/3074174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
-          "url": "https://flash.jin10.com/detail/20260320033049642800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时49分]"
-        },
-        {
-          "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
-          "url": "https://wallstreetcn.com/livenews/3073558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时19分]"
-        },
-        {
-          "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
-          "url": "https://flash.jin10.com/detail/20260320020259710800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗最高领袖穆杰塔巴呼吁阿富汗和巴基斯坦改善关系，并表示愿提供帮助。",
-          "url": "https://flash.jin10.com/detail/20260320230431207800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
+          "time_info": "00时33分"
         }
       ]
     }
