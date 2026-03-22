@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:39:52.258182+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-03-22T15:33:26.880943+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 14时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 15时33分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -66,11 +66,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时33分]"
         },
         {
           "title": "特斯拉：打造TERAFAB芯片工厂是为了弥合当下芯片产能与未来需求的鸿沟",
@@ -78,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时33分]"
         }
       ]
     },
