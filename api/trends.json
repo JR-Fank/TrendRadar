@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T14:54:05.950734+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-24T15:49:17.990412+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -37,8 +37,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时49分]"
+        },
+        {
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时49分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -67,20 +81,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2322200",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时54分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -120,6 +120,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260324040614031800",
           "source": "金十数据",
@@ -153,8 +164,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时49分]"
         },
         {
           "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
@@ -258,8 +269,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时49分]"
         },
         {
           "title": "中国核电让巴基斯坦停电时间少一半",
@@ -282,11 +293,12 @@
           "ranks": [
             19,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时54分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时49分]"
         },
         {
           "title": "伊朗外长与巴基斯坦外长通电话，讨论地区局势",
@@ -388,7 +400,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         }
@@ -396,7 +408,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "港股贵金属股午后再度走强，赤峰黄金(06693.HK)涨超9%，万国黄金(03939.HK)涨超8%，灵宝黄金(03330.HK)涨近8%，招金矿业(01818.HK)、紫金黄金国际(02259.HK)、紫金矿业(02899.HK)均涨5%。",
@@ -405,7 +417,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
@@ -419,6 +431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "港股大模型股拉升，MINIMAX涨超12%，智谱涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3075746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "港股新消费概念股午后走强，老铺黄金涨9.8%，蜜雪集团涨超8%，锅圈涨近5%，鸣鸣很忙涨超4%，泡泡玛特、古茗涨超3%。",
@@ -445,13 +468,24 @@
           "time_info": "[13时54分 ~ 14时54分]"
         },
         {
+          "title": "港股AI应用产业股持续拉升，MINIMAX-W(00100.HK)涨超12%，智谱(02513.HK)涨超10%，金山云(03896.HK)、腾讯控股(00700.HK)、阿里巴巴(09988.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260324153218445800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "港股恒生指数午后走强涨超2%，恒生科技指数涨超1.4%，老铺黄金(06181.HK)涨超12%，药明康德(02359.HK)、康师傅控股(00322.HK)涨超8%，华润啤酒(00291.HK)涨近7.5%。",
           "url": "https://flash.jin10.com/detail/20260324141806276800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
         },
