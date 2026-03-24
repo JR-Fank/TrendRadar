@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T18:42:35.208259+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2026-03-24T19:39:30.111834+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时12分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 19时39分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -99,6 +99,20 @@
           "time_info": "[00时47分 ~ 07时23分]"
         },
         {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时39分]"
+        },
+        {
           "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -119,19 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时42分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -197,6 +198,18 @@
           "time_info": "[04时31分 ~ 06时22分]"
         },
         {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时39分]"
+        },
+        {
           "title": "美伊和谈信号提振市场，美股期货盘前小幅上涨，现货黄金跌幅收窄，布油仍涨约2%",
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
@@ -206,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
         },
         {
           "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
@@ -239,6 +241,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "理想汽车(LI.O)美股盘前涨超4%，公司此前宣布一项10亿美元的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260324190510540800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "理想汽车(LI.O)美股盘前拉升，涨超1.5%。",
+          "url": "https://flash.jin10.com/detail/20260324190338765800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -256,11 +280,12 @@
             16,
             14,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时12分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 19时39分]"
         },
         {
           "title": "以官员：美伊本周将在巴基斯坦会谈",
@@ -608,7 +633,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
