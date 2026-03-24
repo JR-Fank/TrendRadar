@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T15:49:17.990412+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-03-24T16:40:55.759195+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 16时40分]"
         },
         {
           "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 16时40分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -120,17 +120,6 @@
           "time_info": "09时12分"
         },
         {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260324040614031800",
           "source": "金十数据",
@@ -142,6 +131,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时22分]"
+        },
+        {
+          "title": "李大霄解读美股反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时40分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）热门中概股行情一览（美股收盘）",
@@ -251,6 +252,17 @@
           "time_info": "[00时47分 ~ 07时23分]"
         },
         {
+          "title": "巴基斯坦调解美伊：总理致电伊朗总统，陆军参谋长与特朗普通话",
+          "url": "https://news.ifeng.com/c/8rkVJhNqkm6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 16时40分]"
+        },
+        {
           "title": "美以伊战争丨以官员：美伊将在巴基斯坦会谈",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -262,15 +274,19 @@
           "time_info": "[00时47分 ~ 02时50分]"
         },
         {
-          "title": "巴基斯坦调解美伊：总理致电伊朗总统，陆军参谋长与特朗普通话",
-          "url": "https://news.ifeng.com/c/8rkVJhNqkm6",
-          "source": "凤凰网",
+          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            19,
+            15,
+            16,
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 15时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 16时40分]"
         },
         {
           "title": "中国核电让巴基斯坦停电时间少一半",
@@ -285,20 +301,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时47分 ~ 06时22分]"
-        },
-        {
-          "title": "以高级官员：伊朗和美国本周将在巴基斯坦举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32816295",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时12分 ~ 15时49分]"
         },
         {
           "title": "伊朗外长与巴基斯坦外长通电话，讨论地区局势",
@@ -408,7 +410,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "港股贵金属股午后再度走强，赤峰黄金(06693.HK)涨超9%，万国黄金(03939.HK)涨超8%，灵宝黄金(03330.HK)涨近8%，招金矿业(01818.HK)、紫金黄金国际(02259.HK)、紫金矿业(02899.HK)均涨5%。",
@@ -439,7 +441,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -474,7 +476,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -490,6 +492,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "港股收评：恒指收涨2.79% 新消费概念、AI应用股持续走强",
+          "url": "https://flash.jin10.com/detail/20260324161539220800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "港股新消费概念股午后震荡上升，老铺黄金(06181.HK)涨9.8%，蜜雪集团(02097.HK)涨超8.3%，锅圈(02517.HK)涨近5%，鸣鸣很忙(01768.HK)涨超4%，布鲁可(00325.HK)、泡泡玛特(09992.HK)、古茗(01364.HK)等均涨超3%。",
           "url": "https://flash.jin10.com/detail/20260324131107767800",
           "source": "金十数据",
@@ -499,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "港股收盘，恒指收涨2.79%，科指收涨2.51%；老铺黄金(06181.HK)涨超16%，药明康德(02359.HK)涨超10%，华润啤酒(00291.HK)、康师傅控股(00322.HK)均涨超9%；中国海洋石油(00883.HK)、宁德时代(03750.HK)均跌3%。",
+          "url": "https://flash.jin10.com/detail/20260324160905775800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
