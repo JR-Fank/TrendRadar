@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T15:47:50.562164+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-03-25T16:39:33.815893+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时39分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -29,11 +29,12 @@
             5,
             19,
             22,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时39分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -45,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时47分]"
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时39分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -311,7 +312,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -341,11 +342,12 @@
           "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 15时47分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 16时39分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -384,11 +386,12 @@
             14,
             23,
             21,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时56分 ~ 15时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时56分 ~ 16时39分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -485,6 +488,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨约5%，京东涨约4%，百度涨约2%。 Arm美股盘前涨超10%，公司亲自下场挑战英特尔与AMD，首款CPU直指AI数据中心，料年收入150亿。 美股三大股指期货走高，均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3076543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美元指数周二涨约0.3%，美股收盘后急剧跳水，日元美股盘后瞬间拉升",
           "url": "https://wallstreetcn.com/livenews/3076170",
           "source": "华尔街见闻-快讯",
@@ -529,6 +543,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美股太空概念股盘前上扬，DXYZ大涨近15%，Rocket Lab、AST SpaceMobile、Redwire、Planet Labs涨超3%，Destiny Tech100上涨17.7%，消息称SpaceX据悉最快本周递表。",
+          "url": "https://flash.jin10.com/detail/20260325161629723800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 Circle大跌20%",
           "url": "https://flash.jin10.com/detail/20260325040120661800",
           "source": "金十数据",
@@ -554,7 +579,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "港股午后快速拉升恒生指数涨超1.3%，恒生科技指数涨超2%，科网股领涨大市，美团(03690.HK)涨超11.5%，阿里巴巴(09988.HK)涨超6%，京东(09618.HK)涨超5%；消息面上，经济日报评论员发布文章表示，外卖大战该结束了。",
@@ -669,6 +694,28 @@
           "time_info": "14时53分"
         },
         {
+          "title": "港股收评：恒指收涨1.09% 科网股再度异动",
+          "url": "https://flash.jin10.com/detail/20260325161513354800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3076523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "港股泡泡玛特(09992.HK)午后跌超12%，此前财报显示2025年度收益371.2亿元，同比增长184.7%，拥有人应占溢利127.75亿元人民币，同比增长308.8%。",
           "url": "https://flash.jin10.com/detail/20260325130154923800",
           "source": "金十数据",
@@ -683,8 +730,20 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
+          "url": "https://wallstreetcn.com/articles/3768300",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 16时39分]"
+        },
         {
           "title": "美伊和谈信号？中东多国积极行动、巴基斯坦斡旋停火，伊朗称收到美国信息",
           "url": "https://wallstreetcn.com/articles/3768253",
@@ -698,17 +757,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时56分 ~ 15时47分]"
-        },
-        {
-          "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
-          "url": "https://wallstreetcn.com/articles/3768300",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时47分]"
         },
         {
           "title": "巴基斯坦总理：已准备好主持美伊会谈",
@@ -738,13 +786,24 @@
           "time_info": "[00时56分 ~ 01时50分]"
         },
         {
+          "title": "巴基斯坦表示愿成为美伊冲突调解方 外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "巴基斯坦总理：与沙特王储穆罕默德·本·萨勒曼通话。重申巴基斯坦强烈谴责近期针对沙特的袭击，并再次确认，在这一充满挑战的时期，巴基斯坦将坚定声援并毫不动摇地支持沙特。",
           "url": "https://flash.jin10.com/detail/20260325151835410800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
         }
