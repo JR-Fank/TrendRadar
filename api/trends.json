@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T06:19:59.482397+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-03-27T07:23:16.583067+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -38,8 +38,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时53分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[01时53分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
@@ -124,8 +135,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -190,8 +201,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
@@ -242,8 +253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
@@ -255,8 +266,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
         },
         {
           "title": "巴基斯坦外长称美伊正进行间接谈判",
