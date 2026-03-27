@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T17:45:20.552760+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-03-27T18:39:49.910455+08:00",
+  "total_titles_processed": 1641,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 18时39分]"
+        },
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时23分 ~ 17时45分]"
+          "time_info": "[12时27分 ~ 18时39分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -52,19 +65,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时22分 ~ 15时55分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时45分]"
         },
         {
           "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
@@ -151,6 +151,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指全线转跌，美日债市承压，油价涨势扩大，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 18时39分]"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
           "url": "https://flash.jin10.com/detail/20260327040147808800",
           "source": "金十数据",
@@ -160,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美伊局势走向不明，美股期指全线转跌，美日债市承压，油价涨势扩大，现货金银涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -190,7 +191,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -229,11 +230,12 @@
           "ranks": [
             9,
             5,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 17时45分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 18时39分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -244,11 +246,12 @@
             12,
             20,
             13,
-            17
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 18时39分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -268,11 +271,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 17时45分]"
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 18时39分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -287,6 +291,19 @@
           "time_info": "[02时54分 ~ 03时51分]"
         },
         {
+          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
+          "url": "https://www.cls.cn/detail/2326397",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 18时39分]"
+        },
+        {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
           "url": "https://www.cls.cn/detail/2326356",
           "source": "财联社热门",
@@ -297,18 +314,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时54分 ~ 16时41分]"
-        },
-        {
-          "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
-          "url": "https://www.cls.cn/detail/2326397",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时45分]"
         },
         {
           "title": "谷歌：用户可以将其他AI应用的记忆转移到Gemini。",
