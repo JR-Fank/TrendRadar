@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T18:39:49.910455+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-03-27T19:36:17.716183+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 19时36分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -26,11 +27,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时39分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时36分]"
         },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
@@ -104,6 +106,17 @@
           "time_info": "[14时07分 ~ 16时41分]"
         },
         {
+          "title": "美伊局势走向不明，美股期指跌幅扩大，美日债市承压，布油涨超2%，现货金银涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040601213800",
           "source": "金十数据",
@@ -174,6 +187,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.7%，标普500指数期货跌0.5%，道指期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3078195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
@@ -231,11 +255,12 @@
             9,
             5,
             2,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 18时39分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 19时36分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -250,8 +275,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 18时39分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 19时36分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -272,11 +297,12 @@
           "ranks": [
             10,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时54分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 19时36分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -348,6 +374,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗：中国、俄罗斯、巴基斯坦、伊拉克、印度、孟加拉国等国船只安全通过了霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3768437",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
+          "url": "https://wallstreetcn.com/articles/3768413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时23分]"
+        },
+        {
+          "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+          "url": "https://wallstreetcn.com/livenews/3078196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "巴基斯坦外长称美伊正进行间接谈判",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%BF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E6%AD%A3%E8%BF%9B%E8%A1%8C%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时19分]"
+        },
+        {
+          "title": "美特使证实：巴基斯坦正充当美伊之间的中间人",
+          "url": "https://wallstreetcn.com/livenews/3077581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "短暂停火后 巴基斯坦恢复对阿富汗的袭击",
+          "url": "https://flash.jin10.com/detail/20260327120933187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "王毅同巴基斯坦副总理兼外长达尔通电话",
+          "url": "https://flash.jin10.com/detail/20260327191438150800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     },
@@ -471,72 +585,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗：中国、俄罗斯、巴基斯坦、伊拉克、印度、孟加拉国等国船只安全通过了霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3768437",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 12时27分]"
-        },
-        {
-          "title": "伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案",
-          "url": "https://wallstreetcn.com/articles/3768413",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时23分]"
-        },
-        {
-          "title": "巴基斯坦外长称美伊正进行间接谈判",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%A4%96%E9%95%BF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E6%AD%A3%E8%BF%9B%E8%A1%8C%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时19分]"
-        },
-        {
-          "title": "美特使证实：巴基斯坦正充当美伊之间的中间人",
-          "url": "https://wallstreetcn.com/livenews/3077581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "短暂停火后 巴基斯坦恢复对阿富汗的袭击",
-          "url": "https://flash.jin10.com/detail/20260327120933187800",
-          "source": "金十数据",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
