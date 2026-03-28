@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T06:20:08.249077+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-03-29T07:22:46.354540+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 07时22分]"
         },
         {
           "title": "巴基斯坦外交部：巴基斯坦外长与伊朗外长阿拉格齐通电话。",
@@ -27,11 +28,12 @@
           "ranks": [
             8,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 07时22分]"
         },
         {
           "title": "巴基斯坦：伊朗政府已同意再放行20艘巴船只",
@@ -40,11 +42,12 @@
           "ranks": [
             11,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时20分]"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 07时22分]"
         },
         {
           "title": "巴基斯坦最大炼油企业Cnergyico Pk表示，大约80%的原油进口以及近25%的柴油供应，通常都是通过霍尔木兹海峡运输的。",
@@ -52,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时22分]"
         },
         {
           "title": "巴基斯坦外长与伊朗外长就地区局势交换意见",
@@ -64,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时22分]"
         },
         {
           "title": "市场消息：伊朗总统佩泽希齐扬在与巴基斯坦总理的通话中表示，对基础设施的攻击和刺杀事件表明侵略者不可信。伊朗的防御反应是自然的。伊朗视穆斯林国家为兄弟，寻求不伤害任何穆斯林。",
@@ -95,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -106,8 +111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -117,8 +122,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -129,64 +134,26 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            22,
-            26,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
-        },
-        {
-          "title": "内存股大跌与谷歌论文有关吗",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "特斯拉计划把在日本的服务中心网络规模扩大一倍",
+          "url": "https://flash.jin10.com/detail/20260329053745617800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
         {
           "title": "马斯克：欧洲人一定会喜欢特斯拉(TSLA.O)的自动驾驶功能。由于欧盟的监管负担极其沉重，这通常会扼杀欧洲的创新，因此，那里的特斯拉车主至今只能使用基本的车道跟随功能。",
           "url": "https://flash.jin10.com/detail/20260329010123344800",
@@ -205,11 +172,61 @@
           "source": "金十数据",
           "ranks": [
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时20分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23,
+            22,
+            26,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
+        },
+        {
+          "title": "内存股大跌与谷歌论文有关吗",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B8%8E%E8%B0%B7%E6%AD%8C%E8%AE%BA%E6%96%87%E6%9C%89%E5%85%B3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
         }
       ]
     }
