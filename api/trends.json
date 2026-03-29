@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T00:25:27.898415+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:23:11.130255+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴基斯坦：伊朗同意新增放行20艘巴船只通过霍尔木兹海峡",
@@ -15,19 +15,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时23分]"
+        },
+        {
+          "title": "巴基斯坦外长：战争不符合任何人的利益，我们呼吁在伊斯兰堡举行美伊会谈。",
+          "url": "https://flash.jin10.com/detail/20260330005835101800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时23分"
         },
         {
           "title": "巴基斯坦邀请地区大国参与会议，讨论停火提议及霍尔木兹海峡封锁问题",
           "url": "https://flash.jin10.com/detail/20260329235108987800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时23分]"
         },
         {
           "title": "中东局势四国外长会议在巴基斯坦举行",
@@ -37,8 +49,41 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时23分]"
+        },
+        {
+          "title": "巴基斯坦外长：巴基斯坦非常高兴伊朗和美国均表示对巴基斯坦在促成对话方面充满信心。",
+          "url": "https://flash.jin10.com/detail/20260330004149875800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "01时23分"
+        },
+        {
+          "title": "巴基斯坦外长：我们向各外长及代表团通报了美伊在伊斯兰堡举行会谈的可能性。",
+          "url": "https://flash.jin10.com/detail/20260330004034903800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "巴基斯坦外长：我们讨论了使地区战争早日实现永久性结束的可行途径。",
+          "url": "https://flash.jin10.com/detail/20260330003921503800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     },
@@ -51,22 +96,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时23分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时23分]"
         }
       ]
     },
@@ -82,8 +129,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 01时23分]"
         }
       ]
     }
