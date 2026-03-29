@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T21:46:27.267151+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-29T22:27:14.588176+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时26分 ~ 22时27分]"
         },
         {
           "title": "巴基斯坦副总理会见土外长，讨论涉伊朗等地区局势问题",
@@ -34,6 +35,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：沙特外长抵达巴基斯坦首都伊斯兰堡，参加与巴基斯坦、埃及和土耳其外长的四方会议，会议主题为地区和平。",
+          "url": "https://flash.jin10.com/detail/20260329185845560800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时27分]"
         },
         {
           "title": "泰国巴基斯坦马来西亚与伊朗达成协议，三国部分船只获准通过霍尔木兹海峡",
@@ -91,19 +106,6 @@
           "time_info": "[15时46分 ~ 17时28分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：沙特外长抵达巴基斯坦首都伊斯兰堡，参加与巴基斯坦、埃及和土耳其外长的四方会议，会议主题为地区和平。",
-          "url": "https://flash.jin10.com/detail/20260329185845560800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时46分]"
-        },
-        {
           "title": "巴基斯坦副总理兼外交部长会见埃及外长",
           "url": "https://flash.jin10.com/detail/20260329152041535800",
           "source": "金十数据",
@@ -122,11 +124,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时27分]"
         },
         {
           "title": "中东局势四国外长会议在巴基斯坦举行",
@@ -134,11 +137,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时27分]"
         },
         {
           "title": "巴基斯坦外交部：巴基斯坦外长强调，实现持久和平需要缓和局势、开展对话与外交。",
@@ -234,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 22时27分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -249,11 +253,12 @@
             18,
             17,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时31分 ~ 21时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时31分 ~ 22时27分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -302,6 +307,17 @@
           "time_info": "[00时23分 ~ 07时22分]"
         },
         {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时27分]"
+        },
+        {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
           "url": "https://www.zhihu.com/question/2021000785224287940",
           "source": "知乎",
@@ -313,17 +329,6 @@
           "time_info": "[14时08分 ~ 17时28分]"
         },
         {
-          "title": "新算法公布,谷歌干崩股市",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时46分]"
-        },
-        {
           "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
           "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
           "source": "知乎",
@@ -333,6 +338,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时26分]"
+        },
+        {
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 09时26分]"
+        },
+        {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 19时21分]"
+        },
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时08分 ~ 22时27分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国3月官方制造业PMI将公布；周五非农重磅来袭却碰上美股休市",
+          "url": "https://flash.jin10.com/detail/20260329214652557800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     },
@@ -398,74 +482,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
-        {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 09时26分]"
-        },
-        {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 19时21分]"
-        },
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时08分 ~ 21时46分]"
         }
       ]
     }
