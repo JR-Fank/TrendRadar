@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T09:27:26.884670+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-03-30T12:38:38.597650+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时29分]"
+        },
+        {
+          "title": "巴基斯坦外长：准备在未来几天主持美伊会谈",
+          "url": "https://news.ifeng.com/c/8ruFi3FRqyw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 12时38分]"
         },
         {
           "title": "巴基斯坦外长：巴基斯坦非常高兴伊朗和美国均表示对巴基斯坦在促成对话方面充满信心。",
@@ -103,17 +114,6 @@
           "time_info": "[00时25分 ~ 01时23分]"
         },
         {
-          "title": "巴基斯坦外长：准备在未来几天主持美伊会谈",
-          "url": "https://news.ifeng.com/c/8ruFi3FRqyw",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
           "title": "美军逼近、伊朗警告反击，巴基斯坦拟撮合美伊会谈",
           "url": "https://flash.jin10.com/detail/20260330063916287800",
           "source": "金十数据",
@@ -139,7 +139,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时25分 ~ 09时27分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -176,13 +187,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "港股午评：恒生指数跌0.93%，恒生科技指数跌1.7%",
+          "url": "https://flash.jin10.com/detail/20260330120458760800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
         {
           "title": "港股IPO活力持续释放，科技赛道成资本“新宠”",
           "url": "https://wallstreetcn.com/livenews/3078790",
@@ -201,9 +234,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "港股开盘恒生指数跌1.68%",
+          "url": "https://www.douyin.com/hot/2448265",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -218,11 +262,12 @@
           "ranks": [
             12,
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时38分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -233,11 +278,12 @@
             24,
             18,
             21,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时25分 ~ 09时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 12时38分]"
         }
       ]
     }
