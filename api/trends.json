@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T06:26:12.154580+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-04-01T07:26:56.093342+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 07时26分]"
         },
         {
           "title": "美股后续会怎么走",
@@ -70,6 +70,17 @@
           "time_info": "[00时00分 ~ 03时50分]"
         },
         {
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
           "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
           "url": "https://flash.jin10.com/detail/20260401004225097800",
           "source": "金十数据",
@@ -81,16 +92,41 @@
           "time_info": "00时59分"
         },
         {
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 07时26分]"
+        },
+        {
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 07时26分]"
+        },
+        {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
           "url": "https://www.cls.cn/detail/2331277",
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时30分 ~ 06时26分]"
+          "appearance_count": 5,
+          "time_info": "[05时30分 ~ 07时26分]"
         },
         {
           "title": "半导体ETF收涨超5.7%，在3月份收官日领跑美股行业ETF，一季度能源业ETF涨37.9%",
@@ -115,28 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时26分]"
-        },
-        {
-          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
-          "url": "https://www.cls.cn/detail/2331315",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
         },
         {
           "title": "美股创下去年5月以来的最大单日涨幅 月线仍跌约5%",
@@ -222,17 +236,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "中国和巴基斯坦恢复中东地区和平稳定的五点倡议",
-          "url": "https://news.ifeng.com/c/8rwwktDAxCn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时26分]"
-        },
-        {
           "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议",
           "url": "https://www.cls.cn/detail/2331050",
           "source": "财联社热门",
@@ -242,8 +245,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 07时26分]"
+        },
+        {
+          "title": "中国和巴基斯坦恢复中东地区和平稳定的五点倡议",
+          "url": "https://news.ifeng.com/c/8rwwktDAxCn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 07时26分]"
         },
         {
           "title": "中国和巴基斯坦提出5点倡议",
@@ -253,8 +268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时00分 ~ 06时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 07时26分]"
         },
         {
           "title": "中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议，哪些信息值得关注？",
@@ -265,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 07时26分]"
         },
         {
           "title": "中国和巴基斯坦关于恢复海湾和中东地区和平稳定的五点倡议",
@@ -275,11 +290,12 @@
           "ranks": [
             20,
             19,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时49分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[02时49分 ~ 07时26分]"
         },
         {
           "title": "美国总统特朗普宣称，对伊朗的战争不会持续“太久”。 其他国家可以让霍尔木兹海峡重新开放。 美国撤离后霍尔木兹海峡将自动开放。 拒绝透露副总统万斯与特使Witkoff是否前往巴基斯坦。（纽约邮报）",
