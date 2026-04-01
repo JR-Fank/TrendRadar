@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:01:29.507142+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2026-04-01T18:58:50.983389+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -19,18 +19,6 @@
           "time_info": "[00时00分 ~ 06时26分]"
         },
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 06时26分]"
-        },
-        {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
@@ -41,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时25分 ~ 18时01分]"
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 18时58分]"
         },
         {
           "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
@@ -52,8 +40,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时26分 ~ 18时01分]"
+          "appearance_count": 8,
+          "time_info": "[07时26分 ~ 18时58分]"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 06时26分]"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -333,6 +333,18 @@
           "time_info": "[12时41分 ~ 16时10分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时58分]"
+        },
+        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -364,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
         },
         {
           "title": "OpenAI创下史上最大融资纪录",
@@ -442,8 +443,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时49分 ~ 18时01分]"
+          "appearance_count": 16,
+          "time_info": "[02时49分 ~ 18时58分]"
         },
         {
           "title": "中国和巴基斯坦提出关于恢复海湾和中东地区和平稳定的五点倡议，哪些信息值得关注？",
@@ -473,8 +474,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时00分 ~ 18时01分]"
+          "appearance_count": 20,
+          "time_info": "[00时00分 ~ 18时58分]"
         },
         {
           "title": "巴基斯坦KSE-100指数日内涨幅扩大至2.1%。",
@@ -579,7 +580,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         },
@@ -601,7 +602,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时01分"
         },
