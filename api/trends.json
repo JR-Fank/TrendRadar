@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T01:43:05.674208+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-04-02T02:47:31.342072+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 02时47分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
           "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 02时47分]"
         },
         {
           "title": "美股存储板块全线爆发，西部数据大涨11.74%领涨，闪迪涨10.42%，美光科技涨10.77%报374美元，希捷科技涨9.08%。",
@@ -46,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 02时47分]"
         },
         {
           "title": "礼来(LLY.N)美股涨超4%，减肥药Foundayo在美获批。",
@@ -97,11 +99,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 02时47分]"
         },
         {
           "title": "标普涨幅收窄至不足1%，道指维持0.9%的涨幅，纳指涨幅收窄至不足1.5%。 据路透报道，美国副总统万斯在巴基斯坦与调停方讨论伊朗问题。 万斯最近一次谈论伊朗问题是在周二。 万斯暗示，如果美国的要求得到满足，总统特朗普对停火持开放态度。 万斯发出严厉信号，宣称特朗普“没有耐心”",
@@ -127,7 +130,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
