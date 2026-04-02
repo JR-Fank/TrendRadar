@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:52:23.732683+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-04-02T19:39:47.448728+08:00",
+  "total_titles_processed": 1709,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时52分]"
+          "appearance_count": 11,
+          "time_info": "[07时29分 ~ 19时39分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -244,7 +244,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国和巴基斯坦提出5点倡议",
@@ -269,7 +269,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -305,6 +305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "阿富汗塔利班外交部：认为与巴基斯坦开展外交接触能够为当前问题提供切实而持久的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260402185740258800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
