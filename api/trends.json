@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T05:29:10.918951+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-04-03T06:24:30.840171+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时24分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时24分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -53,8 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -106,44 +106,48 @@
           "url": "https://wallstreetcn.com/livenews/3081793",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040716683800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年04月02日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260403040531633800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
         },
         {
           "title": "周四（4月2日），美股行业ETF多数收涨，网络股指数ETF收涨1.33%，科技行业ETF涨0.82%，能源业ETF涨0.47%，半导体ETF涨0.09%，可选消费ETF跌1.50%。",
           "url": "https://wallstreetcn.com/livenews/3081784",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
         }
       ]
     },
@@ -176,6 +180,18 @@
           "time_info": "[02时43分 ~ 03时43分]"
         },
         {
+          "title": "巴基斯坦警方消息人士3日证实，该国西北部开伯尔-普什图省当天凌晨发生一起爆炸事件，造成至少5人死亡、多人受伤。",
+          "url": "https://flash.jin10.com/detail/20260403044831335800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
+        },
+        {
           "title": "巴基斯坦财政部长：对摩托车驾驶员实行补贴，每升汽油补贴100卢比，每月限额20升。",
           "url": "https://flash.jin10.com/detail/20260403022417656800",
           "source": "金十数据",
@@ -185,17 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "巴基斯坦警方消息人士3日证实，该国西北部开伯尔-普什图省当天凌晨发生一起爆炸事件，造成至少5人死亡、多人受伤。",
-          "url": "https://flash.jin10.com/detail/20260403044831335800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "巴基斯坦石油部长：将汽油价格上调至每升458.40卢比。",
@@ -223,11 +228,12 @@
             27,
             22,
             24,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 06时24分]"
         },
         {
           "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
@@ -235,22 +241,24 @@
           "source": "金十数据",
           "ranks": [
             1,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时24分]"
         },
         {
           "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
           "url": "https://flash.jin10.com/detail/20260403041548791800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
         },
         {
           "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
@@ -259,7 +267,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
