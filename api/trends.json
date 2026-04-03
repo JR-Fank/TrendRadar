@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T16:44:25.098657+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-04-03T17:45:21.354881+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -192,11 +192,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时44分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 17时45分]"
         },
         {
           "title": "SEC文件显示，特斯拉(TSLA.O)副总裁朱晓彤买入20,000股特斯拉股票。",
@@ -303,11 +304,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 16时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时45分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
