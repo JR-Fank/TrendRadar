@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T06:23:58.556236+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-04-04T07:26:34.813460+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             17,
             22,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时33分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 07时26分]"
         },
         {
           "title": "巴基斯坦财政部：持续监测和管理外部资金流动，以确保外汇储备稳定。巴基斯坦政府仍致力于履行其所有对外债务义务。",
@@ -79,8 +80,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时26分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
