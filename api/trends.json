@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:26:57.333857+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-04-03T09:24:10.150302+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 09时24分]"
         },
         {
           "title": "什么信号？华尔街频频传来“避开美股”警告声……",
@@ -57,6 +58,17 @@
           "time_info": "[00时46分 ~ 06时24分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 09时24分]"
+        },
+        {
           "title": "金十图示：2026年04月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260403003135168800",
           "source": "金十数据",
@@ -77,17 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
@@ -163,6 +164,87 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            27,
+            22,
+            24,
+            18,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 07时26分]"
+        },
+        {
+          "title": "SEC文件显示，特斯拉(TSLA.O)副总裁朱晓彤买入20,000股特斯拉股票。",
+          "url": "https://flash.jin10.com/detail/20260403090220073800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "横店东磁：未参与特斯拉太空光伏计划",
+          "url": "https://flash.jin10.com/detail/20260403085946331800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
+        },
+        {
+          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260403040200866800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时24分]"
+        },
+        {
+          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
+          "url": "https://flash.jin10.com/detail/20260403041548791800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时24分]"
+        },
+        {
+          "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3081782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 5,
       "titles": [
@@ -228,68 +310,20 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
         {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            23,
-            27,
-            22,
-            24,
-            18,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 07时26分]"
-        },
-        {
-          "title": "美股周四收盘，道指初步收跌0.13%，标普500指数涨0.1%，纳指涨0.18%。特斯拉(TSLA.O)收跌超5%。纳斯达克中国金龙指数收跌0.34%。",
-          "url": "https://flash.jin10.com/detail/20260403040200866800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时24分]"
-        },
-        {
-          "title": "SpaceX有望冲刺2万亿美元估值，将超Meta和特斯拉",
-          "url": "https://flash.jin10.com/detail/20260403041548791800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            17
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时24分]"
+          "time_info": "[09时23分 ~ 09时24分]"
         },
-        {
-          "title": "特斯拉收跌5.44%，创2025年11月以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3081782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
           "url": "https://wallstreetcn.com/livenews/3081712",
@@ -365,6 +399,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "提醒：港股今日因假期休市，南、北向交易关闭。",
+          "url": "https://wallstreetcn.com/livenews/3081879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         }
       ]
     }
