@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T04:27:03.365668+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-04T05:25:27.297610+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时25分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：将汽油价格每升下调80卢比，降至458卢比。",
@@ -38,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时25分]"
         },
         {
           "title": "据华尔街日报：由巴基斯坦牵头的地区国家为促成美伊停火所作的本轮努力已陷入僵局。",
@@ -70,11 +72,12 @@
             24,
             18,
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时25分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -82,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 05时25分]"
         }
       ]
     }
