@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-04T05:25:27.297610+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-04-04T06:23:58.556236+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
       "match_count": 4,
       "titles": [
+        {
+          "title": "巴基斯坦总理谢里夫：汽油价格的下调将由政府征收的石油税来提供资金。",
+          "url": "https://flash.jin10.com/detail/20260404025228783800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时23分]"
+        },
         {
           "title": "巴基斯坦财政部：持续监测和管理外部资金流动，以确保外汇储备稳定。巴基斯坦政府仍致力于履行其所有对外债务义务。",
           "url": "https://flash.jin10.com/detail/20260404020833564800",
@@ -21,30 +35,18 @@
           "time_info": "[02时35分 ~ 04时27分]"
         },
         {
-          "title": "巴基斯坦总理谢里夫：汽油价格的下调将由政府征收的石油税来提供资金。",
-          "url": "https://flash.jin10.com/detail/20260404025228783800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时25分]"
-        },
-        {
           "title": "巴基斯坦总理谢里夫：将汽油价格每升下调80卢比，降至458卢比。",
           "url": "https://flash.jin10.com/detail/20260404025052924800",
           "source": "金十数据",
           "ranks": [
             6,
             18,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 06时23分]"
         },
         {
           "title": "据华尔街日报：由巴基斯坦牵头的地区国家为促成美伊停火所作的本轮努力已陷入僵局。",
@@ -73,11 +75,12 @@
             18,
             15,
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
