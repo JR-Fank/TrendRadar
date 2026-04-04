@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-04T19:22:50.403211+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-04-04T20:34:31.264443+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
       "match_count": 6,
       "titles": [
-        {
-          "title": "巴基斯坦外长：感谢伊朗外长的澄清。",
-          "url": "https://flash.jin10.com/detail/20260404190011114800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
         {
           "title": "巴基斯坦总理谢里夫：汽油价格的下调将由政府征收的石油税来提供资金。",
           "url": "https://flash.jin10.com/detail/20260404025228783800",
@@ -45,6 +34,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时27分]"
+        },
+        {
+          "title": "巴基斯坦外长：感谢伊朗外长的澄清。",
+          "url": "https://flash.jin10.com/detail/20260404190011114800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时34分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：将汽油价格每升下调80卢比，降至458卢比。",
@@ -79,7 +80,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
