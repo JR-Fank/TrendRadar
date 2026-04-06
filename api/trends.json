@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T23:39:05.797237+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-04-07T00:37:01.317133+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
@@ -16,276 +16,91 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时38分 ~ 23时39分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "美股存储概念股上涨，希捷科技(STX.O)涨7%，闪迪(SNDK.O)涨4.3%，西部数据(WDC.O)涨4%，美光科技(MU.O)涨3.1%。",
-          "url": "https://flash.jin10.com/detail/20260406213359587800",
+          "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003239064800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        },
+        {
+          "title": "金十图示：2026年04月06日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260407003200754800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球科技股指数ETF、半导体ETF涨近1%，医疗业ETF跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3082847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "“48小时通牒”与“45天停火协议”挑动市场，周一油价冲高回落，黄金下跌、美股期货转涨，日韩股市收涨",
-          "url": "https://wallstreetcn.com/articles/3769300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
-          "title": "美股期货周一亚市盘初走低，标普500指数期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3082682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 09时27分]"
-        },
-        {
-          "title": "美股存储板块盘前上涨，闪迪涨超4%，美光科技涨近4%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3082776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时01分]"
-        },
-        {
-          "title": "美股期货转涨，纳斯达克100指数期货日内涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3082716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 14时26分]"
-        },
-        {
-          "title": "美股盘初：纳指涨0.3%，存储板块涨幅居前",
-          "url": "https://wallstreetcn.com/livenews/3082845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260406213037860800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股三大股指期货周一低开，道指期货跌0.38%、标普500指数期货跌0.31%、纳指期货跌0.35%。",
-          "url": "https://flash.jin10.com/detail/20260406060457012800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3082834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股“最强4月”成泡影？三大逆风突袭，反弹之路或功亏一篑",
-          "url": "https://flash.jin10.com/detail/20260406114344911800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时38分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI首席执行官和首席财务官据称在IPO时机问题上意见分歧。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3082679",
+          "title": "报道：OpenAI计划最早今年四季度IPO",
+          "url": "https://wallstreetcn.com/livenews/3082897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            9,
-            23
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时23分 ~ 09时27分]"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://flash.jin10.com/detail/20260406183015530800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时01分"
+          "time_info": "00时37分"
         },
         {
-          "title": "OpenAI首席执行官和首席财务官在上市时间上存在分歧。",
-          "url": "https://flash.jin10.com/detail/20260406043433475800",
+          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
+          "url": "https://flash.jin10.com/detail/20260407000320677800",
           "source": "金十数据",
           "ranks": [
-            6,
-            20
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时21分]"
-        },
-        {
-          "title": "OpenAI发布文章 提出AI时代产业政策建议",
-          "url": "https://wallstreetcn.com/livenews/3082798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "巴基斯坦外交部：巴基斯坦外长和沙特外长强调需要缓和局势的迫切性，并同意双方保持密切联系。",
-          "url": "https://flash.jin10.com/detail/20260406021536292800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 05时23分]"
-        },
-        {
-          "title": "巴基斯坦外交部：巴基斯坦外交部长与沙特外交部长通话，就最新地区局势发展进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260406021046862800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 05时23分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3082747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国国家公路交通安全管理局：已结束对估计约259万辆在美特斯拉车辆的初步评估，该评估此前启动旨在调查“Actually Smart Summon”功能的使用情况。",
-          "url": "https://flash.jin10.com/detail/20260406171938277800",
+          "title": "特斯拉(TSLA.O)股价下跌2.3%，此前摩根大通预计其2026年EPS（每股收益）前景疲软。",
+          "url": "https://flash.jin10.com/detail/20260407003113861800",
           "source": "金十数据",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "摩根大通下调对特斯拉的盈利预测 该公司发布的一季度交付量不及预期",
-          "url": "https://wallstreetcn.com/livenews/3082868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "巴基斯坦",
       "match_count": 1,
       "titles": [
         {
-          "title": "微软谷歌争相与SK海力士洽谈DRAM“三年长约”，“打破惯例”引入底价保障及预付定金机制",
-          "url": "https://wallstreetcn.com/articles/3769294",
-          "source": "华尔街见闻",
+          "title": "标普500指数目前涨0.28%，道指涨0.2%，纳指涨0.42%。 美国总统特朗普谈伊朗最后期限，声称，不会再改了。 极补可能再次更改最后期限。 还没有签署任何停火协议。 （谈及调解人的会谈）副总统万斯可能会参与现场会议。 万斯继续与巴基斯坦中间人对话。 回应战争罪指控，声称“我并不担心”，允许伊朗拥有核武器才是战争罪。",
+          "url": "https://wallstreetcn.com/livenews/3082895",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            7,
-            9,
-            8
+            7
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 19时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时37分"
         }
       ]
     }
