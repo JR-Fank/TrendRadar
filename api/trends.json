@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T09:25:15.472110+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-07T12:27:00.156792+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 09时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -42,16 +55,16 @@
           "time_info": "00时37分"
         },
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            3
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
@@ -76,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时31分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
-          "url": "https://www.cls.cn/detail/2335967",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 09时25分]"
         },
         {
           "title": "布油基金收涨1%，和新兴市场ETF领涨美股大类资产类ETF",
