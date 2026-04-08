@@ -1,250 +1,44 @@
 {
-  "generated_at": "2026-04-08T22:46:09.250425+08:00",
-  "total_titles_processed": 2018,
+  "generated_at": "2026-04-09T00:10:36.183230+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 50,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
           "url": "https://m.thepaper.cn/newsDetail_forward_32921547",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            10,
-            9,
-            7,
-            6,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 22时46分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗方面告知调解方，只有在黎巴嫩实现停火的情况下，伊朗才会在巴基斯坦与美国进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260408233956358800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时30分 ~ 22时46分]"
-        },
-        {
-          "title": "巴基斯坦证实伊美同意立即停火",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AF%81%E5%AE%9E%E4%BC%8A%E7%BE%8E%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            13,
-            22,
-            12,
-            11,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 22时46分]"
-        },
-        {
-          "title": "巴基斯坦总理提出“两周方案”，消息人士：预计美伊双方很快传来“好消息”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32920836",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时29分 ~ 22时46分]"
-        },
-        {
-          "title": "白宫称特朗普已获悉巴基斯坦最新提议",
-          "url": "https://www.cls.cn/detail/2337176",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时29分 ~ 14时16分]"
-        },
-        {
-          "title": "巴基斯坦为何能够成功斡旋",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A4%9F%E6%88%90%E5%8A%9F%E6%96%A1%E6%97%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时01分 ~ 22时46分]"
-        },
-        {
-          "title": "美伊将在巴基斯坦谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BC%8A%E5%B0%86%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            24,
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 21时00分]"
-        },
-        {
-          "title": "巴基斯坦总理：伊美双方停火生效",
-          "url": "https://news.ifeng.com/c/8s9Jq4dNZIR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时29分]"
-        },
-        {
-          "title": "美以伊战争丨巴基斯坦总理提议：特朗普宽限2周",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 06时30分]"
-        },
-        {
-          "title": "美国原油期货开盘跌4%，巴基斯坦寻求延长伊朗谈判的最后期限",
-          "url": "https://wallstreetcn.com/livenews/3083738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "消息人士称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
-          "url": "https://flash.jin10.com/detail/20260408045559844800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "沙特王储与巴基斯坦总理通电话。（沙特官方媒体SPA）",
-          "url": "https://wallstreetcn.com/livenews/3083624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗外交部：外长与巴基斯坦Munir通话，感谢巴方为结束（美国和以色列挑起的）战争而付出的努力。 双方讨论了关于违反停火的条款。",
-          "url": "https://wallstreetcn.com/livenews/3084414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "土耳其外长与巴基斯坦外长就结束伊朗战争的外交努力举行通话。",
-          "url": "https://flash.jin10.com/detail/20260408045030441800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "伊朗总统接受巴基斯坦有关“本周晚些时候”举行会谈的提议，确认伊朗将参加会谈。",
-          "url": "https://wallstreetcn.com/livenews/3084229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "伊朗接受巴基斯坦提出的停火提议",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8E%A5%E5%8F%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E6%8F%90%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 16时07分]"
-        },
-        {
-          "title": "布伦特原油5分钟内上涨0.52美元/桶，报103.61美元/桶。 伊朗驻巴基斯坦大使发表了一条含义模糊的信息，内容是：“目前，我们已经从关键敏感阶段向前迈进了一步……下一阶段，尊重和礼节将被辞令和冗余所取代。敬请期待……。”",
-          "url": "https://wallstreetcn.com/livenews/3083735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
-          "url": "https://www.cls.cn/detail/2337248",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 16时07分]"
-        },
-        {
-          "title": "白宫：特朗普已获悉巴基斯坦最新提议",
-          "url": "https://wallstreetcn.com/livenews/3083712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时30分]"
+          "time_info": "00时10分"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -254,745 +48,108 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
-          "url": "https://wallstreetcn.com/livenews/3083705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "美媒：特朗普已获悉巴基斯坦最新提议",
-          "url": "https://wallstreetcn.com/livenews/3083704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "巴基斯坦总理提议：特朗普宽限两周，伊朗开放霍尔木兹海峡两周",
-          "url": "https://wallstreetcn.com/livenews/3083699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
-          "url": "https://wallstreetcn.com/livenews/3083698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "标普500指数跌幅收窄至不足0.2%。 据Axios报道，白宫新闻秘书莱维特就巴基斯坦有关伊朗的提议表示，总统已获悉该提议，将作出回应。 另据路透报道，伊朗高级官员称，德黑兰正积极审议巴基斯坦提出的为期两周的停火请求。",
-          "url": "https://wallstreetcn.com/livenews/3083697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时35分]"
-        },
-        {
-          "title": "标普500指数目前跌0.4%，道指跌0.5%，纳指跌0.6%。 WTI原油跌破113美元/桶关口，报112.81美元/桶；布伦特原油跌破108美元/桶关口，报107.68美元/桶。 现货黄金5分钟内上涨22.53美元/盎司，报4692.84美元/盎司；纽约金5分钟内上涨10.1美元/盎司，报4715.9美元/盎司。 美国国债价格走高。 巴基斯坦总理称，请求美国总统特朗普将对伊朗的最后期限延长两周，请求伊朗将霍尔木兹海峡开放两周。",
-          "url": "https://wallstreetcn.com/livenews/3083685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时10分"
         },
         {
-          "title": "巴基斯坦正在与伊朗就停火问题进行磋商 万斯担任美方代表",
-          "url": "https://flash.jin10.com/detail/20260408060008876800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "埃及外交部声明：埃及外交部长与巴基斯坦外长就地区局势及协调双方共同致力于地区局势缓和进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260408055619205800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "伊朗接受巴基斯坦提出的停火提议",
-          "url": "https://flash.jin10.com/detail/20260408070455148800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据巴基斯坦Geo电视台报道，巴基斯坦总理与伊朗总统进行了长达45分钟的电话交流。",
-          "url": "https://wallstreetcn.com/livenews/3084221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "巴基斯坦总理：呼吁兄弟国家伊朗作为善意的举措，在未来两周内开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260408031957808800",
-          "source": "金十数据",
+          "title": "巴基斯坦总理提出“两周方案”，消息人士：预计美伊双方很快传来“好消息”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32920836",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时10分"
         },
         {
-          "title": "伊朗最高国家安全委员会表示，已通过巴基斯坦向美国提交了一份十点提案。",
-          "url": "https://flash.jin10.com/detail/20260408070413220800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "巴基斯坦总理：伊美停火立即生效",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%EF%BC%9A%E4%BC%8A%E7%BE%8E%E5%81%9C%E7%81%AB%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "巴基斯坦总理：敦促交战各方在所有地区停火两周，以便通过外交途径实现伊朗战争的彻底结束。",
-          "url": "https://flash.jin10.com/detail/20260408031955569800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "黄金短线拉升，WTI原油跳水2美元，巴基斯坦总理称，请求特朗普将对伊朗的最后期限延长两周。",
-          "url": "https://flash.jin10.com/detail/20260408031943961800",
-          "source": "金十数据",
+          "title": "巴基斯坦总理呼吁各方遵守为期两周的停火协议",
+          "url": "https://wallstreetcn.com/livenews/3084455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时10分"
         },
         {
-          "title": "巴基斯坦总理：请求美国总统特朗普将对伊朗的最后期限延长两周。",
-          "url": "https://flash.jin10.com/detail/20260408031901054800",
-          "source": "金十数据",
+          "title": "巴基斯坦证实伊美同意立即停火",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AF%81%E5%AE%9E%E4%BC%8A%E7%BE%8E%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "00时10分"
         },
         {
-          "title": "巴基斯坦总理：美国和伊朗的团队将于周五来到巴基斯坦。",
-          "url": "https://wallstreetcn.com/livenews/3084399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "巴基斯坦总理：旨在和平解决中东持续战争的外交努力正稳步推进。",
-          "url": "https://flash.jin10.com/detail/20260408031853646800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "伊朗接受巴基斯坦提出的停火提议",
-          "url": "https://wallstreetcn.com/livenews/3083764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：伊朗总统佩泽希齐扬确认伊朗将参加伊斯兰堡会谈。",
-          "url": "https://flash.jin10.com/detail/20260408174223298800",
-          "source": "金十数据",
+          "title": "巴基斯坦为何能够成功斡旋",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A4%9F%E6%88%90%E5%8A%9F%E6%96%A1%E6%97%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "市场消息：伊朗驻巴基斯坦大使发表了一条含义模糊的信息，内容是：“目前，我们已经从关键敏感阶段向前迈进了一步……下一阶段，尊重和礼节将被辞令和冗余所取代。敬请期待……。”",
-          "url": "https://flash.jin10.com/detail/20260408053433371800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "阿曼外交部欢迎美伊停火 赞赏巴基斯坦斡旋努力",
-          "url": "https://wallstreetcn.com/livenews/3084116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗接受了巴基斯坦提出的为期两周的停火提议；该停火方案已获新任最高领袖批准。",
-          "url": "https://flash.jin10.com/detail/20260408065736497800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "巴基斯坦总理提议：特朗普宽限两周 伊朗开放霍尔木兹海峡两周",
-          "url": "https://flash.jin10.com/detail/20260408035541723800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美媒：特朗普宣布停火前与巴基斯坦、以色列高层通话",
-          "url": "https://wallstreetcn.com/livenews/3083928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "巴基斯坦斡旋美伊谈判持续进行，未来数小时“至关重要”",
-          "url": "https://wallstreetcn.com/livenews/3083597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "巴基斯坦总理：伊美停火将于伊朗时间8日凌晨3时30分生效",
-          "url": "https://wallstreetcn.com/livenews/3083812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "巴基斯坦欢迎伊朗同意停火决定 伊方赞赏巴方斡旋努力",
-          "url": "https://wallstreetcn.com/livenews/3084256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "巴基斯坦总统对美伊达成停火表示欢迎",
-          "url": "https://wallstreetcn.com/livenews/3084338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
-        },
-        {
-          "title": "伊朗高级官员：如果达成停火框架，伊朗可能会在周四或周五，在与美国于巴基斯坦会谈前，开放霍尔木兹海峡。 重新开放将是有限的，所有船只仍需与伊朗军方协调。",
-          "url": "https://wallstreetcn.com/livenews/3084337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时00分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
+          "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时30分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
           "url": "https://wallstreetcn.com/articles/3769370",
           "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 22时46分]"
-        },
-        {
-          "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 04时37分]"
-        },
-        {
-          "title": "美股收盘：巴基斯坦斡旋提议救场 标普纳指惊险收获五连涨",
-          "url": "https://www.cls.cn/detail/2337193",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时30分 ~ 14时16分]"
-        },
-        {
-          "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时35分 ~ 07时31分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时53分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，现货钯金涨超9%，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "美伊接受巴基斯坦停火提议 美股期货贵金属暴涨、油价重挫 | 环球市场",
-          "url": "https://www.cls.cn/detail/2337241",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 16时07分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3084368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时00分"
-        },
-        {
-          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
-          "url": "https://wallstreetcn.com/livenews/3083713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时30分]"
-        },
-        {
-          "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3083708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时30分]"
-        },
-        {
-          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
-          "url": "https://wallstreetcn.com/livenews/3083722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时30分]"
+          "time_info": "00时10分"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
           "url": "https://www.cls.cn/detail/2338302",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "美股三大指数大幅高开 纳指涨3.65%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "美油一度暴跌 19%，黄金重回 4800 美元，美股期货拉升，美国、伊朗、以色列同意停火，局势稳住了吗？",
-          "url": "https://www.zhihu.com/question/2025128106701145554",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 22时46分]"
-        },
-        {
-          "title": "美股三大股指期货持续走高，标普500指数期货上涨2.5%，纳斯达克100指数期货上涨3.2%，道琼斯指数期货上涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3084142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "纳斯达克100 ETF期货美股盘后一度涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3083721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "美股三大股指短线小幅拉升，跌幅收窄。",
-          "url": "https://flash.jin10.com/detail/20260408032136693800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "达美航空美股盘前涨超12%，公司一季度财报好于预期",
-          "url": "https://wallstreetcn.com/livenews/3084272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "美股加密货币股上涨，Coinbase上涨7%，Strategy涨7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3084398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "纳斯达克100 ETF期货美股盘后一度涨0.3%。 CNN援引消息人士报道称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
-          "url": "https://wallstreetcn.com/livenews/3083721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "金十图示：2026年04月07日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260408040542109800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美伊“停火两周”，美股集体上涨，美光科技涨超8%",
-          "url": "https://wallstreetcn.com/livenews/3084392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        },
-        {
-          "title": "金十图示：2026年04月07日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260408040518022800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "美股周二收盘，道指初步收跌0.18%，标普500指数涨0.08%，纳指涨0.1%。博通(AVGO.O)涨超6%，英特尔(INTC.O)涨4%。纳斯达克中国金龙指数收跌近1%。",
-          "url": "https://flash.jin10.com/detail/20260408040132979800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "港股午评：恒指跳空高开收涨2.82% 半导体板块强势领涨",
-          "url": "https://flash.jin10.com/detail/20260408120312579800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-08）",
-          "url": "https://flash.jin10.com/detail/20260408090250939800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调入埃斯顿。",
-          "url": "https://wallstreetcn.com/livenews/3083829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "港股科网股持续走强，美团(03690.HK)涨超10%，京东健康(06618.HK)涨超6%，小米集团(01810.HK)、哔哩哔哩(09626.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260408113856055800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "港股半导体板块持续走高，华虹半导体涨近16%，中芯国际涨超11%。",
-          "url": "https://wallstreetcn.com/livenews/3084014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            14,
-            15,
-            18,
-            27,
-            26,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时22分 ~ 22时46分]"
-        },
-        {
-          "title": "OpenAI：启动美国儿童保护框架蓝图，已建立并将持续加强安全防护措施。",
-          "url": "https://wallstreetcn.com/livenews/3084343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时00分"
+          "time_info": "00时10分"
         }
       ]
     }
