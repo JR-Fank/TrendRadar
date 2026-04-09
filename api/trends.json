@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:02:19.786476+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-04-09T22:55:47.965912+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 22时55分]"
         },
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -217,9 +218,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
@@ -253,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
@@ -299,6 +322,17 @@
           "time_info": "19时46分"
         },
         {
+          "title": "美股存储概念股盘初续涨，闪迪涨超5%再创历史新高，月内累涨约30%；美光科技、西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3085161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "中信建投：若美股出现又一波下跌 建议积极增持",
           "url": "https://wallstreetcn.com/livenews/3084639",
           "source": "华尔街见闻-快讯",
@@ -313,7 +347,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
@@ -389,6 +423,17 @@
           "time_info": "[00时10分 ~ 05时35分]"
         },
         {
+          "title": "伊朗战争丨伊朗：本准备反击以色列，巴基斯坦阻止",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "巴基斯坦总理提出“两周方案”，消息人士：预计美伊双方很快传来“好消息”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32920836",
           "source": "澎湃新闻",
@@ -418,11 +463,12 @@
           "ranks": [
             19,
             11,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时04分 ~ 21时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时04分 ~ 22时55分]"
         },
         {
           "title": "美伊将在巴基斯坦谈判",
@@ -459,6 +505,17 @@
           "time_info": "16时13分"
         },
         {
+          "title": "奥地利总理：向巴基斯坦总理保证，奥地利将全力支持通过外交途径解决伊朗与美国之间的冲突。",
+          "url": "https://flash.jin10.com/detail/20260409222649473800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "巴基斯坦总理呼吁各方遵守为期两周的停火协议",
           "url": "https://wallstreetcn.com/livenews/3084455",
           "source": "华尔街见闻-快讯",
@@ -479,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "据土耳其阿纳多卢通讯社报道，消息人士称，美伊在伊斯兰堡的会谈将在一处军事基地举行，安保措施十分严密，由巴基斯坦军方负责组织。",
+          "url": "https://flash.jin10.com/detail/20260409222039351800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "白宫新闻秘书莱维特：美伊将于周六在巴基斯坦举行会谈。周六将举行第一轮会谈。",
@@ -523,12 +591,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "伊朗副外长：伊朗本准备对违反停火作出回应 巴基斯坦介入阻止",
+          "url": "https://flash.jin10.com/detail/20260409220330980800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
@@ -611,6 +690,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时04分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
+          "url": "https://flash.jin10.com/detail/20260409221331312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
@@ -771,7 +861,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
