@@ -1,852 +1,116 @@
 {
-  "generated_at": "2026-04-09T22:55:47.965912+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-04-10T00:27:46.577252+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 29,
+      "keyword_group": "巴基斯坦",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
+          "title": "黎巴嫩高级官员：黎方提议临时停火，从而为与以色列对话创造条件。 任何谈判都将是“独立路径，但采用相同模式”，即效仿由巴基斯坦斡旋的美伊停火模式。 目前尚未设定停火谈判的具体日期或地点。 黎巴嫩需要美国作为与以色列达成任何协议的担保人。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3085232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            5,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
+          "url": "https://flash.jin10.com/detail/20260410000803865800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 22时55分]"
-        },
-        {
-          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
-          "url": "https://www.cls.cn/detail/2338302",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时17分]"
-        },
-        {
-          "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时35分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时27分]"
-        },
-        {
-          "title": "美股三大指数大幅高开 纳指涨3.65%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 07时31分]"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 19时46分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "贝莱德投资官：美股盈利预期过于乐观",
-          "url": "https://flash.jin10.com/detail/20260409175218304800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "美股盘前，科技股普跌，英特尔跌超1.5%；存储股持续下挫，美光科技跌近2%，闪迪跌约1%。",
-          "url": "https://wallstreetcn.com/livenews/3084915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨3.28%，报399.65点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.03%，报2713.10点。 在美股时段交易的原材料指数收涨3.30%，金属与矿业指数收涨4.68%。",
-          "url": "https://wallstreetcn.com/livenews/3084587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
-        },
-        {
-          "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
-          "url": "https://wallstreetcn.com/livenews/3084565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时35分]"
-        },
-        {
-          "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
-          "url": "https://flash.jin10.com/detail/20260409060126125800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "金十图示：2026年04月08日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260409040608867800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时35分]"
-        },
-        {
-          "title": "周三（4月8日），美股降息赢家指数涨4.42%，报90.26点。 “特朗普关税输家”指数涨4.03%，报101.50点；“特朗普金融指数”涨4.18%，报158.68点。 散户抱团概念股指数/迷因股（meme stock）指数涨8.80%，报125.83点。",
-          "url": "https://wallstreetcn.com/livenews/3084602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "美股三大指数均涨超2% 能源巨头重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E6%B6%A8%E8%B6%852%25+%E8%83%BD%E6%BA%90%E5%B7%A8%E5%A4%B4%E9%87%8D%E6%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
-        },
-        {
-          "title": "美股三大指数收涨超2%",
-          "url": "https://www.toutiao.com/trending/7626528667786579498/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3085123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2339594",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260409040605113800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "美股三大股指期货短线走低，纳指期货跌幅扩大至0.4%，标普500指数期货跌0.41%，道指期货跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3084906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 金龙指数大涨3%",
-          "url": "https://flash.jin10.com/detail/20260409040055281800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "美股开盘：蔚来涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3084589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（4月8日），美国科技股七巨头（Magnificent 7）指数涨2.52%，报191.61点，跳空高开至194.23点之后快速回吐涨幅，绝大部分时间交投于盘初出现的日低190.68点附近，整体呈现出W形走势。 “超大”市值科技股指数涨2.61%，报366.44点。",
-          "url": "https://wallstreetcn.com/livenews/3084588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "新兴市场ETF收涨约5.5%，领跑美股大类资产类ETF，布油基金跌约10.3%",
-          "url": "https://wallstreetcn.com/livenews/3084629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "CoreWeave美股盘前涨超7%，公司与Meta签署210亿美元AI基础设施协议",
-          "url": "https://wallstreetcn.com/livenews/3085038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "美股存储概念股盘初续涨，闪迪涨超5%再创历史新高，月内累涨约30%；美光科技、西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3085161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "中信建投：若美股出现又一波下跌 建议积极增持",
-          "url": "https://wallstreetcn.com/livenews/3084639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32921547",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时31分]"
-        },
-        {
-          "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
-          "url": "https://news.ifeng.com/c/8sA49KKqTTa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时17分]"
-        },
-        {
-          "title": "巴基斯坦证实伊美同意立即停火",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AF%81%E5%AE%9E%E4%BC%8A%E7%BE%8E%E5%90%8C%E6%84%8F%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时17分]"
-        },
-        {
-          "title": "巴基斯坦为何能够成功斡旋",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%BA%E4%BD%95%E8%83%BD%E5%A4%9F%E6%88%90%E5%8A%9F%E6%96%A1%E6%97%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            24,
-            26,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时17分]"
-        },
-        {
-          "title": "巴基斯坦总理明确说停火包括黎巴嫩",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E6%98%8E%E7%A1%AE%E8%AF%B4%E5%81%9C%E7%81%AB%E5%8C%85%E6%8B%AC%E9%BB%8E%E5%B7%B4%E5%AB%A9%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时46分 ~ 21时02分]"
-        },
-        {
-          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
-          "url": "https://wallstreetcn.com/articles/3769420",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时35分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗：本准备反击以色列，巴基斯坦阻止",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "巴基斯坦总理提出“两周方案”，消息人士：预计美伊双方很快传来“好消息”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32920836",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时35分]"
-        },
-        {
-          "title": "巴基斯坦总理：感谢澳大利亚总理为和平所做的真诚努力的支持。我们将继续与我们的朋友和合作伙伴不懈努力，共同追求该地区持久和平。",
-          "url": "https://flash.jin10.com/detail/20260409141545154800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "00时27分"
         },
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
           "url": "https://www.zhihu.com/question/2025590717108560879",
           "source": "知乎",
           "ranks": [
-            19,
-            11,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时04分 ~ 22时55分]"
-        },
-        {
-          "title": "美伊将在巴基斯坦谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BC%8A%E5%B0%86%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 04时34分]"
-        },
-        {
-          "title": "伊朗方面告知调解方，只有在黎巴嫩实现停火的情况下，伊朗才会在巴基斯坦与美国进行会谈。",
-          "url": "https://flash.jin10.com/detail/20260408233956358800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时10分"
+          "time_info": "00时27分"
         },
         {
-          "title": "巴基斯坦总理：感谢英国首相斯塔默对巴基斯坦为和平所做真诚努力的支持。",
-          "url": "https://flash.jin10.com/detail/20260409155907503800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "奥地利总理：向巴基斯坦总理保证，奥地利将全力支持通过外交途径解决伊朗与美国之间的冲突。",
-          "url": "https://flash.jin10.com/detail/20260409222649473800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "巴基斯坦总理呼吁各方遵守为期两周的停火协议",
-          "url": "https://wallstreetcn.com/livenews/3084455",
+          "title": "黎巴嫩总理寻求巴基斯坦推动止战",
+          "url": "https://wallstreetcn.com/livenews/3085223",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊朗代表团9日晚抵达伊斯兰堡",
-          "url": "https://wallstreetcn.com/livenews/3084792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "据土耳其阿纳多卢通讯社报道，消息人士称，美伊在伊斯兰堡的会谈将在一处军事基地举行，安保措施十分严密，由巴基斯坦军方负责组织。",
-          "url": "https://flash.jin10.com/detail/20260409222039351800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美伊将于周六在巴基斯坦举行会谈。周六将举行第一轮会谈。",
-          "url": "https://flash.jin10.com/detail/20260409013929971800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "市场消息：国际货币基金组织团队将于下月访问巴基斯坦，就预算问题进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260409113532816800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "【白宫：美伊首轮会谈将于11日上午在伊斯兰堡举行】美国白宫新闻秘书莱维特8日在记者会上说，美国和伊朗将于当地时间11日上午在巴基斯坦首都伊斯兰堡举行首轮会谈，美方团队将由副总统万斯、总统特朗普的特使威特科夫和女婿库什纳率领。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3084520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：美国总统特朗普派遣由美国副总统万斯率领的代表团赴巴基斯坦谈判。",
-          "url": "https://flash.jin10.com/detail/20260409013855708800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "伊朗副外长：伊朗本准备对违反停火作出回应 巴基斯坦介入阻止",
-          "url": "https://flash.jin10.com/detail/20260409220330980800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "曝ChatGPT6本月发布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            19,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 09时17分]"
-        },
-        {
-          "title": "OpenAI预计到2030年广告收入将达到1000亿美元，预计今年将产生25亿美元广告收入。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3084581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI：已暂停英国“星际之门”项目，将在“合适条件”下推进英国计划。",
-          "url": "https://wallstreetcn.com/livenews/3084971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计到2030年广告收入将达到1000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174337065800",
-          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时04分"
+          "time_info": "00时27分"
         },
         {
-          "title": "OpenAI因安全风险采取了分阶段推出新模型的策略。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3084962",
+          "title": "土耳其外长敦促各方在巴基斯坦会谈中采取“和解”立场",
+          "url": "https://wallstreetcn.com/livenews/3085220",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI预计今年广告收入达25亿美元。",
-          "url": "https://flash.jin10.com/detail/20260409174200315800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
-          "url": "https://flash.jin10.com/detail/20260409221331312800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "OpenAI首席财务官表示，OpenAI正筹备上市，将向散户投资者分配IPO股份。",
-          "url": "https://flash.jin10.com/detail/20260409051237886800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "港股化工板块走强，中国三江化工(02198.HK)涨超9%，中国旭阳集团(01907.HK)涨超5%，国恩科技(0278.HK)、中伟新材(02579.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260409141906138800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-09）",
-          "url": "https://flash.jin10.com/detail/20260409090253771800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "港股恒指强力反弹背后 阿里巴巴卖空股数激增近130%",
-          "url": "https://www.cls.cn/detail/2338812",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时13分 ~ 21时02分]"
-        },
-        {
-          "title": "港股AI应用板块午后持续走弱，金蝶国际(00268.HK)跌超7%，金山软件(03888.HK)2跌超4%，阜博集团(03738.HK)、涂鸦智能(02391.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260409154818939800",
-          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "00时27分"
         },
         {
-          "title": "港股汽车股午后持续回落，小鹏集团(09868.HK)跌超5%，比亚迪股份(01211.HK)跌超4%，赛力斯(09927.HK)、理想汽车(02015.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260409140106873800",
+          "title": "土耳其外长敦促各方在巴基斯坦会谈中采取“和解”立场",
+          "url": "https://flash.jin10.com/detail/20260409235200798800",
           "source": "金十数据",
           "ranks": [
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
-        },
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "港股大模型股走高，智谱涨近14%，MINIMAX涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3084734",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "00时27分"
         },
         {
-          "title": "深交所：港股通标的证券名单发生调整并自2026年04月09日起生效，调入希迪智驾。",
-          "url": "https://flash.jin10.com/detail/20260409084437653800",
-          "source": "金十数据",
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "乘联分会：特斯拉公司3月出口29563辆中国制造车辆。",
-          "url": "https://flash.jin10.com/detail/20260409160118305800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
-          "url": "https://wallstreetcn.com/livenews/3084561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时35分]"
-        },
-        {
-          "title": "报道称特斯拉Cybercab量产启动",
-          "url": "https://wallstreetcn.com/livenews/3084726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "马斯克：特斯拉V15自动驾驶在完全无监督和复杂情况下的安全性远超人类水平。",
-          "url": "https://flash.jin10.com/detail/20260409112415456800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "time_info": "00时27分"
         }
       ]
     },
@@ -855,15 +119,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "英特尔与谷歌深化合作以推动AI基础设施发展。",
-          "url": "https://wallstreetcn.com/livenews/3085130",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：Gemini应用程序现已能够生成交互式模拟和模型。",
+          "url": "https://flash.jin10.com/detail/20260410000240017800",
+          "source": "金十数据",
           "ranks": [
-            1
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时27分"
         }
       ]
     }
