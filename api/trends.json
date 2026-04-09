@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T09:17:09.858589+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-04-09T12:26:18.501242+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时26分]"
         },
         {
           "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
@@ -62,11 +62,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时26分]"
         },
         {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
@@ -184,6 +185,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "美股收盘：三大股指集体收涨 金龙指数大涨3%",
           "url": "https://flash.jin10.com/detail/20260409040055281800",
           "source": "金十数据",
@@ -234,7 +246,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -242,7 +254,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
@@ -363,6 +375,17 @@
           "time_info": "02时01分"
         },
         {
+          "title": "市场消息：国际货币基金组织团队将于下月访问巴基斯坦，就预算问题进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260409113532816800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
           "title": "【白宫：美伊首轮会谈将于11日上午在伊斯兰堡举行】美国白宫新闻秘书莱维特8日在记者会上说，美国和伊朗将于当地时间11日上午在巴基斯坦首都伊斯兰堡举行首轮会谈，美方团队将由副总统万斯、总统特朗普的特使威特科夫和女婿库什纳率领。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3084520",
           "source": "华尔街见闻-快讯",
@@ -383,6 +406,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-04-09）",
+          "url": "https://flash.jin10.com/detail/20260409090253771800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "港股大模型股走高，智谱涨近14%，MINIMAX涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3084734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单发生调整并自2026年04月09日起生效，调入希迪智驾。",
+          "url": "https://flash.jin10.com/detail/20260409084437653800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
+          "url": "https://wallstreetcn.com/livenews/3084561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
+        },
+        {
+          "title": "报道称特斯拉Cybercab量产启动",
+          "url": "https://wallstreetcn.com/livenews/3084726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        },
+        {
+          "title": "马斯克：特斯拉V15自动驾驶在完全无监督和复杂情况下的安全性远超人类水平。",
+          "url": "https://flash.jin10.com/detail/20260409112415456800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -427,52 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-09）",
-          "url": "https://flash.jin10.com/detail/20260409090253771800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单发生调整并自2026年04月09日起生效，调入希迪智驾。",
-          "url": "https://flash.jin10.com/detail/20260409084437653800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
-          "url": "https://wallstreetcn.com/livenews/3084561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时35分]"
         }
       ]
     }
