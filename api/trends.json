@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-10T12:40:16.498339+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-04-10T14:28:00.074226+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
+          "url": "https://www.cls.cn/detail/2339795",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时32分 ~ 14时28分]"
+        },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 09时27分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时32分 ~ 12时40分]"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -202,7 +202,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -224,8 +224,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 14时28分]"
         },
         {
           "title": "巴基斯坦等国明确说停火包括黎巴嫩，美以坚称不包括，为什么会有此分歧？包括与否对当前局势有什么影响？",
@@ -239,6 +239,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时33分 ~ 09时27分]"
+        },
+        {
+          "title": "巴基斯坦伊斯兰堡部署上万安全人员保障美伊会谈",
+          "url": "https://wallstreetcn.com/livenews/3085632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "黎巴嫩高级官员：黎方提议临时停火，从而为与以色列对话创造条件。 任何谈判都将是“独立路径，但采用相同模式”，即效仿由巴基斯坦斡旋的美伊停火模式。 目前尚未设定停火谈判的具体日期或地点。 黎巴嫩需要美国作为与以色列达成任何协议的担保人。（路透）",
@@ -263,13 +274,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "巴基斯坦伊斯兰堡部署上万安全人员保障美伊会谈",
+          "url": "https://flash.jin10.com/detail/20260410141012804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "巴基斯坦KSE-100指数上涨1%。",
           "url": "https://wallstreetcn.com/livenews/3085570",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -316,6 +338,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-04-10）",
+          "url": "https://flash.jin10.com/detail/20260410090939217800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "A股中信证券成交额达100亿元，现涨8%；港股中信证券(06030.HK)涨10.7%。",
+          "url": "https://flash.jin10.com/detail/20260410141304104800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "港股海底捞(06862.HK)午后拉升涨近4%，消息面上，海底捞午间公告，控股股东、执行董事、董事会主席兼首席执行官张勇拟增持不少于1亿港元公司股份。",
+          "url": "https://flash.jin10.com/detail/20260410141110029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "港股午评：恒指收涨0.61% 触及两万六关口后冲高回落",
+          "url": "https://flash.jin10.com/detail/20260410121339456800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3085421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
+          "url": "https://flash.jin10.com/detail/20260410084928671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "港股半导体股午后再度拉升，傅里叶(03625.HK)涨超14%。，兆易创新(03986.HK)涨超12.5%，天数智芯(09903.HK)、中芯国际(00981.HK)均涨6%。",
+          "url": "https://flash.jin10.com/detail/20260410135637480800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -406,58 +511,8 @@
       ]
     },
     {
-      "keyword_group": "港股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-10）",
-          "url": "https://flash.jin10.com/detail/20260410090939217800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "港股午评：恒指收涨0.61% 触及两万六关口后冲高回落",
-          "url": "https://flash.jin10.com/detail/20260410121339456800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3085421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单调入挚达科技，2026年04月10日起生效。",
-          "url": "https://flash.jin10.com/detail/20260410084928671800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
@@ -466,7 +521,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -477,9 +532,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "台积电：3月销售额4,151.9亿元台币，同比增长45.2%。",
+          "url": "https://wallstreetcn.com/livenews/3085600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "台积电一季度营收超预期 缓解市场担忧",
+          "url": "https://flash.jin10.com/detail/20260410135702574800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
