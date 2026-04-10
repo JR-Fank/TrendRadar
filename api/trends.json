@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T16:17:36.485420+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-04-10T18:02:25.840296+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -183,7 +183,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -274,6 +274,29 @@
           "time_info": "00时27分"
         },
         {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%83%A8%E7%BD%B2%E4%B8%8A%E4%B8%87%E4%BA%BA%E4%BF%9D%E9%9A%9C%E7%BE%8E%E4%BC%8A%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时02分]"
+        },
+        {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
+        },
+        {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
           "url": "https://flash.jin10.com/detail/20260410000803865800",
           "source": "金十数据",
@@ -283,17 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%83%A8%E7%BD%B2%E4%B8%8A%E4%B8%87%E4%BA%BA%E4%BF%9D%E9%9A%9C%E7%BE%8E%E4%BC%8A%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
         },
         {
           "title": "巴基斯坦伊斯兰堡部署上万安全人员保障美伊会谈",
@@ -365,7 +377,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-04-10）",
@@ -396,9 +408,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "港股海底捞(06862.HK)午后拉升涨近4%，消息面上，海底捞午间公告，控股股东、执行董事、董事会主席兼首席执行官张勇拟增持不少于1亿港元公司股份。",
@@ -545,7 +568,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
@@ -576,7 +599,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -601,6 +624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "台积电(TSM.N)盘前涨超2%，其一季度营收超预期。",
+          "url": "https://flash.jin10.com/detail/20260410172355201800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     },
