@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T20:47:37.383808+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2026-04-10T22:29:00.499833+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
@@ -183,7 +183,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -250,6 +250,19 @@
           "time_info": "[09时27分 ~ 14时28分]"
         },
         {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 22时29分]"
+        },
+        {
           "title": "巴基斯坦等国明确说停火包括黎巴嫩，美以坚称不包括，为什么会有此分歧？包括与否对当前局势有什么影响？",
           "url": "https://www.zhihu.com/question/2025668096078214410",
           "source": "知乎",
@@ -297,18 +310,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时17分 ~ 20时02分]"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时01分 ~ 20时47分]"
         },
         {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
@@ -416,6 +417,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 22时29分]"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-04-10）",
           "url": "https://flash.jin10.com/detail/20260410090939217800",
           "source": "金十数据",
@@ -447,19 +462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        },
-        {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 20时47分]"
         },
         {
           "title": "港股海底捞(06862.HK)午后拉升涨近4%，消息面上，海底捞午间公告，控股股东、执行董事、董事会主席兼首席执行官张勇拟增持不少于1亿港元公司股份。",
