@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:01:53.768247+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-04-10T20:02:42.333711+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗驻巴基斯坦大使删除伊朗代表团将抵达伊斯兰堡的帖文，释放什么信号？双方还会如约谈判吗？",
@@ -280,11 +280,12 @@
           "ranks": [
             8,
             13,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时01分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 20时02分]"
         },
         {
           "title": "巴基斯坦部署上万人保障美伊会谈",
@@ -294,8 +295,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时01分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[18时01分 ~ 20时02分]"
         },
         {
           "title": "一名黎巴嫩高级官员表示，任何谈判都将“单独进行，但模式相同”，类似于由巴基斯坦促成的伊朗与美国之间的停火协议。",
@@ -307,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "巴基斯坦和法国外长对黎巴嫩境内违反停火表示关切",
+          "url": "https://wallstreetcn.com/livenews/3085849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "巴基斯坦伊斯兰堡部署上万安全人员保障美伊会谈",
@@ -351,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "据报道，在阿联酋一架C-130运输机降落后不久，一架机尾印有“查尔斯顿”字样的美国空军C-17运输机，也降落在伊斯兰堡的巴基斯坦空军努尔汗基地。",
+          "url": "https://wallstreetcn.com/livenews/3085837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "土耳其外长敦促各方在巴基斯坦会谈中采取“和解”立场",
@@ -419,11 +442,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时02分]"
         },
         {
           "title": "港股海底捞(06862.HK)午后拉升涨近4%，消息面上，海底捞午间公告，控股股东、执行董事、董事会主席兼首席执行官张勇拟增持不少于1亿港元公司股份。",
@@ -484,7 +508,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "将投产全新小型廉价SUV？特斯拉中国回应：谣言",
@@ -496,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "特斯拉3月国内新车环比增长47% 上海超级工厂3月交付同比增长8.7%",
+          "url": "https://wallstreetcn.com/livenews/3085861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "麦格里：台积电短期利润率或已在第一季度触顶",
@@ -537,7 +572,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
