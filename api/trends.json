@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-11T00:41:46.339091+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T01:41:49.098419+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
       "match_count": 4,
       "titles": [
+        {
+          "title": "巴基斯坦部署上万人保障美伊会谈",
+          "url": "https://www.toutiao.com/trending/7627050294823865883/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时41分]"
+        },
         {
           "title": "伊朗代表团抵达巴基斯坦的细节被保密。 消息人士称，美国和伊朗的技术代表团当地时间周五上午抵达了巴基斯坦。 伊朗代表团将于周六参加谈判，尽管其就黎巴嫩事件发表了一些看法。（阿拉伯媒体事件报Al Hadath）",
           "url": "https://wallstreetcn.com/livenews/3086008",
@@ -24,17 +36,6 @@
           "source": "金十数据",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -62,22 +63,24 @@
           "url": "https://flash.jin10.com/detail/20260411003357698800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003343083800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时41分]"
         }
       ]
     }
