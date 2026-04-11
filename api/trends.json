@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T06:22:33.684500+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-04-12T07:25:19.368561+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         },
         {
           "title": "一文看懂美伊在巴基斯坦的谈判：谁来谈？谈什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32948277",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         },
         {
           "title": "巴基斯坦一支军事力量抵达沙特",
@@ -63,6 +64,20 @@
           "time_info": "[00时26分 ~ 05时24分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗、美国和巴基斯坦之间的新一轮三方谈判已开始。",
+          "url": "https://flash.jin10.com/detail/20260412040244533800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时22分 ~ 07时25分]"
+        },
+        {
           "title": "据德黑兰时报：巴基斯坦总理将紧急访问沙特，这将是其一个月内第二次访问沙特。此行目的是讨论伊朗与美国在伊斯兰堡正在进行的谈判，并探讨实现该地区持久和平的途径。",
           "url": "https://flash.jin10.com/detail/20260412023852112800",
           "source": "金十数据",
@@ -77,17 +92,17 @@
           "time_info": "[03时29分 ~ 06时22分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗、美国和巴基斯坦之间的新一轮三方谈判已开始。",
-          "url": "https://flash.jin10.com/detail/20260412040244533800",
+          "title": "伊朗、美国与巴基斯坦新一轮三方谈判正式启动",
+          "url": "https://flash.jin10.com/detail/20260412041759000800",
           "source": "金十数据",
           "ranks": [
-            2,
-            16,
-            22
+            12,
+            18,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时22分]"
+          "time_info": "[05时24分 ~ 07时25分]"
         },
         {
           "title": "伊朗美国巴基斯坦三方会谈开始举行",
@@ -100,18 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时25分]"
-        },
-        {
-          "title": "伊朗、美国与巴基斯坦新一轮三方谈判正式启动",
-          "url": "https://flash.jin10.com/detail/20260412041759000800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时22分]"
         },
         {
           "title": "巴基斯坦消息人士：威特科夫、万斯、库什纳，伊朗的卡利巴夫、阿拉格齐以及巴基斯坦陆军参谋长之间举行了面对面的三方会谈。（路透）",
@@ -142,7 +145,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -182,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -195,8 +198,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         }
       ]
     },
@@ -213,8 +216,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -228,8 +231,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 07时25分]"
         }
       ]
     }
