@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T04:22:56.721906+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-04-12T05:24:45.495323+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "视频丨参加美伊谈判的美方代表团抵达巴基斯坦",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "一文看懂美伊在巴基斯坦的谈判：谁来谈？谈什么？",
@@ -27,19 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗、美国和巴基斯坦之间的新一轮三方谈判已开始。",
-          "url": "https://flash.jin10.com/detail/20260412040244533800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "记者团援引美国官员报道：美国、巴基斯坦、伊朗正举行会谈。（彭博）",
@@ -50,11 +39,12 @@
             10,
             19,
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "巴基斯坦一支军事力量抵达沙特",
@@ -64,11 +54,12 @@
             24,
             25,
             30,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "据德黑兰时报：巴基斯坦总理将紧急访问沙特，这将是其一个月内第二次访问沙特。此行目的是讨论伊朗与美国在伊斯兰堡正在进行的谈判，并探讨实现该地区持久和平的途径。",
@@ -76,11 +67,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时29分 ~ 05时24分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗、美国和巴基斯坦之间的新一轮三方谈判已开始。",
+          "url": "https://flash.jin10.com/detail/20260412040244533800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时22分]"
+          "time_info": "[04时22分 ~ 05时24分]"
         },
         {
           "title": "伊朗美国巴基斯坦三方会谈开始举行",
@@ -93,6 +97,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 01时25分]"
+        },
+        {
+          "title": "伊朗、美国与巴基斯坦新一轮三方谈判正式启动",
+          "url": "https://flash.jin10.com/detail/20260412041759000800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "巴基斯坦消息人士：威特科夫、万斯、库什纳，伊朗的卡利巴夫、阿拉格齐以及巴基斯坦陆军参谋长之间举行了面对面的三方会谈。（路透）",
@@ -152,8 +167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -165,8 +180,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         }
       ]
     },
@@ -183,8 +198,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -193,11 +208,12 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时24分]"
         }
       ]
     }
