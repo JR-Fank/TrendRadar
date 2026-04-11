@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-11T13:55:10.943487+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-04-11T14:51:06.931047+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "巴基斯坦：为美伊谈判安排“面对面”和“背对背”形式",
+          "url": "https://news.ifeng.com/c/8sEaVuonXxU",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 14时51分]"
+        },
         {
           "title": "巴基斯坦外交部：伊朗代表团抵达 巴方高官现场迎接",
           "url": "https://wallstreetcn.com/livenews/3086130",
@@ -21,59 +33,26 @@
           "time_info": "[06时55分 ~ 09时21分]"
         },
         {
-          "title": "两名巴基斯坦消息人士：搭载美国代表团赴伊谈判的美国飞机已在巴基斯坦伊斯兰堡着陆。",
-          "url": "https://flash.jin10.com/detail/20260411134412610800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "美国总统特使抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
-          "url": "https://wallstreetcn.com/livenews/3086167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086166",
+          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
+          "url": "https://wallstreetcn.com/livenews/3086173",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "14时51分"
         },
         {
-          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
-          "url": "https://wallstreetcn.com/livenews/3086165",
+          "title": "万斯率美国谈判代表团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086171",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "14时51分"
         },
         {
           "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
@@ -103,6 +82,65 @@
           "time_info": "[00时41分 ~ 03时38分]"
         },
         {
+          "title": "美国总统特使抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
+          "title": "美代表团抵达巴基斯坦",
+          "url": "https://www.toutiao.com/trending/7627361642493251108/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 14时51分]"
+        },
+        {
+          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
+          "url": "https://wallstreetcn.com/livenews/3086167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
+          "title": "两名巴基斯坦消息人士：搭载美国代表团赴伊谈判的美国飞机已在巴基斯坦伊斯兰堡着陆。",
+          "url": "https://flash.jin10.com/detail/20260411134412610800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
+          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
           "title": "知情人士称，沙特财政大臣已抵达巴基斯坦，以表达对该国的经济支持。（路透）",
           "url": "https://wallstreetcn.com/livenews/3086080",
           "source": "华尔街见闻-快讯",
@@ -113,6 +151,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
+        },
+        {
+          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
+          "url": "https://wallstreetcn.com/livenews/3086165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
         },
         {
           "title": "伊朗谈判代表团抵达巴基斯坦",
@@ -151,26 +201,28 @@
           "time_info": "[02时40分 ~ 04时29分]"
         },
         {
-          "title": "美代表团抵达巴基斯坦",
-          "url": "https://www.toutiao.com/trending/7627361642493251108/",
-          "source": "今日头条",
+          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
+          "url": "https://flash.jin10.com/detail/20260411131859392800",
+          "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时55分 ~ 14时51分]"
         },
         {
-          "title": "巴基斯坦：为美伊谈判安排“面对面”和“背对背”形式",
-          "url": "https://news.ifeng.com/c/8sEaVuonXxU",
-          "source": "凤凰网",
+          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
+          "url": "https://wallstreetcn.com/livenews/3086163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[13时55分 ~ 14时51分]"
         },
         {
           "title": "伊朗谈判代表团抵达巴基斯坦",
@@ -185,6 +237,18 @@
           "time_info": "[09时21分 ~ 12时13分]"
         },
         {
+          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411125623350800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
           "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
           "url": "https://wallstreetcn.com/livenews/3086096",
           "source": "华尔街见闻-快讯",
@@ -195,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时55分]"
+        },
+        {
+          "title": "据半岛电视台：巴基斯坦总理夏巴兹·谢里夫称即将在伊斯兰堡举行的美伊谈判为“成败攸关”时刻，并警告下一阶段将决定能否达成持久停火协议。",
+          "url": "https://flash.jin10.com/detail/20260411122829890800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
         },
         {
           "title": "伊朗谈判代表团抵达巴基斯坦",
@@ -209,6 +285,18 @@
           "time_info": "[07时27分 ~ 09时21分]"
         },
         {
+          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
+          "url": "https://flash.jin10.com/detail/20260411122614586800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时51分]"
+        },
+        {
           "title": "巴基斯坦总理：美伊谈判将于11日举行",
           "url": "https://flash.jin10.com/detail/20260411020425225800",
           "source": "金十数据",
@@ -218,28 +306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
-          "url": "https://flash.jin10.com/detail/20260411131859392800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
-          "url": "https://wallstreetcn.com/livenews/3086163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "美伊今天在巴基斯坦谈判",
@@ -253,15 +319,15 @@
           "time_info": "09时21分"
         },
         {
-          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411125623350800",
+          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
+          "url": "https://flash.jin10.com/detail/20260411141842740800",
           "source": "金十数据",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "14时51分"
         },
         {
           "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
@@ -275,6 +341,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "万斯率美谈判代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411135816644800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "伊朗谈判代表团抵达巴基斯坦",
           "url": "https://wallstreetcn.com/livenews/3086069",
           "source": "华尔街见闻-快讯",
@@ -284,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特使抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411134525927800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "巴基斯坦外交部：伊朗代表团今天抵达伊斯兰堡，将参与同美国的磋商。",
@@ -297,17 +385,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "据半岛电视台：巴基斯坦总理夏巴兹·谢里夫称即将在伊斯兰堡举行的美伊谈判为“成败攸关”时刻，并警告下一阶段将决定能否达成持久停火协议。",
-          "url": "https://flash.jin10.com/detail/20260411122829890800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "巴基斯坦总理：将汽油价格每升下调12巴基斯坦卢比，汽油价格从每升378巴基斯坦卢比降至366巴基斯坦卢比。",
           "url": "https://flash.jin10.com/detail/20260411015253950800",
           "source": "金十数据",
@@ -317,17 +394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
-          "url": "https://flash.jin10.com/detail/20260411122614586800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "巴基斯坦确认伊朗议长卡利巴夫率团抵达下塌酒店",
@@ -469,6 +535,18 @@
           "time_info": "[04时29分 ~ 05时29分]"
         },
         {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 14时51分]"
+        },
+        {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3086136",
           "source": "华尔街见闻-快讯",
@@ -487,22 +565,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时55分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时51分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -587,8 +655,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时51分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -708,8 +776,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时40分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[02时40分 ~ 14时51分]"
         }
       ]
     }
