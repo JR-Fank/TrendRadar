@@ -1,214 +1,12 @@
 {
-  "generated_at": "2026-04-11T23:25:25.033146+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-04-12T00:26:29.165142+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 85,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "巴基斯坦：为美伊谈判安排“面对面”和“背对背”形式",
-          "url": "https://news.ifeng.com/c/8sEaVuonXxU",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时32分]"
-        },
-        {
-          "title": "视频丨参加美伊谈判的美方代表团抵达巴基斯坦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32949279",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            12,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时33分 ~ 23时25分]"
-        },
-        {
-          "title": "一文看懂美伊在巴基斯坦的谈判：谁来谈？谈什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32948277",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时25分 ~ 23时25分]"
-        },
-        {
-          "title": "美代表团抵达巴基斯坦",
-          "url": "https://www.toutiao.com/trending/7627361642493251108/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时32分]"
-        },
-        {
-          "title": "伊朗战争丨美伊将谈判，巴基斯坦发表声明",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 17时32分]"
-        },
-        {
-          "title": "美国总统特使抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10,
-            13,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时26分]"
-        },
-        {
-          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
-          "url": "https://wallstreetcn.com/livenews/3086167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            11,
-            14,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时26分]"
-        },
-        {
-          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            12,
-            15,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时26分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦总理将会见伊朗谈判代表团",
-          "url": "https://wallstreetcn.com/livenews/3086165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            13,
-            16,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时26分]"
-        },
-        {
-          "title": "巴基斯坦外交部：伊朗代表团抵达 巴方高官现场迎接",
-          "url": "https://wallstreetcn.com/livenews/3086130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 09时21分]"
-        },
-        {
-          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
-          "url": "https://wallstreetcn.com/livenews/3086173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            10,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 18时26分]"
-        },
-        {
-          "title": "美副总统万斯与巴基斯坦总理会谈",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E4%B8%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            16,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 23时25分]"
-        },
-        {
-          "title": "美国白宫：美国副总统万斯与巴基斯坦总理举行会谈。",
-          "url": "https://wallstreetcn.com/livenews/3086201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "万斯率美国谈判代表团抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9,
-            12,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 18时26分]"
-        },
         {
           "title": "记者团援引美国官员报道：美国、巴基斯坦、伊朗正举行会谈。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3086259",
@@ -216,929 +14,114 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时25分"
+          "time_info": "00时26分"
         },
         {
-          "title": "两名巴基斯坦消息人士：搭载美国代表团赴伊谈判的美国飞机已在巴基斯坦伊斯兰堡着陆。",
-          "url": "https://flash.jin10.com/detail/20260411134412610800",
-          "source": "金十数据",
+          "title": "视频丨参加美伊谈判的美方代表团抵达巴基斯坦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32949279",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            12,
-            18,
-            23
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时33分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
-          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
-          "url": "https://wallstreetcn.com/livenews/3086163",
-          "source": "华尔街见闻-快讯",
+          "title": "一文看懂美伊在巴基斯坦的谈判：谁来谈？谈什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32948277",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            12,
-            16,
-            19,
-            26
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 17时32分]"
-        },
-        {
-          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
-          "url": "https://flash.jin10.com/detail/20260411040527255800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 09时21分]"
-        },
-        {
-          "title": "万斯与巴基斯坦总理会谈",
-          "url": "https://www.toutiao.com/trending/7626762922916249663/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            17,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 22时30分]"
-        },
-        {
-          "title": "巴基斯坦部署上万人保障美伊会谈",
-          "url": "https://www.toutiao.com/trending/7627050294823865883/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时38分]"
-        },
-        {
-          "title": "巴基斯坦政府官员：伊朗和美国之间的谈判进程比预期要慢",
-          "url": "https://flash.jin10.com/detail/20260411175856538800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时36分]"
-        },
-        {
-          "title": "巴基斯坦总理同伊朗谈判代表团的会见已结束。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
-        },
-        {
-          "title": "沙特国防部：根据沙特与巴基斯坦两国签署的防御协定，一支来自巴基斯坦的军事部队已抵达阿卜杜勒阿齐兹国王空军基地。巴基斯坦部队包括战斗机。",
-          "url": "https://flash.jin10.com/detail/20260411175725099800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时36分]"
-        },
-        {
-          "title": "巴基斯坦总理同伊朗谈判代表团的会见已结束",
-          "url": "https://flash.jin10.com/detail/20260411170645158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
-        },
-        {
-          "title": "伊朗代表团再次会见巴基斯坦陆军参谋长",
-          "url": "https://flash.jin10.com/detail/20260411175227495800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时36分]"
-        },
-        {
-          "title": "伊朗国家电视台驻伊斯兰堡记者表示，伊朗的提议和底线已转交给巴基斯坦总理。",
-          "url": "https://flash.jin10.com/detail/20260411185605032800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时36分]"
-        },
-        {
-          "title": "知情人士称，沙特财政大臣已抵达巴基斯坦，以表达对该国的经济支持。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3086080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时29分]"
-        },
-        {
-          "title": "巴基斯坦政府官员：伊朗和美国之间的谈判进程比预期要慢",
-          "url": "https://wallstreetcn.com/livenews/3086200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "伊朗代表团再次会见巴基斯坦陆军参谋长",
-          "url": "https://wallstreetcn.com/livenews/3086199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "正式会谈前 伊美代表团将分别与巴基斯坦总理会面",
-          "url": "https://flash.jin10.com/detail/20260411131859392800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时33分]"
-        },
-        {
-          "title": "巴基斯坦陆军参谋长已会见伊朗代表团",
-          "url": "https://flash.jin10.com/detail/20260411141842740800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 17时32分]"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411034637598800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
-        },
-        {
-          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
-          "url": "https://flash.jin10.com/detail/20260411034432386800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "伊朗美国巴基斯坦三方会谈开始举行",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C",
           "source": "百度热搜",
           "ranks": [
-            6,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时25分]"
-        },
-        {
-          "title": "巴基斯坦总理：美伊谈判将于11日举行",
-          "url": "https://wallstreetcn.com/livenews/3086052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时29分]"
-        },
-        {
-          "title": "巴基斯坦外交部：美国代表团已抵达。希望各方能够建设性地参与和平谈判。重申愿继续为各方达成冲突解决方案提供便利。",
-          "url": "https://flash.jin10.com/detail/20260411144400550800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时44分 ~ 17时32分]"
-        },
-        {
-          "title": "巴基斯坦总理会见伊朗谈判代表团。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
-        },
-        {
-          "title": "巴基斯坦总理会见伊朗谈判代表团",
-          "url": "https://flash.jin10.com/detail/20260411164227190800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
-        },
-        {
-          "title": "巴基斯坦消息人士：此次三方会谈在美国总统特使威特科夫、美国副总统万斯、特朗普女婿库什纳与伊朗议会议长卡利巴夫、伊朗外长阿拉格齐以及巴基斯坦陆军参谋长之间面对面举行。",
-          "url": "https://flash.jin10.com/detail/20260411210744513800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时25分]"
-        },
-        {
-          "title": "参加美伊谈判的美方代表团抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411125623350800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时44分]"
-        },
-        {
-          "title": "巴基斯坦消息人士：威特科夫、万斯、库什纳，伊朗的卡利巴夫、阿拉格齐以及巴基斯坦陆军参谋长之间举行了面对面的三方会谈。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3086236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时25分]"
-        },
-        {
-          "title": "万斯率美谈判代表团抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411135816644800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时33分]"
-        },
-        {
-          "title": "美国总统特使抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411134525927800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时33分]"
-        },
-        {
-          "title": "伊朗、美国和巴基斯坦三方会谈开始举行",
-          "url": "https://wallstreetcn.com/livenews/3086233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 23时25分]"
-        },
-        {
-          "title": "据半岛电视台：巴基斯坦总理夏巴兹·谢里夫称即将在伊斯兰堡举行的美伊谈判为“成败攸关”时刻，并警告下一阶段将决定能否达成持久停火协议。",
-          "url": "https://flash.jin10.com/detail/20260411122829890800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时44分]"
-        },
-        {
-          "title": "巴基斯坦官员：巴方正努力推动实现美伊面对面直接谈判",
-          "url": "https://flash.jin10.com/detail/20260411174426419800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "伊朗外交部发言人：相关考量已转达给巴基斯坦方面，伊朗的要求基于10点方案。",
-          "url": "https://flash.jin10.com/detail/20260411194950028800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时49分]"
-        },
-        {
-          "title": "巴基斯坦官员：巴方正努力推动实现美伊面对面直接谈判",
-          "url": "https://wallstreetcn.com/livenews/3086197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "巴基斯坦总理会见美国副总统",
-          "url": "https://wallstreetcn.com/livenews/3086212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时36分]"
-        },
-        {
-          "title": "消息人士：伊方与巴基斯坦总理讨论了伊美谈判前提条件",
-          "url": "https://wallstreetcn.com/livenews/3086196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://www.douyin.com/hot/2462410",
-          "source": "抖音",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 12时13分]"
-        },
-        {
-          "title": "消息人士：伊方与巴基斯坦总理讨论了伊美谈判前提条件",
-          "url": "https://flash.jin10.com/detail/20260411173339224800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
-        },
-        {
-          "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
-          "url": "https://wallstreetcn.com/livenews/3086096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时55分]"
-        },
-        {
-          "title": "万斯与巴基斯坦总理举行会谈",
-          "url": "https://flash.jin10.com/detail/20260411180138810800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时36分]"
-        },
-        {
-          "title": "沙特国防部称包括战斗机在内的巴基斯坦部队已抵达该国",
-          "url": "https://wallstreetcn.com/livenews/3086204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时36分]"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 09时21分]"
-        },
-        {
-          "title": "巴基斯坦政府权威人士：美伊谈判形式尚不确定",
-          "url": "https://flash.jin10.com/detail/20260411122614586800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时51分]"
-        },
-        {
-          "title": "巴基斯坦正推动美伊面对面谈判",
-          "url": "https://www.toutiao.com/trending/7627043833213128233/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
-        },
-        {
-          "title": "美国副总统万斯与巴基斯坦总理举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3086201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 20时36分]"
-        },
-        {
-          "title": "伊朗、美国和巴基斯坦三方会谈开始举行",
-          "url": "https://flash.jin10.com/detail/20260411203850216800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时30分]"
-        },
-        {
-          "title": "巴基斯坦政府信息与广播部：巴基斯坦总理对伊朗参与伊斯兰堡会谈表示赞赏，并重申巴基斯坦将继续真诚地发挥调解作用，为推动会谈朝着有利于地区和全球和平与稳定的方向取得切实成果积极营造势头。",
-          "url": "https://flash.jin10.com/detail/20260411203155967800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时30分]"
-        },
-        {
-          "title": "伊朗外交部发言人：相关考量已转达给巴基斯坦方面，伊朗的要求基于“10点方案”。",
-          "url": "https://wallstreetcn.com/livenews/3086222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时30分]"
-        },
-        {
-          "title": "美以伊停火 为何是巴基斯坦出面调停",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%81%9C%E7%81%AB+%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%87%BA%E9%9D%A2%E8%B0%83%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 23时25分]"
-        },
-        {
-          "title": "美代表团抵达巴基斯坦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "巴基斯坦总理：美伊谈判将于11日举行",
-          "url": "https://flash.jin10.com/detail/20260411020425225800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美伊今天在巴基斯坦谈判",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BC%8A%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B0%88%E5%88%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "巴基斯坦消息人士：美伊谈判持续了2小时，代表团随后休息。",
-          "url": "https://flash.jin10.com/detail/20260411223248109800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "伊朗外交部发言人：相关考量已转达给巴基斯坦方面，伊朗的要求基于10点方案。",
-          "url": "https://wallstreetcn.com/livenews/3086222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "00时26分"
         },
         {
           "title": "巴基斯坦一支军事力量抵达沙特",
           "url": "https://www.toutiao.com/trending/7627299167131582491/",
           "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时25分"
-        },
-        {
-          "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
-          "url": "https://flash.jin10.com/detail/20260411082306743800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "巴基斯坦外交部：伊朗代表团今天抵达伊斯兰堡，将参与同美国的磋商。",
-          "url": "https://wallstreetcn.com/livenews/3086094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "巴基斯坦总理会见伊朗谈判代表团",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
-          "title": "巴基斯坦总理：将汽油价格每升下调12巴基斯坦卢比，汽油价格从每升378巴基斯坦卢比降至366巴基斯坦卢比。",
-          "url": "https://flash.jin10.com/detail/20260411015253950800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "巴基斯坦确认伊朗议长卡利巴夫率团抵达下塌酒店",
-          "url": "https://wallstreetcn.com/livenews/3086090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "巴基斯坦总理：将柴油价格每升下调135巴基斯坦卢比，由每升520巴基斯坦卢比降至385巴基斯坦卢比。",
-          "url": "https://flash.jin10.com/detail/20260411015226110800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "巴基斯坦总理：（谈美伊会谈）这一阶段的谈判是寻求永久停火的关键时刻。",
-          "url": "https://flash.jin10.com/detail/20260411014812395800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "巴基斯坦总理：（谈美伊会谈）会谈将于周六开始。",
-          "url": "https://flash.jin10.com/detail/20260411014743185800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "巴基斯坦总理：伊朗和美国准备通过谈判解决分歧。",
-          "url": "https://flash.jin10.com/detail/20260411014715615800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "伊朗代表团抵达巴基斯坦的细节被保密。 消息人士称，美国和伊朗的技术代表团当地时间周五上午抵达了巴基斯坦。 伊朗代表团将于周六参加谈判，尽管其就黎巴嫩事件发表了一些看法。（阿拉伯媒体事件报Al Hadath）",
-          "url": "https://wallstreetcn.com/livenews/3086008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "英国唐宁街：首相斯塔默与巴基斯坦总理一致认为，即将举行的会谈对于推动停火、实现持久和平至关重要。",
-          "url": "https://flash.jin10.com/detail/20260411023502967800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "英国唐宁街：英国首相斯塔默于今天下午同巴基斯坦总理通了电话。",
-          "url": "https://flash.jin10.com/detail/20260411023407326800",
-          "source": "金十数据",
-          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "00时26分"
         },
         {
-          "title": "据悉美伊代表团抵达巴基斯坦，伊朗将参加谈判",
-          "url": "https://flash.jin10.com/detail/20260410232440042800",
-          "source": "金十数据",
+          "title": "巴基斯坦消息人士：威特科夫、万斯、库什纳，伊朗的卡利巴夫、阿拉格齐以及巴基斯坦陆军参谋长之间举行了面对面的三方会谈。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3086236",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "00时26分"
         },
         {
-          "title": "据阿拉伯媒体事件报 (Al Hadath)：伊朗代表团抵达巴基斯坦的细节被保密。",
-          "url": "https://flash.jin10.com/detail/20260410232009756800",
+          "title": "巴基斯坦消息人士：美伊谈判持续了2小时，代表团随后休息。",
+          "url": "https://flash.jin10.com/detail/20260411223248109800",
           "source": "金十数据",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "00时26分"
         },
         {
-          "title": "巴基斯坦外交部：伊朗代表团抵达，巴方高官现场迎接",
-          "url": "https://wallstreetcn.com/livenews/3086130",
+          "title": "美以伊停火 为何是巴基斯坦出面调停",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%81%9C%E7%81%AB+%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%87%BA%E9%9D%A2%E8%B0%83%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗、美国和巴基斯坦三方会谈开始举行",
+          "url": "https://wallstreetcn.com/livenews/3086233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            7,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时54分 ~ 23时25分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时30分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时29分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时44分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 13时55分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -1148,246 +131,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时30分 ~ 23时25分]"
-        },
-        {
-          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
-          "url": "https://flash.jin10.com/detail/20260411094848579800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
-          "url": "https://flash.jin10.com/detail/20260411094803513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
-          "url": "https://flash.jin10.com/detail/20260411094510379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
+          "time_info": "00时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
           "url": "https://www.cls.cn/detail/2341126",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
-            3,
-            2,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时27分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "李大霄解读美股单周表现",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            9,
-            6,
-            7,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时32分 ~ 23时25分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041025716800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 09时21分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260411041023502800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 09时21分]"
-        },
-        {
-          "title": "美股巨震",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 18时26分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003357698800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时41分]"
-        },
-        {
-          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260411003343083800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 01时41分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
-        },
-        {
-          "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3086084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
-          "url": "https://wallstreetcn.com/livenews/3086115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 09时21分]"
-        },
-        {
-          "title": "荷兰率先批准特斯拉FSD自动驾驶软件上路 为欧盟首例",
-          "url": "https://flash.jin10.com/detail/20260411093731360800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时40分 ~ 17时32分]"
+          "time_info": "00时26分"
         }
       ]
     }
