@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T07:27:54.777578+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-04-11T09:21:52.705164+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "巴基斯坦外交部：伊朗代表团抵达 巴方高官现场迎接",
@@ -13,11 +13,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 09时21分]"
+        },
+        {
+          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
+          "url": "https://flash.jin10.com/detail/20260411040527255800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时21分]"
         },
         {
           "title": "巴基斯坦部署上万人保障美伊会谈",
@@ -44,18 +58,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
-        },
-        {
-          "title": "消息人士透露，沙特财政部长访问巴基斯坦以展示经济支持。",
-          "url": "https://flash.jin10.com/detail/20260411040527255800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
         },
         {
           "title": "伊朗谈判代表团抵达巴基斯坦",
@@ -106,6 +108,18 @@
           "time_info": "[05时29分 ~ 06时55分]"
         },
         {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时21分]"
+        },
+        {
           "title": "巴基斯坦总理：美伊谈判将于11日举行",
           "url": "https://flash.jin10.com/detail/20260411020425225800",
           "source": "金十数据",
@@ -115,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美伊今天在巴基斯坦谈判",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E4%BC%8A%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%B0%88%E5%88%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "巴基斯坦确认美伊谈判11日在伊斯兰堡塞雷纳酒店举行",
+          "url": "https://flash.jin10.com/detail/20260411082306743800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伊朗谈判代表团抵达巴基斯坦",
@@ -137,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://www.douyin.com/hot/2462410",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "巴基斯坦总理：将汽油价格每升下调12巴基斯坦卢比，汽油价格从每升378巴基斯坦卢比降至366巴基斯坦卢比。",
@@ -192,17 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "巴基斯坦总理：伊朗和美国准备通过谈判解决分歧。",
@@ -282,11 +318,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时21分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -294,11 +331,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 09时21分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -311,6 +349,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时41分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 09时21分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
@@ -337,17 +387,6 @@
           "time_info": "[04时29分 ~ 07时27分]"
         },
         {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3086084",
           "source": "华尔街见闻-快讯",
@@ -362,7 +401,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
@@ -375,6 +414,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
@@ -409,11 +459,12 @@
           "url": "https://wallstreetcn.com/articles/3769646",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时40分 ~ 07时27分]"
+          "appearance_count": 8,
+          "time_info": "[02时40分 ~ 09时21分]"
         }
       ]
     },
@@ -427,11 +478,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时55分 ~ 09时21分]"
         }
       ]
     }
