@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:26:24.646047+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-04-13T05:25:56.501478+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时25分]"
         },
         {
           "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时25分]"
         },
         {
           "title": "巴基斯坦外长强调各方应严格遵守停火承诺",
@@ -39,11 +40,12 @@
           "ranks": [
             2,
             9,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时25分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长费丹在与参与谈判的美国和巴基斯坦官员的通话中讨论了停火谈判相关事宜。",
@@ -52,11 +54,12 @@
           "ranks": [
             8,
             15,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时25分]"
         },
         {
           "title": "【伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦】据巴基斯坦政府消息，伊朗伊斯兰议会议长卡利巴夫12日傍晚率领伊朗谈判代表团乘飞机离开巴基斯坦。（新华社）",
@@ -84,8 +87,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时25分]"
         }
       ]
     },
@@ -102,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时25分]"
         }
       ]
     }
