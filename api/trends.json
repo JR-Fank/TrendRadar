@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T03:33:55.595171+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-13T04:26:24.646047+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -12,23 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3086481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时33分]"
-        },
-        {
-          "title": "巴基斯坦外长强调各方应严格遵守停火承诺",
-          "url": "https://flash.jin10.com/detail/20260413020314791800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
         },
         {
           "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
@@ -40,8 +29,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "巴基斯坦外长强调各方应严格遵守停火承诺",
+          "url": "https://flash.jin10.com/detail/20260413020314791800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长费丹在与参与谈判的美国和巴基斯坦官员的通话中讨论了停火谈判相关事宜。",
@@ -49,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
         },
         {
           "title": "【伊朗议长卡利巴夫率伊朗谈判代表团离开巴基斯坦】据巴基斯坦政府消息，伊朗伊斯兰议会议长卡利巴夫12日傍晚率领伊朗谈判代表团乘飞机离开巴基斯坦。（新华社）",
@@ -81,8 +84,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -99,8 +102,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
