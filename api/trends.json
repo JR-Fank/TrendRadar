@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T17:28:22.216149+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-04-13T19:10:17.850061+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 15时10分]"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 19时10分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
@@ -58,24 +70,13 @@
           "time_info": "[15时09分 ~ 15时10分]"
         },
         {
-          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
-          "url": "https://wallstreetcn.com/articles/3769784",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "由于油价上涨，美股盘前旅游类股纷纷下跌，美国航空(AAL.O)、达美航空(DAL.N)、西南航空(LUV.N)等下跌2.4%，美国联合航空(UAL.O)跌3.2%，阿拉斯加航空下跌2%。",
           "url": "https://flash.jin10.com/detail/20260413171038182800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
