@@ -1,8 +1,196 @@
 {
-  "generated_at": "2026-04-14T14:27:01.987645+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-04-14T16:22:23.156904+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "巴基斯坦：新一轮美伊谈判将很快开始",
+          "url": "https://news.ifeng.com/c/8sIXLrvEyzI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时02分]"
+        },
+        {
+          "title": "巴基斯坦开通伊朗过境走廊",
+          "url": "https://www.toutiao.com/trending/7627805992630157354/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时40分]"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数涨2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3087416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使馆官员表示，美伊下一轮谈判可能在本周或下周初举行。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3087556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "谈判尚未完全关闭？三国力促美伊重启谈判，巴基斯坦防长：新一轮谈判将很快开始",
+          "url": "https://wallstreetcn.com/articles/3769854",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "巴基斯坦消息称美伊同意继续谈判",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B6%88%E6%81%AF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时22分]"
+        },
+        {
+          "title": "美国总统特朗普：副总统万斯在巴基斯坦会谈期间做得不错。 其他方面打电话来，希望（美国与伊朗）达成一份协议。 伊朗对话的症结在于核问题。 认为伊朗现在会认可美方的核主张。 如果伊朗不认同美国对核武器的主张，就不会有协议。",
+          "url": "https://wallstreetcn.com/livenews/3087092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 03时02分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与俄罗斯外长拉夫罗夫进行了电话交谈，讨论了最新的地区局势以及在巴基斯坦伊斯兰堡与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260414020705965800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "巴基斯坦总理：将继续致力于和平进程",
+          "url": "https://wallstreetcn.com/livenews/3087076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "巴基斯坦消息称美伊同意继续谈判 时间地点仍未定",
+          "url": "https://wallstreetcn.com/livenews/3087395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "巴基斯坦开通伊朗过境走廊",
+          "url": "https://wallstreetcn.com/livenews/3087201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "巴基斯坦呼吁美伊停火延长45天",
+          "url": "https://wallstreetcn.com/livenews/3087389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "巴基斯坦总理：将继续致力于和平进程",
+          "url": "https://flash.jin10.com/detail/20260414000214208800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "巴基斯坦消息人士称巴方呼吁美伊停火延长45天",
+          "url": "https://flash.jin10.com/detail/20260414115700084800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "王毅同巴基斯坦副总理兼外长通电话",
+          "url": "https://www.toutiao.com/trending/7628251747558899739/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "【俄媒：美伊下一轮谈判或于16日在伊斯兰堡举行】据俄新社13日援引美国《大西洋》月刊报道，美国和伊朗之间的下一轮“直接谈判”可能于16日在巴基斯坦首都伊斯兰堡举行。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3087126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 15,
@@ -186,182 +374,6 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "巴基斯坦：新一轮美伊谈判将很快开始",
-          "url": "https://news.ifeng.com/c/8sIXLrvEyzI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
-        },
-        {
-          "title": "巴基斯坦开通伊朗过境走廊",
-          "url": "https://www.toutiao.com/trending/7627805992630157354/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            24,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时40分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数涨2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3087416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "巴基斯坦消息称美伊同意继续谈判",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%B6%88%E6%81%AF%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%BB%A7%E7%BB%AD%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
-          "title": "谈判尚未完全关闭？三国力促美伊重启谈判，巴基斯坦防长：新一轮谈判将很快开始",
-          "url": "https://wallstreetcn.com/articles/3769854",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时27分]"
-        },
-        {
-          "title": "美国总统特朗普：副总统万斯在巴基斯坦会谈期间做得不错。 其他方面打电话来，希望（美国与伊朗）达成一份协议。 伊朗对话的症结在于核问题。 认为伊朗现在会认可美方的核主张。 如果伊朗不认同美国对核武器的主张，就不会有协议。",
-          "url": "https://wallstreetcn.com/livenews/3087092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长阿拉格齐与俄罗斯外长拉夫罗夫进行了电话交谈，讨论了最新的地区局势以及在巴基斯坦伊斯兰堡与美国的谈判。",
-          "url": "https://flash.jin10.com/detail/20260414020705965800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "巴基斯坦总理：将继续致力于和平进程",
-          "url": "https://wallstreetcn.com/livenews/3087076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "巴基斯坦消息称美伊同意继续谈判 时间地点仍未定",
-          "url": "https://wallstreetcn.com/livenews/3087395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "巴基斯坦开通伊朗过境走廊",
-          "url": "https://wallstreetcn.com/livenews/3087201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "巴基斯坦呼吁美伊停火延长45天",
-          "url": "https://wallstreetcn.com/livenews/3087389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "巴基斯坦总理：将继续致力于和平进程",
-          "url": "https://flash.jin10.com/detail/20260414000214208800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "巴基斯坦消息人士称巴方呼吁美伊停火延长45天",
-          "url": "https://flash.jin10.com/detail/20260414115700084800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "王毅同巴基斯坦副总理兼外长通电话",
-          "url": "https://www.toutiao.com/trending/7628251747558899739/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "【俄媒：美伊下一轮谈判或于16日在伊斯兰堡举行】据俄新社13日援引美国《大西洋》月刊报道，美国和伊朗之间的下一轮“直接谈判”可能于16日在巴基斯坦首都伊斯兰堡举行。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3087126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -406,7 +418,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
@@ -414,8 +426,19 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "港股收盘，恒生指数收涨0.82%，恒生科技指数收涨0.62%，新消费概念股表现强势，沪上阿姨涨7.5%，泡泡玛特涨6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3087553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
         {
           "title": "港股午评：科网股冲高回落 存储芯片板块持续活跃",
           "url": "https://flash.jin10.com/detail/20260414120544371800",
