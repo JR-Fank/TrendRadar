@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-15T21:02:19.290785+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-04-15T23:00:31.178463+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时39分 ~ 23时00分]"
+        },
         {
           "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
           "url": "https://www.cls.cn/detail/2344205",
@@ -31,18 +43,6 @@
           "time_info": "[00时56分 ~ 04时43分]"
         },
         {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 21时02分]"
-        },
-        {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
           "url": "https://wallstreetcn.com/articles/3769897",
           "source": "华尔街见闻",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 06时38分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -102,6 +113,17 @@
           "time_info": "[03时55分 ~ 04时43分]"
         },
         {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
+        {
           "title": "美股收盘：中概股集体大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -111,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 耐克涨近2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E6%B6%A8%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
         },
         {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
@@ -259,8 +292,19 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "伊朗战争丨美伊或下周在巴基斯坦再次举行会谈",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
         {
           "title": "巴基斯坦KSE-100指数上涨2.3%。",
           "url": "https://wallstreetcn.com/livenews/3088188",
@@ -341,6 +385,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
+        },
+        {
+          "title": "巴基斯坦总理抵达吉达 开启对沙特的访问",
+          "url": "https://wallstreetcn.com/livenews/3088615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
+        },
+        {
+          "title": "巴基斯坦总理抵达吉达 开启对沙特的访问",
+          "url": "https://flash.jin10.com/detail/20260415224001379800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "巴基斯坦总理将访问沙特、卡塔尔和土耳其",
@@ -500,7 +566,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -593,8 +659,19 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "特斯拉AI5芯片流片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时59分 ~ 23时00分]"
+        },
         {
           "title": "TD Cowen：将特斯拉(TSLA.O)目标价格从519美元下调至490美元。",
           "url": "https://flash.jin10.com/detail/20260415174940433800",
