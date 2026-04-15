@@ -1,726 +1,161 @@
 {
-  "generated_at": "2026-04-15T23:00:31.178463+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2026-04-16T00:52:43.193385+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 25,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
+          "title": "谷歌DeepMind：推出Gemini 3.1 Flash TTS，是我们迄今为止可控性最强的文本转语音模型。",
+          "url": "https://flash.jin10.com/detail/20260416000811157800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时39分 ~ 23时00分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
+          "title": "谷歌博客：宣布在Google AI Studio中推出预付费计费。",
+          "url": "https://flash.jin10.com/detail/20260416000640085800",
+          "source": "金十数据",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 14时28分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
+          "title": "谷歌Gemini：Gemini应用现已上线Mac。",
+          "url": "https://flash.jin10.com/detail/20260416000453839800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            2
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时43分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
-          "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
+          "title": "谷歌云：今天，我们最新的文本转语音模型Gemini 3.1 Flash TTS已在谷歌AI Studio和Vertex AI上线。",
+          "url": "https://flash.jin10.com/detail/20260415235710381800",
+          "source": "金十数据",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 06时38分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
+        {
+          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
+          "url": "https://wallstreetcn.com/livenews/3088660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时37分 ~ 07时36分]"
-        },
-        {
-          "title": "美股存储芯片指数收涨超2.4%，继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3087963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时43分]"
-        },
-        {
-          "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时02分]"
-        },
-        {
-          "title": "10年期美债收益率跌超4个基点，美股开盘以来持续走低",
-          "url": "https://wallstreetcn.com/livenews/3087937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时43分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2345247",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "美股收盘：中概股集体大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "美股三大指数小幅高开 耐克涨近2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E6%B6%A8%E8%BF%912%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
-          "url": "https://wallstreetcn.com/livenews/3087957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "摩根士丹利第一季度净利息收入27.0亿美元，预估26.7亿美元。 第一季度净营收205.8亿美元，预估197.1亿美元。 第一财季股票交易收入51.5亿美元，预期47.8亿美元。 第一财季固定收益、外汇和大宗商品业务销售和交易营收33.6亿美元，预估28.9亿美元。 摩根士丹利美股盘前涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3088477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260415040625031800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "博通美股盘前涨2.9%，公司与Meta延长定制芯片合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3088315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美股率先收复所有失地！美伊冲突第七周 全球市场正迎来“大洗牌”？",
-          "url": "https://www.cls.cn/detail/2344302",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260415040520460800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "耐克美股盘前上涨2.4%，此前首席执行官增持公司股票。",
-          "url": "https://wallstreetcn.com/livenews/3088311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260415003157517800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美股收盘：纳指10连阳 京东涨近8%",
-          "url": "https://flash.jin10.com/detail/20260415040214745800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260415003023787800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "美股股指期货转跌，报道称美国向中东增兵",
-          "url": "https://wallstreetcn.com/livenews/3088378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
-          "url": "https://wallstreetcn.com/livenews/3087965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "美国银行第一季度净利息收入为157.5亿美元，预估为153.7亿美元。 第一季度不含DVA的FICC交易收入为35亿美元，预期37.8亿美元。 第一季度不含DVA的股票交易收入为28.3亿美元，预期25.1亿美元。 第一季度每股收益1.11美元。 美国银行美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3088445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "伊朗战争丨美伊或下周在巴基斯坦再次举行会谈",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数上涨2.3%。",
-          "url": "https://wallstreetcn.com/livenews/3088188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：巴基斯坦的一位外交消息人士表示，德黑兰与伊斯兰堡之间就伊斯兰堡谈判后的最新进展，正保持着持续且密集的意见交换。",
-          "url": "https://flash.jin10.com/detail/20260415041123711800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "据半岛电视台：巴基斯坦总理谢里夫在美伊谈判前景下，将访问沙特利雅得和土耳其安卡拉。",
-          "url": "https://flash.jin10.com/detail/20260415032648087800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时43分]"
-        },
-        {
-          "title": "巴基斯坦总统：巴方将努力确保美伊和平进程可持续",
-          "url": "https://wallstreetcn.com/livenews/3087878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时58分]"
-        },
-        {
-          "title": "巴基斯坦或在2028年接收土耳其五代机",
-          "url": "https://www.toutiao.com/trending/7628617507196210751/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时02分]"
-        },
-        {
-          "title": "土耳其外长分别与伊朗和巴基斯坦外长通电话 讨论伊美谈判",
-          "url": "https://wallstreetcn.com/livenews/3087887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时55分]"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外交部发言人表示，与巴基斯坦的谈判会讨论全面结束战争、解除制裁以及对美国和以色列对伊朗攻击造成的损害进行赔偿的事宜。",
-          "url": "https://flash.jin10.com/detail/20260415193044758800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "巴基斯坦总理抵达吉达 开启对沙特的访问",
-          "url": "https://wallstreetcn.com/livenews/3088615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
-        },
-        {
-          "title": "巴基斯坦总理抵达吉达 开启对沙特的访问",
-          "url": "https://flash.jin10.com/detail/20260415224001379800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时00分"
-        },
-        {
-          "title": "巴基斯坦总理将访问沙特、卡塔尔和土耳其",
-          "url": "https://wallstreetcn.com/livenews/3088228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
-          "title": "据巴基斯坦媒体：伊朗官员称，已准备好进行第二轮谈判。",
-          "url": "https://flash.jin10.com/detail/20260415035652951800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "巴基斯坦获沙特30亿美元资金承诺 有助缓冲偿还阿联酋贷款带来的影响",
-          "url": "https://wallstreetcn.com/livenews/3088170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "古特雷斯与巴基斯坦外长通电话 讨论美伊会谈",
-          "url": "https://flash.jin10.com/detail/20260415002944646800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外交部发言人表示，伊朗很可能在周三接待一个巴基斯坦代表团，以继续与巴基斯坦的谈判。",
-          "url": "https://flash.jin10.com/detail/20260415192552143800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外交部发言人表示，自伊朗代表团从巴基斯坦返回以来，双方已交换多条信息。",
-          "url": "https://flash.jin10.com/detail/20260415192351641800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外交部发言人表示，通过巴基斯坦与美国的消息交流仍在继续。",
-          "url": "https://flash.jin10.com/detail/20260415192252269800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "巴基斯坦总统：巴方将努力确保美伊和平进程可持续",
-          "url": "https://flash.jin10.com/detail/20260415002124063800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
-          "url": "https://wallstreetcn.com/livenews/3087988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-          "url": "https://flash.jin10.com/detail/20260415045655489800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时38分]"
-        },
-        {
-          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
-          "url": "https://wallstreetcn.com/livenews/3087952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "微软接手OpenAI挪威数据中心租约",
-          "url": "https://flash.jin10.com/detail/20260415012050964800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "微软将接管OpenAI在挪威数据中心的租约",
-          "url": "https://wallstreetcn.com/livenews/3087885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
-        },
-        {
-          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
-          "url": "https://www.zhihu.com/question/2027692500500969204",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
-          "url": "https://wallstreetcn.com/livenews/3087968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
-          "url": "https://www.cls.cn/detail/2344645",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 21时02分]"
-        },
-        {
-          "title": "港股午评：恒生科技指数半日涨1.88% 科网股回暖",
-          "url": "https://flash.jin10.com/detail/20260415120340351800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时39分"
-        },
-        {
-          "title": "港股收盘，恒生指数收涨0.29%，恒生科技指数收涨1.23%。科网股走高，京东涨超4%，阿里巴巴、百度涨超3%。创新药表现强势，荣昌生物涨超9%，君实生物涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3088318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "港股开盘，恒指开涨1.14%，科指开涨2.26%。百度(09888.HK)涨近5%，阿里巴巴(09988.HK)涨4%。科技股领涨，影视股、锂电池板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260415092052639800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-15）",
-          "url": "https://flash.jin10.com/detail/20260415090812143800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
-        },
-        {
-          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3088208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "特斯拉AI5芯片流片",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时59分 ~ 23时00分]"
-        },
-        {
-          "title": "TD Cowen：将特斯拉(TSLA.O)目标价格从519美元下调至490美元。",
-          "url": "https://flash.jin10.com/detail/20260415174940433800",
+          "title": "特斯拉(TSLA.O)股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
+          "url": "https://flash.jin10.com/detail/20260415235304416800",
           "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "00时52分"
         },
         {
-          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
-          "url": "https://wallstreetcn.com/livenews/3088207",
+          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3088654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时28分"
+          "time_info": "00时52分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "巴基斯坦",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
-          "url": "https://flash.jin10.com/detail/20260415010401722800",
+          "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260416001321800800",
           "source": "金十数据",
           "ranks": [
-            20
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时58分"
+          "time_info": "00时52分"
         },
         {
-          "title": "Gitlab宣布，与谷歌云合作。",
-          "url": "https://wallstreetcn.com/livenews/3087967",
-          "source": "华尔街见闻-快讯",
+          "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
+          "url": "https://news.ifeng.com/c/8sLuRCD9jdS",
+          "source": "凤凰网",
           "ranks": [
-            22
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "00时52分"
         }
       ]
     }
