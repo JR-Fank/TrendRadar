@@ -1,1032 +1,111 @@
 {
-  "generated_at": "2026-04-16T23:19:38.595991+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-04-17T01:04:07.808647+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 23时19分]"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 21时07分]"
-        },
-        {
-          "title": "台积电：客户高度关注A14工艺，预计2028年开始量产。",
-          "url": "https://wallstreetcn.com/livenews/3089064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：计划逐步关闭6英寸晶圆厂。",
-          "url": "https://flash.jin10.com/detail/20260416142106173800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电：鉴于中东局势，正谨慎进行业务规划。 人工智能需求依然“极为强劲”。 客户向我们传递了非常强烈的需求信号。 公司产能依然紧张。 关注组件价格上涨带来的影响。 N2工艺已进入大规模量产。 为满足强劲的AI需求，正在加大资本支出以提升N3产能。 正在提升日本和德国的成熟制程产能。 计划逐步关闭6英寸晶圆厂。 将继续优化我们的产能策略。",
-          "url": "https://wallstreetcn.com/livenews/3089060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "台积电(TSM.N)：提升日本和德国工厂成熟节点产能。",
-          "url": "https://flash.jin10.com/detail/20260416142044812800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：利用多种杠杆尽我们所能为客户提供最大支持。",
-          "url": "https://flash.jin10.com/detail/20260416141943887800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电：预计2026年资本支出将接近520亿至560亿美元区间的上端。 预计2026年销售额（以美元计）将实现超过30%的增长。 预计第二季度营业利润率为56.5%-58.5%。 预计第二季度毛利率为65.5%-67.5%。",
-          "url": "https://wallstreetcn.com/livenews/3089056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
-          "url": "https://flash.jin10.com/detail/20260416040118406800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时43分]"
-        },
-        {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 23时19分]"
-        },
-        {
-          "title": "台积电(TSM.N)：在台南新增N3工厂。",
-          "url": "https://flash.jin10.com/detail/20260416141922491800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电：预计中东危机可能影响公司盈利能力。 氦气和氢气采购来自多个地区。 预计短期内原材料供应不会受到影响。",
-          "url": "https://wallstreetcn.com/livenews/3089055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：将2026年营收增长预期从30%左右上调至30%以上。",
-          "url": "https://flash.jin10.com/detail/20260416141840767800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电预计第二季度销售额在390亿至402亿美元，市场预估381.1亿美元。 预计第二季度毛利率65.5％至67.5％，市场预估64.1％。",
-          "url": "https://wallstreetcn.com/livenews/3089051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：为满足强劲的人工智能需求，我们正在加大资本支出，以提高N3产能。",
-          "url": "https://flash.jin10.com/detail/20260416141757639800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：N2制程已进入大规模生产。",
-          "url": "https://flash.jin10.com/detail/20260416141702777800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：鉴于中东局势，公司在业务规划上保持审慎。",
-          "url": "https://flash.jin10.com/detail/20260416141646892800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：已注意到零部件价格上涨带来的影响。",
-          "url": "https://flash.jin10.com/detail/20260416141625819800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3089128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "台积电(TSM.N)：芯片需求将持续保持强劲。",
-          "url": "https://flash.jin10.com/detail/20260416141613590800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：人工智能需求极为强劲。",
-          "url": "https://flash.jin10.com/detail/20260416141500656800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：预计能源供应在短期内不会对运营产生影响。",
-          "url": "https://flash.jin10.com/detail/20260416141446228800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
-          "url": "https://flash.jin10.com/detail/20260415235304416800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "台积电CFO：正在从不同地区的多个来源采购特种气体。",
-          "url": "https://flash.jin10.com/detail/20260416141428847800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)盘前上涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260416160145086800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "台积电：预计2026年资本支出将达到520亿至560亿美元的高端水平（此前预测为520亿至560亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260416141306440800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电(TSM.N)：预计短期内原材料供应不会受到影响。",
-          "url": "https://flash.jin10.com/detail/20260416141214389800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "特斯拉股价上涨7.9%，有望创下九个多月以来的最大单日涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3088654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "台积电(TSM.N)：对于氦气和氢气，我们手头有安全库存。",
-          "url": "https://flash.jin10.com/detail/20260416141148207800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电美股夜盘涨近2%，第一季度净利润超市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3089023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电第一季度净利润5,725亿元台币，同比增长58%，预估5,423.8亿元台币。 第一季度营业利润6,589.7亿元台币，同比增长62%，预估6,238.2亿元台币。 第一季度销售额1.13万亿元台币，同比增长35%，预估1.12万亿元台币。 第一季度毛利率66.2％，预估64.5％。 第一季度资本支出为111亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3089021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "台积电一季度法说会要点总结",
-          "url": "https://wallstreetcn.com/livenews/3089107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "中国男子在雅典遭抢劫，巴基斯坦大哥挺身而出：他是中国人",
-          "url": "https://news.ifeng.com/c/8sLuRCD9jdS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时35分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数上涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3089009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "据阿拉伯媒体Al Hadath报道称，如果与伊朗达成协议，美国总统特朗普将前往巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260416001321800800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "伊朗高级官员：巴基斯坦陆军参谋长访问伊朗，有助于在某些领域缩小分歧。 这次访问之后，对延长停火和举行第二轮谈判的希望更大了。 在核问题上仍存在根本性分歧。 伊朗高浓缩铀的处置以及核限制的期限仍未解决。",
-          "url": "https://wallstreetcn.com/livenews/3089139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "巴基斯坦或在2028年接收土耳其五代机",
-          "url": "https://www.toutiao.com/trending/7628617507196210751/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时35分]"
-        },
-        {
-          "title": "巴基斯坦客商：中国强我们就强",
-          "url": "https://www.toutiao.com/trending/7628357070983675950/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时08分 ~ 21时07分]"
-        },
-        {
-          "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3088738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时39分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
-          "url": "https://flash.jin10.com/detail/20260416043053830800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时35分]"
-        },
-        {
-          "title": "伊朗高级官员：在巴基斯坦军方官员访问后，延长美伊停火和举行第二轮谈判的希望更大。在核问题上仍存在根本分歧。",
-          "url": "https://flash.jin10.com/detail/20260416161700330800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "伊朗高级官员：巴基斯坦军方领导人的访伊之行有助于在某些领域减少分歧。",
-          "url": "https://flash.jin10.com/detail/20260416161529921800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：巴基斯坦是这些谈判中唯一的调解者。",
-          "url": "https://flash.jin10.com/detail/20260416014335717800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "【报道：伊朗将评估是否与美国举行下一轮谈判】伊朗塔斯尼姆通讯社15日援引知情人士消息报道，伊朗方面与巴基斯坦陆军参谋长穆尼尔率领的代表团举行会晤后，将进行必要评估再决定是否与美国开展下一轮谈判。 该知情人士说，在黎巴嫩实现停火对伊朗参与下一轮谈判会是一个积极信号。与此同时，美方必须坚持合理的谈判框架，不能提出过分要求或违反停火前所作承诺。 15日早些时候，巴基斯坦军方发布声明说，穆尼尔和巴基斯坦内政部长穆赫辛·纳克维当天率领巴代表团抵达伊朗首都德黑兰，继续推进斡旋美国和伊朗谈判。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3088687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "巴基斯坦电力部长：核电站维护工作推迟了数周。",
-          "url": "https://flash.jin10.com/detail/20260416193843341800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "【报道：巴陆军参谋长访伊是因为核谈判取得“重大突破”】消息人士表示，巴基斯坦陆军参谋长此次亲身访问伊朗的原因是伊朗核问题谈判已取得“重大突破”，巴基斯坦方面对此抱有希望，认为有望达成成果。消息人士称，过去24小时内各方为此做了大量工作，埃及、巴基斯坦、沙特和土耳其在伊斯兰堡举行了会晤。巴方对沟通渠道保持畅通持乐观态度。巴基斯坦军方高层也一直在与美国政府沟通，尤其是与万斯保持联系。（半岛电视台）",
-          "url": "https://wallstreetcn.com/livenews/3088684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据巴基斯坦官员透露，美国与伊朗会谈料将于下周重返巴基斯坦。（MS Now）",
-          "url": "https://wallstreetcn.com/livenews/3088746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
-          "url": "https://www.zhihu.com/question/2028145295125430592",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊斯兰堡是与美国进行谈判的唯一地点",
-          "url": "https://wallstreetcn.com/livenews/3089121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：很高兴欢迎巴基斯坦陆军参谋长穆尼尔访问伊朗。对巴基斯坦表示感谢，并强调这体现了我们深厚而重要的双边关系。我们致力于推动地区和平与稳定的承诺依然坚定，而且是共同的。",
-          "url": "https://flash.jin10.com/detail/20260416021354898800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊斯兰堡是与美国进行谈判的唯一地点",
-          "url": "https://flash.jin10.com/detail/20260416155752129800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "据美国新闻频道MS Now援引两名巴基斯坦官员称，美伊可能于下周重返巴基斯坦举行谈判。",
-          "url": "https://flash.jin10.com/detail/20260416031501614800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "巴基斯坦外交部：下一轮美伊会谈日期尚未确定",
-          "url": "https://wallstreetcn.com/livenews/3089111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "巴基斯坦外交部：伊美新一轮谈判具体日期尚未确定",
-          "url": "https://wallstreetcn.com/livenews/3089426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使：伊朗下一轮谈判代表团或仍由议长率领",
-          "url": "https://wallstreetcn.com/livenews/3089343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 07时35分]"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 05时43分]"
-        },
-        {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 09时47分]"
-        },
-        {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时34分 ~ 09时47分]"
-        },
-        {
-          "title": "如何看待美股新高",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 16时23分]"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040543220800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时43分]"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040519362800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时43分]"
-        },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时07分 ~ 23时19分]"
-        },
-        {
-          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
-          "url": "https://wallstreetcn.com/livenews/3088776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时35分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
-          "url": "https://wallstreetcn.com/livenews/3088772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时35分]"
-        },
-        {
-          "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3088769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时35分]"
-        },
-        {
-          "title": "存储巨头定档今夏美股上市！最多募资100亿美元",
-          "url": "https://www.cls.cn/detail/2345773",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2346625",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003213963800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
+          "time_info": "01时04分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260417003029748800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谈判曙光与强劲财报双重提振市场，标普历史新高，纳指十一连涨，特斯拉大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌与五角大楼讨论机密人工智能合作协议，重建与军方关系。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3089379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "欧盟提案要求谷歌向AI竞争对手共享搜索数据",
-          "url": "https://flash.jin10.com/detail/20260416194915242800",
+          "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
+          "url": "https://flash.jin10.com/detail/20260417005843333800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
-          "url": "https://flash.jin10.com/detail/20260416045257037800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时35分]"
-        },
-        {
-          "title": "谷歌DeepMind：推出Gemini 3.1 Flash TTS，是我们迄今为止可控性最强的文本转语音模型。",
-          "url": "https://flash.jin10.com/detail/20260416000811157800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌博客：宣布在Google AI Studio中推出预付费计费。",
-          "url": "https://flash.jin10.com/detail/20260416000640085800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌Gemini：Gemini应用现已上线Mac。",
-          "url": "https://flash.jin10.com/detail/20260416000453839800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
-          "url": "https://flash.jin10.com/detail/20260416023532344800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
-          "title": "Gemini Mac",
-          "url": "https://s.weibo.com/weibo?q=Gemini%20Mac&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "谷歌云：今天，我们最新的文本转语音模型Gemini 3.1 Flash TTS已在谷歌AI Studio和Vertex AI上线。",
-          "url": "https://flash.jin10.com/detail/20260415235710381800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
-          "url": "https://wallstreetcn.com/livenews/3088660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "报道：谷歌母公司Alphabet料将因SpaceX投资而获得1000亿美元“意外之财”",
-          "url": "https://wallstreetcn.com/livenews/3088724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "港股高开高走，恒生科技指数涨2%，恒指涨1%，宁德时代(03750.HK)涨近9%领涨成分股。",
-          "url": "https://flash.jin10.com/detail/20260416094131899800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "宁德时代港股涨幅扩大至8%。",
-          "url": "https://wallstreetcn.com/livenews/3088895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "港股收盘：恒生科技收涨3.67%，思格新能上市首日大涨逾100%",
-          "url": "https://wallstreetcn.com/livenews/3089133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "港股收评：科指大涨3.67%收复5000点关口 新股思格新能收涨103%",
-          "url": "https://flash.jin10.com/detail/20260416161250380800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "港股收盘，恒指收涨1.72%，科指收涨3.67%，锂电池板块、科技股走强，宁德时代(03750.HK)涨9%，百度(09888.HK)涨7.7%，阿里巴巴(09988.HK)涨5.6%。",
-          "url": "https://flash.jin10.com/detail/20260416160852316800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "港股芯片股持续走高，壁仞科技涨超25%，天数智芯涨超15%，爱芯元智涨超10%，兆易创新、澜起科技、纳芯微跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3089039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "南向资金今日净买入42.91亿元。港股通（沪）方面，盈富基金、中国海洋石油分别获净买入21.92亿港元、5.23亿港元；小米集团-W净卖出额居首，金额为8.63亿港元；港股通（深）方面，盈富基金、阿里巴巴-W分别获净买入4.91亿港元、4.8亿港元；小米集团-W净卖出额居首，金额为2.89亿港元。",
-          "url": "https://flash.jin10.com/detail/20260416173114640800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "港股午评：科指半日涨近3%收复5000点 宁德时代大涨10%",
-          "url": "https://flash.jin10.com/detail/20260416120603896800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "01时04分"
         }
       ]
     },
@@ -1035,17 +114,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
+          "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
+          "url": "https://wallstreetcn.com/livenews/3089493",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15,
-            27
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
+          "url": "https://www.zhihu.com/question/2028145295125430592",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时43分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     }
