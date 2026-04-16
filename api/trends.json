@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T03:00:05.583201+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-04-17T04:01:19.223162+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2346625",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
         },
         {
           "title": "金十图示：2026年04月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -66,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -78,25 +79,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
           "url": "https://www.cls.cn/detail/2346308",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
@@ -116,44 +118,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260417024512631800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
         },
         {
-          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
-          "url": "https://www.zhihu.com/question/2028145295125430592",
-          "source": "知乎",
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            14
+            19
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 03时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -165,6 +149,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
+          "url": "https://www.zhihu.com/question/2028145295125430592",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时01分]"
+        },
+        {
+          "title": "特朗普称或前往巴基斯坦推动与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260417024512631800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时01分]"
         }
       ]
     }
