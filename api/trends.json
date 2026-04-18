@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T19:28:46.896049+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-04-18T20:40:38.429444+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[07时32分 ~ 20时40分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -228,6 +228,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 20时40分]"
+        },
+        {
           "title": "防以袭击，巴基斯坦出动歼-10护送伊朗谈判代表",
           "url": "https://news.ifeng.com/c/8sQMpjBNOzV",
           "source": "凤凰网",
@@ -237,19 +251,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时55分 ~ 18时32分]"
-        },
-        {
-          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2028181845926318977",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 19时28分]"
         },
         {
           "title": "美方考虑数日内再赴巴基斯坦与伊朗恢复谈判",
