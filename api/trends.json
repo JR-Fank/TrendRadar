@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T00:29:22.482811+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T01:29:52.219569+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时29分]"
         },
         {
           "title": "巴基斯坦警方：外国代表团可能抵达 将关闭拉瓦尔品第商业场所",
           "url": "https://flash.jin10.com/detail/20260418224746764800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时29分]"
         },
         {
           "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
@@ -37,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时29分]"
         }
       ]
     },
@@ -54,8 +55,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时29分]"
         }
       ]
     }
