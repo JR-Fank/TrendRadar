@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T16:38:57.123439+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-18T17:39:49.148137+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 17时39分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -235,8 +235,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时39分]"
+        },
+        {
+          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2028181845926318977",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 17时39分]"
         },
         {
           "title": "美方考虑数日内再赴巴基斯坦与伊朗恢复谈判",
@@ -248,18 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2028181845926318977",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时38分]"
         },
         {
           "title": "巴基斯坦总理办公室声明：柴油价格已从每升385.54卢比降至每升353.43卢比。",
