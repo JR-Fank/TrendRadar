@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T20:40:38.429444+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-04-18T21:56:42.515329+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             5,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 21时56分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -235,11 +236,12 @@
             8,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时25分 ~ 20时40分]"
+          "appearance_count": 10,
+          "time_info": "[12时25分 ~ 21时56分]"
         },
         {
           "title": "防以袭击，巴基斯坦出动歼-10护送伊朗谈判代表",
