@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T14:25:13.672126+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2026-04-19T16:02:23.296965+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "url": "https://flash.jin10.com/detail/20260419134226547800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 16时02分]"
         },
         {
           "title": "巴基斯坦警方：外国代表团可能抵达 将关闭拉瓦尔品第商业场所",
@@ -62,22 +63,24 @@
           "url": "https://flash.jin10.com/detail/20260419134047676800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 16时02分]"
         },
         {
           "title": "市场消息：在巴基斯坦陆军参谋长阿西姆·穆尼尔对伊朗进行正式访问期间，美国总统特朗普与他进行了通话。",
           "url": "https://flash.jin10.com/detail/20260419133846190800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 16时02分]"
         }
       ]
     },
@@ -102,11 +105,12 @@
           "url": "https://wallstreetcn.com/articles/3770342",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时02分]"
         }
       ]
     },
