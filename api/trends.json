@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T12:45:24.548783+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-04-19T14:25:13.672126+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "巴基斯坦警方：外国代表团可能抵达 将关闭拉瓦尔品第商业场所",
@@ -15,11 +15,12 @@
             6,
             12,
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 12时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 14时25分]"
         },
         {
           "title": "巴媒称巴基斯坦拟与中国签署「历史里程碑式」的国防协议，涉 120 亿美元隐形战机和防空导弹，具体情况如何？",
@@ -33,6 +34,17 @@
           "time_info": "[00时29分 ~ 07时27分]"
         },
         {
+          "title": "市场消息：美国总统特朗普与巴基斯坦陆军参谋长穆尼尔讨论了霍尔木兹海峡局势以及与伊朗的协议的细节。",
+          "url": "https://flash.jin10.com/detail/20260419134226547800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "巴基斯坦警方：外国代表团可能抵达 将关闭拉瓦尔品第商业场所",
           "url": "https://flash.jin10.com/detail/20260418224746764800",
           "source": "金十数据",
@@ -44,6 +56,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时34分]"
+        },
+        {
+          "title": "市场消息：特朗普与在巴基斯坦陆军参谋长的通话是在包括美国副总统万斯和美国国务卿鲁比奥在内的多位官员在场的情况下进行的。",
+          "url": "https://flash.jin10.com/detail/20260419134047676800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "市场消息：在巴基斯坦陆军参谋长阿西姆·穆尼尔对伊朗进行正式访问期间，美国总统特朗普与他进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260419133846190800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 14时25分]"
+        },
+        {
+          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3770342",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         }
       ]
     },
@@ -64,24 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时36分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 12时45分]"
         }
       ]
     }
