@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T02:53:20.617918+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-21T03:56:40.241343+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时56分]"
         },
         {
           "title": "伊朗外交部长告诉巴基斯坦外长，德黑兰将在考虑所有相关因素后决定如何推进此事。",
           "url": "https://flash.jin10.com/detail/20260421023753468800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时56分]"
         },
         {
           "title": "伊朗外交部声明：伊朗外长告知巴基斯坦外长，美国“持续违反停火协议”是外交进程继续推进的主要障碍。 德黑兰在综合考虑各方面因素后，将就如何推进此事做出决定。",
           "url": "https://wallstreetcn.com/livenews/3091294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时56分]"
         },
         {
           "title": "伊朗外交部长向巴基斯坦外长表示，美国“持续违反停火”是外交进程继续的主要障碍。",
           "url": "https://flash.jin10.com/detail/20260421023721048800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时56分]"
         },
         {
           "title": "万斯率团将抵达巴基斯坦",
@@ -80,11 +83,12 @@
           "url": "https://flash.jin10.com/detail/20260421020855778800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时53分 ~ 03时56分]"
         },
         {
           "title": "华尔街日报：伊朗计划派遣谈判代表团前往巴基斯坦",
@@ -134,7 +138,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -144,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时56分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -155,8 +159,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时56分]"
+        },
+        {
+          "title": "高盛交易员：美股已经做好本周回调的准备",
+          "url": "https://wallstreetcn.com/articles/3770364",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时56分"
         }
       ]
     }
