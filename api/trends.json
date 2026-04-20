@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T12:52:06.882390+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-04-20T15:12:02.626351+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "巴基斯坦伊斯兰堡“红区”内政府机构实行居家办公",
@@ -36,13 +36,47 @@
           "time_info": "[00时29分 ~ 05时27分]"
         },
         {
+          "title": "白宫称美国副总统万斯将赴巴基斯坦参加会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006604",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 15时12分]"
+        },
+        {
+          "title": "为什么沙特会愿意让巴基斯坦驻军自己国家，这不是不平等协议么？",
+          "url": "https://www.zhihu.com/question/2028941915911984616",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 15时12分]"
+        },
+        {
+          "title": "巴基斯坦内政部长前往美使馆讨论美伊第二轮谈判事宜",
+          "url": "https://flash.jin10.com/detail/20260420145235578800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "巴基斯坦KSE-100指数日内跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3090816",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -72,18 +106,6 @@
           "time_info": "[02时36分 ~ 03时36分]"
         },
         {
-          "title": "白宫称美国副总统万斯将赴巴基斯坦参加会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006604",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时52分]"
-        },
-        {
           "title": "白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）",
           "url": "https://wallstreetcn.com/livenews/3090627",
           "source": "华尔街见闻-快讯",
@@ -94,17 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 03时36分]"
-        },
-        {
-          "title": "为什么沙特会愿意让巴基斯坦驻军自己国家，这不是不平等协议么？",
-          "url": "https://www.zhihu.com/question/2028941915911984616",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时52分]"
         },
         {
           "title": "巴基斯坦总理与伊朗总统通话约45分钟，讨论地区局势",
@@ -238,7 +249,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -278,6 +289,17 @@
           "time_info": "[06时26分 ~ 07时28分]"
         },
         {
+          "title": "周末美伊“各施手段”，油价飙升近8%、美股期货回落，日韩股市上涨，黄金小幅走软",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时11分 ~ 15时12分]"
+        },
+        {
           "title": "国际原油大幅高开5% 美股指期货跌0.9%",
           "url": "https://flash.jin10.com/detail/20260420060034058800",
           "source": "金十数据",
@@ -305,7 +327,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股开盘：东方证券高开13.53%",
@@ -336,9 +358,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "港股群核科技午后涨幅持续扩大，现涨超80%。",
+          "url": "https://wallstreetcn.com/livenews/3090851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -358,6 +391,19 @@
           "time_info": "[00时29分 ~ 07时28分]"
         },
         {
+          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 15时12分]"
+        },
+        {
           "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
           "url": "https://www.cls.cn/detail/2348368",
           "source": "财联社热门",
@@ -368,18 +414,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时28分]"
-        },
-        {
-          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
-          "url": "https://wallstreetcn.com/articles/3770211",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 12时52分]"
         }
       ]
     },
