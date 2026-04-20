@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T07:28:38.498788+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2026-04-20T09:50:04.553034+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "巴基斯坦伊斯兰堡“红区”内政府机构实行居家办公",
@@ -168,6 +168,28 @@
           "time_info": "[00时29分 ~ 01时29分]"
         },
         {
+          "title": "白宫称美国副总统万斯将赴巴基斯坦参加会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006604",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "为什么沙特会愿意让巴基斯坦驻军自己国家，这不是不平等协议么？",
+          "url": "https://www.zhihu.com/question/2028941915911984616",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐和巴基斯坦外长确认，德黑兰和美国将继续对话，旨在维护该地区的和平与安全。",
           "url": "https://flash.jin10.com/detail/20260420053618730800",
           "source": "金十数据",
@@ -211,11 +233,12 @@
           "url": "https://wallstreetcn.com/articles/3770345",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -223,11 +246,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时50分]"
         },
         {
           "title": "国际油价大幅高开，美股期货跌近1%",
@@ -257,7 +281,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "下周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
@@ -281,6 +305,45 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时28分]"
+        },
+        {
+          "title": "本周重磅日程：沃什听证会，美伊停火到期，特斯拉、茅台、新易盛一季报",
+          "url": "https://wallstreetcn.com/articles/3770211",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股开盘：东方证券高开13.53%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E4%B8%9C%E6%96%B9%E8%AF%81%E5%88%B8%E9%AB%98%E5%BC%8013.53%25",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-04-20）",
+          "url": "https://flash.jin10.com/detail/20260420091347870800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
