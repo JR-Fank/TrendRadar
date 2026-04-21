@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T21:09:04.078717+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-04-21T23:05:24.278996+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 23时05分]"
         },
         {
           "title": "伊朗战争丨美媒：万斯今天赴巴基斯坦",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "巴基斯坦仍在等待伊朗对参加第二轮谈判的答复",
+          "url": "https://flash.jin10.com/detail/20260421225819543800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美媒：万斯将赴巴基斯坦进行美伊谈判，白宫20日一整天都在等德黑兰",
@@ -63,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "巴基斯坦部长：仍在等待伊朗正式回应",
+          "url": "https://wallstreetcn.com/livenews/3091943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "国际油价跌超1%，报道称伊朗将出席巴基斯坦的第二轮和平谈判",
@@ -251,6 +273,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "巴基斯坦信息部长：停火于太平洋标准时间上午4:50结束。伊朗在两周停火结束前参加谈判的决定至关重要。",
+          "url": "https://flash.jin10.com/detail/20260421224657209800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "报道：美国副总统万斯尚未启程前往巴基斯坦参加伊朗核问题谈判",
           "url": "https://wallstreetcn.com/livenews/3091240",
           "source": "华尔街见闻-快讯",
@@ -273,13 +306,24 @@
           "time_info": "14时31分"
         },
         {
+          "title": "巴基斯坦信息部长：仍在等待伊朗方面关于确认代表团参加伊斯兰堡和平谈判的正式回应。",
+          "url": "https://flash.jin10.com/detail/20260421224639280800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美国总统特朗普：伊朗刚获准赴巴基斯坦参加会谈。",
           "url": "https://flash.jin10.com/detail/20260421203643869800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -298,7 +342,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -321,8 +365,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时35分 ~ 21时09分]"
+          "appearance_count": 12,
+          "time_info": "[06时35分 ~ 23时05分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -425,6 +469,18 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2351163",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时05分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，布油基金收涨超4.3%，新兴市场ETF、黄金ETF至多跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3091321",
           "source": "华尔街见闻-快讯",
@@ -483,17 +539,6 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
-          "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2351163",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
-        },
-        {
           "title": "周一（4月20日）纽约尾盘，美国10年期国债收益率持平，报4.2480%，北京时间08:07高开至4.2796%，随后持稳于4.2650%附近，21:29刷新日低至4.2431%。 两年期美债收益率涨0.81个基点，报3.7163%；30年期美债收益率跌0.41个基点，报4.8796%。 2/10年期美债收益率利差跌0.934个基点，报+52.837个基点。 10年期通胀保值国债（TIPS）收益率涨0.62个基点，至1.8899%；两年期TIPS收益率涨0.51个基点，至0.8728%，美股盘前出现一波短线拉升行情、19:21刷新日高至0.9048%；30年期TIPS收益率涨0.20个基点，至2.6612%。",
           "url": "https://wallstreetcn.com/livenews/3091308",
           "source": "华尔街见闻-快讯",
@@ -523,7 +568,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -559,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "美股三大股指下挫，标普500指数涨幅收窄至不足0.1%，道指、纳指涨幅收窄至0.2%。",
+          "url": "https://flash.jin10.com/detail/20260421225044559800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
@@ -718,6 +774,34 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国加州新车经销商协会：特斯拉在加州的注册量在第一季度下降24.3%。",
+          "url": "https://flash.jin10.com/detail/20260421225331801800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
+          "url": "https://wallstreetcn.com/livenews/3091312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -743,23 +827,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数初步收跌0.2%，电信板块跌1.5%，科技板块跌0.1%，能源板块大致持平。 纳斯达克100指数初步收跌0.3%，成分股中，英特尔初步收跌4.3%，核电股CEG跌3.1%，Meta跌2.7%，奈飞跌2.5%，特斯拉跌2%，Arm控股则涨4.9%，迈威尔科技/美满科技涨5.9%，Atlassian涨6.6%。 3M初步收跌2%，与宝洁、强生、霍尼韦尔、Merck领跌道指成分股，苹果、思科、高盛、摩根大通至少涨约1%，与Salesforce领跑。",
-          "url": "https://wallstreetcn.com/livenews/3091312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
         }
       ]
     }
