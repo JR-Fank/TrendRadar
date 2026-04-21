@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-04-21T12:42:34.800453+08:00",
-  "total_titles_processed": 981,
-  "failed_sources": [],
+  "generated_at": "2026-04-21T14:31:51.422473+08:00",
+  "total_titles_processed": 1101,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -25,7 +27,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -47,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -58,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -214,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：不会在威胁和强迫下谈判",
+          "url": "https://wallstreetcn.com/livenews/3091561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
@@ -233,6 +246,17 @@
           "time_info": "[00时55分 ~ 05时39分]"
         },
         {
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时35分 ~ 14时30分]"
+        },
+        {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2349767",
           "source": "财联社热门",
@@ -246,28 +270,18 @@
           "time_info": "[00时55分 ~ 09时31分]"
         },
         {
-          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 12时42分]"
-        },
-        {
           "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
           "url": "https://www.cls.cn/detail/2350040",
           "source": "财联社热门",
           "ranks": [
             12,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时35分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[06时35分 ~ 14时31分]"
         },
         {
           "title": "高盛交易员：美股已经做好本周回调的准备",
@@ -457,7 +471,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
