@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T21:02:40.806622+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-04-23T23:32:17.317689+08:00",
+  "total_titles_processed": 1838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 23时32分]"
         },
         {
           "title": "特斯拉财报会实录：今年资本开支将超250亿美元 Optimus会是史上最重要产品",
@@ -44,8 +45,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 23时32分]"
+        },
+        {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "特斯拉(TSLA.O)美国证交会文件显示，董事会批准实施与马斯克2018年首席执行官绩效奖励行权相关的协议。",
@@ -68,6 +80,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
+          "url": "https://wallstreetcn.com/articles/3770653",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时15分 ~ 23时32分]"
         },
         {
           "title": "特斯拉Q1利润超预期 自由现金流意外转正 盘后股价涨近4%",
@@ -153,18 +178,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时39分]"
-        },
-        {
-          "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
-          "url": "https://wallstreetcn.com/articles/3770653",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 21时02分]"
         },
         {
           "title": "特斯拉高管：欧洲版FSD在架构方面与其他版本相同，但拥有更多欧洲数据。",
@@ -297,7 +310,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -888,7 +901,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -982,9 +995,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -1167,7 +1191,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "中国空间站将迎来巴基斯坦航天员",
@@ -1235,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 02时01分]"
+        },
+        {
+          "title": "巴基斯坦外交官：美伊谈判“陷入僵局”",
+          "url": "https://flash.jin10.com/detail/20260423232204655800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "【伊朗消息人士：伊美谈判准备工作“今晚或明天”或取得突破】一名伊朗外交消息人士23日告诉俄新社，伊朗与美国在巴基斯坦谈判的准备工作可能在“今晚或明天”取得突破。(新华社)",
@@ -1398,7 +1433,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1420,7 +1455,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
