@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T09:26:55.922026+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2026-04-25T12:29:47.011427+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -30,6 +30,17 @@
           "time_info": "[00时00分 ~ 06时33分]"
         },
         {
+          "title": "巴基斯坦迎来一贵客，美国激动坏了",
+          "url": "https://news.ifeng.com/c/8sbUcjlB3YO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 12时29分]"
+        },
+        {
           "title": "巴基斯坦：有关三方会谈将在巴方与阿拉格齐会面后进行评估",
           "url": "https://flash.jin10.com/detail/20260425031259362800",
           "source": "金十数据",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
-        },
-        {
-          "title": "巴基斯坦迎来一贵客，美国激动坏了",
-          "url": "https://news.ifeng.com/c/8sbUcjlB3YO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "巴基斯坦外交部：伊朗外长阿拉格齐将与巴基斯坦高级领导层举行会议，讨论最新的地区发展及为地区和平与稳定所做的持续努力。",
@@ -116,11 +116,12 @@
           "ranks": [
             7,
             10,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 12时29分]"
         },
         {
           "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
@@ -131,8 +132,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时33分 ~ 12时29分]"
+        },
+        {
+          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时33分 ~ 09时26分]"
+          "time_info": "[09时26分 ~ 12时29分]"
         },
         {
           "title": "消息人士：伊朗外长将与巴基斯坦方面讨论美伊谈判先决条件",
@@ -168,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
-        },
-        {
-          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "巴基斯坦外交部：由伊朗外长阿拉格齐率领的代表团今天抵达伊斯兰堡。",
@@ -242,7 +244,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -289,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "一周热榜精选：美伊谈判代表现身巴基斯坦！鲍威尔调查骤停，沃什接班障碍清除",
+          "url": "https://flash.jin10.com/detail/20260425095336909800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "据CNN：两名政府官员称，特朗普正派遣威特科夫和库什纳前往巴基斯坦，与伊朗外长阿拉格齐进行会谈。",
@@ -340,8 +353,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 12时29分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -392,8 +405,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时33分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[06时33分 ~ 12时29分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -476,7 +489,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -592,8 +605,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "黄仁勋要求英伟达所有员工用OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
         {
           "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
           "url": "https://flash.jin10.com/detail/20260425022647112800",
@@ -612,7 +636,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
