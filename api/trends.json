@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T21:58:48.930263+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-04-25T22:40:15.252935+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 21时58分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 22时40分]"
         },
         {
           "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时33分 ~ 21时58分]"
+          "appearance_count": 16,
+          "time_info": "[07时33分 ~ 22时40分]"
         },
         {
           "title": "伊朗外长将访问巴基斯坦等三国",
@@ -91,6 +91,39 @@
           "time_info": "00时00分"
         },
         {
+          "title": "消息人士：伊朗外长离开巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗外交部长阿拉格奇在会见巴基斯坦官员后已离开伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260425214802678800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
+          "url": "https://wallstreetcn.com/livenews/3094408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "巴基斯坦外交部：伊朗外长阿拉格齐将与巴基斯坦高级领导层举行会议，讨论最新的地区发展及为地区和平与稳定所做的持续努力。",
           "url": "https://flash.jin10.com/detail/20260425025309983800",
           "source": "金十数据",
@@ -100,6 +133,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
+          "url": "https://wallstreetcn.com/livenews/3094405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "据路透社：参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。",
+          "url": "https://flash.jin10.com/detail/20260425185646615800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时40分]"
+        },
+        {
+          "title": "巴基斯坦外长：涉美伊谈判任何非巴官方内容均不代表巴方立场",
+          "url": "https://wallstreetcn.com/livenews/3094375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时40分]"
+        },
+        {
+          "title": "巴基斯坦总理与伊朗外长举行会谈",
+          "url": "https://flash.jin10.com/detail/20260425184920379800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时40分]"
         },
         {
           "title": "伊朗：不与美国官员会面，但将通过巴基斯坦转达意见",
@@ -117,43 +203,18 @@
           "time_info": "[06时33分 ~ 14时16分]"
         },
         {
-          "title": "据路透社：参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。",
-          "url": "https://flash.jin10.com/detail/20260425185646615800",
+          "title": "据沙特阿拉比亚电视台：消息人士称，巴基斯坦提出了一项由多国共同对伊朗核计划进行监督的计划。",
+          "url": "https://flash.jin10.com/detail/20260425184406657800",
           "source": "金十数据",
           "ranks": [
-            2,
-            11,
-            23
+            5,
+            14,
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时58分]"
-        },
-        {
-          "title": "巴基斯坦外长：涉美伊谈判任何非巴官方内容均不代表巴方立场",
-          "url": "https://wallstreetcn.com/livenews/3094375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时58分]"
-        },
-        {
-          "title": "巴基斯坦总理与伊朗外长举行会谈",
-          "url": "https://flash.jin10.com/detail/20260425184920379800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时58分]"
+          "appearance_count": 4,
+          "time_info": "[19时33分 ~ 22时40分]"
         },
         {
           "title": "参与（巴总理与伊朗外长）会谈的一位巴基斯坦消息人士称，伊朗外长阿拉格奇已表达了伊朗方面的要求，以及他们对美国所提要求的保留意见。（路透）",
@@ -169,6 +230,19 @@
           "time_info": "[19时33分 ~ 21时58分]"
         },
         {
+          "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3094384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时40分]"
+        },
+        {
           "title": "消息人士：伊朗外长抵达巴基斯坦",
           "url": "https://flash.jin10.com/detail/20260425021056528800",
           "source": "金十数据",
@@ -179,19 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时44分]"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：消息人士称，巴基斯坦提出了一项由多国共同对伊朗核计划进行监督的计划。",
-          "url": "https://flash.jin10.com/detail/20260425184406657800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时33分 ~ 21时58分]"
         },
         {
           "title": "伊朗主动联系，白宫确认：美国特使Witkoff与库什纳周六将前往巴基斯坦，万斯“随时待命”",
@@ -216,18 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时44分]"
-        },
-        {
-          "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3094384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时58分]"
         },
         {
           "title": "巴基斯坦陆军参谋长与伊朗外长会谈",
@@ -270,6 +319,30 @@
           "time_info": "[19时33分 ~ 21时58分]"
         },
         {
+          "title": "巴基斯坦外长：涉美伊谈判任何非巴官方内容均不代表巴方立场",
+          "url": "https://flash.jin10.com/detail/20260425191138969800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时40分]"
+        },
+        {
+          "title": "视频：中国发射一颗巴基斯坦卫星",
+          "url": "https://news.ifeng.com/c/8scOonWO8ax",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时58分 ~ 22时40分]"
+        },
+        {
           "title": "埃及与巴基斯坦外长通话讨论美伊重回外交轨道",
           "url": "https://flash.jin10.com/detail/20260425142255251800",
           "source": "金十数据",
@@ -295,16 +368,28 @@
           "time_info": "[14时16分 ~ 16时02分]"
         },
         {
-          "title": "巴基斯坦外长：涉美伊谈判任何非巴官方内容均不代表巴方立场",
-          "url": "https://flash.jin10.com/detail/20260425191138969800",
+          "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
+          "url": "https://flash.jin10.com/detail/20260425204308412800",
           "source": "金十数据",
           "ranks": [
-            9,
-            21
+            7,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时58分]"
+          "time_info": "[21时58分 ~ 22时40分]"
+        },
+        {
+          "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
+          "url": "https://wallstreetcn.com/livenews/3094389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时40分]"
         },
         {
           "title": "消息人士：伊朗外长将与巴基斯坦方面讨论美伊谈判先决条件",
@@ -355,17 +440,6 @@
           "time_info": "[16时02分 ~ 16时58分]"
         },
         {
-          "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
-          "url": "https://flash.jin10.com/detail/20260425204308412800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
           "title": "美官员：特朗普将派遣其女婿及特使赴巴基斯坦同伊朗谈判",
           "url": "https://flash.jin10.com/detail/20260425000710131800",
           "source": "金十数据",
@@ -386,28 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        },
-        {
-          "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
-          "url": "https://wallstreetcn.com/livenews/3094389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "视频：中国发射一颗巴基斯坦卫星",
-          "url": "https://news.ifeng.com/c/8scOonWO8ax",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "伊朗外长率团抵达巴基斯坦",
@@ -569,8 +621,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时33分 ~ 21时58分]"
+          "appearance_count": 17,
+          "time_info": "[06时33分 ~ 22时40分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -737,8 +789,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时16分 ~ 21时58分]"
+          "appearance_count": 13,
+          "time_info": "[14时16分 ~ 22时40分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
