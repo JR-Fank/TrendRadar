@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T01:32:07.854637+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-04-26T02:37:24.827587+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗战争丨伊朗外长已离开巴基斯坦",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "消息人士：伊朗外长离开巴基斯坦",
@@ -37,19 +37,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
-          "title": "四艘空载伊朗油轮试图返航伊朗，现已在巴基斯坦专属经济区内被发现。",
-          "url": "https://flash.jin10.com/detail/20260426005657977800",
+          "title": "特朗普谈伊朗谈判：我认为巴基斯坦非常棒。",
+          "url": "https://flash.jin10.com/detail/20260426022944265800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "02时37分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：与伊朗总统就地区形势的发展进行了友好且建设性的电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260426020717273800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
@@ -71,8 +82,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
+        },
+        {
+          "title": "四艘空载伊朗油轮试图返航伊朗，现已在巴基斯坦专属经济区内被发现。",
+          "url": "https://flash.jin10.com/detail/20260426005657977800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 02时37分]"
+        },
+        {
+          "title": "伊朗代表团已离开巴基斯坦",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "视频：中国发射一颗巴基斯坦卫星",
@@ -82,19 +117,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
-        },
-        {
-          "title": "伊朗代表团已离开巴基斯坦",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
@@ -104,8 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
@@ -115,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
@@ -126,8 +150,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
@@ -137,8 +161,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时37分]"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：今晚与伊朗总统进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260426020626118800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "伊朗代表团已离开巴基斯坦",
@@ -152,6 +187,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "巴基斯坦总理谢里夫：重申巴基斯坦仍致力于充当诚实和真诚的调解人，推动实现该地区的持久和平与稳定。",
+          "url": "https://flash.jin10.com/detail/20260426020446756800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "两名巴基斯坦政府消息人士称，伊朗代表团已从巴基斯坦飞离。",
           "url": "https://flash.jin10.com/detail/20260425223416512800",
           "source": "金十数据",
@@ -161,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：赞赏伊朗的持续参与，包括由外交部长率领的高级代表团访问伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260426020426637800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "伊朗官员即将离开巴基斯坦 全程未与美方会面",
@@ -180,7 +237,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -194,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗外交部发布消息称，伊朗外长阿拉格齐已抵达阿曼马斯喀特。这是他巴基斯坦、阿曼、俄罗斯三国之行中的第二站，将与阿曼同行就中东当前局势进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260426013818173800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
@@ -213,7 +281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -231,19 +299,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
           "url": "https://www.zhihu.com/question/2031283079852110233",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 02时37分]"
         }
       ]
     },
@@ -259,8 +328,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 02时37分]"
         }
       ]
     }
