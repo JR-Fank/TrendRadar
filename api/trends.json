@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T17:49:35.139619+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-04-25T18:36:08.548375+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 17时49分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 18时36分]"
+        },
+        {
+          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 18时36分]"
         },
         {
           "title": "伊朗外长将访问巴基斯坦等三国",
@@ -41,20 +55,6 @@
           "time_info": "[00时00分 ~ 06时33分]"
         },
         {
-          "title": "巴基斯坦媒体：美国代表团或将于明日抵达伊斯兰堡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33045918",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 17时49分]"
-        },
-        {
           "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
           "url": "https://www.cls.cn/detail/2355560",
           "source": "财联社热门",
@@ -63,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 17时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 18时36分]"
         },
         {
           "title": "巴基斯坦：有关三方会谈将在巴方与阿拉格齐会面后进行评估",
@@ -157,11 +157,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 17时49分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 18时36分]"
         },
         {
           "title": "埃及与巴基斯坦外长通话讨论美伊重回外交轨道",
@@ -408,18 +409,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 06时33分]"
-        },
-        {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
@@ -430,8 +419,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时33分 ~ 17时49分]"
+          "appearance_count": 10,
+          "time_info": "[06时33分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 06时33分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -586,8 +587,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 17时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 18时36分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
@@ -703,11 +704,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时58分 ~ 18时36分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
