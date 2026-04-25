@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T05:29:06.238814+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-04-26T06:27:33.738347+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗战争丨伊朗外长已离开巴基斯坦",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
-        },
-        {
-          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
-          "url": "https://www.cls.cn/detail/2355560",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "消息人士：伊朗外长离开巴基斯坦",
@@ -48,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
+        },
+        {
+          "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
+          "url": "https://www.cls.cn/detail/2355560",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "伊朗代表团已离开巴基斯坦",
@@ -60,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "视频：中国发射一颗巴基斯坦卫星",
@@ -71,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
@@ -82,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
@@ -93,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
@@ -104,8 +104,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "巴基斯坦总理夏巴兹同伊朗外长阿拉格齐举行会谈",
@@ -115,8 +115,45 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时27分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗将通过巴基斯坦作为调解方与美国进行间接磋商。伊朗方面表示，希望达成一项旨在“彻底终结战争”的框架协议。",
+          "url": "https://flash.jin10.com/detail/20260426055139108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "巴基斯坦总理与伊朗总统就地区局势通电话",
+          "url": "https://flash.jin10.com/detail/20260426032303146800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时39分 ~ 06时27分]"
+        },
+        {
+          "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6PRSC-EO3%E5%8D%AB%E6%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 06时27分]"
         },
         {
           "title": "特朗普谈伊朗谈判：我认为巴基斯坦非常棒。",
@@ -130,19 +167,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时30分]"
-        },
-        {
-          "title": "巴基斯坦总理与伊朗总统就地区局势通电话",
-          "url": "https://flash.jin10.com/detail/20260426032303146800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时39分 ~ 05时29分]"
         },
         {
           "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
@@ -179,18 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时39分]"
-        },
-        {
-          "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6PRSC-EO3%E5%8D%AB%E6%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 05时29分]"
         },
         {
           "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
@@ -268,6 +280,29 @@
           "time_info": "[02时37分 ~ 03时39分]"
         },
         {
+          "title": "伊朗外长将再次访问巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260426040831085800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "土耳其外交部：土耳其外长与伊朗和巴基斯坦外长进行了电话讨论，商讨最新进展。",
+          "url": "https://flash.jin10.com/detail/20260426051120031800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "伊朗代表团已离开巴基斯坦",
           "url": "https://flash.jin10.com/detail/20260425223939529800",
           "source": "金十数据",
@@ -288,17 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗外长将再次访问巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260426040831085800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         },
         {
           "title": "伊朗官员即将离开巴基斯坦 全程未与美方会面",
@@ -365,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "我国成功发射巴基斯坦PRSC-EO3卫星",
+          "url": "https://www.toutiao.com/trending/7632562679991975990/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
@@ -380,8 +415,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -393,8 +428,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时31分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[01时31分 ~ 06时27分]"
         }
       ]
     },
@@ -411,8 +446,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时27分]"
         }
       ]
     }
