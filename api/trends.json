@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:38:01.240972+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-04-26T19:34:01.503800+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时29分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 19时34分]"
+        },
+        {
+          "title": "我国成功发射一颗巴基斯坦卫星",
+          "url": "https://www.douyin.com/hot/2479065",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时49分 ~ 19时34分]"
         },
         {
           "title": "消息人士：伊朗外长离开巴基斯坦",
@@ -93,20 +107,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 12时53分]"
-        },
-        {
-          "title": "我国成功发射一颗巴基斯坦卫星",
-          "url": "https://www.douyin.com/hot/2479065",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 18时38分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
@@ -166,6 +166,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 09时49分]"
+        },
+        {
+          "title": "消息人士：伊朗外长离开巴基斯坦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33054749",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 19时34分]"
         },
         {
           "title": "中国成功发射巴基斯坦PRSC-EO3卫星",
@@ -257,17 +269,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 16时13分]"
-        },
-        {
-          "title": "消息人士：伊朗外长离开巴基斯坦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33054749",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时38分]"
         },
         {
           "title": "我国成功发射一颗巴基斯坦卫星",
