@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T20:12:00.574560+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-04-29T23:04:01.665427+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时45分 ~ 20时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 23时04分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时55分 ~ 23时04分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时31分 ~ 10时02分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时55分 ~ 20时12分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -82,6 +83,20 @@
           "time_info": "[06时55分 ~ 13时46分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时04分]"
+        },
+        {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
           "url": "https://flash.jin10.com/detail/20260429030025624800",
           "source": "金十数据",
@@ -115,19 +130,6 @@
           "time_info": "06时55分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时46分 ~ 20时12分]"
-        },
-        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -138,6 +140,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 03时20分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时11分 ~ 23时04分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -224,17 +238,6 @@
           "time_info": "[06时55分 ~ 07时46分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时11分 ~ 20时12分]"
-        },
-        {
           "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
           "url": "https://news.ifeng.com/c/8sifWoWmOAa",
           "source": "凤凰网",
@@ -270,91 +273,8 @@
       ]
     },
     {
-      "keyword_group": "港股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "徐工集团回应徐工汽车被曝筹划港股IPO",
-          "url": "https://flash.jin10.com/detail/20260429174205220800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "韩国资金涌入 港股硬科技资产受青睐",
-          "url": "https://wallstreetcn.com/livenews/3096064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时12分]"
-        },
-        {
-          "title": "吉利汽车港股午后走高，现涨超4%，公司第一季度营收同比增长15%。",
-          "url": "https://wallstreetcn.com/livenews/3096231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "南向资金今日净卖出39.52亿元。港股通（沪）方面，恒生中国企业、剑桥科技分别获净卖出12.73亿港元、1.91亿港元；建设银行净买入额居首，金额为4.94亿港元；港股通（深）方面，恒生中国企业、盈富基金分别获净卖出10.01亿港元、9.28亿港元；长飞光纤光缆净买入额居首，金额为2.98亿港元。",
-          "url": "https://flash.jin10.com/detail/20260429173030260800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        },
-        {
-          "title": "港股中国平安(02318.HK)涨超3%，公司第一季度净利润250.22亿元，同比下降7.4%。",
-          "url": "https://flash.jin10.com/detail/20260429093308388800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "乐道L80预售，蔚来港股涨超8%",
-          "url": "https://wallstreetcn.com/livenews/3096206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Silicon Motion Technology Corp.（SIMO）美股盘后涨14%，二季度销售指引超过分析师预期。",
@@ -378,6 +298,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时55分]"
+        },
+        {
+          "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时03分 ~ 23时04分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
@@ -437,6 +368,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "徐工集团回应徐工汽车被曝筹划港股IPO",
+          "url": "https://flash.jin10.com/detail/20260429174205220800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "韩国资金涌入 港股硬科技资产受青睐",
+          "url": "https://wallstreetcn.com/livenews/3096064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 23时04分]"
+        },
+        {
+          "title": "吉利汽车港股午后走高，现涨超4%，公司第一季度营收同比增长15%。",
+          "url": "https://wallstreetcn.com/livenews/3096231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "南向资金今日净卖出39.52亿元。港股通（沪）方面，恒生中国企业、剑桥科技分别获净卖出12.73亿港元、1.91亿港元；建设银行净买入额居首，金额为4.94亿港元；港股通（深）方面，恒生中国企业、盈富基金分别获净卖出10.01亿港元、9.28亿港元；长飞光纤光缆净买入额居首，金额为2.98亿港元。",
+          "url": "https://flash.jin10.com/detail/20260429173030260800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "港股中国平安(02318.HK)涨超3%，公司第一季度净利润250.22亿元，同比下降7.4%。",
+          "url": "https://flash.jin10.com/detail/20260429093308388800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "乐道L80预售，蔚来港股涨超8%",
+          "url": "https://wallstreetcn.com/livenews/3096206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
@@ -506,7 +521,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
         },
