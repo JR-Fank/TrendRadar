@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T20:09:18.625536+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-04-30T23:02:22.667508+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时50分 ~ 20时09分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 23时02分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 20时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 23时02分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时53分]"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
@@ -172,7 +183,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -183,8 +194,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时47分 ~ 20时09分]"
+          "appearance_count": 11,
+          "time_info": "[06时47分 ~ 23时02分]"
         },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -211,6 +222,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时47分 ~ 10时02分]"
+        },
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
@@ -355,6 +377,20 @@
           "time_info": "[01时18分 ~ 10时02分]"
         },
         {
+          "title": "一图看懂 | “五一”假期休市日历来了：A股连休5天，港股休3天",
+          "url": "https://www.cls.cn/detail/2359089",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时04分 ~ 23时02分]"
+        },
+        {
           "title": "港股天能动力(00819.HK)盘初跌超22%；公司日前披露，天能股份第一季度股东应占净利润7508.4万元，同比减少82.14%。",
           "url": "https://flash.jin10.com/detail/20260430095153103800",
           "source": "金十数据",
@@ -364,19 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "一图看懂 | “五一”假期休市日历来了：A股连休5天，港股休3天",
-          "url": "https://www.cls.cn/detail/2359089",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时04分 ~ 20时09分]"
         },
         {
           "title": "港股新消费板块涨跌互现，沪上阿姨(02589.HK)涨超10%，茶百道(02555.HK)、锅圈(02517.HK)、蜜雪集团(02097.HK)等个股跟涨；布鲁可(00325.HK)、古茗(01364.HK)、泡泡玛特(09992.HK)等港股走弱。",
@@ -511,7 +534,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         },
@@ -522,7 +545,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时09分"
         }
