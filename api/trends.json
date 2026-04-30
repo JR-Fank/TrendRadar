@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-30T07:45:10.522573+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-30T10:02:37.543197+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 10时02分]"
+        },
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
           "url": "https://wallstreetcn.com/articles/3771214",
@@ -21,28 +33,17 @@
           "time_info": "[01时18分 ~ 05时53分]"
         },
         {
-          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3771214",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时45分]"
-        },
-        {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
           "url": "https://www.cls.cn/detail/2360291",
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 07时45分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 10时02分]"
         },
         {
           "title": "周三（4月29日），美股降息赢家指数跌2.58%，报90.89点，小幅跳空低开之后持续走低，北京时间23:00以来低位持稳于日低附近。 “特朗普关税输家”指数跌1.02%。 “特朗普金融指数”跌1.94%，报161.28点，走势与降息指数类似。",
@@ -148,7 +149,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -209,6 +210,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "Alphabet(GOOGL.O)：得益于GEMINI应用程序，第一季度针对消费者的智能应用计划创史上最佳表现。",
           "url": "https://flash.jin10.com/detail/20260430040922134800",
           "source": "金十数据",
@@ -262,6 +274,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 10时02分]"
+        },
+        {
+          "title": "港股天能动力(00819.HK)盘初跌超22%；公司日前披露，天能股份第一季度股东应占净利润7508.4万元，同比减少82.14%。",
+          "url": "https://flash.jin10.com/detail/20260430095153103800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股新消费板块涨跌互现，沪上阿姨(02589.HK)涨超10%，茶百道(02555.HK)、锅圈(02517.HK)、蜜雪集团(02097.HK)等个股跟涨；布鲁可(00325.HK)、古茗(01364.HK)、泡泡玛特(09992.HK)等港股走弱。",
+          "url": "https://flash.jin10.com/detail/20260430094631735800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股光通讯概念盘初走低，长飞光纤光缆(06869.HK)跌超12%，汇聚科技(01729.HK)、曦智科技-P(01879.HK)、华虹半导体(01347.HK)等个股跟跌，剑桥科技(06166.HK)逆市走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260430094157888800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "港股电力设备股盘初走强，潍柴动力(02338.HK)涨超8%，东北电气(00042.HK)、金风科技(02208.HK)、福莱特玻璃(06865.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260430093845943800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -327,24 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时47分 ~ 07时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 07时45分]"
         }
       ]
     },
