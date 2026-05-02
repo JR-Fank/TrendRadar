@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-05-03T03:48:18.016992+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-03T04:33:03.506138+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI创始人阿尔特曼：我一直在想，相比于让模型变得更聪明，我更希望它们更便宜、更快速。但看来，让模型更聪明一点似乎仍然是最重要的事情。",
+          "url": "https://flash.jin10.com/detail/20260503042107626800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时33分"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
+        },
+        {
+          "title": "马斯克手撕OpenAI为哪般",
+          "url": "https://www.toutiao.com/trending/7635297039152057892/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "特斯拉 台积电",
       "match_count": 2,
@@ -16,47 +55,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "马斯克去年在特斯拉挣了0美元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E5%9C%A8%E7%89%B9%E6%96%AF%E6%8B%89%E6%8C%A3%E4%BA%860%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
+            24,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时48分]"
-        },
-        {
-          "title": "马斯克手撕OpenAI为哪般",
-          "url": "https://www.toutiao.com/trending/7635297039152057892/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "[02时44分 ~ 04时33分]"
         }
       ]
     },
@@ -73,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时33分]"
         },
         {
           "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
@@ -84,8 +96,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时48分]"
+          "appearance_count": 4,
+          "time_info": "[02时44分 ~ 04时33分]"
         }
       ]
     }
