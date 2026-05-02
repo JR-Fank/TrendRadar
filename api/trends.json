@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:06:27.774018+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2026-05-02T23:39:19.236837+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -153,8 +153,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时43分 ~ 23时39分]"
+        },
+        {
+          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
+          "url": "https://wallstreetcn.com/articles/3771483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时43分 ~ 22时06分]"
+          "time_info": "[20时47分 ~ 23时39分]"
         },
         {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时58分]"
-        },
-        {
-          "title": "美股股指创新高，下跌个股却远超上涨？高盛：动量拥挤，逆转将引发剧烈回撤",
-          "url": "https://wallstreetcn.com/articles/3771483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 22时06分]"
         },
         {
           "title": "美股总市值突破 75 万亿美元，创历史新高，主要受哪些因素拉动？如何解读这一市值？",
@@ -333,8 +334,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 22时06分]"
+          "appearance_count": 4,
+          "time_info": "[19时38分 ~ 23时39分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
@@ -409,8 +410,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时58分 ~ 22时06分]"
+          "appearance_count": 8,
+          "time_info": "[14时58分 ~ 23时39分]"
         },
         {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
