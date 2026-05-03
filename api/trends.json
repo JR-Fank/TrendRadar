@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T09:56:13.445757+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-05-03T13:24:05.979740+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时44分 ~ 09时56分]"
+          "appearance_count": 12,
+          "time_info": "[02时44分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
