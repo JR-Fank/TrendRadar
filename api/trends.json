@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T20:47:08.800071+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-03T22:07:10.907617+08:00",
+  "total_titles_processed": 1268,
   "failed_sources": [],
   "trends": [
     {
@@ -104,11 +104,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 19时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 22时07分]"
         }
       ]
     },
@@ -124,11 +125,12 @@
             1,
             15,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时14分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时14分 ~ 22时07分]"
         },
         {
           "title": "巴基斯坦军工实力有多强",
