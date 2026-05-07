@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T06:53:55.595051+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-08T07:45:09.480964+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -19,6 +19,19 @@
           "time_info": "[01时42分 ~ 06时53分]"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 07时45分]"
+        },
+        {
           "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
           "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
@@ -30,16 +43,26 @@
           "time_info": "[01时42分 ~ 05时55分]"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 06时53分]"
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
+          "url": "https://www.cls.cn/detail/2365503",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
@@ -61,7 +84,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -158,7 +181,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
@@ -166,11 +189,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时26分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时26分 ~ 07时45分]"
         },
         {
           "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
@@ -182,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI推出新模型，以供网络安全团队使用",
+          "url": "https://flash.jin10.com/detail/20260508065544953800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
@@ -242,8 +277,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时42分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 07时45分]"
         }
       ]
     }
