@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T03:51:57.544665+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-05-10T04:36:03.493197+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -50,9 +50,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 04时36分]"
         }
       ]
     },
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
@@ -79,8 +79,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 04时36分]"
         },
         {
           "title": "卡塔尔LNG船“海赖提亚特”号正从卡塔尔拉斯拉凡驶向霍尔木兹海峡，目的地为巴基斯坦卡西姆港。",
@@ -120,8 +120,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -132,8 +132,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         }
       ]
     },
@@ -150,8 +150,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时36分]"
         }
       ]
     }
