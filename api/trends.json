@@ -1,50 +1,11 @@
 {
-  "generated_at": "2026-05-10T00:42:27.240590+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-10T01:42:26.272955+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        },
-        {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "巴基斯坦",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
@@ -54,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
@@ -65,8 +26,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
+        },
+        {
+          "title": "国防部：中方建造潜艇已交付巴基斯坦",
+          "url": "https://www.toutiao.com/trending/7637329375197347883/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时42分"
+          "time_info": "01时42分"
         },
         {
           "title": "卡塔尔LNG船“海赖提亚特”号正从卡塔尔拉斯拉凡驶向霍尔木兹海峡，目的地为巴基斯坦卡西姆港。",
@@ -82,6 +54,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -93,19 +106,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         }
       ]
     },
@@ -121,8 +135,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时42分]"
         }
       ]
     }
