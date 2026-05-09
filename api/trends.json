@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T20:55:10.765513+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-05-09T22:15:01.269853+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时00分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[10时00分 ~ 22时15分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时46分 ~ 20时55分]"
+          "appearance_count": 15,
+          "time_info": "[07时46分 ~ 22时15分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -174,11 +174,12 @@
           "ranks": [
             10,
             5,
-            23
+            23,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时09分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[17时09分 ~ 22时15分]"
         },
         {
           "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
@@ -190,8 +191,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时48分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时48分 ~ 22时15分]"
         },
         {
           "title": "“麒麟”级潜艇首艇已交付巴基斯坦？国防部回应",
@@ -253,11 +254,12 @@
           "ranks": [
             17,
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时48分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[18时48分 ~ 22时15分]"
         },
         {
           "title": "比亚迪、特斯拉、小鹏、理想否认被约谈",
@@ -360,7 +362,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -373,8 +375,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时44分 ~ 20时55分]"
+          "appearance_count": 10,
+          "time_info": "[15时44分 ~ 22时15分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -394,11 +396,23 @@
           "url": "https://wallstreetcn.com/articles/3771878",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时09分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时09分 ~ 22时15分]"
+        },
+        {
+          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
+          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
         }
       ]
     }
