@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T20:56:16.178888+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-05-10T22:18:00.438001+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 20时56分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 22时18分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -47,28 +47,41 @@
           "time_info": "[01时42分 ~ 06时34分]"
         },
         {
-          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
-          "url": "https://flash.jin10.com/detail/20260510202448557800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时56分"
-        },
-        {
           "title": "巴基斯坦自杀式袭击致15名警察死亡",
           "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
           "ranks": [
             28,
             23,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时55分 ~ 20时56分]"
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 22时18分]"
+        },
+        {
+          "title": "巴基斯坦外交消息人士：在收到伊朗的回应后不久已将其传达给美国方面。",
+          "url": "https://flash.jin10.com/detail/20260510214805781800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
+          "url": "https://flash.jin10.com/detail/20260510202448557800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 22时18分]"
         },
         {
           "title": "巴基斯坦西北部自杀式爆炸袭击致三名警察死亡",
@@ -173,8 +186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时18分]"
         },
         {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
@@ -206,18 +219,6 @@
           "time_info": "[00时42分 ~ 06时34分]"
         },
         {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时35分]"
-        },
-        {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
           "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
@@ -228,8 +229,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时35分 ~ 20时56分]"
+          "appearance_count": 10,
+          "time_info": "[13时35分 ~ 22时18分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 05时35分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
