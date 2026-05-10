@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:42:52.585753+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-05-10T20:56:16.178888+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 19时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 20时56分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -46,6 +47,30 @@
           "time_info": "[01时42分 ~ 06时34分]"
         },
         {
+          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
+          "url": "https://flash.jin10.com/detail/20260510202448557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
+          "title": "巴基斯坦自杀式袭击致15名警察死亡",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时55分 ~ 20时56分]"
+        },
+        {
           "title": "巴基斯坦西北部自杀式爆炸袭击致三名警察死亡",
           "url": "https://flash.jin10.com/detail/20260510041734696800",
           "source": "金十数据",
@@ -56,18 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时38分]"
-        },
-        {
-          "title": "巴基斯坦自杀式袭击致15名警察死亡",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%87%AA%E6%9D%80%E5%BC%8F%E8%A2%AD%E5%87%BB%E8%87%B415%E5%90%8D%E8%AD%A6%E5%AF%9F%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 19时42分]"
         },
         {
           "title": "卡塔尔LNG船“海赖提亚特”号正从卡塔尔拉斯拉凡驶向霍尔木兹海峡，目的地为巴基斯坦卡西姆港。",
@@ -95,7 +108,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -153,6 +166,17 @@
           "time_info": "[03时51分 ~ 09时59分]"
         },
         {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
+        },
+        {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
           "url": "https://www.zhihu.com/question/2035727857624637860",
           "source": "知乎",
@@ -204,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时35分 ~ 19时42分]"
+          "appearance_count": 8,
+          "time_info": "[13时35分 ~ 20时56分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
