@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-05-10T09:59:06.597738+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-05-10T13:35:59.131512+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
+          "url": "https://news.ifeng.com/c/8szlj6oNq2U",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时34分]"
+        },
+        {
+          "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
+          "url": "https://www.cls.cn/detail/2366875",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
+        },
+        {
+          "title": "国防部：中方建造潜艇已交付巴基斯坦",
+          "url": "https://www.toutiao.com/trending/7637329375197347883/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            17,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时42分 ~ 06时34分]"
+        },
+        {
+          "title": "巴基斯坦西北部自杀式爆炸袭击致三名警察死亡",
+          "url": "https://flash.jin10.com/detail/20260510041734696800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时35分 ~ 07时38分]"
+        },
+        {
+          "title": "卡塔尔LNG船“海赖提亚特”号正从卡塔尔拉斯拉凡驶向霍尔木兹海峡，目的地为巴基斯坦卡西姆港。",
+          "url": "https://flash.jin10.com/detail/20260509235704380800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时42分"
+        },
+        {
+          "title": "当地高级警官表示，在巴基斯坦巴努发生的汽车炸弹爆炸事件以及与武装分子的夜间交火中，已有12名警察丧生。",
+          "url": "https://flash.jin10.com/detail/20260510122818303800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
@@ -30,8 +108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -75,106 +153,8 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
-          "url": "https://news.ifeng.com/c/8szlj6oNq2U",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 06时34分]"
-        },
-        {
-          "title": "国防部证实：中方建造的潜艇已交付巴基斯坦",
-          "url": "https://www.cls.cn/detail/2366875",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 09时59分]"
-        },
-        {
-          "title": "国防部：中方建造潜艇已交付巴基斯坦",
-          "url": "https://www.toutiao.com/trending/7637329375197347883/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            17,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 06时34分]"
-        },
-        {
-          "title": "巴基斯坦西北部自杀式爆炸袭击致三名警察死亡",
-          "url": "https://flash.jin10.com/detail/20260510041734696800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时35分 ~ 07时38分]"
-        },
-        {
-          "title": "卡塔尔LNG船“海赖提亚特”号正从卡塔尔拉斯拉凡驶向霍尔木兹海峡，目的地为巴基斯坦卡西姆港。",
-          "url": "https://flash.jin10.com/detail/20260509235704380800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 09时59分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：弗里蒙特工厂已完成最后一台Model S和最后一台Model X的下线。",
-          "url": "https://flash.jin10.com/detail/20260510091128051800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -199,6 +179,49 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时35分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时42分 ~ 13时35分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：弗里蒙特工厂已完成最后一台Model S和最后一台Model X的下线。",
+          "url": "https://flash.jin10.com/detail/20260510091128051800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     }
