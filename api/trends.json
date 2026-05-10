@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T15:57:48.844758+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-05-10T17:25:28.822438+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时25分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -105,11 +105,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 15时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时42分 ~ 17时25分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -186,11 +187,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时35分 ~ 15时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时35分 ~ 17时25分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -199,7 +201,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
