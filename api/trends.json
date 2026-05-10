@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:18:00.438001+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-05-10T23:43:49.314694+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "历史性大手笔！中国向巴基斯坦交付海军重器",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 22时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 23时43分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -54,11 +54,23 @@
             28,
             23,
             16,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时55分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[18时55分 ~ 23时43分]"
+        },
+        {
+          "title": "巴基斯坦总理在发言中表示，该国陆军司令已告知他，已收到伊朗对美国提议的回复。",
+          "url": "https://flash.jin10.com/detail/20260510233055519800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "巴基斯坦外交消息人士：在收到伊朗的回应后不久已将其传达给美国方面。",
@@ -67,7 +79,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -116,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时35分"
+        },
+        {
+          "title": "巴基斯坦与伊朗磋商，以争取让更多卡塔尔液化天然气通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260510221800287800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -186,8 +209,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 23时43分]"
         },
         {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
@@ -229,8 +252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时35分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[13时35分 ~ 23时43分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
