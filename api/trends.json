@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T07:38:26.068684+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-05-10T09:59:06.597738+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时59分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时59分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -40,11 +41,12 @@
             15,
             16,
             11,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时59分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
@@ -52,11 +54,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时51分 ~ 07时38分]"
+          "appearance_count": 9,
+          "time_info": "[03时51分 ~ 09时59分]"
         },
         {
           "title": "如何理解「马斯克一边告 OpenAI，一边把算力租给 Claude」的操作？",
@@ -65,7 +68,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
@@ -96,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时59分]"
         },
         {
           "title": "国防部：中方建造潜艇已交付巴基斯坦",
@@ -139,6 +142,37 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时59分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：弗里蒙特工厂已完成最后一台Model S和最后一台Model X的下线。",
+          "url": "https://flash.jin10.com/detail/20260510091128051800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -165,25 +199,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 05时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时38分]"
         }
       ]
     }
