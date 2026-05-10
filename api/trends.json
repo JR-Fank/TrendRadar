@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T02:46:47.386615+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-05-11T03:53:54.936881+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时53分]"
         },
         {
           "title": "巴基斯坦总理：陆军司令夜以继日努力，以确保调解任务取得成功。",
@@ -84,8 +84,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时53分]"
         }
       ]
     }
