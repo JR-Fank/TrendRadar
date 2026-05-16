@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T03:57:59.725532+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-05-17T04:41:35.629899+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -47,11 +47,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时48分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时48分 ~ 04时41分]"
         }
       ]
     },
@@ -69,8 +70,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
@@ -98,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         }
       ]
     },
@@ -136,8 +137,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 04时41分]"
         }
       ]
     }
