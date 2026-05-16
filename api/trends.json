@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T18:55:55.823353+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2026-05-16T19:44:14.080021+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时45分 ~ 19时44分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[07时45分 ~ 19时44分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -265,8 +265,19 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "碳化硅衬底需求大涨？业内专家“泼冷水”：台积电2.5D封装根本不用它",
+          "url": "https://wallstreetcn.com/livenews/3104799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
           "url": "https://wallstreetcn.com/livenews/3104627",
@@ -337,11 +348,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时46分 ~ 19时44分]"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
@@ -396,8 +408,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
         {
           "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3104694",
@@ -435,8 +469,30 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "伊媒称巴基斯坦官员抵达德黑兰",
+          "url": "https://flash.jin10.com/detail/20260516191340441800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "伊媒称巴基斯坦官员抵达德黑兰",
+          "url": "https://wallstreetcn.com/livenews/3104796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
         {
           "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
           "url": "https://flash.jin10.com/detail/20260516020531535800",
