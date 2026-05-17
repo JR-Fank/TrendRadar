@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:55:21.170696+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-05-17T20:57:24.198726+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 19时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 20时57分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 19时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 20时57分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -126,6 +126,35 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 10时06分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 2,
       "titles": [
@@ -155,24 +184,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时40分 ~ 10时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 10时06分]"
         }
       ]
     },
