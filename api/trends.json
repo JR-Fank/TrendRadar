@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-17T07:42:17.935333+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-17T10:06:06.686197+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 10时06分]"
         },
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -30,19 +31,6 @@
           "time_info": "[00时46分 ~ 06时37分]"
         },
         {
-          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
-          "url": "https://www.cls.cn/detail/2373172",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
-        },
-        {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
           "url": "https://www.zhihu.com/question/2038931746901710643",
           "source": "知乎",
@@ -52,11 +40,36 @@
             10,
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时48分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时48分 ~ 10时06分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 10时06分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         }
       ]
     },
@@ -71,22 +84,24 @@
           "ranks": [
             12,
             17,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时06分]"
         },
         {
           "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
           "url": "https://wallstreetcn.com/articles/3772426",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 10时06分]"
         }
       ]
     },
@@ -101,11 +116,12 @@
           "ranks": [
             15,
             20,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时06分]"
         },
         {
           "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
@@ -113,11 +129,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[05时40分 ~ 10时06分]"
         }
       ]
     },
@@ -134,8 +151,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 10时06分]"
         }
       ]
     },
@@ -150,11 +167,12 @@
           "ranks": [
             17,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 10时06分]"
         }
       ]
     }
