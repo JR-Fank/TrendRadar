@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T20:57:24.198726+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-05-17T22:23:56.296142+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             6,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时46分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时46分 ~ 22时23分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -74,8 +75,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 22时23分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -146,11 +147,12 @@
           "url": "https://wallstreetcn.com/articles/3772335",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时23分]"
         }
       ]
     },
