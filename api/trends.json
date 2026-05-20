@@ -1,22 +1,33 @@
 {
-  "generated_at": "2026-05-21T05:43:34.145432+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-21T07:05:48.062321+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
-          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3106952",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览（美股盘中）",
@@ -30,17 +41,6 @@
           "time_info": "00时46分"
         },
         {
-          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3106949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "都盯着英伟达财报！美股高开，半导体股普涨，全球长债收益率高企，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
@@ -52,6 +52,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 05时43分]"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时05分]"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时05分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -70,11 +94,24 @@
           "url": "https://wallstreetcn.com/livenews/3106946",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时05分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时05分]"
         },
         {
           "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股盘中）",
@@ -88,15 +125,15 @@
           "time_info": "00时46分"
         },
         {
-          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
-          "url": "https://wallstreetcn.com/livenews/3106945",
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时05分"
         },
         {
           "title": "英伟达美股盘后跌1.8%。",
@@ -105,9 +142,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美银：对冲基金上周抛售美股规模创纪录",
+          "url": "https://wallstreetcn.com/livenews/3106953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
@@ -116,7 +175,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
@@ -217,6 +276,83 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
+          "url": "https://www.zhihu.com/question/2040337402904797465",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时05分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时05分]"
+        },
+        {
+          "title": "特斯拉印度工厂项目为何被叫停",
+          "url": "https://www.toutiao.com/trending/7641938094068878902/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 03时14分]"
+        },
+        {
+          "title": "特斯拉公司自2023年开始已经向SpaceX销售价值8.9亿美元的电动汽车和电池。",
+          "url": "https://wallstreetcn.com/livenews/3106967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特斯拉中国急招智驾测试技师",
+          "url": "https://www.douyin.com/hot/2505444",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
+          "url": "https://wallstreetcn.com/livenews/3106924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -236,11 +372,12 @@
           "url": "https://wallstreetcn.com/livenews/3106951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 07时05分]"
         },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
@@ -248,11 +385,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 07时05分]"
         },
         {
           "title": "谷歌在AI模型推出更有用的广告。",
@@ -290,56 +428,19 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 4,
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特斯拉与印度关税谈判陷僵局，已放弃在印度建厂的计划，印度为什么没留住特斯拉？对中国新能源产业有影响吗？",
-          "url": "https://www.zhihu.com/question/2040337402904797465",
-          "source": "知乎",
+          "title": "国际货币基金组织：IMF工作人员结束对巴基斯坦的访问。工作人员访问聚焦于该国近期经济发展、改革实施及2027财年的预算战略。关于巴基斯坦2027财年预算的讨论将在未来几天继续进行。",
+          "url": "https://flash.jin10.com/detail/20260521063131667800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时43分]"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 05时43分]"
-        },
-        {
-          "title": "特斯拉印度工厂项目为何被叫停",
-          "url": "https://www.toutiao.com/trending/7641938094068878902/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 03时14分]"
-        },
-        {
-          "title": "SpaceX申请美国IPO，代码SPCX。 将有两类股票：A类股和B类股。 （首次公开发行股票前）马斯克投票权合计为85.1%，将控制“SpaceX需要股东批准的事项”。 向马斯克授予2亿股业绩挂钩B类股。 特斯拉持有（SpaceX）将近1900万股A类股。 签署收购Cursor的选择权协议。",
-          "url": "https://wallstreetcn.com/livenews/3106924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时43分"
+          "time_info": "07时05分"
         }
       ]
     }
