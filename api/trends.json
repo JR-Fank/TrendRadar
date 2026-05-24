@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T03:03:10.185156+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-05-25T04:43:32.386952+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴基斯坦与阿里宣布达成多项合作",
@@ -14,11 +14,23 @@
           "ranks": [
             8,
             16,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
+        },
+        {
+          "title": "市场消息：卡塔尔首相与沙特外交大臣讨论由巴基斯坦牵头的美伊谈判调解努力。",
+          "url": "https://flash.jin10.com/detail/20260525043344273800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "巴基斯坦总理夏巴兹抵达北京",
@@ -70,8 +82,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         }
       ]
     },
@@ -87,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 04时43分]"
         }
       ]
     }
