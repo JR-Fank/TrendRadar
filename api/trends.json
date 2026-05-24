@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:14:44.797490+08:00",
-  "total_titles_processed": 974,
+  "generated_at": "2026-05-24T19:08:20.889875+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美伊分歧严重，美筹备新一轮军事打击，巴基斯坦赴伊斡旋，寻求延长停火",
@@ -81,7 +81,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -149,6 +149,19 @@
           "time_info": "[00时52分 ~ 01时56分]"
         },
         {
+          "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
+          "url": "https://wallstreetcn.com/livenews/3108455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 19时08分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（alhadath）：巴基斯坦陆军司令会晤伊朗革命卫队领导人，对其立场感到震惊。",
           "url": "https://flash.jin10.com/detail/20260524002331751800",
           "source": "金十数据",
@@ -186,16 +199,16 @@
           "time_info": "[04时02分 ~ 07时49分]"
         },
         {
-          "title": "巴基斯坦总理夏巴兹在杭州出席中巴企业投资大会",
-          "url": "https://wallstreetcn.com/livenews/3108455",
-          "source": "华尔街见闻-快讯",
+          "title": "外媒关注巴基斯坦总理访华",
+          "url": "https://www.toutiao.com/trending/7642925371692302355/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            20
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时28分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 19时08分]"
         },
         {
           "title": "巴基斯坦军方：巴陆军参谋长赴伊斡旋取得积极进展",
@@ -246,15 +259,27 @@
           "time_info": "[01时56分 ~ 02时56分]"
         },
         {
-          "title": "外媒关注巴基斯坦总理访华",
-          "url": "https://www.toutiao.com/trending/7642925371692302355/",
-          "source": "今日头条",
+          "title": "巴基斯坦一客运列车遭爆炸袭击，至少24人死亡",
+          "url": "https://wallstreetcn.com/livenews/3108460",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 19时08分]"
+        },
+        {
+          "title": "巴基斯坦外交部：巴基斯坦、埃及、也门、约旦、黎巴嫩、土耳其、印度尼西亚、卡塔尔等国发表联合声明。",
+          "url": "https://flash.jin10.com/detail/20260524183423805800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "19时08分"
         },
         {
           "title": "巴基斯坦总理：将继续以最大诚意推进和平 望尽快主办下一轮会谈",
@@ -266,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "巴基斯坦外交部：联合部长级声明，谴责在耶路撒冷开设所谓“索马里兰”使馆的行为。",
+          "url": "https://flash.jin10.com/detail/20260524183040692800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "巴基斯坦外交部长：赞扬美国总统特朗普的领导力、对对话和外交的承诺，以及美国副总统万斯、美国国务卿鲁比奥和整个美国团队。",
@@ -307,7 +343,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -321,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
-        },
-        {
-          "title": "巴基斯坦一客运列车遭爆炸袭击，至少24人死亡",
-          "url": "https://wallstreetcn.com/livenews/3108460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "卡塔尔外交大臣与沙特外交大臣通电话，讨论了巴基斯坦在美国与伊朗之间进行的调解努力。",
@@ -362,9 +387,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "巴基斯坦总理访华有哪些考量",
+          "url": "https://www.toutiao.com/trending/7642723103724879923/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         }
       ]
     },
@@ -382,8 +418,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时08分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -395,8 +431,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时08分]"
         },
         {
           "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
@@ -464,11 +500,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 19时08分]"
         }
       ]
     },
