@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T04:19:59.651967+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-05-26T06:03:04.490124+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时03分]"
         },
         {
           "title": "中方强烈谴责巴基斯坦恐袭事件",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时03分]"
         },
         {
           "title": "中方强烈谴责巴基斯坦恐袭事件",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时03分]"
         },
         {
           "title": "巴基斯坦总理：中巴友谊已直抵苍穹",
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 06时03分]"
         },
         {
           "title": "巴基斯坦总理：我们会成为“小中国”",
@@ -58,11 +58,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时03分]"
         },
         {
           "title": "韩正同巴基斯坦总理夏巴兹共同出席庆祝中巴建交75周年招待会",
