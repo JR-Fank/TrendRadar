@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T02:25:54.564514+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-05-26T04:19:59.651967+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时19分]"
         },
         {
           "title": "中方强烈谴责巴基斯坦恐袭事件",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时19分]"
         },
         {
           "title": "中方强烈谴责巴基斯坦恐袭事件",
@@ -37,8 +37,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时19分]"
+        },
+        {
+          "title": "巴基斯坦总理：中巴友谊已直抵苍穹",
+          "url": "https://www.toutiao.com/trending/7643570576258453033/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 04时19分]"
         },
         {
           "title": "巴基斯坦总理：我们会成为“小中国”",
@@ -47,17 +59,6 @@
           "ranks": [
             8,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 02时25分]"
-        },
-        {
-          "title": "巴基斯坦总理：中巴友谊已直抵苍穹",
-          "url": "https://www.toutiao.com/trending/7643570576258453033/",
-          "source": "今日头条",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -99,7 +100,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -110,7 +111,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         }
