@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T19:44:26.110278+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-05-25T22:35:21.570536+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "巴基斯坦与阿里宣布达成多项合作",
@@ -29,9 +29,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 22时35分]"
         },
         {
           "title": "王毅会见巴基斯坦国防军司令兼陆军参谋长穆尼尔",
@@ -40,9 +40,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "中方强烈谴责巴基斯坦恐怖袭击事件",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 22时35分]"
         },
         {
           "title": "市场消息：卡塔尔首相与沙特外交大臣讨论由巴基斯坦牵头的美伊谈判调解努力。",
@@ -55,6 +67,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时46分]"
+        },
+        {
+          "title": "巴基斯坦总理：我们会成为“小中国”",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BC%9A%E6%88%90%E4%B8%BA%E2%80%9C%E5%B0%8F%E4%B8%AD%E5%9B%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 22时35分]"
         },
         {
           "title": "巴基斯坦总理夏巴兹抵达北京",
@@ -81,6 +105,29 @@
           "time_info": "[01时53分 ~ 03时03分]"
         },
         {
+          "title": "巴基斯坦总理：中巴友谊已直抵苍穹",
+          "url": "https://www.toutiao.com/trending/7643570576258453033/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时44分 ~ 22时35分]"
+        },
+        {
+          "title": "中方强烈谴责巴基斯坦恐袭事件",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗外交部发言人强烈谴责发生在奎达铁路站的恐怖袭击行为，该事件已导致大量巴基斯坦公民伤亡。",
           "url": "https://flash.jin10.com/detail/20260524235117070800",
           "source": "金十数据",
@@ -90,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "中方强烈谴责巴基斯坦恐怖袭击事件",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
         },
         {
           "title": "外交部：中方强烈谴责巴基斯坦俾路支省恐怖袭击事件",
@@ -114,26 +150,15 @@
           "time_info": "15时03分"
         },
         {
-          "title": "巴基斯坦总理：我们会成为“小中国”",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%80%BB%E7%90%86%EF%BC%9A%E6%88%91%E4%BB%AC%E4%BC%9A%E6%88%90%E4%B8%BA%E2%80%9C%E5%B0%8F%E4%B8%AD%E5%9B%BD%E2%80%9D",
-          "source": "百度热搜",
+          "title": "【李强同巴基斯坦总理夏巴兹会谈】5月25日上午，国务院总理李强在北京人民大会堂同来华进行正式访问的巴基斯坦总理夏巴兹举行会谈。李强指出，中方愿同巴方深入推进中巴经济走廊建设，继续抓好两国重大联通项目，加强产业、矿业、农业、民生、金融等领域合作。中方愿进口巴方更多优质产品，同巴方积极打造双边自贸协定升级版，促进两国贸易不断扩容提质。双方还可以探讨开展人工智能、数字经济、绿色能源等领域合作，共同培育发展新动能。中方也愿同巴方深化人力资源开发合作，欢迎更多巴基斯坦青年学生来华学习深造。希望巴方继续采取必要措施，保护在巴中国人员、项目和机构安全，营造安全稳定的合作环境。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3108917",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时44分"
-        },
-        {
-          "title": "巴基斯坦总理：中巴友谊已直抵苍穹",
-          "url": "https://www.toutiao.com/trending/7643570576258453033/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时44分"
+          "time_info": "22时35分"
         },
         {
           "title": "加拿大外长：加拿大强烈谴责发生在巴基斯坦俾路支省的一起针对客运列车的恐怖袭击事件，该事件造成数十人丧生，多人受伤。我已与巴基斯坦外长进行了联系，以传达加拿大方面的支持。",
@@ -153,7 +178,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -164,9 +189,71 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时48分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260525060644652800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时52分]"
+        },
+        {
+          "title": "提醒：美股因节假日休市一日。",
+          "url": "https://wallstreetcn.com/livenews/3108922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -207,46 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时32分 ~ 10时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 06时48分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260525060644652800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时52分]"
         }
       ]
     }
