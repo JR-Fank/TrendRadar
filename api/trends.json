@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T01:52:04.835190+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-28T04:01:38.534056+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时01分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时01分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时01分]"
         },
         {
           "title": "“泡沫预言家”：美股或面临十年低迷",
@@ -58,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
@@ -75,7 +75,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         },
@@ -86,7 +86,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
@@ -103,7 +103,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
         }
