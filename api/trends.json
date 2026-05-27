@@ -1,79 +1,22 @@
 {
-  "generated_at": "2026-05-27T22:19:56.792903+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-05-28T01:52:04.835190+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 05时30分]"
-        },
-        {
-          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2382097",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 10时32分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 14时55分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 14时55分]"
-        },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003233683800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
@@ -82,42 +25,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260527003022520800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3110038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
           "title": "美股“火爆行情”很快结束？资深分析师：以史为鉴，油价见顶就会跌",
@@ -126,255 +36,76 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超3%，可选消费ETF涨超1%，能源业ETF跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3110117",
-          "source": "华尔街见闻-快讯",
+          "title": "“泡沫预言家”：美股或面临十年低迷",
+          "url": "https://www.toutiao.com/trending/7644455365212094515/",
+          "source": "今日头条",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
-          "url": "https://wallstreetcn.com/livenews/3109648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 01时52分]"
         },
         {
-          "title": "周二（5月26日），美股行业ETF涨跌各异，半导体ETF收涨4.48%，全球航空业ETF涨4.17%，全球科技股指数ETF、科技行业ETF、银行业ETF也至少涨1.10%，能源业ETF则收跌2.76%。",
-          "url": "https://wallstreetcn.com/livenews/3109647",
-          "source": "华尔街见闻-快讯",
+          "title": "美股股指短线走低，标普500指数转跌；美元指数DXY短线小幅走高。",
+          "url": "https://flash.jin10.com/detail/20260528011006984800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Zscaler第三财季营收8.505亿美元，分析师预期8.353亿美元。 第三财季年化持续经营收入35.3亿美元，分析师预期35.1亿美元。 第三财季调整后EPS为1.08美元，分析师预期1.01美元。 预计第四财季营收8.75亿-8.78亿美元，分析师预期8.791亿美元。 Zscaler美股盘后跌9%。",
-          "url": "https://wallstreetcn.com/livenews/3109642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "Astrotech美股盘前涨超220%。",
-          "url": "https://wallstreetcn.com/livenews/3110107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "策略师驳斥美股泡沫论：“FEMO”将助力标普500指数“破万”",
-          "url": "https://flash.jin10.com/detail/20260527215802456800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3110100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "知情人士：马斯克曾与同事讨论将SpaceX与特斯拉合并",
-          "url": "https://flash.jin10.com/detail/20260527052148578800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 07时02分]"
-        },
-        {
-          "title": "据CNBC：埃隆·马斯克与同事讨论了将特斯拉与SpaceX合并的可能性。",
-          "url": "https://flash.jin10.com/detail/20260527051726434800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 07时02分]"
-        },
-        {
-          "title": "报道：马斯克曾与同事讨论SpaceX与特斯拉合并事宜",
-          "url": "https://wallstreetcn.com/livenews/3109659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 07时02分]"
-        },
-        {
-          "title": "市场传闻将成真？马斯克被曝曾探讨合并SpaceX与特斯拉",
-          "url": "https://www.cls.cn/detail/2382367",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时55分"
-        },
-        {
-          "title": "台积电股价屡创新高 中国台湾股市跃升至全球第五大市场",
-          "url": "https://www.cls.cn/detail/2381765",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时56分"
-        },
-        {
-          "title": "美股盘初：美光科技涨约5%，拼多多跌约9%，特斯拉涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3110113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "台积电董事长魏哲家与员工沟通分红：有信心全年分红增长30%",
-          "url": "https://wallstreetcn.com/livenews/3109997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "中方强烈谴责巴基斯坦恐袭事件",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
+          "title": "据伊朗媒体：伊朗总统与巴基斯坦总理就地区发展动态及正在进行的外交进程交换意见并进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260528010359826800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            15,
-            16,
-            17,
-            14
+            22
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时21分 ~ 18时49分]"
-        },
-        {
-          "title": "巴基斯坦国防部长：不会加入“亚伯拉罕协议”",
-          "url": "https://news.ifeng.com/c/8tRvAa34lqQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时02分]"
-        },
-        {
-          "title": "中方强烈谴责巴基斯坦恐袭事件",
-          "url": "https://www.toutiao.com/trending/7643723343321038898/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时56分 ~ 07时02分]"
-        },
-        {
-          "title": "巴基斯坦拒绝美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时21分"
+          "time_info": "01时52分"
         },
         {
-          "title": "华春莹到机场为巴基斯坦总理送行",
-          "url": "https://www.toutiao.com/trending/7642986615874391594/",
-          "source": "今日头条",
+          "title": "巴基斯坦总理办公室：总理今天接到伊朗总统的电话。",
+          "url": "https://wallstreetcn.com/livenews/3110190",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时32分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
-      "keyword_group": "港股",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "港股大模型概念股拉升，智谱涨超8%，MINIMAX涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3109848",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI在美国中期选举前部署网络安全及虚假信息防御措施。",
+          "url": "https://flash.jin10.com/detail/20260528013305878800",
+          "source": "金十数据",
           "ranks": [
-            30
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时55分"
+          "time_info": "01时52分"
         }
       ]
     }
