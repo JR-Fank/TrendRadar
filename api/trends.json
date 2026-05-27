@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T07:02:08.407150+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-05-27T10:32:42.450618+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -27,8 +27,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时32分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 10时32分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -40,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）热门中概股行情一览（美股盘中）",
@@ -95,6 +107,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中方强烈谴责巴基斯坦恐袭事件",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 10时32分]"
+        },
+        {
+          "title": "巴基斯坦国防部长：不会加入“亚伯拉罕协议”",
+          "url": "https://news.ifeng.com/c/8tRvAa34lqQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时02分]"
+        },
+        {
+          "title": "中方强烈谴责巴基斯坦恐袭事件",
+          "url": "https://www.toutiao.com/trending/7643723343321038898/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时56分 ~ 07时02分]"
+        },
+        {
+          "title": "巴基斯坦拒绝美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "华春莹到机场为巴基斯坦总理送行",
+          "url": "https://www.toutiao.com/trending/7642986615874391594/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
@@ -148,59 +225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦国防部长：不会加入“亚伯拉罕协议”",
-          "url": "https://news.ifeng.com/c/8tRvAa34lqQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时02分]"
-        },
-        {
-          "title": "中方强烈谴责巴基斯坦恐袭事件",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%81%90%E8%A2%AD%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时02分]"
-        },
-        {
-          "title": "中方强烈谴责巴基斯坦恐袭事件",
-          "url": "https://www.toutiao.com/trending/7643723343321038898/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时56分 ~ 07时02分]"
-        },
-        {
-          "title": "巴基斯坦拒绝美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
         }
       ]
     }
