@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:52:48.508779+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-31T06:48:59.409099+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2386131",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         },
         {
           "title": "台积电领先10年？黄仁勋误读了华为韬定律",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -40,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         }
       ]
     },
@@ -59,8 +60,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时58分 ~ 06时48分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -89,19 +90,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
           "url": "https://www.cls.cn/detail/2385964",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         }
       ]
     },
@@ -117,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时48分]"
         }
       ]
     }
