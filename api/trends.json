@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T03:07:32.110470+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-05-31T04:44:58.542317+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         },
         {
           "title": "台积电领先10年？黄仁勋误读了华为韬定律",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         },
         {
           "title": "10名中国车主诉特斯拉FSD欺诈索395万",
@@ -35,11 +35,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         }
       ]
     },
@@ -52,11 +53,12 @@
           "url": "https://wallstreetcn.com/livenews/3111808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
@@ -67,8 +69,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时44分]"
         }
       ]
     },
@@ -85,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -96,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时44分]"
         }
       ]
     }
