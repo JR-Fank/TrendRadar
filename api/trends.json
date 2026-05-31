@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T10:33:45.317953+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-05-31T14:51:00.751877+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时51分]"
         },
         {
           "title": "台积电领先10年？黄仁勋误读了华为韬定律",
@@ -107,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时51分]"
         }
       ]
     },
@@ -121,11 +121,12 @@
           "url": "https://www.cls.cn/detail/2386025",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 10时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 14时51分]"
         }
       ]
     }
