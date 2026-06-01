@@ -1,12 +1,95 @@
 {
-  "generated_at": "2026-06-01T23:48:52.154469+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-06-02T04:10:39.973272+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 9,
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "Anthropic已提交IPO申请 OpenAI创始人称不争首家“头衔”",
+          "url": "https://flash.jin10.com/detail/20260602032624584800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI：BARN项目预计在租赁期内产生10亿美元的税收收入。",
+          "url": "https://flash.jin10.com/detail/20260602031452989800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI：与Related Digital、甲骨文、沃尔布里奇、黑石集团合作，贡献1000万美元用于萨林娱乐中心的改善。",
+          "url": "https://flash.jin10.com/detail/20260602031357524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI将在对公司有利时进行IPO。",
+          "url": "https://flash.jin10.com/detail/20260602024757153800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：在Anthropic提交上市申请后，他并未关注IPO的时机。",
+          "url": "https://flash.jin10.com/detail/20260602024742744800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
+          "url": "https://flash.jin10.com/detail/20260602040120884800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        },
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
           "url": "https://wallstreetcn.com/articles/3773537",
@@ -14,240 +97,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时48分"
+          "time_info": "04时10分"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "Arm(ARM.O)股价美股盘前涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260601164838175800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%，盘前价格突破1000美元/股。",
-          "url": "https://wallstreetcn.com/livenews/3112292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美股三大股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260601060027642800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美股软件股盘前走高涨，IBM上涨5.4%，Adobe上涨4.1%，Salesforce上涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3112282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美股盘前，英伟达涨超2%，英伟达Vera Rubin全面量产，宣布杀入PC芯片市场，携宇树布局机器人；Arm大涨超8%；高通跌超5%；美股存储芯片股走高，美光科技涨超3%，闪迪涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3112272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "高盛：上周对冲基金购入美股的速度为六个月来最快",
-          "url": "https://flash.jin10.com/detail/20260601164008609800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美股的“午夜钟声”或将敲响",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
-          "url": "https://www.cls.cn/detail/2386025",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.86%，恒生科技指数收涨1.65%",
-          "url": "https://wallstreetcn.com/livenews/3112277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "港股大模型概念股持续下挫，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超7%。",
-          "url": "https://flash.jin10.com/detail/20260601105342168800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
-          "url": "https://www.zhihu.com/question/2043989303341142831",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
-          "url": "https://www.cls.cn/detail/2386131",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 07时58分]"
-        },
-        {
-          "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
-          "url": "https://flash.jin10.com/detail/20260601041827560800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 11时34分]"
-        },
-        {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
-          "title": "OpenAI被美国佛罗里达州总检察长起诉，与AI的诸多危害有关。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3112532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦需要加速购买歼-35吗？",
-          "url": "https://news.ifeng.com/c/8tb0NpH460c",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "04时10分"
         }
       ]
     }
