@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T14:47:50.175746+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-06-06T17:19:41.035728+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时19分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时59分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 17时19分]"
         },
         {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时19分]"
         },
         {
           "title": "新兴市场ETF收跌超6.5%，领跌美股大类资产类ETF",
@@ -169,6 +169,17 @@
           "time_info": "06时10分"
         },
         {
+          "title": "美股三大指数缘何齐跌",
+          "url": "https://www.toutiao.com/trending/7648114822579490346/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
           "url": "https://wallstreetcn.com/livenews/3115338",
           "source": "华尔街见闻-快讯",
@@ -237,11 +248,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时19分]"
         },
         {
           "title": "谷歌与SpaceX签署协议 计划以每月9.2亿美元的价格购买算力",
@@ -313,6 +325,56 @@
       ]
     },
     {
+      "keyword_group": "巴基斯坦",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "巴基斯坦部长说中巴经济走廊带来切实经济成果",
+          "url": "https://wallstreetcn.com/livenews/3115438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260606102952590800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 3,
       "titles": [
@@ -374,28 +436,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 14时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260606102952590800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 17时19分]"
         }
       ]
     }
