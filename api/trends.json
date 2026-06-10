@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T07:11:55.516475+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:32:16.521244+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 07时11分]"
+        },
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 10时32分]"
         },
         {
           "title": "美股",
@@ -87,17 +99,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
           "title": "机构：美股70%熊市信号被触发",
           "url": "https://www.toutiao.com/trending/7649392765633056299/",
           "source": "今日头条",
@@ -137,7 +138,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -159,7 +160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -283,6 +284,34 @@
       ]
     },
     {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股电信股震荡走高，中国联通(00762.HK)涨超6%，中国通信服务(00552.HK)涨超5%，中国电信(00728.HK)涨超5%，中国移动(00941.HK)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260610101653286800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "港股芯片股局部走强，天数智芯(09903.HK)涨超12%，壁仞科技(06082.HK)、华虹宏力(01347.HK)、中芯国际(00981.HK)、中兴通讯(00763.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260610095655599800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 2,
       "titles": [
@@ -312,7 +341,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -327,6 +356,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 07时11分]"
+        },
+        {
+          "title": "据The Information：OpenAI正在洽谈一项为期20年的租赁协议，这将成为其迄今为止最大的基础设施投资承诺。英伟达已讨论为该项目提供信贷支持。",
+          "url": "https://flash.jin10.com/detail/20260610101124136800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     }
