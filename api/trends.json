@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T03:08:49.292738+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-06-14T05:03:21.966993+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
@@ -48,30 +48,43 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "沙特与巴基斯坦两国外长通电话，就地区局势发展及相关应对努力交换意见。",
           "url": "https://flash.jin10.com/detail/20260614021136240800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 05时03分]"
         },
         {
           "title": "沙特外交大臣接获巴基斯坦外长来电，双方讨论最新局势进展。",
           "url": "https://flash.jin10.com/detail/20260614021123366800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 05时03分]"
+        },
+        {
+          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
+          "url": "https://wallstreetcn.com/articles/3774594",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "05时03分"
         },
         {
           "title": "巴基斯坦外交部：美伊协议电子签署仪式14日举行",
@@ -98,19 +111,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
           "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -121,8 +135,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     },
@@ -139,8 +153,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     },
@@ -154,11 +168,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时12分 ~ 05时03分]"
         }
       ]
     }
