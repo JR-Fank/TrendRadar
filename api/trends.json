@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T06:55:21.978309+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-06-14T07:59:18.334925+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         },
         {
           "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         },
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -37,8 +37,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
+        },
+        {
+          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
+          "url": "https://wallstreetcn.com/articles/3774594",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时59分]"
         },
         {
           "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
@@ -48,19 +60,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
-        },
-        {
-          "title": "巴基斯坦总理称预计美伊协议将在24小时内敲定，伊朗火速否认",
-          "url": "https://wallstreetcn.com/articles/3774594",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         },
         {
           "title": "沙特与巴基斯坦两国外长通电话，就地区局势发展及相关应对努力交换意见。",
@@ -111,8 +112,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -133,11 +134,12 @@
           "ranks": [
             9,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         }
       ]
     },
@@ -152,11 +154,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         }
       ]
     },
@@ -171,11 +174,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 07时59分]"
         }
       ]
     }
