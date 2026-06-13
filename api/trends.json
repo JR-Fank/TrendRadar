@@ -1,8 +1,216 @@
 {
-  "generated_at": "2026-06-13T21:26:36.626310+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-13T23:26:40.301513+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+          "url": "https://news.ifeng.com/c/8tvczaWpXU4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 23时26分]"
+        },
+        {
+          "title": "据伊朗国家通讯社：伊朗外交部发言人表示，伊朗谈判团队未来几天没有计划访问巴基斯坦或日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260613225912526800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "媒体：伊朗代表团将于14日访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3119173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+          "url": "https://wallstreetcn.com/livenews/3119147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时48分 ~ 23时26分]"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：我相信华盛顿与德黑兰之间的历史性协议将为持久和平奠定基础。",
+          "url": "https://flash.jin10.com/detail/20260613192202554800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时26分]"
+        },
+        {
+          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+          "url": "https://flash.jin10.com/detail/20260613191600418800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 21时26分]"
+        },
+        {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "巴基斯坦外长：与瑞士外交部长卡西斯进行了交谈；欢迎在美伊理解方面取得的积极进展。",
+          "url": "https://flash.jin10.com/detail/20260613173007591800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：（美伊）将于下周举行技术层面的会谈。",
+          "url": "https://flash.jin10.com/detail/20260613191031729800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫：巴基斯坦正在为美伊和平协议敲定后立即进行电子签署做准备。",
+          "url": "https://flash.jin10.com/detail/20260613190429815800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "美国高级政府官员：我们相信与伊朗达成了一项非常强有力的协议，今天巴基斯坦的声明证实了这一点。",
+          "url": "https://flash.jin10.com/detail/20260613223935034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "巴基斯坦总理：美伊和平协议可能在未来24小时内敲定",
+          "url": "https://flash.jin10.com/detail/20260613190352427800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时48分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与巴基斯坦总理讨论了地区局势的最新进展，以及伊斯兰堡为缓和紧张局势所做的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260613223848444800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "巴基斯坦财政部长：省级对联邦政府的贡献主要体现在今年的国防预算中；为期三年的贡献讨论正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260613170043544800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "巴基斯坦总理：伊朗和美国已就协议文本达成一致",
+          "url": "https://wallstreetcn.com/livenews/3119001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "巴基斯坦：已就伊美和平协议文本达成一致意见",
+          "url": "https://wallstreetcn.com/livenews/3118996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "知情人士：巴基斯坦外长将前往日内瓦推进斡旋工作",
+          "url": "https://wallstreetcn.com/livenews/3119038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "美国官员：巴基斯坦与卡塔尔一直起到很好的调停作用。",
+          "url": "https://wallstreetcn.com/livenews/3119025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 16,
@@ -18,8 +226,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时09分 ~ 23时26分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -31,8 +239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时09分 ~ 23时26分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -53,11 +261,12 @@
             10,
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时09分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时09分 ~ 23时26分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -202,158 +411,6 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
-          "url": "https://news.ifeng.com/c/8tvczaWpXU4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 21时26分]"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：我相信华盛顿与德黑兰之间的历史性协议将为持久和平奠定基础。",
-          "url": "https://flash.jin10.com/detail/20260613192202554800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时26分]"
-        },
-        {
-          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
-          "url": "https://flash.jin10.com/detail/20260613191600418800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时26分]"
-        },
-        {
-          "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
-          "url": "https://wallstreetcn.com/livenews/3119147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时26分]"
-        },
-        {
-          "title": "巴基斯坦外长：与瑞士外交部长卡西斯进行了交谈；欢迎在美伊理解方面取得的积极进展。",
-          "url": "https://flash.jin10.com/detail/20260613173007591800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：（美伊）将于下周举行技术层面的会谈。",
-          "url": "https://flash.jin10.com/detail/20260613191031729800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：巴基斯坦正在为美伊和平协议敲定后立即进行电子签署做准备。",
-          "url": "https://flash.jin10.com/detail/20260613190429815800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "巴基斯坦总理：美伊和平协议可能在未来24小时内敲定",
-          "url": "https://flash.jin10.com/detail/20260613190352427800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "巴基斯坦财政部长：省级对联邦政府的贡献主要体现在今年的国防预算中；为期三年的贡献讨论正在进行中。",
-          "url": "https://flash.jin10.com/detail/20260613170043544800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "巴基斯坦总理：伊朗和美国已就协议文本达成一致",
-          "url": "https://wallstreetcn.com/livenews/3119001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "巴基斯坦：已就伊美和平协议文本达成一致意见",
-          "url": "https://wallstreetcn.com/livenews/3118996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
-        {
-          "title": "知情人士：巴基斯坦外长将前往日内瓦推进斡旋工作",
-          "url": "https://wallstreetcn.com/livenews/3119038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国官员：巴基斯坦与卡塔尔一直起到很好的调停作用。",
-          "url": "https://wallstreetcn.com/livenews/3119025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 4,
       "titles": [
@@ -382,8 +439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时54分 ~ 21时26分]"
+          "appearance_count": 10,
+          "time_info": "[03时54分 ~ 23时26分]"
         },
         {
           "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
@@ -415,6 +472,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时26分]"
+        },
+        {
           "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3119103",
           "source": "华尔街见闻-快讯",
@@ -425,17 +494,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时31分 ~ 14时50分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         }
       ]
     }
