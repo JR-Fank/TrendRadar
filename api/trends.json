@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T19:04:40.101524+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-06-17T22:51:09.480391+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时48分 ~ 19时04分]"
+          "appearance_count": 6,
+          "time_info": "[06时48分 ~ 22时51分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -135,6 +135,17 @@
           "time_info": "[01时55分 ~ 08时10分]"
         },
         {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一，SpaceX高位回落收涨近5%",
           "url": "https://flash.jin10.com/detail/20260617040157823800",
           "source": "金十数据",
@@ -206,6 +217,78 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF、科技行业ETF涨超1%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3121054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国副总统万斯：美国敦促巴基斯坦和卡塔尔允许谅解备忘录文本于今天晚些时候公布，美国方面正寻求对协议内容的明确了解。",
+          "url": "https://flash.jin10.com/detail/20260617222521352800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "据半岛电视台：巴基斯坦和埃及外交部长就美伊协议进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260617183206402800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时04分"
+        },
+        {
+          "title": "万斯称美方敦促巴基斯坦和卡塔尔今天公布协议文本",
+          "url": "https://flash.jin10.com/detail/20260617222306541800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
+          "title": "巴基斯坦KSE-100指数上涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3120748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "王毅同巴基斯坦副总理兼外长通电话",
+          "url": "https://www.toutiao.com/trending/7651987414609084443/",
+          "source": "今日头条",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -303,48 +386,48 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 3,
+      "keyword_group": "港股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据半岛电视台：巴基斯坦和埃及外交部长就美伊协议进行交谈。",
-          "url": "https://flash.jin10.com/detail/20260617183206402800",
-          "source": "金十数据",
+          "title": "港交所CEO陈翊庭：港股IPO与再融资双热，期待人民币国债期货在港落地",
+          "url": "https://wallstreetcn.com/livenews/3121061",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时04分"
+          "time_info": "22时51分"
         },
         {
-          "title": "巴基斯坦KSE-100指数上涨0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3120748",
+          "title": "香港证券及期货事务监察委员会行政总裁梁凤仪：争取早日将人民币股票交易柜台纳入港股通",
+          "url": "https://wallstreetcn.com/livenews/3121057",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "王毅同巴基斯坦副总理兼外长通电话",
-          "url": "https://www.toutiao.com/trending/7651987414609084443/",
-          "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "22时51分"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
         {
           "title": "“特斯拉劲敌”Rivian裁员（至少）数百人，占比低于2%。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3120435",
