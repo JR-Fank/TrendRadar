@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T18:05:54.228380+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-06-18T22:07:01.187833+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时01分 ~ 18时05分]"
+          "appearance_count": 7,
+          "time_info": "[06时01分 ~ 22时07分]"
         },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -78,6 +78,30 @@
           "time_info": "[01时45分 ~ 04时01分]"
         },
         {
+          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3774939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 22时07分]"
+        },
+        {
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
           "title": "美股三大指数尾盘跳水",
           "url": "https://www.toutiao.com/trending/7652506164214631979/",
           "source": "今日头条",
@@ -89,16 +113,26 @@
           "time_info": "[08时20分 ~ 08时21分]"
         },
         {
-          "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
-          "url": "https://wallstreetcn.com/articles/3774939",
-          "source": "华尔街见闻",
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时05分]"
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超4%，全球科技股指数ETF、全球航空业ETF涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3121739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "美股费城银行指数转跌，此前一度涨1.6%。",
@@ -123,6 +157,28 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美股盘初：纳指涨1.6%，费城半导体指数涨4.6%，英特尔涨约9%，QuantumScape涨约15%",
+          "url": "https://wallstreetcn.com/livenews/3121732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260618214232940800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3121255",
           "source": "华尔街见闻-快讯",
@@ -143,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "QuantumScape美股盘前涨超22%，公司宣布，与本田汽车旗下子公司本田技术研究所签署联合研发协议。双方将整合各自技术优势，共同推进 QS 固态电池技术平台落地，合作项目为多年期规划，聚焦固态电池研发及配套量产工艺开发。",
+          "url": "https://wallstreetcn.com/livenews/3121727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
@@ -176,13 +243,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3121716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "港股博弈现冰火两重天 建滔集团、长飞光纤光缆遭空头加码",
+          "url": "https://www.cls.cn/detail/2403381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时05分 ~ 22时07分]"
+        },
+        {
+          "title": "美联储加息预期走高引发连锁反应 港股大金融板块集体下挫",
+          "url": "https://www.cls.cn/detail/2403471",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
         {
           "title": "南向资金今日大幅净卖出67.92亿元。港股通（沪）方面，阿里巴巴-W、腾讯控股分别获净卖出19.8亿港元、11.0亿港元；中芯国际净买入额居首，金额为15.57亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净卖出18.86亿港元、8.71亿港元；建滔积层板净买入额居首，金额为8.35亿港元。",
           "url": "https://flash.jin10.com/detail/20260618173737456800",
@@ -190,7 +291,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -212,18 +313,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
-        },
-        {
-          "title": "港股博弈现冰火两重天 建滔集团、长飞光纤光缆遭空头加码",
-          "url": "https://www.cls.cn/detail/2403381",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -234,55 +324,15 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Faker拍谷歌广告血赚7个亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时05分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3121165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "谷歌明星研究员跳槽至OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%98%8E%E6%98%9F%E7%A0%94%E7%A9%B6%E5%91%98%E8%B7%B3%E6%A7%BD%E8%87%B3OpenAI",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "巴基斯坦",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴基斯坦总理：美伊谅解备忘录立即生效 将启动技术层级会谈",
@@ -294,6 +344,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时21分"
+        },
+        {
+          "title": "巴基斯坦总理谢里夫接到了伊朗总统佩泽希齐扬的电话。",
+          "url": "https://wallstreetcn.com/livenews/3121743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "巴基斯坦总理：祝贺伊朗签署和平协议。",
+          "url": "https://flash.jin10.com/detail/20260618214639204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "巴基斯坦总理：美伊两国总统已签署备忘录 海峡将开放、封锁将解除",
@@ -313,9 +385,61 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Faker拍谷歌广告血赚7个亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 22时07分]"
+        },
+        {
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "谷歌在Google Ad Manager中推出“Ask Ad Manager”AI 智能体。",
+          "url": "https://wallstreetcn.com/livenews/3121725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "谷歌明星研究员跳槽至OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%98%8E%E6%98%9F%E7%A0%94%E7%A9%B6%E5%91%98%E8%B7%B3%E6%A7%BD%E8%87%B3OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
@@ -348,7 +472,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         }
