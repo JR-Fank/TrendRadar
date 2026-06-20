@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T02:06:00.081021+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-06-21T04:12:18.819180+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "巴基斯坦接连发生致命爆炸，总统、总理发声",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "巴基斯坦：伊朗与美国将于6月21日举行会谈",
@@ -26,30 +26,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
+        },
+        {
+          "title": "巴基斯坦总理已启程前往瑞士",
+          "url": "https://flash.jin10.com/detail/20260621034044112800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：巴基斯坦内政部长抵达德黑兰，并会见了伊朗内政部长、外交部长以及其他官员。",
           "url": "https://flash.jin10.com/detail/20260621013421796800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时12分]"
         },
         {
           "title": "巴基斯坦政府消息人士表示，巴基斯坦总理和陆军参谋长将于明日前往瑞士，致力于推动相关谈判顺利进行。",
           "url": "https://flash.jin10.com/detail/20260621011901811800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 04时12分]"
         },
         {
           "title": "伊朗外长将与巴基斯坦内政部长一同前往瑞士",
@@ -59,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "伊朗外交部长会见巴基斯坦内政部长。（伊朗SNN新闻社）",
@@ -70,8 +83,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "巴基斯坦称美伊技术层级会谈21日在瑞士举行",
@@ -91,9 +104,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "消息人士：巴基斯坦总理与陆军参谋长将前往瑞士",
+          "url": "https://flash.jin10.com/detail/20260621015101090800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "据沙特媒体哈达斯：巴基斯坦方面称，美伊技术谈判将于明天（星期日）在瑞士开始。",
@@ -120,19 +144,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
           "url": "https://www.cls.cn/detail/2404523",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时12分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -143,8 +168,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 04时12分]"
         }
       ]
     },
