@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T07:01:53.020899+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-06-22T08:16:10.111259+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊在瑞士开始谈判，巴基斯坦和卡塔尔与会，各方手握哪些关键筹码？谈判能顺利进行吗？",
@@ -18,8 +18,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 08时16分]"
         },
         {
           "title": "巴基斯坦防长强硬警告印度",
@@ -83,6 +83,17 @@
           "time_info": "[01时19分 ~ 03时16分]"
         },
         {
+          "title": "据伊通社：伊朗代表团仍在瑞士谈判场地，相关各方与巴基斯坦和卡塔尔调解人之间的谈判仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260622072447953800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "巴基斯坦总理：感谢瑞士在签署具有历史意义的伊斯兰堡谅解备忘录之后所提供的支持以及建设性参与。双方一致认为，该备忘录的成功落实将有助于地区和平、稳定以及全球经济繁荣。",
           "url": "https://flash.jin10.com/detail/20260622020221202800",
           "source": "金十数据",
@@ -100,7 +111,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -111,7 +122,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -150,7 +161,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
