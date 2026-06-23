@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T11:48:45.191643+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-06-23T15:40:26.302995+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时48分]"
-        },
-        {
-          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 04时35分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 15时40分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -39,8 +28,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时42分 ~ 11时48分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 15时40分]"
+        },
+        {
+          "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 04时35分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -55,6 +55,18 @@
           "time_info": "[01时26分 ~ 11时48分]"
         },
         {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时40分]"
+        },
+        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -66,24 +78,13 @@
           "time_info": "06时42分"
         },
         {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
           "title": "美股科技股深夜下挫",
           "url": "https://www.douyin.com/hot/2544157",
           "source": "抖音",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -208,11 +209,12 @@
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 15时40分]"
         },
         {
           "title": "标普500指数初步收跌0.4%，电信板块跌3.7%，可选消费板块跌2.1%，科技板块跌0.5%，能源板块涨1.2%，房地产板块涨1.3%。 纳斯达克100指数初步收跌0.2%，成分股中，Arm控股初步收跌7.1%，Palantir跌6.8%，Rocket Lab跌6.4%，奈飞、CoreWeave、谷歌C、谷歌A至少跌5%，亚马逊、博通跌超4%，闪迪涨4.1%，Lumentum涨5%，英特尔涨5.1%，美光涨6%。 卡特彼勒初步收涨3.3%，摩根大通、安进涨超2%，领跑道指成分股，英伟达则跌1.2%，微软跌3%跌幅第三大，耐克跌4.3%，亚马逊领跌。纳指跌1.3%。",
@@ -249,7 +251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -260,7 +262,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -271,9 +273,66 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
+          "url": "https://flash.jin10.com/detail/20260623060715832800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时02分]"
+        },
+        {
+          "title": "市场消息：伊朗总统佩泽希齐扬周二出发前往巴基斯坦前表示，德黑兰正在寻求与美国达成的谅解备忘录的全面落实。如果所有谅解备忘录的条款得到落实，许多地区问题将得到解决。",
+          "url": "https://flash.jin10.com/detail/20260623152525289800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，此次访问巴基斯坦旨在感谢其在促成美伊谅解备忘录过程中发挥的作用。",
+          "url": "https://flash.jin10.com/detail/20260623151903458800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉机器人量产在即？上游供应商传出备战信号",
+          "url": "https://www.cls.cn/detail/2406488",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -291,24 +350,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据伊朗媒体报道，伊朗议会议长卡利巴夫、外长阿拉格齐、美国副总统万斯、卡塔尔首相阿尔萨尼及巴基斯坦总理谢里夫将监督未来的谈判。",
-          "url": "https://flash.jin10.com/detail/20260623060715832800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 08时02分]"
         }
       ]
     }
