@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T18:34:59.959530+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-06-25T21:11:30.479220+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -87,7 +87,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -127,6 +127,17 @@
           "time_info": "[04时28分 ~ 06时08分]"
         },
         {
+          "title": "美元指数短线走低逾10点，现报101.62。美股期货短线小幅拉升，纳斯达克100指数期货涨2.4%。美国10年期国债收益率短线走低，现报4.413%。现货黄金短线拉升逾20美元，现报3998.13美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
           "url": "https://wallstreetcn.com/livenews/3124250",
           "source": "华尔街见闻-快讯",
@@ -138,13 +149,24 @@
           "time_info": "06时08分"
         },
         {
+          "title": "经济数据提振，美股盘前止跌反弹、存储板块走高，美光绩后大涨17%，黄金跌破4000，白银再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "IBM美股盘前涨超6%，公司推出全球首款亚1纳米芯片技术",
           "url": "https://wallstreetcn.com/livenews/3124593",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -207,7 +229,7 @@
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "特斯拉跌幅扩大至2%。",
@@ -267,6 +289,39 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特斯拉(TSLA.O)：（就柏林超级工厂）随着计划中的产量提升，将再招聘1,000名员工。",
+          "url": "https://flash.jin10.com/detail/20260625205311254800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：（就柏林超级工厂）从2026年10月起，产量将提升至每周7500辆，这意味着产量将进一步增长20%。",
+          "url": "https://flash.jin10.com/detail/20260625205245417800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：（就柏林超级工厂）4月份宣布的20%产量增长目标目前正再次进行调整。",
+          "url": "https://flash.jin10.com/detail/20260625205156552800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "特斯拉第二季度车辆交付预期遭摩根大通下调",
           "url": "https://wallstreetcn.com/livenews/3124172",
           "source": "华尔街见闻-快讯",
@@ -281,8 +336,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据The Information：谷歌(GOOG.O)计划重组人工智能编程“突击队”，旨在追赶Anthropic的步伐。",
+          "url": "https://flash.jin10.com/detail/20260625210533271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
           "url": "https://wallstreetcn.com/livenews/3124193",
@@ -293,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "谷歌前CEO批中国AI开源",
