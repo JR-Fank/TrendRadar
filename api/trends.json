@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T19:21:32.027354+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-06-27T21:10:38.841328+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,19 @@
           "time_info": "[02时23分 ~ 04时27分]"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 21时10分]"
+        },
+        {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
           "source": "华尔街见闻",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时03分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时21分]"
         },
         {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
@@ -159,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时03分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[06时03分 ~ 21时10分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -170,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 21时10分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -182,8 +183,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 21时10分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -205,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 21时10分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -313,11 +314,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 21时10分]"
         },
         {
           "title": "巴基斯坦俾路支省两天内发生五次地震",
