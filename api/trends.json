@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:55:44.557948+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-28T07:55:15.982170+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         }
       ]
     },
@@ -119,11 +119,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -131,11 +132,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 07时55分]"
         }
       ]
     }
