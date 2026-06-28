@@ -1,11 +1,51 @@
 {
-  "generated_at": "2026-06-29T04:06:57.342947+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-06-29T05:55:29.742521+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "巴基斯坦",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴基斯坦一警方检查站发生手榴弹袭击事件 6人受伤",
+          "url": "https://flash.jin10.com/detail/20260629033230281800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时55分]"
+        },
+        {
+          "title": "巴基斯坦在阿富汗边境实施地面行动 击毙29名武装人员",
+          "url": "https://flash.jin10.com/detail/20260629044317778800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "据美联社：巴基斯坦称其在阿富汗边境地区实施了地面行动和打击，造成29名武装分子死亡。",
+          "url": "https://flash.jin10.com/detail/20260629042149204800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
@@ -14,11 +54,23 @@
           "ranks": [
             19,
             14,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
+        },
+        {
+          "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
+          "url": "https://www.zhihu.com/question/2053453700853666783",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         }
       ]
     },
@@ -34,8 +86,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时06分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
         }
       ]
     },
@@ -52,25 +104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴基斯坦一警方检查站发生手榴弹袭击事件 6人受伤",
-          "url": "https://flash.jin10.com/detail/20260629033230281800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时06分"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时55分]"
         }
       ]
     }
