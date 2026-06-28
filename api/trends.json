@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T07:55:15.982170+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-28T10:34:40.787758+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时34分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时34分]"
         }
       ]
     },
@@ -120,11 +120,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 10时34分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
