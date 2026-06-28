@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T02:04:37.937106+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2026-06-29T04:06:57.342947+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时06分]"
         }
       ]
     },
@@ -33,8 +34,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时06分]"
         }
       ]
     },
@@ -47,11 +48,29 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 04时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴基斯坦一警方检查站发生手榴弹袭击事件 6人受伤",
+          "url": "https://flash.jin10.com/detail/20260629033230281800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     }
