@@ -1,254 +1,72 @@
 {
-  "generated_at": "2026-06-29T22:42:35.551795+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-30T01:28:05.332547+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时23分]"
-        },
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时28分]"
+        },
+        {
+          "title": "美股费城半导体指数涨幅扩大至3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3126274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "01时28分"
         },
         {
-          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260629060352549800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "电池技术公司Solidion Technology美股盘前上涨26.5%，此前公司宣布将购买SpaceX(SPCX.O)股份作为战略储备资产。",
-          "url": "https://flash.jin10.com/detail/20260629174744708800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260629060021389800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美股太空股ETF涨幅一度高达4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
-          "url": "https://wallstreetcn.com/livenews/3126202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
-          "url": "https://wallstreetcn.com/livenews/3126200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "巴基斯坦一警方检查站发生手榴弹袭击事件 6人受伤",
-          "url": "https://flash.jin10.com/detail/20260629033230281800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时55分]"
-        },
-        {
-          "title": "巴基斯坦在阿富汗边境实施地面行动 击毙29名武装人员",
-          "url": "https://flash.jin10.com/detail/20260629044317778800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
-        },
-        {
-          "title": "据美联社：巴基斯坦称其在阿富汗边境地区实施了地面行动和打击，造成29名武装分子死亡。",
-          "url": "https://flash.jin10.com/detail/20260629042149204800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时28分]"
         },
         {
-          "title": "巴基斯坦军方打死29名武装分子",
-          "url": "https://www.toutiao.com/trending/7655996825048743979/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "阿富汗称巴基斯坦空袭致36死163伤",
-          "url": "https://wallstreetcn.com/livenews/3126018",
+          "title": "美股费城半导体指数转涨。",
+          "url": "https://wallstreetcn.com/livenews/3126248",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时22分"
+          "time_info": "01时28分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
           "source": "澎湃新闻",
           "ranks": [
-            17,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 22时42分]"
-        },
-        {
-          "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
-          "url": "https://flash.jin10.com/detail/20260629120904570800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
-          "url": "https://www.zhihu.com/question/2053871133401806051",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时02分]"
-        },
-        {
-          "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
-          "url": "https://www.zhihu.com/question/2053453700853666783",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时23分]"
+          "time_info": "[01时27分 ~ 01时28分]"
         }
       ]
     }
