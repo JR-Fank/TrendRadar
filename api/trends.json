@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T06:55:32.323295+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-06-29T08:02:23.004615+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -26,7 +26,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
         }
@@ -99,8 +99,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         },
         {
           "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
@@ -108,11 +108,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时55分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时02分]"
         }
       ]
     },
@@ -128,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 08时02分]"
         }
       ]
     }
