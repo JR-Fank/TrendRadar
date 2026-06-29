@@ -1,11 +1,73 @@
 {
-  "generated_at": "2026-06-29T13:23:37.635684+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-29T18:22:48.806612+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 13时23分]"
+        },
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "电池技术公司Solidion Technology美股盘前上涨26.5%，此前公司宣布将购买SpaceX(SPCX.O)股份作为战略储备资产。",
+          "url": "https://flash.jin10.com/detail/20260629174744708800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "巴基斯坦一警方检查站发生手榴弹袭击事件 6人受伤",
@@ -49,49 +111,48 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "阿富汗称巴基斯坦空袭致36死163伤",
+          "url": "https://wallstreetcn.com/livenews/3126018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "港股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
+          "title": "百度港股涨超8%：昆仑芯拟赴港上市，估值约500亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33474481",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            3
+            17
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 13时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
-          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
-          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
+          "url": "https://flash.jin10.com/detail/20260629120904570800",
           "source": "金十数据",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时55分"
-        },
-        {
-          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
-          "url": "https://flash.jin10.com/detail/20260629060021389800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时55分"
+          "time_info": "13时23分"
         }
       ]
     },
@@ -125,23 +186,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
-          "url": "https://flash.jin10.com/detail/20260629120904570800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         }
       ]
     },
