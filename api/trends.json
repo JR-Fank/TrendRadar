@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T01:27:29.320040+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-03T03:10:01.029396+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -15,30 +15,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 03时10分]"
         },
         {
           "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
           "url": "https://wallstreetcn.com/livenews/3128169",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时10分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
           "url": "https://wallstreetcn.com/livenews/3128157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时10分]"
+        },
+        {
+          "title": "特斯拉推出Model Y长轴距版，现已在美国上市。",
+          "url": "https://wallstreetcn.com/livenews/3128179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "03时10分"
         }
       ]
     },
