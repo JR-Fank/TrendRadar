@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:43:31.146619+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-07-03T23:49:58.606175+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -33,6 +33,19 @@
           "time_info": "[07时08分 ~ 16时50分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 23时49分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 21时43分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时49分 ~ 16时50分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
