@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T19:27:05.722886+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-03T21:43:31.146619+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 21时43分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
@@ -271,7 +271,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -317,7 +317,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
