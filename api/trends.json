@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T04:53:52.902150+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-07-04T05:57:20.843255+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 05时57分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
