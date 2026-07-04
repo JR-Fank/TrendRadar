@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-05T00:54:36.906135+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-05T01:57:20.287211+08:00",
+  "total_titles_processed": 355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
       "match_count": 3,
       "titles": [
-        {
-          "title": "土耳其总统与巴基斯坦总理举行会谈 讨论多领域合作",
-          "url": "https://flash.jin10.com/detail/20260705000700080800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
         {
           "title": "巴基斯坦一检查站遭汽车炸弹袭击 多人死伤",
           "url": "https://wallstreetcn.com/livenews/3128941",
@@ -26,8 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时57分]"
+        },
+        {
+          "title": "土耳其总统与巴基斯坦总理举行会谈 讨论多领域合作",
+          "url": "https://flash.jin10.com/detail/20260705000700080800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时57分]"
         },
         {
           "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
@@ -54,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时57分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "url": "https://flash.jin10.com/detail/20260705000623395800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时57分]"
         }
       ]
     },
@@ -88,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时57分]"
         }
       ]
     }
