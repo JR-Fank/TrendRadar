@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:09:03.098181+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-07-05T23:06:31.726546+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 21时09分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 23时06分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -52,11 +53,12 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时09分]"
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 23时06分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -179,11 +181,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 23时06分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
