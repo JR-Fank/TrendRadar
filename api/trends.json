@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:24:33.217277+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-07-05T21:09:03.098181+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[14时31分 ~ 21时09分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -46,6 +46,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时49分 ~ 07时54分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -95,11 +106,12 @@
           "ranks": [
             2,
             15,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 21时09分]"
         },
         {
           "title": "土耳其总统与巴基斯坦总理举行会谈 讨论多领域合作",
@@ -170,8 +182,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 21时09分]"
         },
         {
           "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
