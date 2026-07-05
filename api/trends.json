@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:53:03.057651+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-06T06:53:31.632605+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时53分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时53分]"
         }
       ]
     },
@@ -40,11 +40,12 @@
           "url": "https://www.zhihu.com/question/2056780978534750118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时53分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 05时53分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 06时53分]"
         }
       ]
     }
