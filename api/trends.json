@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T15:32:15.267471+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-07-08T18:08:23.109499+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -261,7 +261,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
@@ -307,12 +307,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "南向资金今日大幅净买入141.94亿元。港股通（沪）方面，智谱、腾讯控股分别获净买入24.42亿港元、19.2亿港元；小米集团-W净卖出额居首，金额为7.46亿港元；港股通（深）方面，阿里巴巴-W、智谱分别获净买入30.31亿港元、18.88亿港元；建滔积层板净卖出额居首，金额为6.26亿港元。",
+          "url": "https://flash.jin10.com/detail/20260708173120187800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
@@ -335,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         },
         {
           "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
@@ -362,8 +384,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 18时08分]"
         },
         {
           "title": "巴基斯坦KSE-100指数日内跌幅扩大至1.1%。",
