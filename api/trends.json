@@ -1,529 +1,200 @@
 {
-  "generated_at": "2026-07-08T23:10:08.349258+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2026-07-09T01:20:12.852002+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 19,
+      "keyword_group": "巴基斯坦",
+      "match_count": 6,
       "titles": [
         {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 13时02分]"
-        },
-        {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 15时32分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时47分 ~ 15时32分]"
-        },
-        {
-          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2420785",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "中东战火再燃，美股低开，存储股延续跌势，阿里涨9%，油价大涨5%，金银走低",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            14,
-            27,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时48分]"
-        },
-        {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时52分]"
-        },
-        {
-          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
-          "url": "https://wallstreetcn.com/livenews/3130197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时48分]"
-        },
-        {
-          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
-          "url": "https://www.cls.cn/detail/2420472",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
-        {
-          "title": "美股三大指数集体收跌 纳指跌1.16%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E7%BA%B3%E6%8C%87%E8%B7%8C1.16%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 07时48分]"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002522705800",
+          "title": "巴基斯坦外交部：冲突再次爆发不符合任何一方的利益。",
+          "url": "https://flash.jin10.com/detail/20260709010220659800",
           "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "01时20分"
         },
         {
-          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002519398800",
+          "title": "巴基斯坦外交部：巴基斯坦始终准备继续（在调解方面）发挥作用。",
+          "url": "https://flash.jin10.com/detail/20260709005626917800",
           "source": "金十数据",
           "ranks": [
-            9
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "01时20分"
         },
         {
-          "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3130167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
-          "url": "https://wallstreetcn.com/livenews/3130166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
-          "url": "https://wallstreetcn.com/livenews/3130160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美股三大股指期货周三小幅低开。",
-          "url": "https://flash.jin10.com/detail/20260708060036398800",
+          "title": "巴基斯坦外交部：要实现地区和平的共同目标，除了继续接触、对话和外交，没有替代方案。",
+          "url": "https://flash.jin10.com/detail/20260709005623252800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "01时20分"
         },
         {
-          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
-          "url": "https://wallstreetcn.com/livenews/3130079",
-          "source": "华尔街见闻-快讯",
+          "title": "巴基斯坦外交部：呼吁各方保持克制，避免采取可能进一步破坏地区和平与稳定的行动。",
+          "url": "https://flash.jin10.com/detail/20260709005507050800",
+          "source": "金十数据",
           "ranks": [
-            25
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "巴基斯坦外交部：对中东地区紧张局势升级表示深切关切。",
+          "url": "https://flash.jin10.com/detail/20260709005504534800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "巴基斯坦外交部：呼吁各方遵守谅解备忘录中的承诺。",
+          "url": "https://flash.jin10.com/detail/20260709005455268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3130102",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
+          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
+          "url": "https://flash.jin10.com/detail/20260709010344704800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
+          "time_info": "01时20分"
+        },
+        {
+          "title": "OpenAI：推出GPT-LIVE。",
+          "url": "https://flash.jin10.com/detail/20260709010325337800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
         },
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时09分 ~ 23时10分]"
-        },
+          "time_info": "[01时19分 ~ 01时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
-          "url": "https://flash.jin10.com/detail/20260708003008011800",
-          "source": "金十数据",
+          "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2420785",
+          "source": "财联社热门",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
-          "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
-          "url": "https://wallstreetcn.com/livenews/3130374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
-          "url": "https://flash.jin10.com/detail/20260708002232140800",
-          "source": "金十数据",
+          "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
+          "url": "https://www.cls.cn/detail/2420472",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         },
         {
-          "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
-          "url": "https://wallstreetcn.com/livenews/3130368",
+          "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
+          "url": "https://wallstreetcn.com/livenews/3130817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "特朗普政府解除对OpenAI的GPT 5.6的限制，美国商务部已批准OpenAI广泛推出其先进的GPT 5.6模型。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3130342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "time_info": "01时20分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
-          "url": "https://wallstreetcn.com/livenews/3130207",
-          "source": "华尔街见闻-快讯",
+          "title": "是何催化剂？港股科网全线爆发，重仓ETF已迎8连涨",
+          "url": "https://www.cls.cn/detail/2420797",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时48分]"
-        },
-        {
-          "title": "港股高开高走，恒指涨1%，恒生科技指数涨超2%，半导体板块走强，华虹宏力(01347.HK)涨超5%，中芯国际(00981.HK)涨近4%。",
-          "url": "https://flash.jin10.com/detail/20260708093218206800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "多重积极因素共振，港股市场迎阶段性修复窗口",
-          "url": "https://wallstreetcn.com/livenews/3130212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "港股暴涨原因找到了",
-          "url": "https://www.toutiao.com/trending/7659666058290167850/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时14分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.19%，科指开涨0.42%。人工智能板块高开，联想集团(00992.HK)涨4.4%，建滔积层板(01888.HK)涨4%。MOMENTA-W(06880.HK)上市首日开涨1.83%。",
-          "url": "https://flash.jin10.com/detail/20260708092123549800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "南向资金今日大幅净买入141.94亿元。港股通（沪）方面，智谱、腾讯控股分别获净买入24.42亿港元、19.2亿港元；小米集团-W净卖出额居首，金额为7.46亿港元；港股通（深）方面，阿里巴巴-W、智谱分别获净买入30.31亿港元、18.88亿港元；建滔积层板净卖出额居首，金额为6.26亿港元。",
-          "url": "https://flash.jin10.com/detail/20260708173120187800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "巴基斯坦发表声明：一架飞机失联",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6BzX",
-          "source": "凤凰网",
-          "ranks": [
-            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 20时14分]"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数日内跌幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3130377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "巴基斯坦定位失事货机并打捞其残骸",
-          "url": "https://wallstreetcn.com/livenews/3130778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "巴基斯坦官员称巴安全部队击毙15名恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3130085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "巴基斯坦发现失联货机残骸",
-          "url": "https://wallstreetcn.com/livenews/3130763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
-          "url": "https://wallstreetcn.com/livenews/3130107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
-          "url": "https://wallstreetcn.com/livenews/3130159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "gemini为了偷懒不择手段",
-          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "谷歌发布会定档8月12日，将发布Pixel 11系列手机",
-          "url": "https://flash.jin10.com/detail/20260708120738647800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "“特斯拉劲敌”Rivian跌幅扩大至15%，创2024年11月份以来最差盘中表现，该公司发布业绩报告时宣布股票增发计划。",
-          "url": "https://wallstreetcn.com/livenews/3130087",
+          "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
+          "url": "https://wallstreetcn.com/livenews/3130811",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "摩根大通：特斯拉与SpaceX合并的潜在阻碍被低估",
-          "url": "https://wallstreetcn.com/livenews/3130118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时42分"
+          "time_info": "01时20分"
         }
       ]
     }
