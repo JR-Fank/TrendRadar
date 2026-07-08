@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:20:12.852002+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-09T03:08:06.769024+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "巴基斯坦外交部：冲突再次爆发不符合任何一方的利益。",
@@ -14,9 +14,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260709025533023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "巴基斯坦外交部：巴基斯坦始终准备继续（在调解方面）发挥作用。",
@@ -25,9 +36,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "巴基斯坦外交部：美伊局势升级不符合任何一方利益",
+          "url": "https://wallstreetcn.com/livenews/3130839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "巴基斯坦外交部：要实现地区和平的共同目标，除了继续接触、对话和外交，没有替代方案。",
@@ -36,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -47,7 +69,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -77,7 +99,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
@@ -86,7 +108,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -97,7 +119,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -108,7 +130,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -117,11 +139,23 @@
           "url": "https://www.zhihu.com/question/2058166406420460573",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 03时08分]"
+        },
+        {
+          "title": "OpenAI推出GPT-Live语音模型",
+          "url": "https://wallstreetcn.com/livenews/3130838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         }
       ]
     },
@@ -137,8 +171,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 03时08分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -148,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 03时08分]"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -158,7 +192,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
@@ -176,8 +210,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 03时08分]"
         }
       ]
     },
@@ -192,7 +226,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         }
