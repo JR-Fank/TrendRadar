@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T18:08:23.109499+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-07-08T20:14:54.837727+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -120,6 +120,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260708002519398800",
           "source": "金十数据",
@@ -184,6 +195,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
+          "url": "https://wallstreetcn.com/livenews/3130207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
+        },
+        {
+          "title": "港股高开高走，恒指涨1%，恒生科技指数涨超2%，半导体板块走强，华虹宏力(01347.HK)涨超5%，中芯国际(00981.HK)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260708093218206800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "多重积极因素共振，港股市场迎阶段性修复窗口",
+          "url": "https://wallstreetcn.com/livenews/3130212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "港股暴涨原因找到了",
+          "url": "https://www.toutiao.com/trending/7659666058290167850/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.19%，科指开涨0.42%。人工智能板块高开，联想集团(00992.HK)涨4.4%，建滔积层板(01888.HK)涨4%。MOMENTA-W(06880.HK)上市首日开涨1.83%。",
+          "url": "https://flash.jin10.com/detail/20260708092123549800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "南向资金今日大幅净买入141.94亿元。港股通（沪）方面，智谱、腾讯控股分别获净买入24.42亿港元、19.2亿港元；小米集团-W净卖出额居首，金额为7.46亿港元；港股通（深）方面，阿里巴巴-W、智谱分别获净买入30.31亿港元、18.88亿港元；建滔积层板净卖出额居首，金额为6.26亿港元。",
+          "url": "https://flash.jin10.com/detail/20260708173120187800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
         }
       ]
     },
@@ -260,68 +344,6 @@
       ]
     },
     {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯“打头阵” 上半年港股回购近千亿港元",
-          "url": "https://wallstreetcn.com/livenews/3130207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时48分]"
-        },
-        {
-          "title": "港股高开高走，恒指涨1%，恒生科技指数涨超2%，半导体板块走强，华虹宏力(01347.HK)涨超5%，中芯国际(00981.HK)涨近4%。",
-          "url": "https://flash.jin10.com/detail/20260708093218206800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "多重积极因素共振，港股市场迎阶段性修复窗口",
-          "url": "https://wallstreetcn.com/livenews/3130212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.19%，科指开涨0.42%。人工智能板块高开，联想集团(00992.HK)涨4.4%，建滔积层板(01888.HK)涨4%。MOMENTA-W(06880.HK)上市首日开涨1.83%。",
-          "url": "https://flash.jin10.com/detail/20260708092123549800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "南向资金今日大幅净买入141.94亿元。港股通（沪）方面，智谱、腾讯控股分别获净买入24.42亿港元、19.2亿港元；小米集团-W净卖出额居首，金额为7.46亿港元；港股通（深）方面，阿里巴巴-W、智谱分别获净买入30.31亿港元、18.88亿港元；建滔积层板净卖出额居首，金额为6.26亿港元。",
-          "url": "https://flash.jin10.com/detail/20260708173120187800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -354,7 +376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -384,8 +406,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时47分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 20时14分]"
         },
         {
           "title": "巴基斯坦KSE-100指数日内跌幅扩大至1.1%。",
