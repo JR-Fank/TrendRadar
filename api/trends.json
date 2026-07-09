@@ -1,33 +1,34 @@
 {
-  "generated_at": "2026-07-10T04:42:30.248858+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-07-10T06:14:18.249583+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
           "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时14分]"
         },
         {
-          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3131539",
-          "source": "华尔街见闻-快讯",
+          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "06时14分"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -42,6 +43,18 @@
           "time_info": "[00时22分 ~ 04时42分]"
         },
         {
+          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3131539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 06时14分]"
+        },
+        {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2422043",
           "source": "财联社热门",
@@ -49,8 +62,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时14分]"
+        },
+        {
+          "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3131557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
@@ -59,7 +83,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -70,7 +94,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -81,9 +105,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
+          "url": "https://wallstreetcn.com/livenews/3131543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
+          "url": "https://wallstreetcn.com/livenews/3131534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         }
       ]
     },
@@ -98,7 +144,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -120,7 +166,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -189,8 +235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时14分]"
         },
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -201,8 +247,36 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 06时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界银行：董事会批准为巴基斯坦电网稳定性提升项目提供3.759亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260710060740195800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3131446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     },
@@ -217,26 +291,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3131446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "04时42分"
         }
       ]
     }
