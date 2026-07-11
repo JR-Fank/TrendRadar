@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T20:56:31.492331+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-07-11T22:19:42.939551+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时51分 ~ 20时56分]"
+          "appearance_count": 12,
+          "time_info": "[06时51分 ~ 22时19分]"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
@@ -61,8 +61,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时49分 ~ 20时56分]"
+          "appearance_count": 11,
+          "time_info": "[07时49分 ~ 22时19分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时07分 ~ 22时19分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
@@ -81,20 +95,6 @@
           "time_info": "[00时15分 ~ 15时07分]"
         },
         {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时07分 ~ 20时56分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -105,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 20时56分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 22时19分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -230,7 +230,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "巴基斯坦总理：同意推进伊朗总统佩泽希齐扬近期访巴期间确定的双边合作议程。",
@@ -276,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 04时14分]"
+        },
+        {
+          "title": "沙特外交部：沙特外交大臣与巴基斯坦外长进行了通话，确认支持调解努力及恢复对话。",
+          "url": "https://flash.jin10.com/detail/20260711214505237800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "卡塔尔埃米尔办公室：卡塔尔埃米尔与巴基斯坦总理确认，将继续合作支持地区安全，维护航运和海上通道安全。",
@@ -342,6 +353,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "巴基斯坦外交部：外交部长呼吁各方保持最大克制，并给予调解努力时间。",
+          "url": "https://flash.jin10.com/detail/20260711204444711800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "巴基斯坦外交部：外交部长与沙特外交大臣一致认为，冲突的持续升级削弱了实现和平与稳定的努力。",
+          "url": "https://flash.jin10.com/detail/20260711204434520800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "巴基斯坦外交部：外交部长与沙特外交大臣在通话中对地区局势升级表示严重关切。",
+          "url": "https://flash.jin10.com/detail/20260711204418790800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
