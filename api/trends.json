@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-07-12T22:24:22.541485+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-07-12T23:51:07.439675+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3132396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            12,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 23时51分]"
+        },
+        {
+          "title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260712145610977800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "巴基斯坦外交部：我们呼吁各方保持克制，采取措施降温，并履行谅解备忘录下的承诺。",
+          "url": "https://flash.jin10.com/detail/20260712223540610800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "巴基斯坦外交部：我们重申对该地区所有兄弟国家主权和领土完整的支持。",
+          "url": "https://flash.jin10.com/detail/20260712223533435800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外交部长与巴基斯坦副外部长通话讨论地区发展情况。",
+          "url": "https://flash.jin10.com/detail/20260712142859301800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "沙特外交部：沙特外交大臣与巴基斯坦外长进行了通话，确认支持调解努力及恢复对话。",
+          "url": "https://flash.jin10.com/detail/20260711214505237800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 5,
@@ -81,9 +157,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时51分]"
         },
         {
           "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
@@ -94,8 +170,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时57分 ~ 22时24分]"
+          "appearance_count": 5,
+          "time_info": "[20时57分 ~ 23时51分]"
         },
         {
           "title": "特斯拉拆除Model S和X生产线",
@@ -123,75 +199,9 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3132396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            12,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 22时24分]"
-        },
-        {
-          "title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260712145610977800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗外交部长与巴基斯坦副外部长通话讨论地区发展情况。",
-          "url": "https://flash.jin10.com/detail/20260712142859301800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "沙特外交部：沙特外交大臣与巴基斯坦外长进行了通话，确认支持调解努力及恢复对话。",
-          "url": "https://flash.jin10.com/detail/20260711214505237800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时47分 ~ 07时44分]"
-        },
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
           "url": "https://wallstreetcn.com/articles/3776720",
@@ -203,8 +213,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时51分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 07时44分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
