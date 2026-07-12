@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T02:51:51.062723+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-07-13T04:04:01.354666+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 04时04分]"
         },
         {
           "title": "巴基斯坦外交部：我们呼吁各方保持克制，采取措施降温，并履行谅解备忘录下的承诺。",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时04分]"
         },
         {
           "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时04分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时04分]"
         }
       ]
     }
