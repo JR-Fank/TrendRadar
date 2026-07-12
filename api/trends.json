@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T20:58:06.463043+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-07-12T22:24:22.541485+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,58 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
+          "url": "https://wallstreetcn.com/articles/3776716",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 22时24分]"
+        },
+        {
+          "title": "特斯拉拆除Model S和X生产线",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 16时02分]"
+        },
+        {
+          "title": "特斯拉拆除Model S和X生产线",
+          "url": "https://www.douyin.com/hot/2567637",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "巴基斯坦",
       "match_count": 4,
       "titles": [
@@ -82,11 +134,12 @@
             1,
             9,
             12,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 22时24分]"
         },
         {
           "title": "巴基斯坦外长呼吁各方落实美伊谅解备忘录",
@@ -124,46 +177,6 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8B%86%E9%99%A4Model%20S%E5%92%8CX%E7%94%9F%E4%BA%A7%E7%BA%BF&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 16时02分]"
-        },
-        {
-          "title": "机构实地调研：台积电赢了现在的CPO，三星在押注下一场",
-          "url": "https://wallstreetcn.com/articles/3776716",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
-        },
-        {
-          "title": "特斯拉拆除Model S和X生产线",
-          "url": "https://www.douyin.com/hot/2567637",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -186,11 +199,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 22时24分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -216,7 +230,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
