@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T12:42:01.256320+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-07-14T15:04:20.256790+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 15时04分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时45分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[06时45分 ~ 15时04分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -51,8 +51,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 15时04分]"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时44分 ~ 15时04分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -97,19 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时44分 ~ 12时42分]"
         },
         {
           "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
@@ -206,6 +207,17 @@
           "time_info": "[09时27分 ~ 09时28分]"
         },
         {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260714040535103800",
           "source": "金十数据",
@@ -264,8 +276,19 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "港股有色股午后反弹，中国铝业涨近10%，中国宏桥、江西铜业股份涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3133371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-14）",
           "url": "https://flash.jin10.com/detail/20260714085650600800",
@@ -278,22 +301,55 @@
           "time_info": "09时28分"
         },
         {
+          "title": "港股PCB概念股午后持续走强，建滔积层板(01888.HK)涨超14%，建滔集团(00148.HK)、广合科技(01989.HK)涨超9%，鼎泰高科(01377.HK)涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260714143058115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "港股午评：恒生指数半日跌0.47% 科技、半导体概念股走低",
           "url": "https://flash.jin10.com/detail/20260714120708315800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "港股汽车股午后持续走高，蔚来-SW(09866.HK)涨超8%，小鹏集团(09868.HK)、理想汽车(02015.HK)涨超3%，比亚迪股份(01211.HK)、广汽集团(02238.HK)涨近3%。",
+          "url": "https://flash.jin10.com/detail/20260714142911874800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
           "url": "https://flash.jin10.com/detail/20260714122538668800",
@@ -301,7 +357,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
