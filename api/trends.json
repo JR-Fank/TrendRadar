@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-07-14T09:28:10.723126+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-07-14T12:42:01.256320+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 22,
       "titles": [
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时42分]"
+        },
+        {
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 12时42分]"
+        },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -19,28 +43,16 @@
           "time_info": "[01时07分 ~ 04时50分]"
         },
         {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
           "ranks": [
+            10,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 09时28分]"
-        },
-        {
-          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2425183",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 09时28分]"
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时42分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -76,18 +88,6 @@
           "time_info": "[01时07分 ~ 06时45分]"
         },
         {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 09时28分]"
-        },
-        {
           "title": "金十图示：2026年07月13日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260714004739536800",
           "source": "金十数据",
@@ -97,6 +97,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时42分]"
         },
         {
           "title": "美股大类资产类ETF普跌，新兴市场ETF跌约3.6%，黄金ETF跌超2.6%",
@@ -133,18 +146,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时45分]"
-        },
-        {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 09时28分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -263,7 +264,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-14）",
@@ -272,9 +273,48 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "港股午评：恒生指数半日跌0.47% 科技、半导体概念股走低",
+          "url": "https://flash.jin10.com/detail/20260714120708315800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
+          "url": "https://flash.jin10.com/detail/20260714122538668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     },
@@ -293,23 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
         }
       ]
     }
