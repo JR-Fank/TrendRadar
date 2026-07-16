@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:16:25.506173+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-07-16T17:58:06.465135+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -48,6 +48,18 @@
           "time_info": "[06时49分 ~ 15时16分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时58分]"
+        },
+        {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -57,17 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时49分 ~ 06时50分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时16分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -274,6 +275,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "百度美股盘前涨超4%，公司寻求于港交所主板自愿转换为双重主要上市",
+          "url": "https://wallstreetcn.com/livenews/3134955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "半导体行业涨价潮蔓延！光刻机巨头据悉酝酿提价 台积电反对",
+          "url": "https://www.cls.cn/detail/2428132",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时57分 ~ 17时58分]"
+        },
+        {
+          "title": "台积电CEO：未来几年对台积电来说将是非常好的时期。",
+          "url": "https://wallstreetcn.com/livenews/3134886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "台积电上调销售和支出展望 再添AI需求持续迹象",
+          "url": "https://wallstreetcn.com/livenews/3134882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "台积电(TSM.N)：设备价格受通胀影响。",
+          "url": "https://flash.jin10.com/detail/20260716150757438800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "台积电美股夜盘跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "美国商务部：台积电将在美国追加投资1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3134965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "台积电证实在亚利桑那州追加1000亿美元投资。",
+          "url": "https://wallstreetcn.com/livenews/3134857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "台积电CFO：台积电认为产能扩张不存在瓶颈。 预计2027年现金股利将持续且增加。",
+          "url": "https://wallstreetcn.com/livenews/3134854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
@@ -287,11 +393,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时58分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -376,80 +483,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "台积电CEO：未来几年对台积电来说将是非常好的时期。",
-          "url": "https://wallstreetcn.com/livenews/3134886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "台积电上调销售和支出展望 再添AI需求持续迹象",
-          "url": "https://wallstreetcn.com/livenews/3134882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "台积电(TSM.N)：设备价格受通胀影响。",
-          "url": "https://flash.jin10.com/detail/20260716150757438800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "台积电美股夜盘跌0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3134862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "台积电证实在亚利桑那州追加1000亿美元投资。",
-          "url": "https://wallstreetcn.com/livenews/3134857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "台积电CFO：台积电认为产能扩张不存在瓶颈。 预计2027年现金股利将持续且增加。",
-          "url": "https://wallstreetcn.com/livenews/3134854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股半导体板块午后持续走低，澜起科技(06809.HK)跌超23%，兆易创新(03986.HK)跌超9%，华虹宏力(01347.HK)跌超6%，中芯国际(00981.HK)、晶门半导体(02878.HK)等跟跌。",
@@ -458,9 +493,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "南向资金今日大幅净买入50.39亿元。港股通（沪）方面，智谱、阿里巴巴-W分别获净买入18.4亿港元、11.91亿港元；小米集团-W净卖出额居首，金额为6.87亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净买入16.42亿港元、15.41亿港元；建滔积层板净卖出额居首，金额为10.7亿港元。",
+          "url": "https://flash.jin10.com/detail/20260716173158022800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "百度申请香港、纳斯达克双重主要上市，或赶上9月港股通窗口",
+          "url": "https://wallstreetcn.com/livenews/3134961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         },
         {
           "title": "港股午评：恒指高开高走收涨1.93% 科网股集体走强",
