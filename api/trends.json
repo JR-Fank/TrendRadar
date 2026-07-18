@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T12:40:09.175438+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-07-18T14:53:57.508293+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -19,17 +19,6 @@
           "time_info": "[01时02分 ~ 06时39分]"
         },
         {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时42分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
@@ -39,8 +28,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时39分 ~ 14时53分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时39分 ~ 12时40分]"
+          "time_info": "[01时02分 ~ 05时42分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -114,11 +114,12 @@
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时53分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -142,6 +143,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时42分]"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
@@ -183,8 +195,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 14时53分]"
         },
         {
           "title": "大空头Burry：现在是抄底港股的绝佳时机",
@@ -192,11 +204,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时43分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时43分 ~ 14时53分]"
         }
       ]
     },
