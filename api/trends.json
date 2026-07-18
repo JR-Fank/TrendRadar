@@ -1,8 +1,49 @@
 {
-  "generated_at": "2026-07-19T04:45:34.047682+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-19T05:41:23.044720+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
+          "url": "https://flash.jin10.com/detail/20260719034107497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
+          "url": "https://flash.jin10.com/detail/20260719043315182800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "巴基斯坦外长：必须遵守谅解备忘录，避免升级紧张局势。",
+          "url": "https://flash.jin10.com/detail/20260718223114739800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -15,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时41分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -27,37 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 04时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
-          "url": "https://flash.jin10.com/detail/20260719034107497800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时45分]"
-        },
-        {
-          "title": "巴基斯坦外长：必须遵守谅解备忘录，避免升级紧张局势。",
-          "url": "https://flash.jin10.com/detail/20260718223114739800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 05时41分]"
         }
       ]
     },
@@ -92,8 +104,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
         }
       ]
     }
