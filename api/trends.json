@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:39:40.536526+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-19T07:43:35.387909+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 06时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时59分 ~ 07时43分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时43分]"
         },
         {
           "title": "巴基斯坦外长：必须遵守谅解备忘录，避免升级紧张局势。",
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时43分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -106,8 +106,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时43分]"
         }
       ]
     },
@@ -122,9 +122,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时39分 ~ 07时43分]"
         }
       ]
     }
