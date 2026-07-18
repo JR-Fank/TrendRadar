@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-18T14:53:57.508293+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-18T16:43:21.935788+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 14,
       "titles": [
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时39分]"
-        },
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
@@ -28,8 +17,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时39分 ~ 16时43分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[06时39分 ~ 14时53分]"
+          "time_info": "[01时02分 ~ 06时39分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -122,6 +122,18 @@
           "time_info": "[12时39分 ~ 14时53分]"
         },
         {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 16时43分]"
+        },
+        {
           "title": "美股半导体指数跌入熊市",
           "url": "https://www.toutiao.com/trending/7663631586239188521/",
           "source": "今日头条",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时42分]"
-        },
-        {
-          "title": "美股芯片股，距熊市仅一步之遥",
-          "url": "https://wallstreetcn.com/articles/3777197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -195,8 +196,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 14时53分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 16时43分]"
         },
         {
           "title": "大空头Burry：现在是抄底港股的绝佳时机",
@@ -210,6 +211,45 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时43分 ~ 14时53分]"
+        },
+        {
+          "title": "Kimi有望最快6个月内港股上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 台积电",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
+          "url": "https://flash.jin10.com/detail/20260718033701724800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "“床垫界特斯拉”破产背后",
+          "url": "https://www.toutiao.com/trending/7663677809985850934/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         }
       ]
     },
@@ -239,23 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
-          "url": "https://flash.jin10.com/detail/20260718033701724800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
         }
       ]
     },
