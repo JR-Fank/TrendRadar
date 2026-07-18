@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:43:57.185331+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-18T09:29:07.943791+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时43分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 09时29分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -109,6 +110,17 @@
           "time_info": "[04时52分 ~ 07时43分]"
         },
         {
+          "title": "美股半导体指数跌入熊市",
+          "url": "https://www.toutiao.com/trending/7663631586239188521/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 09时29分]"
+        },
+        {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
           "url": "https://flash.jin10.com/detail/20260718040114530800",
           "source": "金十数据",
@@ -155,22 +167,24 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时29分]"
         },
         {
           "title": "大空头Burry：现在是抄底港股的绝佳时机",
           "url": "https://wallstreetcn.com/articles/3777194",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 09时29分]"
         }
       ]
     },
