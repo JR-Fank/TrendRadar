@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T02:52:23.350234+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-07-20T04:03:26.033437+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 04时03分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
@@ -42,11 +42,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时03分]"
         },
         {
           "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
@@ -54,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 04时03分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 04时03分]"
         }
       ]
     }
