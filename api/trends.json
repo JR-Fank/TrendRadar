@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:45:39.352188+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-20T01:51:03.156159+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
@@ -26,8 +26,36 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
+          "url": "https://flash.jin10.com/detail/20260720010610722800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时51分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260720010304917800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     },
@@ -40,11 +68,12 @@
           "url": "https://www.zhihu.com/question/2062166923002090163",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时51分]"
         }
       ]
     }
