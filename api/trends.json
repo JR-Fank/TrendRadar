@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:43:35.387909+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-19T09:46:37.017749+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时46分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -120,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时39分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[06时39分 ~ 09时46分]"
         }
       ]
     }
