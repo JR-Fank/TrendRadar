@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T01:23:23.097890+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-21T03:26:25.870813+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时26分]"
         },
         {
           "title": "美股存储芯片反弹",
@@ -37,8 +37,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 03时26分]"
         }
       ]
     }
