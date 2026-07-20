@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T23:02:50.422029+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-07-21T01:23:23.097890+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -14,364 +14,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶。 WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 路透援引伊朗高级消息人士的话称，调停方已提议双方停止打击行动10天，以寻求恢复伊朗与美国临时协议的途径。",
-          "url": "https://wallstreetcn.com/livenews/3136884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "美股三大股指期货走高，纳斯达克100指数期货涨超1%，标普500指数期货涨0.57%，道指期货涨0.43%。",
-          "url": "https://flash.jin10.com/detail/20260720193452727800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "01时23分"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时42分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/3136836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时09分"
-        },
-        {
-          "title": "美股盘前，中概股普涨，百度涨约4%，携程网涨约5%，阿里巴巴涨约4%。",
-          "url": "https://wallstreetcn.com/livenews/3136713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 17时16分]"
-        },
-        {
-          "title": "台积电首席财务官黄仁昭表示，计划于2027年向外国投资者以美元派发股息。",
-          "url": "https://wallstreetcn.com/livenews/3136389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "特斯拉在德国工厂提升产量，来应对需求增长",
-          "url": "https://wallstreetcn.com/livenews/3136285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时52分]"
-        },
-        {
-          "title": "台积电CFO：看到AI芯片有“强劲且可持续多年”的需求。 亚利桑那州工厂建设存在物理制约因素，正与美国政府紧密合作。 若市场时机有利，不排除发行债券来资助资本支出。",
-          "url": "https://wallstreetcn.com/livenews/3136379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时48分"
+          "time_info": "01时23分"
         },
         {
-          "title": "台积电(TSM.N)首席财务官：若市场时机有利，不排除发行债券以资助资本支出。",
-          "url": "https://flash.jin10.com/detail/20260720070104390800",
-          "source": "金十数据",
+          "title": "美股存储芯片反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "台积电(TSM.N)首席财务官：亚利桑那州工厂建设面临物理层面的制约；正与美国政府密切合作。",
-          "url": "https://flash.jin10.com/detail/20260720070044294800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
-          "url": "https://flash.jin10.com/detail/20260720070039657800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
-          "url": "https://flash.jin10.com/detail/20260720010610722800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时03分]"
-        },
-        {
-          "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260720010304917800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 04时03分]"
-        },
-        {
-          "title": "加拿大外长阿南德：去年，加拿大对巴基斯坦的出口增长了65%，推动两国商品贸易总额达到12亿美元。这一势头为我们两国扩大投资、开拓新市场、为企业创造更多机遇奠定了坚实基础。",
-          "url": "https://flash.jin10.com/detail/20260720224619743800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "消息人士：伊朗内政部长明日将在伊斯兰堡会见巴基斯坦陆军参谋长。",
-          "url": "https://flash.jin10.com/detail/20260720224208811800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数跌1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3136581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "伊朗外交部发言人宣布：伊朗内政部长将于本周一出访巴基斯坦。",
-          "url": "https://wallstreetcn.com/livenews/3136715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "“含韩”港股ETF净值跳水，激进加杠杆响警钟",
-          "url": "https://wallstreetcn.com/livenews/3136349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时42分]"
-        },
-        {
-          "title": "多只港股方向产品基金经理有变，看好科技创新药机会",
-          "url": "https://wallstreetcn.com/livenews/3136347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时42分]"
-        },
-        {
-          "title": "中国软件国际港股午后直线拉升，一度涨超25%，公司与月之暗面签署Token分成及联合创新合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3136588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "港股明星科网股走强，哔哩哔哩(09626.HK)涨超6%，阿里巴巴(09988.HK)涨超5%，快手(01024.HK)、腾讯控股(00700.HK)、小米集团(01810.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260720093937612800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "港股光通信板块走强，长飞光纤光缆(06869.HK)涨超7%，华虹宏力(01347.HK)涨超7%，汇聚科技(01729.HK)、蓝思科技(06613.HK)、曦智科技-P(01879.HK)、剑桥科技(06166.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260720093734648800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 OpenAI 战略未来负责人对 kimi k3 开源的公开发言？",
-          "url": "https://www.zhihu.com/question/2062166923002090163",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            5,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 07时48分]"
-        },
-        {
-          "title": "OpenAI称Kimi开源是减速主义",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "time_info": "01时23分"
         }
       ]
     }
