@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-21T15:33:42.449372+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-07-21T18:16:05.536422+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时48分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 18时16分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -80,6 +81,18 @@
           "time_info": "06时47分"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 18时16分]"
+        },
+        {
           "title": "美股存储芯片反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -89,6 +102,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时23分 ~ 06时47分]"
+        },
+        {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -168,23 +192,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         }
       ]
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "港股PCB概念走强，建滔积层板(01888.HK)涨超5%，建滔集团(00148.HK)涨超4%，鼎泰高科(01377.HK)、广合科技(01989.HK)、大族数控(03200.HK)等个股跟涨。",
@@ -196,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "张坤增聘后首份季报，调仓方向明了，加科技、减消费、砍港股",
+          "url": "https://www.cls.cn/detail/2432530",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "港股午评：恒生科技指数收涨1.83%，芯片股连日走强",
@@ -212,7 +236,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -235,8 +259,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 18时16分]"
+        },
+        {
+          "title": "贝莱德(BLK.N)、Carhartt、福特汽车(F.N)、谷歌(GOOG.O)联合推出新联盟，旨在扩大技能劳动力培训。",
+          "url": "https://flash.jin10.com/detail/20260721180223434800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },
@@ -250,11 +285,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 18时16分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -262,11 +298,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时00分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时00分 ~ 18时16分]"
         }
       ]
     },
