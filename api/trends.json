@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-21T09:46:50.098253+08:00",
-  "total_titles_processed": 761,
-  "failed_sources": [],
+  "generated_at": "2026-07-21T13:01:54.084434+08:00",
+  "total_titles_processed": 949,
+  "failed_sources": [
+    "baidu",
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时48分 ~ 13时01分]"
+        },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -18,6 +32,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 05时02分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 13时00分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -32,27 +58,18 @@
           "time_info": "[01时23分 ~ 09时46分]"
         },
         {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时48分 ~ 09时46分]"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
           "source": "财联社热门",
           "ranks": [
-            5,
-            1
+            12,
+            7,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时48分 ~ 09时46分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 13时00分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -77,19 +94,6 @@
           "time_info": "[01时23分 ~ 06时47分]"
         },
         {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 09时46分]"
-        },
-        {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3137079",
           "source": "华尔街见闻-快讯",
@@ -112,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时47分]"
+        },
+        {
+          "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
+          "url": "https://www.cls.cn/detail/2431824",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时00分"
         },
         {
           "title": "金十图示：2026年07月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -160,6 +175,34 @@
       ]
     },
     {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股PCB概念走强，建滔积层板(01888.HK)涨超5%，建滔集团(00148.HK)涨超4%，鼎泰高科(01377.HK)、广合科技(01989.HK)、大族数控(03200.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260721094045604800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "港股午评：恒生科技指数收涨1.83%，芯片股连日走强",
+          "url": "https://flash.jin10.com/detail/20260721120819624800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -170,37 +213,77 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 13时00分]"
         },
         {
           "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时01分]"
         }
       ]
     },
     {
-      "keyword_group": "港股",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "港股PCB概念走强，建滔积层板(01888.HK)涨超5%，建滔集团(00148.HK)涨超4%，鼎泰高科(01377.HK)、广合科技(01989.HK)、大族数控(03200.HK)等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260721094045604800",
-          "source": "金十数据",
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时00分 ~ 13时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴基斯坦KSE-100指数上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/3137315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "13时01分"
+        },
+        {
+          "title": "伊朗内政部长访巴基斯坦 推进经贸合作并讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260721033922832800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     },
@@ -219,23 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗内政部长访巴基斯坦 推进经贸合作并讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260721033922832800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
         }
       ]
     }
