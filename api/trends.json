@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:53:39.811711+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-07-24T09:48:54.206319+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特斯拉 台积电",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI开支引发回报疑虑，纳指跌幅扩大至2%，特斯拉跌超13%，布油触及百元关口，美国长债承压",
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 09时48分]"
         },
         {
           "title": "摩根大通将特斯拉目标价从475.00美元/股下调至445.00美元/股。",
@@ -51,6 +52,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 09时48分]"
+        },
+        {
+          "title": "南方两倍做空特斯拉(07366.HK)涨超15%；消息面上，特斯拉季度利润未达预期且自由现金流逾两年来首度转负。",
+          "url": "https://flash.jin10.com/detail/20260724093227900800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
@@ -77,18 +102,6 @@
           "time_info": "[04时12分 ~ 05时57分]"
         },
         {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时53分]"
-        },
-        {
           "title": "段永平：十年内大概率不会卖泡泡玛特，计划卖出SpaceX与特斯拉Put",
           "url": "https://wallstreetcn.com/articles/3777778",
           "source": "华尔街见闻",
@@ -97,8 +110,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 09时48分]"
+        },
+        {
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时53分]"
+          "time_info": "[07时53分 ~ 09时48分]"
         },
         {
           "title": "美国将在特斯拉致死事故后着手制定车门安全新规",
@@ -135,17 +160,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
           "url": "https://wallstreetcn.com/livenews/3139060",
           "source": "华尔街见闻-快讯",
@@ -166,12 +180,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "特斯拉崩跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -197,15 +222,27 @@
           "time_info": "[01时09分 ~ 07时53分]"
         },
         {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时48分]"
         },
         {
           "title": "甲骨文与美国五角大楼签订10年期软件承包合同，价值高达70亿美元。 甲骨文（ORCL）美股盘后涨4%。",
@@ -312,8 +349,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 09时48分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -334,11 +371,12 @@
           "url": "https://wallstreetcn.com/articles/3777753",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 09时48分]"
         },
         {
           "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
@@ -364,7 +402,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
         },
@@ -411,6 +449,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "港股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深交所公告，深港通下的港股通标的证券名单调入禾赛-W、圣邦股份、芯碁微装，7月24日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3139145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "港股黄金股低开，赤峰黄金(06693.HK)、灵宝黄金(03330.HK)双双跌超6%，紫金黄金国际(02259.HK)跌超5%，招金矿业(01818.HK)跌超4%，山东黄金(01787.HK)、紫金矿业(02899.HK)、潼关黄金(00340.HK)等个股跟跌。此前，现货黄金短线走低10美元，报4041.5美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260724092312657800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "港股开盘，恒生指数开跌1.10%，恒生科技指数开跌1.86%；黄金、PCB、明星科网等板块跌幅居前；紫金黄金国际(02259.HK)开跌5.44%。",
+          "url": "https://flash.jin10.com/detail/20260724092113289800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
