@@ -1,406 +1,61 @@
 {
-  "generated_at": "2026-07-25T23:57:24.025700+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-07-26T00:49:57.052984+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时57分 ~ 23时57分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
           "url": "https://www.cls.cn/detail/2436884",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时57分 ~ 23时57分]"
-        },
-        {
-          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777828",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时57分]"
+          "appearance_count": 1,
+          "time_info": "00时49分"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            8,
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时57分 ~ 23时57分]"
-        },
-        {
-          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
-          "url": "https://wallstreetcn.com/livenews/3139670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 09时53分]"
-        },
-        {
-          "title": "周五（7月24日），美股存储芯片与硬件供应链指数跌7.29%，报200.25点，本周累计上涨5.74%，整体处于上涨状态，7月23-24日持续回撤。",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时55分 ~ 09时53分]"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041219645800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260725041124494800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
-          "url": "https://flash.jin10.com/detail/20260725040225206800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时11分 ~ 09时53分]"
-        },
-        {
-          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://wallstreetcn.com/livenews/3139736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 21时02分]"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 21时02分]"
-        },
-        {
-          "title": "ChatGPT崩了",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "OpenAI称将发布Hugging Face被黑事件技术报告",
-          "url": "https://flash.jin10.com/detail/20260725090502293800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时53分"
-        },
-        {
-          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
-          "url": "https://www.zhihu.com/question/2063832242242184073",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时11分 ~ 05时57分]"
-        },
-        {
-          "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
-          "url": "https://flash.jin10.com/detail/20260725044718667800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
-          "url": "https://wallstreetcn.com/livenews/3139651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
-          "url": "https://wallstreetcn.com/livenews/3139647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时57分 ~ 07时57分]"
-        },
-        {
-          "title": "特斯拉跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 09时53分]"
+          "time_info": "00时49分"
         }
       ]
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
-          "url": "https://flash.jin10.com/detail/20260725013811963800",
+          "title": "沙特外交大臣接到巴基斯坦外长来电，讨论缓和地区紧张局势的努力。",
+          "url": "https://flash.jin10.com/detail/20260726002337201800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）援引一名高级消息人士称，巴基斯坦已告知伊朗，必须向胡塞武装施压，要求其停止在红海发动袭击。",
-          "url": "https://flash.jin10.com/detail/20260725013116862800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "伊朗与巴基斯坦两国外长会晤，讨论地区及国际局势",
-          "url": "https://wallstreetcn.com/livenews/3139613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "沙特导弹砸向胡塞 巴基斯坦会下场吗",
-          "url": "https://www.toutiao.com/trending/7666413916833975814/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "王毅会见巴基斯坦副总理兼外长达尔",
-          "url": "https://wallstreetcn.com/livenews/3139583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌公司回应美国总统发出301调查威胁，称：曾努力设法符合欧盟数字市场法案（DMA）的要求。 就近期欧盟委员会（反垄断）决定的影响表达诸多关切。 感谢美国政府的介入。",
-          "url": "https://wallstreetcn.com/livenews/3139614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
-          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
-          "url": "https://wallstreetcn.com/livenews/3139604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "00时49分"
         }
       ]
     }
