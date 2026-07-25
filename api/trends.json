@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T19:03:13.632615+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-07-25T21:02:34.702310+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 21时02分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 21时02分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -33,19 +46,6 @@
           "time_info": "[02时11分 ~ 07时57分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 19时03分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
@@ -55,11 +55,12 @@
             8,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时57分 ~ 19时03分]"
+          "appearance_count": 9,
+          "time_info": "[07时57分 ~ 21时02分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -182,11 +183,24 @@
           "url": "https://wallstreetcn.com/livenews/3139736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时02分]"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 21时02分]"
         },
         {
           "title": "ChatGPT崩了",
@@ -231,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
-          "url": "https://flash.jin10.com/detail/20260725172016965800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         }
       ]
     },
@@ -314,7 +317,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -348,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "沙特导弹砸向胡塞 巴基斯坦会下场吗",
+          "url": "https://www.toutiao.com/trending/7666413916833975814/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "王毅会见巴基斯坦副总理兼外长达尔",
