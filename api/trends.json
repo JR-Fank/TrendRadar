@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-26T06:44:26.175806+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-26T07:53:24.092917+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时53分]"
+        },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
@@ -19,26 +31,16 @@
           "time_info": "[00时49分 ~ 06时44分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时44分]"
-        },
-        {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
           "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 06时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 07时53分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -71,8 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时07分 ~ 06时44分]"
+          "appearance_count": 4,
+          "time_info": "[04时07分 ~ 07时53分]"
         },
         {
           "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
@@ -83,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时44分]"
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 07时53分]"
         }
       ]
     },
