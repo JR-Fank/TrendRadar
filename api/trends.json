@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T12:57:42.255235+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-07-25T15:12:10.518980+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时57分]"
-        },
-        {
-          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时54分 ~ 06时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时12分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -52,8 +41,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时12分]"
+        },
+        {
+          "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 06时55分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
@@ -86,11 +86,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 15时12分]"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
