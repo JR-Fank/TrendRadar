@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T07:53:24.092917+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-07-26T09:51:28.074112+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时51分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 07时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时51分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
