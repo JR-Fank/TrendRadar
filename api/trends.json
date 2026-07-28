@@ -1,12 +1,39 @@
 {
-  "generated_at": "2026-07-28T12:56:00.472294+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-07-28T15:33:42.754569+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 15时33分]"
+        },
+        {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时52分 ~ 15时33分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -33,32 +60,6 @@
           "time_info": "[01时31分 ~ 05时03分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时52分 ~ 12时56分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时56分]"
-        },
-        {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
           "url": "https://www.cls.cn/detail/2438605",
           "source": "财联社热门",
@@ -66,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时33分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -125,11 +126,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 15时33分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -166,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 03时13分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "美股迎芯片风暴 苹果重返市值第一",
@@ -245,6 +258,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
           "url": "https://flash.jin10.com/detail/20260728040127842800",
           "source": "金十数据",
@@ -288,11 +312,12 @@
           "url": "https://www.cls.cn/detail/2438416",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 15时33分]"
         },
         {
           "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
@@ -313,7 +338,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -357,7 +382,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         }
@@ -374,7 +399,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
         },
@@ -403,11 +428,12 @@
             14,
             15,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 12时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 15时33分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -448,11 +474,12 @@
           "url": "https://news.ifeng.com/c/8v7VOoXbt9T",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 15时33分]"
         }
       ]
     }
