@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T07:52:32.372202+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-07-29T09:44:00.350106+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,37 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 09时44分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 09时44分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时44分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -32,17 +58,27 @@
           "time_info": "[01时19分 ~ 04时59分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时44分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 09时44分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -59,48 +95,15 @@
           "time_info": "[01时19分 ~ 06时04分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
-          "url": "https://www.cls.cn/detail/2439531",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "美股收盘：AI概念延续“血色一夜”",
           "url": "https://www.toutiao.com/trending/7667714133717945882/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时52分]"
         },
         {
           "title": "周二（7月28日），美股行业ETF多数收涨，全球航空业ETF涨2.87%，医疗业ETF涨2.38%，网络股指数ETF涨1.59%，能源业ETF跌1.35%，科技行业ETF跌1.84%，全球科技股指数ETF跌2.08%，半导体ETF跌3.45%。 标普500指数的11个板块中，保健板块涨2.33%，原材料、电信板块至少涨1.64%，信息技术/科技板块跌1.17%，能源板块跌1.4%。",
@@ -126,6 +129,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时08分 ~ 06时04分]"
+        },
+        {
+          "title": "美股光通信、存储大跌 闪迪跌逾14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%89%E9%80%9A%E4%BF%A1%E3%80%81%E5%AD%98%E5%82%A8%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E9%80%BE14%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时44分]"
         },
         {
           "title": "希捷科技第四财季营收36.5亿美元，分析师预期34.9亿美元。 第四财季调整后每股收益（EPS）为5.71美元，分析师预期5.08美元。 第四财季调整后运营利润率44.6%，分析师预期41.9%。 预计第一财季营收40亿-42亿美元，分析师预期37.9亿美元。 受希捷科技财报提振，美股存储芯片概念股盘后走高，西部数据涨6.5%，SK海力士ADR涨2.5%，美光科技涨0.8%，闪迪涨1%，希捷科技一度涨9%。",
@@ -157,7 +171,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -173,24 +187,13 @@
           "time_info": "04时59分"
         },
         {
-          "title": "美股光通信、存储大跌 闪迪跌逾14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%89%E9%80%9A%E4%BF%A1%E3%80%81%E5%AD%98%E5%82%A8%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E9%80%BE14%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "SK海力士财报不及预期 美股盘后一度大跌9%",
           "url": "https://flash.jin10.com/detail/20260729070746784800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -220,7 +223,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI越狱代理攻击范围扩大 再曝一公司客户账户遭入侵",
@@ -267,6 +270,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "在Hugging Face安全事件期间访问了第三方系统的OpenAI Agent，触及了与CyberGym相关的基础设施；而CyberGym正是该Agent当时被指定解答的ExploitGym基准测试背后的项目。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3141298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
           "title": "OpenAI与Anthropic员工联名致信，呼吁美国政府协助治理AI",
           "url": "https://wallstreetcn.com/livenews/3141130",
           "source": "华尔街见闻-快讯",
@@ -289,11 +303,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 09时44分]"
         },
         {
           "title": "港股IPO市场持续升温，科技与“A+H”双轮驱动",
@@ -302,7 +317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -313,7 +328,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
