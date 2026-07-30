@@ -1,609 +1,89 @@
 {
-  "generated_at": "2026-07-30T23:03:47.352038+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-07-31T01:15:55.676880+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 32,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时50分]"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时51分 ~ 15时28分]"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 09时26分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时51分]"
-        },
-        {
-          "title": "美股三大股指期货集体走高，纳指期货日内涨约1.5%，明星科技股盘前普涨，SK海力士盘前涨近4%，美光科技盘前涨超4%，SpaceX盘前涨超3%，英伟达盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3142448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "美股大跌 美光科技跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 09时26分]"
-        },
-        {
-          "title": "Meta美股盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3141919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 06时51分]"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260730003937235800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260730003902426800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时15分"
         },
         {
-          "title": "Meta Platforms(META.O)美股盘后跌幅扩大至10%。",
-          "url": "https://flash.jin10.com/detail/20260730051121325800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
-          "url": "https://wallstreetcn.com/livenews/3142532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "美股半导体板块迎反弹 多股暴涨超10%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E8%BF%8E%E5%8F%8D%E5%BC%B9+%E5%A4%9A%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8510%25",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260730040558653800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
-          "url": "https://www.cls.cn/detail/2440809",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260730040555975800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
-          "url": "https://flash.jin10.com/detail/20260730060759487800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美股存储板块盘前走强，美光科技、SK海力士涨超3%，闪迪涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3142442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "高盛警告：季节性因素与观望情绪或压制美股",
-          "url": "https://flash.jin10.com/detail/20260730223624219800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-07-30）",
-          "url": "https://flash.jin10.com/detail/20260730201539836800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
-          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
-          "url": "https://wallstreetcn.com/livenews/3141937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美股尾盘大跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美股收盘：道指跌超2% 美光科技跌近10%",
-          "url": "https://flash.jin10.com/detail/20260730040113498800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "市场反应：美国10年期国债收益率短线从4.635%附近跳水至4.61%下方，整体转跌；两年期美债收益率从4.32%附近跳水至接近4.24%，整体转跌。 现货黄金从4040美元附近拉升至4081美元上方，涨幅超过1.2%。 标普跌0.2%，道指跌1.1%，纳指转涨。 新兴市场外汇指数刷新日高，拉美股市、巴西股指跌幅收窄。",
-          "url": "https://wallstreetcn.com/livenews/3141824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
-          "url": "https://wallstreetcn.com/livenews/3141905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
-          "url": "https://flash.jin10.com/detail/20260729235733108800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
-          "url": "https://wallstreetcn.com/livenews/3141903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美股芯片半导体反弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
-          "url": "https://flash.jin10.com/detail/20260730035000001800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "拉姆研究美股盘后涨6%，该公司给出了强劲的第一财季调整后每股收益（EPS）指引。",
-          "url": "https://wallstreetcn.com/livenews/3141900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "美股三大股指高开，科技股反弹，微软大涨12%",
-          "url": "https://wallstreetcn.com/livenews/3142509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "港股开盘，恒指开涨0.26%，科指开涨0.43%；新东方(09901.HK)涨超14.5%，京东物流(02618.HK)涨2.5%，中际旭创(03308.HK)上市首日开盘跌0.92%。",
-          "url": "https://flash.jin10.com/detail/20260730092127279800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "中际旭创登陆港股",
-          "url": "https://www.douyin.com/hot/2590247",
-          "source": "抖音",
-          "ranks": [
-            4,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 20时25分]"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-07-30）",
-          "url": "https://flash.jin10.com/detail/20260730091927686800",
+          "title": "金十图示：2026年07月30日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260731003358052800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时26分"
+          "time_info": "01时15分"
         },
         {
-          "title": "中证港股通半导体产业指数等4条指数将于7月31日正式发布",
-          "url": "https://flash.jin10.com/detail/20260730173854407800",
+          "title": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260731003317989800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "南向资金今日大幅净卖出85.71亿元。港股通（沪）方面，盈富基金、泡泡玛特分别获净卖出19.72亿港元、3.85亿港元；腾讯控股净买入额居首，金额为4.44亿港元；港股通（深）方面，中芯国际、阿里巴巴-W分别获净卖出13.76亿港元、9.93亿港元；腾讯控股净买入额居首，金额为5.68亿港元。",
-          "url": "https://flash.jin10.com/detail/20260730173740790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "港股午评：恒指收跌0.05% AI次新股再度大跌",
-          "url": "https://flash.jin10.com/detail/20260730122231938800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "上市首日破发！港股中际旭创跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%EF%BC%81%E6%B8%AF%E8%82%A1%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "01时15分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 20时25分]"
-        },
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
           "url": "https://www.cls.cn/detail/2441076",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 23时03分]"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 15时28分]"
-        },
-        {
-          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
-          "url": "https://flash.jin10.com/detail/20260730071758962800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "01时15分"
         },
         {
-          "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
-          "url": "https://flash.jin10.com/detail/20260730003826526800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
-          "url": "https://wallstreetcn.com/livenews/3141939",
+          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
+          "url": "https://wallstreetcn.com/livenews/3142559",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
-          "url": "https://flash.jin10.com/detail/20260730055730100800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "01时15分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国自动驾驶技术公司Waymo：谷歌的Gemini车载助手现已进入测试阶段，供乘客使用。",
-          "url": "https://flash.jin10.com/detail/20260730003639698800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
-          "url": "https://wallstreetcn.com/livenews/3141787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在谷歌Flow音乐中推出 Lyria 3.5，搭载先进的音乐生成功能。",
-          "url": "https://flash.jin10.com/detail/20260730000756191800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "谷歌公司在Google Flow Music推出Lyria 3.5。",
-          "url": "https://wallstreetcn.com/livenews/3141870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 台积电",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3141779",
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "01时15分"
         }
       ]
     },
@@ -612,15 +92,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "巴基斯坦称美伊就降温局势的会谈“仍在进行中”。（法新社）",
-          "url": "https://wallstreetcn.com/livenews/3142228",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特国防部：包括土耳其、巴基斯坦、埃及、苏丹和吉布提在内的14个国家发表联合声明，支持拟议组建的多国海上防御联盟。",
+          "url": "https://flash.jin10.com/detail/20260731002537082800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "01时15分"
         }
       ]
     }
