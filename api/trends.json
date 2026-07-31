@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T21:41:09.437562+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2026-07-31T23:55:38.358440+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时20分 ~ 21时41分]"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时55分]"
         },
         {
           "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
@@ -58,15 +70,29 @@
           "time_info": "[13时26分 ~ 19时21分]"
         },
         {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 23时55分]"
         },
         {
           "title": "美股存储芯片指数收涨超16.9%，闪迪涨约26%，SK海力士ADR涨超17.5%",
@@ -80,17 +106,15 @@
           "time_info": "07时09分"
         },
         {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            15,
-            14
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时55分]"
         },
         {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
@@ -103,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时01分]"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
@@ -158,7 +171,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -251,6 +264,17 @@
           "time_info": "19时21分"
         },
         {
+          "title": "美国股市转跌，纳斯达克100指数完全回吐美股盘初1.8%的涨幅",
+          "url": "https://wallstreetcn.com/livenews/3143325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美股收盘：满屏都是两位数涨幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
           "source": "百度热搜",
@@ -268,7 +292,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -286,11 +310,12 @@
             16,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 23时55分]"
         },
         {
           "title": "特斯拉否认「剥离或出售中国业务」，中国业务对其有多重要？怎样从商业角度解读？",
@@ -299,11 +324,12 @@
           "ranks": [
             17,
             8,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 23时55分]"
         },
         {
           "title": "马斯克在社交平台X上称，有关特斯拉考虑剥离中国业务的媒体报道是“假新闻”。",
@@ -386,7 +412,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
@@ -412,6 +438,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
+          "title": "OpenAI：我们的模型目前覆盖超过10亿活跃用户。 覆盖超过200万家企业。",
+          "url": "https://wallstreetcn.com/livenews/3143353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
@@ -549,8 +586,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 23时55分]"
         },
         {
           "title": "沙特国防部：包括土耳其、巴基斯坦、埃及、苏丹和吉布提在内的14个国家发表联合声明，支持拟议组建的多国海上防御联盟。",
