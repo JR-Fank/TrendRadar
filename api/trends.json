@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:59:50.143967+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-08-02T22:28:12.586678+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             9,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 20时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 22时28分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -85,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 20时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时49分 ~ 22时28分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
