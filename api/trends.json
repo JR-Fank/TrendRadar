@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-08-03T05:46:05.242425+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-08-03T06:46:01.538797+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "巴基斯坦",
       "match_count": 4,
       "titles": [
+        {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            19,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时46分]"
+        },
         {
           "title": "巴基斯坦西北部发生爆炸致14人死亡",
           "url": "https://flash.jin10.com/detail/20260803001122297800",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时54分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 05时46分]"
         },
         {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
@@ -68,11 +69,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时46分]"
         }
       ]
     },
@@ -86,11 +88,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 05时46分]"
+          "appearance_count": 5,
+          "time_info": "[04时06分 ~ 06时46分]"
         }
       ]
     },
@@ -107,8 +110,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时46分]"
         }
       ]
     },
@@ -124,8 +127,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时49分 ~ 05时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时46分]"
         }
       ]
     }
