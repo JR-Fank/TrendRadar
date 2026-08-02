@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T02:56:22.424573+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-08-03T04:06:57.755538+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -20,24 +20,25 @@
           "time_info": "[00时49分 ~ 01时54分]"
         },
         {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时06分]"
+        },
+        {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
           "url": "https://flash.jin10.com/detail/20260803010226366800",
           "source": "金十数据",
           "ranks": [
             6,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时56分]"
-        },
-        {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -69,8 +70,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 04时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
@@ -87,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 04时06分]"
         }
       ]
     },
@@ -104,8 +122,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时49分 ~ 02时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 04时06分]"
         }
       ]
     }
