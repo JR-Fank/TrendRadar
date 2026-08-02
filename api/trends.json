@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T16:20:25.294096+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-08-02T18:26:26.517041+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 18时26分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时49分 ~ 16时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时49分 ~ 18时26分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
@@ -69,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 18时26分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -78,11 +79,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时49分 ~ 18时26分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
@@ -94,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 16时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 18时26分]"
         }
       ]
     },
