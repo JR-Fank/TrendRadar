@@ -1,181 +1,40 @@
 {
-  "generated_at": "2026-08-03T23:38:48.821180+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2026-08-04T01:48:25.172379+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 12,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "巴基斯坦发生雪崩，10 人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2066825720576398691",
-          "source": "知乎",
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
           "ranks": [
-            10,
-            7,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 23时38分]"
-        },
-        {
-          "title": "据伊朗媒体报道，伊朗工业、矿业和贸易部长抵达伊斯兰堡，参加伊朗-巴基斯坦联合贸易委员会会议，并将会见该国高级官员。",
-          "url": "https://flash.jin10.com/detail/20260803230917783800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时38分"
+          "time_info": "01时48分"
         },
         {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
+          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3144276",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            11,
-            19,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 06时46分]"
-        },
-        {
-          "title": "巴基斯坦西北部发生爆炸致14人死亡",
-          "url": "https://flash.jin10.com/detail/20260803001122297800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时54分]"
-        },
-        {
-          "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
-          "url": "https://flash.jin10.com/detail/20260803010226366800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时56分]"
-        },
-        {
-          "title": "伊朗外长与巴基斯坦副总理兼外长通电话，就地区局势交换意见",
-          "url": "https://wallstreetcn.com/livenews/3144233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "巴基斯坦KSE-100指数上涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3143898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：消息人士称，巴基斯坦内政部长计划在接下来的一两天内访问伊朗。",
-          "url": "https://flash.jin10.com/detail/20260803225902468800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "巴基斯坦西北部发生爆炸 致7人死亡",
-          "url": "https://flash.jin10.com/detail/20260802231124338800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "据土耳其阿纳多卢通讯社援引巴基斯坦政府消息人士报道，美国和伊朗之间长期停滞的直接谈判恢复日期和地点尚未最终确定。",
-          "url": "https://flash.jin10.com/detail/20260803202902903800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "据土耳其阿纳多卢通讯社援引巴基斯坦政府消息人士报道，美国和伊朗谈判代表在至少未来24小时内没有计划在伊斯兰堡举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260803202748517800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "巴基斯坦外交部：巴基斯坦外交部长与伊朗外长阿拉格齐通话，讨论地区和国际局势。其邀请阿拉格齐尽快访问巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260803223901310800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时51分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -183,9 +42,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时38分"
+          "time_info": "01时48分"
         },
         {
           "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
@@ -194,187 +53,43 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2596417",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "港股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "港股科网股走强 百度集团涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%A7%91%E7%BD%91%E8%82%A1%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
-          "url": "https://flash.jin10.com/detail/20260803120418757800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "港股开盘，恒生指数开涨0.4%，恒生科技指数开涨0.68%；阿里巴巴(09988.HK)开涨3.42%，协合新能源(00182.HK)开涨14.08%，日前公告称与特斯拉签订购售电协议。",
-          "url": "https://flash.jin10.com/detail/20260803092041920800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "阿里巴巴港股涨近6%，Qwen3.8与“千问办公”同日亮相",
-          "url": "https://wallstreetcn.com/livenews/3143876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 13时33分]"
-        },
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 23时38分]"
-        },
-        {
-          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
-          "url": "https://www.zhihu.com/question/2066921241156523798",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时06分 ~ 07时51分]"
-        },
-        {
-          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
-          "url": "https://www.zhihu.com/question/2065724643378570793",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "报道：OpenAI、Anthropic、谷歌员工代表将参加周二的白宫AI企业会议",
-          "url": "https://wallstreetcn.com/livenews/3144221",
+          "title": "除了谷歌之外，Meta也将列席白宫周二的AI会议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3144274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时38分"
+          "time_info": "01时48分"
         }
       ]
     },
     {
-      "keyword_group": "特斯拉 台积电",
+      "keyword_group": "巴基斯坦",
       "match_count": 1,
       "titles": [
         {
-          "title": "近120万辆特斯拉汽车遭调查",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%91120%E4%B8%87%E8%BE%86%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "巴基斯坦发生雪崩，10 人国际登山队全部遇难，中国登山者王钟遗体被冲到千米之下，雪山雪崩究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2066825720576398691",
+          "source": "知乎",
           "ranks": [
-            9,
-            8,
-            6,
-            1,
-            4,
-            27
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 13时33分]"
+          "appearance_count": 1,
+          "time_info": "01时48分"
         }
       ]
     }
