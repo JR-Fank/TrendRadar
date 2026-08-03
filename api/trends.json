@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T07:51:40.328905+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-03T09:54:21.366391+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,34 @@
       ]
     },
     {
+      "keyword_group": "港股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股科网股走强 百度集团涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%A7%91%E7%BD%91%E8%82%A1%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "港股开盘，恒生指数开涨0.4%，恒生科技指数开涨0.68%；阿里巴巴(09988.HK)开涨3.42%，协合新能源(00182.HK)开涨14.08%，日前公告称与特斯拉签订购售电协议。",
+          "url": "https://flash.jin10.com/detail/20260803092041920800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 台积电",
       "match_count": 1,
       "titles": [
@@ -71,11 +99,12 @@
             9,
             8,
             6,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时54分]"
         }
       ]
     },
@@ -112,8 +141,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时49分 ~ 09时54分]"
         }
       ]
     },
