@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-04T14:24:48.847108+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-08-04T17:35:02.579624+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 17时35分]"
+        },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
           "url": "https://wallstreetcn.com/articles/3778526",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时48分 ~ 06时59分]"
-        },
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 14时24分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -221,7 +222,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
         },
@@ -260,11 +261,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时48分 ~ 14时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时48分 ~ 17时35分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
