@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T12:57:03.002520+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-08-05T15:34:00.079024+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 12时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 15时34分]"
         },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
@@ -46,6 +46,18 @@
           "time_info": "[00时08分 ~ 06时04分]"
         },
         {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 15时34分]"
+        },
+        {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
           "url": "https://www.cls.cn/detail/2445568",
           "source": "财联社热门",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 06时04分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时57分]"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
@@ -251,8 +251,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 15时34分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -280,8 +280,19 @@
     },
     {
       "keyword_group": "港股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "沪指涨超1%，科创50暴涨逾5%，半导体大爆发，“易中天”集体回应美国光模块禁令，港股科网股盘中反弹",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
+        },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-08-05）",
           "url": "https://flash.jin10.com/detail/20260805090824385800",
@@ -328,7 +339,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
