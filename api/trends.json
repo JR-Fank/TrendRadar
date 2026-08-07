@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T12:48:34.129514+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-08-07T14:05:52.954262+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -121,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 14时05分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -133,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 12时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时50分 ~ 14时05分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -161,8 +161,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 14时05分]"
         },
         {
           "title": "土耳其、沙特、巴基斯坦将签署防务协议。（路透）",
@@ -227,11 +227,12 @@
           "url": "https://www.cls.cn/detail/2447866",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 14时05分]"
         }
       ]
     },
