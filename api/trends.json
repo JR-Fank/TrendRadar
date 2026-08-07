@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T14:05:52.954262+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-08-07T16:07:28.769389+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -121,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 16时07分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -158,11 +158,12 @@
           "url": "https://news.ifeng.com/c/8vO8sRy6zyA",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 14时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 16时07分]"
         },
         {
           "title": "土耳其、沙特、巴基斯坦将签署防务协议。（路透）",
