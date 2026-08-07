@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:38:56.400684+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-08-07T20:40:47.748243+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -110,7 +110,7 @@
     },
     {
       "keyword_group": "巴基斯坦",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴基斯坦、土耳其、沙特、印尼、埃及等八国，发表联合声明",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时07分 ~ 16时07分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问雷扎伊表示，沙特必须明白，与土耳其和巴基斯坦达成纸面协议并不会带来安全，就像多年来对美国的单方面依赖并未带来安全一样。改革你的政策，以便不必向他人乞求安全。",
+          "url": "https://flash.jin10.com/detail/20260807195826499800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "土耳其、沙特、巴基斯坦将签署防务协议。（路透）",
@@ -142,7 +153,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -175,7 +186,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -194,8 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时50分 ~ 19时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -219,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 19时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 20时40分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -318,7 +329,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "曝OpenAI最快下周推出Astra AI",
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
+          "url": "https://wallstreetcn.com/articles/3778889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     }
