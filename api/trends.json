@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:29:14.066906+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-08-08T17:28:39.303082+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[08时54分 ~ 17时28分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -50,11 +50,12 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 16时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 17时28分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -64,11 +65,12 @@
             10,
             4,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时25分 ~ 16时29分]"
+          "appearance_count": 14,
+          "time_info": "[06时25分 ~ 17时28分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -161,6 +163,17 @@
           "time_info": "[04时31分 ~ 08时54分]"
         },
         {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "美股收盘：标普500指数再创新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -170,6 +183,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "巴基斯坦",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
+          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 15时41分]"
+        },
+        {
+          "title": "沙特土耳其巴基斯坦签署共同防务协议",
+          "url": "https://www.toutiao.com/trending/7670699331342630975/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            21,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 05时29分]"
+        },
+        {
+          "title": "中东局势新变化！沙特、土耳其、巴基斯坦签署共同防务协议",
+          "url": "https://www.cls.cn/detail/2448756",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 16时29分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         }
       ]
     },
@@ -219,52 +289,6 @@
       ]
     },
     {
-      "keyword_group": "巴基斯坦",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
-          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时41分]"
-        },
-        {
-          "title": "沙特土耳其巴基斯坦签署共同防务协议",
-          "url": "https://www.toutiao.com/trending/7670699331342630975/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            21,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "中东局势新变化！沙特、土耳其、巴基斯坦签署共同防务协议",
-          "url": "https://www.cls.cn/detail/2448756",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -281,8 +305,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时42分 ~ 16时29分]"
+          "appearance_count": 24,
+          "time_info": "[00时42分 ~ 17时28分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
