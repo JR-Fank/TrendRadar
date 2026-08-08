@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:05:19.569630+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-08T13:36:11.500766+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
@@ -19,19 +19,6 @@
           "time_info": "[00时42分 ~ 07时26分]"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 12时05分]"
-        },
-        {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
           "url": "https://wallstreetcn.com/articles/3778924",
           "source": "华尔街见闻",
@@ -43,6 +30,20 @@
           "time_info": "[00时42分 ~ 05时29分]"
         },
         {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 13时36分]"
+        },
+        {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
@@ -52,6 +53,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 03时45分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 13时36分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -83,19 +97,6 @@
           "time_info": "[00时42分 ~ 07时26分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 12时05分]"
-        },
-        {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
@@ -104,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时36分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -182,11 +183,12 @@
             1,
             5,
             13,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时36分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -254,8 +256,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[08时54分 ~ 13时36分]"
         }
       ]
     },
@@ -271,11 +273,12 @@
             18,
             19,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 12时05分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 13时36分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
