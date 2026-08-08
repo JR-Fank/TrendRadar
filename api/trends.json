@@ -1,229 +1,51 @@
 {
-  "generated_at": "2026-08-08T23:20:45.171027+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-08-09T00:22:07.300763+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            5,
-            2,
-            1,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时54分 ~ 23时20分]"
-        },
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 07时26分]"
-        },
-        {
-          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时42分 ~ 23时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
-            3,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[06时25分 ~ 23时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 03时45分]"
-        },
-        {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            17,
-            15,
-            10,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 07时26分]"
-        },
-        {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时42分 ~ 07时26分]"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040607361800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 08时54分]"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040559195800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 08时54分]"
-        },
-        {
-          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3146912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
-          "url": "https://flash.jin10.com/detail/20260808040100140800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 08时54分]"
-        },
-        {
-          "title": "李大霄谈美股三大指数高开",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 19时21分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            22,
-            24,
-            26,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时42分 ~ 20时27分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 23时20分]"
-        },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778993",
@@ -231,54 +53,27 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
-          "url": "https://flash.jin10.com/detail/20260807231253787800",
-          "source": "金十数据",
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            19,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 14时36分]"
-        },
-        {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
           "url": "https://wallstreetcn.com/articles/3778988",
@@ -287,78 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时38分 ~ 23时20分]"
-        },
-        {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "巴基斯坦",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
-          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时54分 ~ 15时41分]"
-        },
-        {
-          "title": "沙特土耳其巴基斯坦签署共同防务协议",
-          "url": "https://www.toutiao.com/trending/7670699331342630975/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            21,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时29分]"
-        },
-        {
-          "title": "中东局势新变化！沙特、土耳其、巴基斯坦签署共同防务协议",
-          "url": "https://www.cls.cn/detail/2448756",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时42分 ~ 16时29分]"
-        },
-        {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 21时39分]"
+          "time_info": "[00时21分 ~ 00时22分]"
         }
       ]
     }
