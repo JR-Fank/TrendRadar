@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:36:11.500766+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2026-08-08T14:36:10.885207+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 13时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 14时36分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时25分 ~ 14时36分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -55,17 +68,17 @@
           "time_info": "[00时42分 ~ 03时45分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
-            3
+            5,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时25分 ~ 13时36分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 14时36分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时42分 ~ 07时26分]"
-        },
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时36分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -184,11 +185,12 @@
             5,
             13,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 13时36分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 14时36分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -220,6 +222,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
+          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 14时36分]"
+        },
+        {
           "title": "沙特土耳其巴基斯坦签署共同防务协议",
           "url": "https://www.toutiao.com/trending/7670699331342630975/",
           "source": "今日头条",
@@ -244,20 +258,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 10时51分]"
-        },
-        {
-          "title": "沙特、土耳其和巴基斯坦签了：攻击一国视作攻击三国",
-          "url": "https://news.ifeng.com/c/8vOzV0bAQOS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 14时36分]"
         }
       ]
     },
@@ -277,8 +279,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时42分 ~ 13时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 14时36分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
