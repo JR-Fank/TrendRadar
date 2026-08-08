@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:22:17.638556+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-08-08T19:21:32.044746+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时54分 ~ 18时22分]"
+          "appearance_count": 14,
+          "time_info": "[08时54分 ~ 19时21分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -54,8 +54,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时42分 ~ 18时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时42分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时25分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[06时25分 ~ 19时21分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -168,11 +168,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时21分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高",
@@ -239,8 +240,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时21分]"
         }
       ]
     },
@@ -303,11 +304,12 @@
             17,
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时42分 ~ 18时22分]"
+          "appearance_count": 27,
+          "time_info": "[00时42分 ~ 19时21分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
